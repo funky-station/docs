@@ -1,0 +1,21 @@
+[book]
+authors = ["taydeo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Funky Station Developer Wiki"
+
+[preprocessor]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.0.3" # do not edit: managed by `mdbook-admonish install`
+
+[output]
+
+[preprocessor.alerts]
+
+[output.html]
+default-theme = "latte"
+preferred-dark-theme = "mocha"
+additional-css = ["./theme/catppuccin.css", "./mdbook-admonish.css"]
