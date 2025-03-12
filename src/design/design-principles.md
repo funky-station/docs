@@ -5,6 +5,8 @@ new features for Funky Station.
 
 Questions about game design should be discussed in Discord and requesting the presence of a maintainer or Tay.
 
+For cool and fun features that you would to add (that aren't exactly a simple pull request), we suggest creating a design document using this template.
+
 # Caveats
 
 * Just like WizDen says, these are living documents and will change over time.
