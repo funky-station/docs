@@ -1,6 +1,6 @@
 # Design Principles
 
-Riffing off of what the Space Wizard's have done with the game, these design principles go over what we should consider when designing
+Riffing off of what the Space Wizards have done with the game, these design principles go over what we should consider when designing
 new features for Funky Station.
 
 Questions about game design should be discussed in Discord and requesting the presence of a maintainer or Tay.
