@@ -2,7 +2,7 @@ name: Build & Deploy mdBook Site
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -31,7 +31,7 @@ jobs:
       - name: Install mdbook & plugins
         uses: taiki-e/install-action@v2.18.6
         with:
-          tool: mdbook@0.4.36,mdbook-admonish@1.14.0
+          tool: mdbook@0.4.47,mdbook-admonish@1.19.0,mdbook-alerts@0.7.0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
@@ -49,7 +49,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
-    if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/main'
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
