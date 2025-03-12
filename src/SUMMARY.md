@@ -1,4 +1,4 @@
-Space Wizards Development Wiki
+Funky Station Developer Docs
 =====================
 
 [Welcome](index.md)
@@ -13,4 +13,5 @@ Design
 ===================
 
 ----------------------
+
 - [Design Principles](design/design-principles.md)
