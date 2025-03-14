@@ -23,3 +23,9 @@ If you'd like to contribute to this wiki, make a Pull Request at our [GitHub rep
 [🔊 Discord](https://discord.gg/funky14). This is the Funky Station Community Discord. Ask a question on the General or Development channel.
 [🎮 Forums](https://forum.funkystation.org/) 
 ```
+
+# How do I get my feature proposed?
+
+You want to add a new feature, amazing! You can go ahead and fork this repository, add your feature via a document in the appropriate folder, then go ahead and PR it to here. There are templates provided that you need to use in order for a maintainer to look at it with the attention it deserves. Be descriptive, as it will give you an edge in getting your feature added!
+
+[Fork this!](https://github.com/funky-station/docs)
