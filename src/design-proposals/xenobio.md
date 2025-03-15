@@ -46,6 +46,14 @@ A xeno egg is also given a quality, which is passed onto the larva as modifiers 
 
 #### Xenonid Types
 
+Xenos all have the basics.
+
+* Lungs that can either breathe pure oxygen, nitrogen, or a mix of the two. No, players cannot use these.
+* A base resistance to blunt damage, with weakness to fire and piercing.
+* A healthy appetite.
+
+Specifics of each xenonid type are enumerated:
+
 - Drone: A simple xenonid that doesn't do much of anything, except lay eggs. They can be either neutral, but can turn aggressive when attacked. In a word, they are "meh." Good cannon fodder.
 
 - Stinger: Relatively complex, has a stinger that it can sting players with. Injects a random reagent(s), where the glands can be extracted to extract an amount of a reagent. Can be kept alive as reagent farms, or squished into spesos or research points.
