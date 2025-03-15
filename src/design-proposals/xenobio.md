@@ -26,6 +26,8 @@ Salvage can also bring these to you, if they're nice enough. Salvage can capture
 
 Xenos, after eating a certain amount of biomass, lay an egg. Eggs naturally create a single larva, which also needs biomass to survive.
 
+Xenos, can produce as many eggs as needed, although the quality of the eggs deteriorates the longer they are alive.
+
 #### Xeno Carriers
 
 Xeno carriers are specialized containers that can hold very hostile organisms. They do not break, and lock just like artifact containers.
@@ -36,39 +38,64 @@ Larva are xenos that haven't matured yet. They are worth nothing, but can be inf
 
 Larva are also very weak, and die easily. They need ideal temperatures and plenty of food. You may also provide a television which will enrich their learning experience.
 
+#### Xeno Eggs
+
+A xeno egg is an egg that takes 15 minutes to hatch, in standard station atmosphere. A single egg will create a single larva. Xeno eggs can also be used in various recipes, so excess eggs can be given to the chef if need be. A xeno can produce a single egg at a time, due to the heavy biomass loss they take when producing an egg.
+
+A xeno egg is also given a quality, which is passed onto the larva as modifiers for certain types of mutations. Fresher eggs from a healthy xenonid will have better chances to mutate into something.
+
 ### Science Tools
 
-#### Critter Point Gun
+#### Xeno Value Tool
 
-The critter point gun, is a tool just like the appraisal tool for cargo, that tells researchers how much scientific value is contained within a slime.
+The critter point gun, is a tool just like the appraisal tool for cargo, that tells researchers how much scientific value is contained within a xeno.
 
-#### Critter DNA Analyzer
+Science can produce these in their protolathe, with a new Xenobio tier 1 research.
 
-This is the machine that squishes and squashes critters until they are strung out in a very long DNA ribbon (which kills them), and converts that DNA into research points. Slimes are essentially "cashed in" in exchange for research points.
+#### DNA Processor
+
+This is the machine that squishes and squashes critters until they are strung out in a very long DNA ribbon (which kills them), and converts that DNA into research points. Xenos are essentially "cashed in" in exchange for research points. This ends a lineage of critters, so this should be done sparringly.
+
+Science can produce these in their machine board lathe, with a new Xenobio tier 1 research.
+
+#### Incubator
+
+The incubator allows scientists to hatch critters more efficiently, speeding up the time an egg takes to hatch, from 15 minutes all the way down to 5 minutes. The incubator is prone to break easily, and does take a lot of power to operate. The incubator can hold a total of 3 eggs at a time.
+
+Science can produce these in their machine board lathe, with a new Xenobio tier 1 research.
 
 #### Changes to existing maps
 
 * New Xenobio rooms with at least 2 chambers to conduct experiments in
+* Incubators mapped in
+* DNA Processors mapped in
 
 ## Game Design Rationale
 
-Consider addressing:
-- How does the feature align with our [Core Design Principles](../design/design-principles.md) and game philosphy?
+### Seriously Silly
+
+The things we encourage by adding this feature are experimentation with potentially dangerous beings that feed off of biomass. The idea of scientists having to take care of larva on the station then grinding them up later adds a certain type of morbid flavor to the game that, in my opinion, serves well to act as a catalyst for insane stories to play out. Players getting fed up with science over how they treat these larvae, then they themselves get mauled to death by the very same former larvae they swore to protect. This increases the chances of something going wrong in science 10 fold, without it being a mediocre explosion.
+
+### There is no Winning or Losing
+
+Let's make it clear, scientists are going to get hurt. They are going to get hurt by things that are not antagonists, and that's okay. Xenos aren't exactly antagonists on their own, but science can make them antagonists. This contributes to the open sandbox feel of the game while still maintaining proper in-character motivations for players to either mess with Xenos or not. The possibility of round removal is also non-zero, further blurring the line between winning or losing.
+
+### Maintaining Authenticity
+
+NanoTrasen is an evil corporation, and them doing live experiments on animals seems par for the course. People are free to not engage with this feature at all, which is a perfectly rational way to play. Science also having no way to experiment on live animals except just all roleplay "experiments" is also very lame, and not very authentic when put into the context of the base games features. While its true, eggs don't hatch in 15 minutes in real life, this is a fair compromise for gameplay, as them just needed to be tended to for a short period of time is more than enough to have players immerse themselves in the role of a xenobiologist.
+
+### Dynamic Environment
+
+Players are encouraged to find new stimuli (gasses, surgeries, food, etc.) to get their xenonids the best they can possibly make them. The aftermath of xenonids becoming potentially uncontainable adds to that dynamic environment, causing all departments in the station to engage with xenonids somehow, even if individual players choose not to.
 
 ## Roundflow & Player interaction
 
-Consider addressing:
-- At what point in the round does the feature come into play? Does it happen every round? How does it affect the round pace?
-- How do you wish for players to interact with your feature and how should they not interact with it? How is this mechanically enforced?
+Science becomes a stronger contender for being the department that causes the story of a round to move forward. Science is a resource dump for the station, and while they use a lot of resources, a lot of that becomes obfuscated away from the rest of the station. This allows players to see the resources they create, such as chemicals, gasses, whatever the like, be used in a way that influences another "living being," which is infinitely more interesting than the current way science does things. 
 
 ## Administrative & Server Rule Impact (if applicable)
 
-- Does this feature introduce any new rule enforcement challenges or additional workload for admins?
-- Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?
-- How are the rules enforced mechanically by way the feature will be implemented?
+I do not see any additional workload for administrators, other than just enforcing already existing no griefing rules. Sometimes a xenonid becomes uncontainable, and that's okay. That's part of the round. Xenonids can't be made into zombies either, so the worry of II or other antagonists becoming overpowered is not warranted.
 
 # Technical Considerations
 
-- Are there any anticipated performance impacts?
-- Does the feature require new systems, UI elements, or refactors of existing ones?
-- For required UI elements, give a short description or a mockup of how they should look like (for example a radial menu, actions & alerts, navmaps, or other window types)
+This will require a new Xenonid System, along with new UI for the DNA Analyzer. The Xenonid system may not need to change any existing science code, but that is to be seen.
