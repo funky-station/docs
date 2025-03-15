@@ -24,9 +24,17 @@ Xenos are in round start in their testing chambers, these critters have a higher
 
 Salvage can also bring these to you, if they're nice enough. Salvage can capture these critters in pet carriers, or in xeno carriers.
 
-Xenos, after eating a certain amount of biomass, lay an egg. Eggs naturally create a single larva, which also needs biomass to survive.
+Xenos, after eating a certain amount of biomass, lay an egg. Eggs naturally create a single larva, which also needs biomass to survive. They eat corpses, plants, anything that is edible.
 
 Xenos, can produce as many eggs as needed, although the quality of the eggs deteriorates the longer they are alive.
+
+Xenos also have 2 special markings on their bodies that may change color, depending on what features they evolve. Xenos also have different stats. (specifics of which we will not go into detail here)
+
+```admonish warning "Deviation from SS13 - Why not Slimes?"
+SS13 does not have alien xenos (yes, like the ones from RMC, which we will be using a variant of for this feature if it does go through) as the main critter for Xenobiology.
+
+Slimes, while cute, are not the best vessle to use. Thematically, it makes more sense that these critters look menacing and alien, because they are. Xeno means "of other origin", so they should look the part. Slime people are also a species recognized by NanoTrasen and players can play them. Minimizing gaps like these is important to making sure players stay immersed.
+```
 
 #### Xeno Carriers
 
@@ -64,6 +72,10 @@ Specifics of each xenonid type are enumerated:
 
 More to be added, pending maintainer discussion.
 
+#### Xenonid Mutations
+
+TBA
+
 ### Science Tools
 
 #### Xeno Value Tool
@@ -72,9 +84,9 @@ The critter point gun, is a tool just like the appraisal tool for cargo, that te
 
 Science can produce these in their protolathe, with a new Xenobio tier 1 research.
 
-#### DNA Processor
+#### DNA Sequencer (name subject to change)
 
-This is the machine that squishes and squashes critters until they are strung out in a very long DNA ribbon (which kills them), and converts that DNA into research points. Xenos are essentially "cashed in" in exchange for research points. This ends a lineage of critters, so this should be done sparringly.
+This machine splits up important aspects of DNA, like certain abilities, into their own little capsules that can either be implanted in someone, or used in someones hand. For example, if a xenonid has the ability to teleport, this sequencer can extract that ability, and now someone can use the capsule to teleport. If they are given an implanter, it now becomes an ability they can use. A xenonid can produce a max of 2. This kills the Xeno, if not already dead while going in.
 
 Science can produce these in their machine board lathe, with a new Xenobio tier 1 research.
 
@@ -110,7 +122,11 @@ Players are encouraged to find new stimuli (gasses, surgeries, food, etc.) to ge
 
 ## Roundflow & Player interaction
 
-Science becomes a stronger contender for being the department that causes the story of a round to move forward. Science is a resource dump for the station, and while they use a lot of resources, a lot of that becomes obfuscated away from the rest of the station. This allows players to see the resources they create, such as chemicals, gasses, whatever the like, be used in a way that influences another "living being," which is infinitely more interesting than the current way science does things. 
+Science can extract potentially useful organs, limbs, or chemicals that can give players abilities like being resistent to fire, teleport, or whatever else we can come up with.
+
+Science can also contain abilities like teleporting or whatever in capsules, which can prove to be especially useful for certain station jobs, improving efficiency.
+
+This transforms science into stronger contender for being the department that causes nessecary drama. The department becomes a resource dump that multiple players outside of the department will see the side effects of, either positive or negative. The possibility of gaining positive effects encourages players to continue experimentation, again, driving the round forward.
 
 ## Administrative & Server Rule Impact (if applicable)
 
