@@ -126,7 +126,7 @@ Science can extract potentially useful organs, limbs, or chemicals that can give
 
 Science can also contain abilities like teleporting or whatever in capsules, which can prove to be especially useful for certain station jobs, improving efficiency.
 
-This transforms science into stronger contender for being the department that causes nessecary drama. The department becomes a resource dump that multiple players outside of the department will see the side effects of, either positive or negative. The possibility of gaining positive effects encourages players to continue experimentation, again, driving the round forward.
+This transforms science into a stronger contender for being the department that causes nessecary drama. The department becomes a resource dump that multiple players outside of the department will see the side effects of, either positive or negative. The possibility of gaining positive effects encourages players to continue experimentation, again, driving the round forward.
 
 ## Administrative & Server Rule Impact (if applicable)
 
