@@ -28,5 +28,6 @@ Proposals
   - [Map Template](design/maps/template.md)
 
 - [Game Design Proposals]()
+  - [Xenobio](design-proposals/xenobio.md) 
 
 - [Map Proposals]()
