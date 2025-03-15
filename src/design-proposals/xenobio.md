@@ -20,7 +20,7 @@ Science needs a lot of changes to deal with Xenos, but heres the gist of everyth
 
 #### Xenos
 
-Xenos are in round start in their testing chambers, these critters have a higher chance to split earlier and have a better chance of getting more insane combinations. These are your bread and butter, and you want to keep them alive for as long as you can. Cargo may order more of these, but they are expensive as hell. They also have a chance of spawning naturally in maintenence tunnels.
+Xenos are in round start in their testing chambers. These are your bread and butter, and you want to keep them alive for as long as you can. Cargo may order more of these, but they are expensive as hell. 
 
 Salvage can also bring these to you, if they're nice enough. Salvage can capture these critters in pet carriers, or in xeno carriers.
 
@@ -33,7 +33,7 @@ Xenos also have 2 special markings on their bodies that may change color, depend
 ```admonish warning "Deviation from SS13 - Why not Slimes?"
 SS13 does not have alien xenos (yes, like the ones from RMC, which we will be using a variant of for this feature if it does go through) as the main critter for Xenobiology.
 
-Slimes, while cute, are not the best vessle to use. Thematically, it makes more sense that these critters look menacing and alien, because they are. Xeno means "of other origin", so they should look the part. Slime people are also a species recognized by NanoTrasen and players can play them. Minimizing gaps like these is important to making sure players stay immersed.
+Slimes, while cute, are not the best vessel to use. Thematically, it makes more sense that these critters look menacing and alien, because they are. Xeno means "of other origin", so they should look the part. Slime people are also a species recognized by NanoTrasen and players can play them. Minimizing gaps like these is important to making sure players stay immersed.
 ```
 
 #### Xeno Carriers
