@@ -44,6 +44,18 @@ A xeno egg is an egg that takes 15 minutes to hatch, in standard station atmosph
 
 A xeno egg is also given a quality, which is passed onto the larva as modifiers for certain types of mutations. Fresher eggs from a healthy xenonid will have better chances to mutate into something.
 
+#### Xenonid Types
+
+- Drone: A simple xenonid that doesn't do much of anything, except lay eggs. They can be either neutral, but can turn aggressive when attacked. In a word, they are "meh." Good cannon fodder.
+
+- Stinger: Relatively complex, has a stinger that it can sting players with. Injects a random reagent(s), where the glands can be extracted to extract an amount of a reagent. Can be kept alive as reagent farms, or squished into spesos or research points.
+
+- Bull: Dimwitted, but very strong. Aggressive as hell, will attack scientists at will. Lays very aggressive eggs, and is worth a lot more research points than other types of xenonids.
+
+- Queen: Real. Turns other xenonids into guranteed ghost roles, and can command xenonids at will. Can eat through walls and doors. Does a ton of damage. Worth the most, and has organs that might be worth keeping around.
+
+More to be added, pending maintainer discussion.
+
 ### Science Tools
 
 #### Xeno Value Tool
