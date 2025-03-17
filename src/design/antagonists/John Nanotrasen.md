@@ -1,7 +1,5 @@
 # John NanoTrasen Antagonist
 
-Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
-
 | Designers | Implemented | GitHub Links |
 |---|---|---|
 | mxghast (gastlytidings, GhastIsBack) | :x: No | TBD |
@@ -37,8 +35,6 @@ John NanoTrasen is of equipped with the following unique items:
 - Unique Durathread shorts, which are necessary so John Nanotrasen's absurd strength doesn't remove their/her/his/it's decency. 
 - The NT Nanobelt, the peak of NanoTrasen engineering in a modified champion belt. No one can take it off someone or put it on someone other than John NanoTrasen him/her/them/itself. The NT Nanobelt allows it's wearer to fly infinitely in space as if they were wearing a jetpack, though it does not use any fuel. Normal people get torn apart by the forces inside the belt when used by them, as it is not designed for regular human(oid) physiology.
 - The John NanoTrasen Medal of Approval, to be given to exceptional members of the crew who help John Nanotrasen find bears to fight or something. 
-
-Give a description of what game mechanics you would like to add or change. This should be a general overview, with enough details on critical design points that someone can directly implement the feature from this design document. Exact numbers for game balance however are not necessary, as these can be adjusted later either during development or after it has been implemented, but mention *what* will have to be balanced and what needs to be considered when doing so.
 
 ## Game Design Rationale
 
