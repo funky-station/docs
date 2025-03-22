@@ -30,3 +30,10 @@ Proposals
 - [Game Design Proposals]()
 
 - [Map Proposals]()
+
+Structure
+===============
+
+---
+
+- [Maintainer](structure/maintainers.md)
