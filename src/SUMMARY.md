@@ -7,7 +7,11 @@ General Help
 ====
 
 ---
-- [Getting Started](contributing/getting-started.md)
+- [Introduction](contributing/introduction.md)
+ - [Getting Started](contributing/getting-started.md)
+ - [Local Hosts](contributing/local-hosts.md)
+ - [Branching](contributing/branching.md)
+ - [Pull Requests](contributing/pull-requests.md)
 
 Design
 ===============
