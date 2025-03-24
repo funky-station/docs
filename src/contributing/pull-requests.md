@@ -23,4 +23,5 @@ For the username section, please make sure there are no special characters at al
 # Reviews
 
 Once we receive a properly made PR, the maintainers will review your PR! We first look at things like test fails (CRLF check, YML linter, Content.Integration tests). Any related test fails will have to be corrected prior to being merged. 
+
 If the tests pass, great! We then review the code, discuss how it would impact the server, and then we either request changes, merge the PR, or close the PR. If you would like to know more about why or why not a PR was merged, please see our Design Principles. 
