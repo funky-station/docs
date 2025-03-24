@@ -7,7 +7,7 @@ Part of this is for future proofing--learning how to use these tools on a small 
 
 The web editor, and Github in general, can not handle large changes. Plus, changes you might think are small might be larger than you think. As an example, try to open the 'Files Changed' tab of a PR that changes maps. Usually it crashes. 
 
-Along with this, the web editor likes to use CR LF new lines. These are invisible to us, but computers have different ways of telling themselves that there's a new line in code. SS14 codebases don't use CR LF to determine new lines, so any time one is added (usually from the web editor!), something will probably act up. 
+Github also likes to fuck up files if you try to upload them through Github, rather than setting up a local host and doing all of this. Things like images getting lossy, audio getting bit crushed, et cetera. It sucks.
 # Creating a Local Host
 Please see Getting Started for information on how to get a local host on your computer. If you have an issues with this guide, you are always free to ask us in the Discord!
 
