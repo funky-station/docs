@@ -2,8 +2,6 @@
 
 ```admonish warning
 If you get some strange issues with Windows regarding Python, be sure to check these two during your Python install.
-
-If this doesn't work, understand that Microsoft sucks, and wants you to install Python through the Microsoft Store. Google can help you.
 <img src="/assets/getting-started/python_for_windows.png" width=512 style="margin-left:auto;margin-right:auto;display:block"/>
 ```
 
@@ -25,3 +23,12 @@ In your terminal window, type `git clone <your repo url here> .` (without the <>
 After it's done (you'll know when), type `python RUN_THIS.py`. Let that work, if it errors, reread the guide and make sure you followed all the steps.
 
 Congratulations, it's completed. To open a development build of Funky Station, you can now run the `runclient.bat` file, as well as the `runserver.bat` file to get a local server and client up.
+
+```admonish warning
+If you are using Windows and you get the following error:
+"Python was not found; run without arugments to install from the Microsoft Store,
+or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases"
+
+Fuck Microsoft. Go into the settings it tells you to and disable the duplicate execution alias. 
+Or just double click RUN_THIS.py. Whatever works. 
+```
