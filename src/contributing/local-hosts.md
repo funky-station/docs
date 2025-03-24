@@ -13,6 +13,14 @@ Please see Getting Started for information on how to get a local host on your co
 
 Similarly, if you want a more detailed version of the same guide, consider reading WizDen's [Setting up a Development Environment](https://docs.spacestation14.com/en/general-development/setup/setting-up-a-development-environment.html)
 
+```admonish warning
+If you are using Windows and you get the following error:
+"Python was not found; run without arugments to install from the Microsoft Store,
+or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases"
+
+Fuck Microsoft. Go into the settings it tells you to and disable the duplicate execution alias. 
+Or just double click RUN_THIS.py. Whatever works. 
+```
 # Running a Local Host
 At the end of Getting Started, you run `runserver.bat` and `runclient.bat` to run your local host. This works fine, but sometimes issues arise with these default settings. 
 
