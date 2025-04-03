@@ -41,3 +41,4 @@ Structure
 ---
 
 - [Maintainer](structure/maintainers.md)
+- [Update Policy](structure/update-policy.md)
