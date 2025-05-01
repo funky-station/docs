@@ -17,13 +17,9 @@ I initially set out to incentivize shadowlands exploration by adding plants as i
 
 ## Unique plant crossbreeding
 
-### Motivation
-
-Currently players need to apply unstable mutagen and hope for the best to mutate plants. In isolation this system if fine, although it has a heavy reliance on chemistry, there's limited skill expression and - provided you've got access to exotic seeds - you can grow everything almost immediately from round start. If I added new varieties of mutations they'd all be easy to achieve purely by dumping buckets of mutagen and then dylo/multiver/vitamins onto certain plants. I've also seen a common trend in botany of cryoing earlier after growing certain plants. Usually these plants consist of everything the chef could need or some combination of omni, cognizine, deathnettle and gatfruits. This new feature should encourage greater variety in the number of plants grown, add to the progression throughout a round and allow botany to grow plants that are useful to a variety of departments.
-
 ### Feature Description
 
- Different seeds can be crossbred together into new species. The exact implementation of this feature is up for debate although options include: a new machine, a rework of the seed extractor, swabbing, or using one packet on another. This could require multiple of the same type of seeds and would result in a new species of seeds. 
+ Different seeds can be crossbred together into new species. This would be achieved through a new roundstart machine that would consume seeds and potentially a catalyst to output a new species of plant.
  
  One path could relate to steel-caps, for example:
 - Combine papercane and steel-caps to create plastic-caps
@@ -32,6 +28,10 @@ Currently players need to apply unstable mutagen and hope for the best to mutate
 This feature would allow botany to grow plants that would have been too strong or would invalidate other departments if they existed purely in the current system. The process of mutating three unique plants, combining them together, and finally trying for self-harvesting mutations should be long and difficult enough to make salvage the much preferred route to gold, however, it allows botany to fill gaps in the manifest and provides a longer term goal. It's also easy to balance. If we wanted gold to be locked behind salvage we could make a requirement be salvage loot.
 
 
+### Motivation
+
+Currently players need to apply unstable mutagen and hope for the best to mutate plants. In isolation this system if fine, although it has a heavy reliance on chemistry, there's limited skill expression and - provided you've got access to exotic seeds - you can grow everything almost immediately from round start. If I added new varieties of mutations they'd all be easy to achieve purely by dumping buckets of mutagen and then dylo/multiver/vitamins onto certain plants. I've also seen a common trend in botany of cryoing earlier after growing certain plants. Usually these plants consist of everything the chef could need or some combination of omni, cognizine, deathnettle and gatfruits. This new feature should encourage greater variety in the number of plants grown, add to the progression throughout a round and allow botany to grow plants that are useful to a variety of departments.
+
 ## Machines
 
 ### Plant Sequencer
@@ -39,12 +39,12 @@ Swabbing is completely random and fairly obtuse for new botanists, so I propose 
 
 The plant sequencer would consume two seeds to displays what traits could be spliced between them. The player would then manually choose some mutations and traits, limited by a new mechanic called 'genetic stability', and then the remaining traits would be spliced randomly, identical similar to the current system. More powerful traits would cost more genetic stability and this would only be recovered as plants grow. This machine requires a competent botanist and civ t3 to make full use of so I'll probably tune it higher to start and if it's problematic we can tune it down late.
 
-### Produce Analyzer
-The produce analyzer is a machine that would consume harvest to reveal its basic traits. If we want to aid learning botany this would be a round start machine or downgrade to the plant analyzer. In a similar vein I could add an improved plant analyzer to the tier 3 civilian services research.
+### Plant Analyzer
+I'd like to make adjustments to the plant analyzer to give it different tiers so it can be available from roundstart as well as more powerful versions through research. At T1 the plant analyzer would be available at round start but it would only display less useful info such as potency, yield and potentially growth rates and use more power. At T2 it'd be the current plant analyzer with - potentially slightly faster with less information? - which would add information such as chemicals, gas and mutations. At T3 it'd be available from the T3 civ services research. It would be fairly fast and show details such as potency divisor, weed growth and threshold, and mutations.
+
 
 #### Seed Splicer
-
-If we decide to use a machine for crossbreeding new plant species then this would take two unique seeds in varying quantities and combine them into a new species. Certain plants may require more then one packet of seeds or a liquid (vestine) as a catalyst to aid in balancing.
+A new machine for crossbreeding plant species. This would take two unique seeds in varying quantities and combine them into a new species. Certain plants may require more then one packet of seeds or catalyst (vestine, exotium, artifact shards) as a balancing measure.
 
 ## Botany rebalance
 
@@ -66,6 +66,7 @@ I'm proposing that we link plant health to growth rate and instead have diethyl 
 - Removed a number of the health modifying mutations that will never be satisfied. (I don't think an atmosian has ever been or should ever be asked to trit flood botany and it's not an interesting way to punish excessive mutation)
 - Colored the third hydroponics light to differentiate between what's impacting a plant's health
 - Robust harvest has a 5-10? unit threshold so it won't punish botanists for being one or two units over
+- Modified the mutation weights to be more enjoyable
 
 #### <ins>The following are a few potential tentative and controversial changes to botany, most won't be implemented.</ins>
 
@@ -149,6 +150,10 @@ This is already long enough but here's a list of plants I'm looking into and som
 - A plant that grows improved fibres to make slightly larger backpacks.
 - A more consistent way to obtain anomaly berries
 - More mutations 
+
+### Suggestions
+- Stunbaton equiv of nettle, might be fine if it uses the same salvage plant containing licoxide to crossbreed with difficult enough requirements
+
 
 ## Game Design Rationale
 
