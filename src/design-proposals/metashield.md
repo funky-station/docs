@@ -8,14 +8,15 @@ Revealing conditions reveal the shielded information for the round, not for a sp
 
 The metashield can be lifted one of two ways:
 - Any announcement from Central Command, relating to the specific antagonist. Such as:
- - War declaration 
- - Unusual activity recalls
- - Sleeper agents
- - Biohazard announcements
+  - War declaration 
+  - Unusual activity recalls
+  - Sleeper agents
+  - Biohazard announcements
  
 - Command members (or any other player who is no longer under the metashield) telling others about specific antagonists 
 
 Lifting the metashield (spilling corporate secrets) is considered to be something only done in *emergencies.*
+
 ## Corporate Secrets
 
 The metashield is an out-of-character term used for admin actions; in character, this would be referred to as *corporate secrets.* You, as an average crewmember, are not trained to react to potential threats, nor do you remember the events between each round. 
@@ -43,9 +44,11 @@ However, this comes at the expense of being against Nanotrasen policy. Wrongfull
 
 
 ## Metafriending and Metagrudging
+
   This section provides additional information on a concept that is prohibited by multiple metashield items that are never revealed IC. Giving a person or character preferential treatment based on something that your character should not know is considered metafriending. Treating a person or character negatively based on something that your character should not know is considered metagrudging.
 
 ## Metafriending Examples
+
   These are all examples of things that are prohibited by at least one metashield item that is never revealed IC.
   - Giving a character additional access or a job because you are friends with the player who is playing that character.
   - Trusting a character because you are friends with the player who is playing that character.
@@ -53,6 +56,7 @@ However, this comes at the expense of being against Nanotrasen policy. Wrongfull
   - Ignoring your objective to kill a character because your character and theirs became friends in a previous round.
 
 ## Metagrudging Examples
+
   These are all examples of things that are prohibited by at least one metashield item that is never revealed IC.
   - Not giving a character additional access or a job because you are mad at or don't like the player who is playing that character.
   - Not trusting a character because you are mad at or don't like the player who is playing that character.
@@ -62,6 +66,7 @@ However, this comes at the expense of being against Nanotrasen policy. Wrongfull
   - Targeting or harassing a character based on anything which the character's player did while not playing the character.
 
 ## Explicitly Not Shielded
+
   The following is a list of things that are explicitly not shielded. If something is not on this list, it doesn't mean that it is shielded, but if something is on it then it definitely is not shielded.
   - The fact that the nuke disk must be protected and could be used by a bad actor to try to destroy the station.
   - Items that are of high value or are desired by the Syndicate, and therefore are likely targets of theft.
