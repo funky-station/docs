@@ -18,5 +18,5 @@ The basic summary of corporate secrets is:
 ## Features to be added
 
 Multiple new in-game and wiki documents:
-- [Metashield](docs/src/design-proposals/metashield.md)
-- [Command SOP](docs/src/design-proposals/command-sop.md)
+- [Metashield](/design-proposals/metashield.md)
+- [Command SOP](/design-proposals/command-sop.md)
