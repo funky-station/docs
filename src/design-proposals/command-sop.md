@@ -1,7 +1,7 @@
 # Command SOP
 
 1. Command members are to ensure the safety of the entire station, each primarily responsible for their own Department and respective duties;
-2. Command members are to ensure the wellbeing and dignity of Nanotrasen, any station events should be resolved to the best of their ability; 
+2. Command members are to ensure the wellbeing and dignity of Nanotrasen and its related assets; 
 3. Command members may not slander or libel Nanotrasen;
 4. Command members must ensure that Nanotrasen corporate secrets remain confidential, and may reprimand or punish fellow command members who threaten this confidentiality; 
 5. In the event of a confirmed threat to the station or Nanotrasen as a whole, command members may temporarily reveal related corporate secrets to crewmembers; 
