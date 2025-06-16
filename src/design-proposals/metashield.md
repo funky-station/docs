@@ -15,7 +15,7 @@ The metashield can be lifted one of two ways:
  
 - Command members (or any other player who is no longer under the metashield) telling others about specific antagonists 
 
-Lifting the metashield (spilling corporate secrets) is considered to be something only done in *emergencies.*
+Lifting the metashield (spilling corporate secrets) is considered to be something only done with *sufficient reason.*
 
 ## Corporate Secrets
 
