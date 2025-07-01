@@ -1,4 +1,4 @@
-# Company Scrip
+# Lasers and Armory Overhaul
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
