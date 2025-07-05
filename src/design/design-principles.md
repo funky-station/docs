@@ -58,6 +58,22 @@ Just because something happens in real life, doesn't mean it should happen in ga
 
 Again, a cigarette taking 7 steps to light is authentic. The Supermatter being crazy as hell to maintain is also authentic. People getting up instantly after being exploded twice isn't.
 
+## Maximizing Roleplay Potential (Avoid QOL slop)
+
+When developing a new feature that is set to "optimize" a certain aspect of gameplay, think about the feature as a vector for roleplay. Does the previous feature introduce more ways for people to interact with each other? Or does this feature take away a vector for people to interact? If it does take away, is it a positive change in the long run?
+
+These questions can be applied like so:
+
+Say for instance you are changing the ChemMaster to have a way to produce bottles en masse, filled with a reagent of a chemists choosing. This, in our eyes, is a positive change that encourages healthier RP, as the previous method for chemists to distribute chemicals en masse to doctors and other crew members, is via jugs, which only serve as an intermediary tool and are rarely thought of. Bottles adds to the immersion that this is an actual item that someone made, and not just a bunch of reagents in a container. In this instance, aesthetics matter.
+
+An instance where a feature would take away a vector for roleplay is the Stationwide Material Silo. Apply the questions like so:
+
+"Does the previous feature introduce more ways for people to interact?" - The previous feature was cargo delivering materials to departments as ordered. While sloppy, it did encourage a lot of small talk and smaller interactions with characters, which is a positive.
+
+"Does this new feature take away a vector for people to interact?" - Yes, cargo players can just deliver materials to a central point in the station, while not communicating with anyone at all.
+
+"If it does take away, is it a positive change in the long run?" - No, hyperoptimizing a crucial part of the gameplay for a cargo tech, talking to random people on the station, is not healthy for the game. Having players be more entrenched in their departments is generally not good for the culture, and stationwide material silos, from the questions we just asked, encourage that very thing.
+
 ## Dynamic Environment
 
 Anything should be possible. Just like Wizard's Den, we feel that building an entire, functional station should be possible to do, if there is a considerable effort put into this undertaking.
