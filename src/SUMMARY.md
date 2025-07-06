@@ -32,6 +32,7 @@ Proposals
   - [Map Template](design/maps/template.md)
 
 - [Game Design Proposals]()
+  - [Chem Rework](design-proposals/Chem%20Rework%20Design%20Doc.md)
 
 - [Map Proposals]()
 
