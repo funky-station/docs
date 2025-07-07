@@ -32,6 +32,7 @@ Proposals
   - [Map Template](design/maps/template.md)
 
 - [Game Design Proposals]()
+  - [Distress Beacon](design-proposals/distressbeacon.md)
 
 - [Map Proposals]()
 
