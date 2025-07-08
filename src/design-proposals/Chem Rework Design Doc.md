@@ -49,7 +49,9 @@ To accomodate the increased complexity of the chemistry process, all chems shoul
 
 Moving away from elements as the reagents available roundstart to more complex precursor chems. 
 
-Botanicals should not porduce advanced chems directly, instead producing biological products that are centrifuged into chems, or chemical precursors. 
+In conjunction with the proposed botany changes [here](botany-changes.md), plants which produce advanced chems directly should be made available with a great deal of investment and time, while botanical reagents that serve as chemical precursors to those same chems should be made available much earlier, with chemist support.
+
+Interaction with using plants to purify chemicals should be looked at to ensure it does not overshadow the intended methods of separating chemicals.
 
 Limit the use of gaseous chemicals, as that causes conflicts with Atmos work. 
 ## Game Design Rationale
