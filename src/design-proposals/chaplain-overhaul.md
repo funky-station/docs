@@ -85,3 +85,15 @@ You have a miracle pool that slowly fills up over the course of the round, perfo
 • Rebalancing nullrods and the chaplain/acolytes' ability to effectively remove cult rifts
 
 • Reducing the chaplain's individual combat prowess against cultists and heretics
+
+# Game Design rationale
+
+## Seriously silly
+These changes would allow for greater roleplay, via the acolytes and a self-sufficient miracle system so chaplains don't have to rely exclusively on prayers anymore for grand sermons. NanoTrasen as a company would want to benefit and control magic use, and I consider the chaplain to be the perfect fit as they typically turn into the authority on the occult during cultist rounds anyway.
+
+## Maintaining Authenticity
+With magic no longer explicitly being illegal, I feel like there should be a role that interacts with it in a meaningful way. Currently, it isn't really acknowledged by NanoTrasen at all and there are no structures in place to control or regulate magic in the game, which feels uncharacteristic of a mega-corporation. Introducing a self-regulating miracle system will also help the role of chaplain feel more authentic itself, with the primary focus of miracles being flavour over function. Being able to erect a tree isn't necessarily that useful, but is a beautiful miracle of life and could be used to change the vibe of the chapel significantly.
+Developing more identity for each sect will make religion feel more and more authentic within the world.
+
+## Dynamic environment
+The chaplain being the local authority on magic will create interesting scenarios where chaplains embrace the magic some antags have to offer - assuming they agree to work for NanoTrasen (Note: it will still be self-antagging to explicitly help cult obviously, you're here to control/eradicate the occult not actively work with it against NanoTrasen's interest). The existence of acolytes creates many new dynamic situations. Their fallibility makes them an interesting role and could be used to cultists' advantage to get close to the chaplain, or create a situation where the acolyte attempts to overtake the chaplain to act as their successor in a bid for more power, etc.
