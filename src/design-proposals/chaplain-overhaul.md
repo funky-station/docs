@@ -41,7 +41,7 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 
 ## Acolyte
-WIP
+• Requires a PDA. I'll probably resprite the chaplain PDA at the same time as making this one.
 
 ## Chaplain and acolyte SOP
 WIP
