@@ -12,6 +12,8 @@ A proposal to partially rework salvage in order to more clearly define its role 
 While also much more appropriately rewarding the salvagers who do so,
 As such, this document has three primary proposals. 
 
+### Features to be added
+
 ## Salvage Tickets 
 
 Salvage Tickets would be a very straightforward solution for the problem of salvagers not focusing on resource gathering,
@@ -25,7 +27,6 @@ In doing so, gathering materials and getting equipment are something that go han
 ideally leading to scenarios where salvagers will first go safely gather materials and process them, 
 and use the tickets they gain to get the equipment that will allow them to take on more risky locations. 
 
-### Features to be added
 
 ## Salvage packages 
 
