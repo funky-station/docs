@@ -1,11 +1,6 @@
 # Getting Started
 
-```admonish warning
-If you get some strange issues with Windows regarding Python, be sure to check these two during your Python install.
-<img src="/assets/getting-started/python_for_windows.png" width=512 style="margin-left:auto;margin-right:auto;display:block"/>
-```
-
-This guide assumes you have [Git](https://git-scm.com/downloads), a [GitHub](https://github.com/) account, [Python](https://www.python.org/downloads/) and the [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0).
+This guide assumes you have [Git](https://git-scm.com/downloads), a [GitHub](https://github.com/) account and the [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0).
 If you don't, it's fine, just go ahead and follow the links, select your platform, and watch the installers whirr. For GitHub, make an account if you don't have one already.
 
 Navigate to the [Funky Station GitHub repository](https://github.com/funky-station/funky-station), click on Fork on the right side of your screen. Name your fork whatever you want.
@@ -20,15 +15,12 @@ In this terminal window, ensure the `path` ends in `/funkystation`. If it does, 
 
 In your terminal window, type `git clone <your repo url here> .` (without the <>, and paste in the URL we just copied earlier) **(AND REMEMBER THE PERIOD AT THE END)**. Let that work.
 
-After it's done (you'll know when), type `python RUN_THIS.py`. Let that work, if it errors, reread the guide and make sure you followed all the steps.
+Let that work, if it errors, reread the guide and make sure you followed all the steps.
 
-Congratulations, it's completed. To open a development build of Funky Station, you can now run the `runclient.bat` file, as well as the `runserver.bat` file to get a local server and client up.
+Congratulations, it's completed. To open a development build of Funky Station, you can now go to the `Scripts` folder. If you are on Windows, use the bat files, and if you are on Linux, use the sh files. Run `buildAll...` first, then `runQuickAll` to get a build working. Use `buildAllDebug` if you need to quickly load into a developer environment to test specific features, `buildAllTools` if you are mapping, and `buildAllRelease` if you need to test something in a simulated round. 
 
 ```admonish warning
-If you are using Windows and you get the following error:
-"Python was not found; run without arugments to install from the Microsoft Store,
-or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases"
-
-Fuck Microsoft. Go into the settings it tells you to and disable the duplicate execution alias. 
-Or just double click RUN_THIS.py. Whatever works. 
+If you get any errors relating to Robust Toolbox, such as it not being found or on the wrong version, make sure you have used one of the build scripts recently.
+Robust Toolbox does not get cloned with the primary repository, since it is a submodule.
+The build scripts will automatically install and update it, but you can also run the command "git submodule update --init --recursive" to update it manually.
 ```
