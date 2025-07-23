@@ -37,20 +37,21 @@ But they have a few key differences:
 - Salvage packages are only ever found from salvage itself, spawning as part of wrecks, ruins and debris. 
 
 - Instead of being addressed to a specific individual like cargo mail, salvage packages are addressed to a department, 
-  and anyone from that department is capable of unlocking and opening it.
+  and anyone that has said departments access is capable of unlocking and opening it.
 
 - Unlike cargo mail, packages primarily contain items related to the department it is intended for.
  
- (Meds for medical, food/ingredients for chefs, mutated seeds or hydro chems for botany and so on)
-
-- If a salvage package is opened, they gain a large bonus of additional salvage tickets that they can spend, possibly with a direct spesos reward for cargo as well. 
+  (Meds for medical, food/ingredients for chefs, mutated seeds or hydro chems for botany and so on)
+ 
+- If a salvage package is opened, they gain a large bonus of additional salvage tickets that they can spend, 
+  possibly with a direct spesos reward for cargo as well. 
 
 Salvagers themselves are not able to do anything with the packages,
 but rather are meant to bring these back to the station to receive the reward.
 
 while the department in question gets their hands on some useful or otherwise less common items. 
-This helps address the issue of station crew feeling like salvage is not working, or are detached from the station,
- and allows departments to occasionally get their hands on some more exotic items. 
+this helps address the issue of station crew feeling like salvage is not working, or are detached from the station,
+and allows departments to occasionally get their hands on some more exotic items. 
 
 (Such items could even be low-mid level contraband for added spice.)
 
@@ -71,9 +72,8 @@ A set of changes to attempt to unify mining and scraping mechanics for the sake 
 
 - Coal now gets recycled into a small amount of diamonds rather than being used for steel, so now it's also possible to get some amounts of it from magnet mining.  
 
-- Pickaxes no longer give increased ore drops when wielded to make a clearer progression between the pickaxe->drill->diamond drill.
-
-- Tools that give increased ore now properly specify it within the tool's item description.
+- Fixing of the bug that causes getting doubled drops when used with certains mining tools.
+ (Yes, is a bug apperently, or just incredible goob jank) 
 
 # Cargo Departamental TechFab 
 
