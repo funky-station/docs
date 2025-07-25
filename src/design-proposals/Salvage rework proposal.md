@@ -64,10 +64,10 @@ A set of changes to attempt to unify mining and scraping mechanics for the sake 
 
 - Ores or scrap items that are thrown into the recycler now also print out a ammount of salvage tickets 
 
-- Ore bags can also be used to also hold scrap items, regular ore bags buffed to be a 10x5 (from 10x4), bluespace ore bags unchanged (renamed into the scrap bag).
+- Ore bags can also be used to also hold scrap items, regular ore bags buffed to be a 10x5 (from 10x4),renamed into the scrap bag.
 
-- A new item bag known as the material bag that works like the ore/plant bag, but only holds regular materials instead (steel, glass, plastic, plasma, gold, silver), 
-  unlocked from research and replaces the spot taken by the industrial ore processor, holds up to 8 stacks of items,
+- A new item bag known as the material bag that works like the ore/plant bag, but only holds regular materials instead (steel, glass, plastic, plasma, gold, silver and so on), 
+  possibly unlocked from research and replaces the spot taken by the industrial ore processor, holds up to 8 stacks of items,
   could even have its own bluespace variant that's unlocked alongside the bluespace ore bag. 
 
 - Coal now gets recycled into a small amount of diamonds rather than being used for steel, so now it's also possible to get some amounts of it from magnet mining.  
@@ -96,16 +96,16 @@ So salvage tickets are being introduced to hopefully solve multiple problems at 
 
 -Salv equipment progression being mostly based on RNG drops and just hoping you find what you want or need. 
 
--Not focusing on what is intended to be the primary goal of salvage, to provide the station with resources.
+-Salvagers not focusing on what is intended to be the their primary goal , to provide the station with resources.
 
 -Salvagers rarely, if ever, having a reason to interact with regular station crew and, more importantly, rarely giving out items that could be useful for them.
 
 ## Roundflow & Player interaction
 
-The general roundflow for salvage would not be changed too much, other than given them difrent kinds of priorities to work towards, the bigest change expected is them making more regular return trips to the station in order to drop off any collected salvage packages, and to turn in any tickets they earned for more equipment
-that way, if a regular station crewmember sees a highly equiped salvager, they can more resonably assume they actualy did do their job properly
+The general roundflow for salvage would not be changed too much, other than given them difrent kinds of priorities to work towards, the bigest change expected is them making more regular return trips to the station in order to drop off supplies, and to turn in any tickets they earned for more equipment,
+that way, if a regular station crewmember sees a highly equiped salvager, they can more resonably assume they actualy did do their job properly.
 
-Due to salvage packages giving out tickets for being opened, means its the salvagers themseleves that will go out to get them delivered and opened rather than leaving them for the other cargo techs to do, and so increasing the ammount of interactions salvagers have with other people, alowing salvagers to feel more apreciated and as part of the station. 
+Due to salvage packages giving out tickets for being opened, means its expected that salvagers themseleves that will go out to get them delivered and opened rather than leaving them for the other cargo techs to do, and so increasing the ammount of interactions salvagers have with other people, alowing salvagers to feel more apreciated and as part of the station crew. 
 
 
 ## Seriously Silly
