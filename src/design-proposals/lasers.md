@@ -115,40 +115,4 @@ This should ideally encourage players in combat to fight in more up-and-personal
 
 This is all possible to do with purely .yml and mapping changes. Coordination will be required from mapping maintainers for armory changes.
 
-More input will be required from the maintainers, particularly concerning the specifics of numbers, and the specifics of the Rollout following this section.
-
-## Rollout
-
-### Week 1
-
-- Laser projectile changes, damage tweaks to all current laser weaponry.
-- Minor (-10%) nerf to heat resist on all nukie suits.
-- Initial rollout of Miniature Energy Gun.
-- Addition of the Miniature Energy Gun to Cargo.
-- Miniature Energy Gun will replace Sec Officer's pistol and disabler, as well as the HoP's disabler plus.
-- Initial rollout of the Energy Gun.
-- The addition of Energy Gun crates to Cargo.
-- Replacing the Enforcer crate in Cargo with a Kammerer crate.
-- Removal of the SMG crate in Cargo.
-- Removal of the pistols crate in Cargo.
-
-### Week 2
-
-- Additional laser and armor tweaks as needed.
-- Initial rollout of the Temperature Gun.
-- The addition of the Temperature Gun to the armory.
-- The removal of ion damage from the disabler.
-- Initial rollout of the Ion Rifle.
-- The addition of the Ion Rifle to the Armory.
-- The removal of self-recharging from non-Captain's guns.
-
-### Week 3+ 
-
-- Additional laser and armor tweaks as needed.
-- Removal of the WT-550 from the HoS' office.
-- The replacement of the Lecter and Drozd safes with the Energy Gun & disabler safes in the Armory.
-- The removal of self-recharging from non-Captain's guns.
-
-### Week 4+ 
-
-- Monitor and make additional balancing tweaks as necessary.
+More input will be required from the maintainers, particularly concerning the specifics of numbers.
