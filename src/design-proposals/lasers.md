@@ -56,7 +56,8 @@ Same as the stock laser rifle but it deals cold damage because it's blue.
 #### Force-bolt Pitcher
 An energy weapon that fires slow-moving but long-lasting spheres of energy. This deals blunt and some stamina damage.
 
-####
+#### Inducer
+A portable recharger. It takes battery-cells and charges at a very slow rate. Possibly upgradable with Science.
 
 ## Changes to current Features / Gamestate
 
