@@ -32,19 +32,31 @@ Ranged weapons, due to their inherent safety and power over using melee, should 
 
 ## Additions
 
-### Temperature Gun
+### Map into Armory
+
+#### Temperature Gun
 See https://github.com/space-wizards/space-station-14/pull/35447 for implementation. Main difference: this will be an Armory weapon and not researchable.
 
-### Ion Rifle
+#### Ion Rifle
 A powerful three-shot rifle that deals 50 ion damage on a direct hit as well as a 3x3 tile weak EMP where it lands. Very powerful against cybernetic threats, such as borgs, IPCs, or mechs, but only tactically useful against other energy-weapon users.
 
-### Energy Gun
+#### Energy Gun
 A battery-powered carbine (can fit in the backpack) which can fire either disabling or laser bolts, with less charge than the base Laser Rifle. It has 15 charges.
 
-### Miniature Energy Gun
+#### Miniature Energy Gun
 The replacement for both the Officer's disabler and pistol, this is simply a smaller version of the Energy Gun. It can fit in your pocket and has 12 charges, which can be used to disable or laser.
 
 Cadets will also start with this, but it will be locked on Disable until the childproof plastic lock is broken using a screwdriver.
+
+### Possible Additions (to be added to Research, primarily)
+
+#### Blue Laser Rifle
+Same as the stock laser rifle but it deals cold damage because it's blue.
+
+#### Force-bolt Pitcher
+An energy weapon that fires slow-moving but long-lasting spheres of energy. This deals blunt and some stamina damage.
+
+####
 
 ## Changes to current Features / Gamestate
 
@@ -59,6 +71,8 @@ The addition of a disabler safe to all armories for emergency Command-arming rea
 The removal of the WT-550 from the Head of Security office.
 
 The removal of disablers from Sec officer lockers.
+
+The removal of ballistic ammo that no longer corresponds to armory/on-station weaponry. Keep rifle, revolver, and shotgun ammo printing for the Chaplain, Detective, and armory respectively.
 
 Overall, Armory would now contain:
 - 1 disabler safe (containing 5 disablers)
