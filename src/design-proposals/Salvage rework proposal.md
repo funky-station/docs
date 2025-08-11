@@ -4,7 +4,7 @@
 
 |---|---|---|
 
-| ThatOneMoon| :x: No | TBD |
+| ThatOneMoon| :x: No | First Part: Cargo Techfab Introduction https://github.com/funky-station/funky-station/pull/1306 |
 
 ## Overview 
 
@@ -26,7 +26,6 @@ In doing so, gathering materials and getting equipment are something that go han
 
 ideally leading to scenarios where salvagers will first go safely gather materials and process them, 
 and use the tickets they gain to get the equipment that will allow them to take on more risky locations. 
-
 
 ## Salvage packages 
 
