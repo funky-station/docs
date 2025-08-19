@@ -4,7 +4,7 @@
 
 |---|---|---|
 
-| ThatOneMoon| :x: No | First Part: Cargo Techfab Introduction https://github.com/funky-station/funky-station/pull/1306 |
+| ThatOneMoon| :x: Partialy | First Part: Cargo Techfab Introduction https://github.com/funky-station/funky-station/pull/1306 (Succesfully implamented) |
 
 ## Overview 
 
@@ -63,18 +63,18 @@ A set of changes to attempt to unify mining and scraping mechanics for the sake 
 
 - Ores or scrap items that are thrown into the recycler now also print out a ammount of salvage tickets 
 
-- Ore bags can also be used to also hold scrap items, regular ore bags buffed to be a 10x5 (from 10x4),renamed into the scrap bag.
+- Ore bags can also be used to also hold scrap items, regular ore bags buffed to be a 10x5 (from 10x4),renamed into the scrap bag. (COMPLETE) 
 
 - A new item bag known as the material bag that works like the ore/plant bag, but only holds regular materials instead (steel, glass, plastic, plasma, gold, silver and so on), 
   possibly unlocked from research and replaces the spot taken by the industrial ore processor, holds up to 8 stacks of items,
-  could even have its own bluespace variant that's unlocked alongside the bluespace ore bag. 
+  could even have its own bluespace variant that's unlocked alongside the bluespace ore bag. (COMPLETE) 
 
 - Coal now gets recycled into a small amount of diamonds rather than being used for steel, so now it's also possible to get some amounts of it from magnet mining.  
 
 - Fixing of the bug that causes getting doubled drops when used with certains mining tools.
  (Yes, is a bug apperently, or just incredible goob jank) 
 
-# Cargo Departamental TechFab 
+# Cargo Departamental TechFab (This has been succesfully implamented, relevant PR here: https://github.com/funky-station/funky-station/pull/1306)
 
 To make up for the removal of the industrial ore processor and its ability to make plasteel, plasma/uranium glass and its reinforced versions,
 
