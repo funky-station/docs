@@ -28,13 +28,13 @@ Currently, medical personnel know who to prioritize because of the medical HUD. 
 
 Similarly, there should be some sort of way to encourage a step between initial triage and diagnosing a patient. Triage is primarily for high-intensity situations where doctors may not be able to do an in-depth examination, rather focusing on making sure as many patients as possible are back up on their feet. When the situation permits, we should encourage doctors to thoroughly inspect their patient and possibly roleplay with them (ex. "How are you feeling?" or "What happened?"). 
 
-<img src="/medical-scanners/medhud.png" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
+<img src="medical-scanners/medhud.png" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
 
 Option A). Simplifying the HUD health bar to reflect the same health states shown in the primary hud: Good, Okay, Poor, Bad, Bad! (about to crit), Crit, and Dead. 
 
 This gives a similar amount of information as health bars, it just isn't as exact as it currently is. While it solves the issue of reflavoring the design to better match the goals of this proposal, it does not entirely address the core problem. These states are still based off of pools of damage. This does not communicate any sort of "advanced" damage such as missing or broken limbs, which we possibly *would* want to communicate clearly and instantly. Additional sub icons for amputations or broken limbs should be considered (when the support for such is properly there).
 
-<img src="/medical-scanners/medinspect.png" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
+<img src="medical-scanners/medinspect.png" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
 
 Option B). Redesigning the medical inspect/shift-click menu to better communicate visible wounds.
 
@@ -52,7 +52,7 @@ This step would actually use the health analyzer, along with any other possible 
 
 Information that points towards more complex treatments should be limited. For example, only medical chemicals should show in the bloodstream. Otherwise, "unknown reagent detected" should show up. 
 
-<img src="/medical-scanners/healthanalyzer.png" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
+<img src="medical-scanners/healthanalyzer.png" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
 
 ### III. Specialty Symptoms 
 
@@ -66,3 +66,8 @@ For example:
 ## Game Design Rationale
 
 my rationale is i already wrote 1k+ words and im genius and should always be followed
+
+## Technical Considerations
+
+- ui code
+- medical system being good
