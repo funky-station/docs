@@ -29,7 +29,7 @@ A simple, but elegant solution to the daunting task that currently is resource m
 
 What the console could look like is actually not that important- It's task is so simple a list specifying how supplied each department silo is could already do the trick, but ideally it should probably look akin to some of the engineering ones.
 
-It should come mapped into the maps already, that way it could work in tandem with the department silos from the get-go.
+It should come mapped into the cargo bay on the maps already, that way it could work in tandem with the department silos from the get-go.
 
 ## Why is this good for the game
 
