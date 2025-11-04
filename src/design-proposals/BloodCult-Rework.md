@@ -30,9 +30,9 @@ Also the Revive rune costs significant health from the user, to pay for this rev
 Cult Pylons (that heal people) now get 25% stronger at phase 2, and 50% stronger at phase 3. To encourage the cult to use them more.
 
 ## Soulstones
-Soul stones still exist. But are reserved for IPCs (who make no sense as blood cultists), Borg Brains (giving a way for the cult to interact and convert borgs), and actual brains (giving them a way to revive gibbed people, sorta)
+Soul stones still exist. But are reserved for IPCs (who make no sense as blood cultists), Borg Brains (giving a way for the cult to interact and convert borgs), and actual brains (giving them a way to revive gibbed people, sorta). This is coded as "anything that can't bleed is sacrificed", so it should handle all future cases of species being implemented that don't have the capacity to bleed. 
 The soulstone system is different now, it hurts the user of the soulstone when they activate it, but it releases the soul as a shade to help the cult fight, with no distance limit. And when the shade dies they return to the stone.
-Stones are inert, can't move or interact, but can talk.
+Stones are inert, can't move or interact, but can talk. And they are still used to make Juggernauts, so an IPC/Borg can be crit, sacrificed, have their respective brain types turn into a soulshard, and be placed into a Juggernaut.
 
 # Feature removed 
 
@@ -60,8 +60,11 @@ So I made it react with holy water to form Zauker. Zauker really has next-to-no 
 ## Blood Cult Progression
 
 Ramping up the threat is part of the theme. For this I decided it should be a certain amount of blood offered for each stage. I'll have to test how well this works in practice.
-Each person offered to Nar'Sie gives a certain amount of Blood sacrifice, in addition to actual containers filled with blood or blood spilled on the offering rune space itself.
+Each person offered to Nar'Sie gives a certain amount of Blood sacrifice, in addition to actual containers filled with blood or blood spilled on the offering rune space itself. This counter also increments when blood cultists drink blood. Which heals them, and induces vomiting. They vomit up Unholy Blood when they do, so it's impossible to get double value out of it.
 
+## Holy Water Interactions
+
+Holy water now reacts with Unholy Blood to 
 ## Machines
 
 ### Features that might be designed later
