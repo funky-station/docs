@@ -12,6 +12,8 @@ One of the guiding principles about this is to have the Blood Cult follow a sort
 
 Balance wise it's intended for Chaplains and holy water to shut the cult down and for this to be something the crew knows about. So this antagonist isn't designed around any form of metashield protecting who/what they are. As a tradeoff the cult is much more powerful in this incarnation (more able to convert people, better able to convert even security and command). So both sides of the conflict have buffs.
 
+It's also intended that this antagonist type is not meant to target command members. Unlike most team antagonists, a blood cult doesn't care if they convert a captain or a tider, it's all blood to be spilled either way.
+
 ## Background
 
 Blood Cult currently has great themeing as a unique antagonist. But it has some large flaws when it comes to how it handles mindshielded people (gibbing them and making them mute soulstones).
@@ -41,6 +43,8 @@ Stones are inert, can't move or interact, but can talk. And they are still used 
 
 # Feature removed 
 
+No more targeting of one player for the cult to sacrifice. Nar'Sie doesn't care about specific sacrifices, only about spilling blood.
+
 # Features added
 
 ## Juggernauts
@@ -69,7 +73,8 @@ Each person offered to Nar'Sie gives a certain amount of Blood sacrifice, in add
 
 ## Holy Water Interactions
 
-Holy water now reacts with Unholy Blood to 
+Holy water now reacts with Unholy Blood to create a smoke cloud that damages only cultists. So throwing holy water at a cultist (who is likely to be in an area with a lot of spilled blood, due to all of the cult mechanics around bleeding) is incredibly effective.
+
 ## Machines
 
 ### Features that might be designed later
