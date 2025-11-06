@@ -8,6 +8,10 @@
 
 Redesign Blood Cult so it's more about the blood, and so less round-removals happen as a result.
 
+One of the guiding principles about this is to have the Blood Cult follow a sort of "narrative flow" during the round. At first the cult is weak, and not able to do as much, but also able to be stealthy. As the cult progresses through the stages, they get more powerful (able to break mindshields), but it makes them more obvious.
+
+Balance wise it's intended for Chaplains and holy water to shut the cult down and for this to be something the crew knows about. So this antagonist isn't designed around any form of metashield protecting who/what they are. As a tradeoff the cult is much more powerful in this incarnation (more able to convert people, better able to convert even security and command). So both sides of the conflict have buffs.
+
 ## Background
 
 Blood Cult currently has great themeing as a unique antagonist. But it has some large flaws when it comes to how it handles mindshielded people (gibbing them and making them mute soulstones).
@@ -19,7 +23,8 @@ And it doesn't splash blood everywhere. Sure, people are drawing runes and bleed
 Rather than talk about what features were added/changed, I'll start with what features are the same.
 
 ## Spells
-Spells work the same as current bloodcult spells. Except for the Twisted Construction spell.
+Spells work the same as current bloodcult spells.
+Except for the Twisted Construction spell.
 
 ## Runes
 Offering behavior is significantly different under the hood, but still works as the general "convert people to your side" rune.
