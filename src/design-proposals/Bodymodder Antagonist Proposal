@@ -1,0 +1,155 @@
+# Bodymodder Antagonist Design Doc
+
+| Designers | Implemented | Links |
+|---|---|---|
+| miosar , Wren. , Cake and spacecatchan | Needs code! | https://docs.google.com/document/d/1-a3gtloktBLGL7Wp0htd2oSRmLq4a_k3TOtzBGCfqiA/edit?tab=t.0 |
+
+## Overview
+
+Creates a new side antag that can support or hinder other antagonists in a shift. Appears both as a ghostrole antagonist and a rare chance to roll alongside other antags ( like thief )
+
+## Background
+
+Originally , we just goofed around when we realised this is turning out to be quite well designed. Then it snowballed into a fully fledged design doc!
+
+
+# Core Gameplay Loop
+
+## Progression
+
+### Description
+
+Starts inside of a random maints closet with a visitor ID of roboticist , medical doctor or scientist and the respective job clothing alongside an equipment toolbox and an implant uplink hidden inside of their body ( unremovable ability like heretic knowledge store )
+
+#### 5 Tiers , each separated into detrimental and supporting implants. Implants are bought with RC , the Bodymodder starts with 20 RC and gains more via the following methods:
+
+#### Tier 1 is 5 RC , Tier 2 is 10 RC , Tier 3 is 20 RC etc. ( doubles each tier )
+
+Tier 1 and 2 are implants , both given and removed by just implanting and empty implanter ( Implant code )
+Tier 3 and above require surgery ( To all implants in this tier mention which organ they replace!!! ) ( Shitmed organ code )
+
+“RC” ( Research Credits ) gain:
+
+- Detrimental implants give more RC ( 1 RC x Tier x 5 mins )
+- Supporting implants give less RC ( 1 RC x Tier x 10 mins )
+
+To get RC , Ripperdoc needs to use their implant ( internal downloader , it can also recharge anything put into it,batons ,cells ,power cages , etc. ) to extract RC from clients after it builds up.
+They can also use the downloader on research server to get 5 RC per researched tech ( ninja code? )
+
+Possible objectives: ( Chooses 3 randomly )
+Earn 100k or more spesos shift end
+Have over 50 RC in your uplink shift end
+Steal over 15 technologies
+Escape alive and unrestrained
+Have ( 20% of crew ) clients
+
+Uses pinktext so no need to track if completed or not!
+
+
+
+### Balance issues
+
+The bodymodder might buff certain antags a lot , which may cause issues. As such close monitoring for balance will be required in the first weeks. Might be worked around by underlining in antag description that the Bodymodder is not to assist other antags in their objectives but to fulfill their own.
+
+## Starting Equipment
+
+#### Ripperdoc Shop (separate satchel from implants , once it is done buying just throw it away! Uses thief satchel code , stuff chosen spawns in a syndie toolbox), buy two or three abilities  to fit an archetype (cyberpunk ripperdock/ frankenstein like scientist/ biomodder etc.):
+
+- Mantis blade (probably just an arm blade reskin/ possibly goob port)
+- Antagonist cooperation kit ( Has a syndicate radio implant , a changeling hivemind radio implant and a voice mask ) ( Work with your Syndicate buddy, or (literally)  break their legs in front of security for top 10 anime betryal) 
+- rechargeable emergency pen implant - for getting people up after implanting.
+- internal defib - for getting dead dead people up
+- Tranquilizer dart launcher ranged stun similar to the energy crossbow syndies can buy, doesn't deal damage, limited ammo that self recharges. Both deals stamina damage and injects target with 
+- Syndicate surgery kit (should be free to make tier 3 implants feasible.)
+- Black market digiboard - works like an EMAG-ed cargo console with some additional contraband thrown inside ( basic stuff like syndie guns and armour worth less than 20 TC with 1 TC being 1k spesos ). Can also buy “TC”  at an exchange rate of 1000 spesos for 1 “TC”. To actually buy anything it silently purchases them and sends them to ATS , where the clients or ripperdoc needs to pick them up.
+
+# Implants
+### All implants deal ( 0.05 x Tier-1 ) per second poison damage to person injected with them. Some may also have additional downsides.
+
+## Tier 1: ( 5CR )
+### Detrimental:
+- Autopen Lathe - allows user to turn steel into pens with a chance for it to be a random syndi pen item. Gives mood that tells you to make as many pens as possible , including stripping down the station for steel. ( Uses thaven code for mood and lathe could just be an invisible lathe on top of the person they can put steel in? )
+- Femur breaker - A remote signaller can break their leg bones at will (help security with unruly prisoners, while giving fake Doctors even more things to worry about) ( Deals like 200 blunt to both legs )
+- Glitched Area Internal Access breaker - User randomly uses a knock spell from wizard without the verbal component.
+- Speed Unloader - On use all of the user's clothes fall off their body rendering them nude for all (unlucky) bystanders. If not used it periodically activates itself. (need feedback on this one) Seems good , could make it both random AND also by remote signal? (Maybe make it randomly apply lubed or glued status to held/worn items for people who prefer not to go nude?) - Mio Yes its a great idea! - Wren possible alternative if people deem it.. not cool to randomly flash people- to just randomly drop items from their pocket/ belt slots etc. I think the og is pretty funny though. - Cake
+### Beneficial:
+- Overcharged powerlegs - Give user a temporary speed boost with a long cooldown. Works like new heretic ability but instead of firestacks if they run into anything they get a lot of brute like rollerskates ( 10 brute? ) and ability ends. If they run into a PERSON they don’t get any brute damage and person hit is dealt 15 blunt
+- Smoke Synth - Ability to produce a smoke reaction similar to smoke grenade with a lengthy cooldown (and maybe hunger cost) ( Uses normal smoke implant code + rat king for hunger maybe )
+- Shoulder cannon - Shoots out a harpoon out of your shoulder , 30 seconds cooldown , harpoon can be ripped out by target and reused , has 30 pierc damage when thrown/shot and 10 pierc when melee. Cannot be wielded.        ( Uses code from ninja stars )
+- Headlights - Hidden flashes inside the head , when used create a flashbang like explosion around user. (ling/cosmic cult code)
+
+## Tier 2: ( 10CR )
+### Detrimental:
+- Pizza hands- once activated by the implantee, turns their hands into slices of pizza (give the implanted an option to not have pizza hands for the rest of the round - just make it revert on removing the implant maybe?) which make them drop items randomly, and give clown weapon handling. ( Can use cluwne code )
+- Metalhorror eggs: Injectable into animals ( not small ones like mice or mothroaches ) , after 9 minutes they start shaking and after 10 pop into 2-3 metalhorrors that inject 3u sulfuric acid and deal 5 slash per hit. They have 70 health and armour vest resist to damage.
+- Slippery skin - Replaces hands. (Hands are the most logical choice if we need to replace anything) user glands start producing a layer of translucent slime on their skin making their slip people that try to run over them, and you can throw them farther, with longer delay before they can stand up again. (they slide on the floor like the upgraded banana peel shoes) [Maybe longer time to get up from prone? since they slippy] - id change it for constant secretion of space lube on the ground, the wizard slippy spell is ASS to play around. + this requires the impantee to either clean up or risk slipping on their own which is funny 
+- INTERNAL FLOOR PILL INJECTOR ( I.F.P.I )- Injects a floor pill compound into a target or the user 50/50 chance like a hypopen. Moderate cooldown so gamblers dont just go wild in public. (Uses ling sting code) ( Swap this with T.I.D.E.R , this definitely isn’t beneficial outside of feeding people pills and looking what happens you could take pills, grind em and syringe them, how about… the ability injects the pill into someone like a hypo >>:) BUT there is a 50/50 chance it injects into you instead + cooldown.) ( Funny , I love it :3 maybe just make our own chem list so we can control the chems better? ( no romerol , licox etc. ) ) thats very reasonable, still keeps the spirit of the floor pill
+
+### Beneficial:
+- T.I.D.E.R - Gives you a 1x2x1 ( so half of a syndie storage implant/one syndie storage implant triangle ) storage implant that starts with mini jaws of life inside ( 1x2 item ) which are minor contraband. Also gives an unremovable gas mask that changes your voice to "Assistant" , unremovable grey clothes and The greytider mood, that compels to commit minor crimes like theft or vandalism. 
+- Mantis blade - Stabby mcstab man , same attack speed as armblade but deals 10 slash and 5 heat instead. Has an elite version upgraded to deal 20 heat instead! ( Elite costs 15 TC instead of 10 ) ( Can also pry doors like jaws of life! ) ( Ling code for armblade ) (or goob code for mantis if its not shitcode) ( Its most likely shitcode)
+- Forearm riotshield - When activated , a shield appears in your hand. Has 50 HP and absorbs 60% of incoming damage. Has 20% resistance to all common damage types. Heals fully if hidden and redeployed ( with a cooldown ). ( ling code )
+- Second Heart , allows person to revive like a changeling once before having to recharge. Needs to be opened like IPC to take out power cage ( The mech/shuttle weapon big cell ) and recharge it.
+
+## Tier 3: ( 20CR )
+### Detrimental:
+
+- Rage Serum Autoinjector  - upon activation turns the user into a berserker. Gives them unremovable noir glasses and a popup - “You feel an impossible rage and go psycho!” where they are supposed to attack everyone nearby and they get like 50u of hyperzine inside of them? -> Like the idea of them going berserk we can do that one. Can they cause stamina damage on punch so they knock everyone down? At that point also give them a heightened poison rate, give them an amount of time after which they will just pass the fuck out- Very powerful for tier 3 but for a single encouter) ( Evil idea - activating it gives user a lethal dose of pesticilin :3 Yeah, something like that! As long as it something hard to treat in combat ) -> Needs playtesting against actual security, the user definitely should be able to solo two seccies armed with batons and disablers before dropping down. Hyperzine should allow that , maybe make the implanter do something cool like *You rip out one of your bones in anger!* and gives you bone spear?  That is fucking terrifying i love it, also a splash of blood and an SFX Use ling scream SFX lmao will make it less easy to sneak trigger it - activated by remote signal, needs to be linked with multitool first to something. Replaces heart.
+- Gastroacidic Tritium Synthetizer - Replaces stomach, user gets hungry faster ( could also replace diet with vox one? They eat almost any food in game AND trash ) -> Good idea that reuses the existing code which is good.  and turns nutrient from the food they eat into tritium, after enough tritium is accumulated inside their body it is expelled through their back orifice with a loud sound creating a 3x3 cloud of tritium. ( The idea is they constantly eat garbage and fart tritium clouds - Wren ) 
+### Beneficial:
+- Bluespace engine - allows the user short range rapid teleportation, each teleportation over the first one has a growing chance to turn a bearer into a bluespace anomaly gibbing them instantly (after a decent cooldown ( 20 seconds ) the chance lowers by 1 stack, the ,,progress” of the engine overheating is indicated by stronger and stronger blue glow) -> With those changes this one works great for this tier I feel
+- Manual Adrenal Glands - Pump desoxy directly into the bloodstream , be careful not to overdose! ( Ling code , replaces liver )
+- Hand-gun. - Gives you echis , the borg infinite ammo gun!( borg code/weapon , replaces hand ) -> Only if their hand literally turns into a gun, because that would be hilarious 
+- Nanohealers - Heal user passively , heal 3 brute , 1,5 heat , 0,5 shock and 0,5 cold per second but DAMAGE BY 1 POISON PER SECOND. Can be turned off or on. ( on top of normal poison damage ). Replaces heart. ( flavour text: NANOMACHINES SON! )
+- Blackout jack - inbuild electronic disruptor capable of temporarily shutting down machinery. ( Could make this an EMP like the EMP flashlight! So it gives you a baton/port into your hand and on hit applies EMP! Syndie traitor code , just make it give you the EMP flashlight when ability is used and make it go away when ability is used once more , replaces hand ) -> Good enough implementation of my original concept, changed the name to better fit the description
+## Tier 4: ( 40 CR )
+### Detrimental:
+
+#### - HATE.OS - ,, Implants the wearer with a cursed usb stick containing all the computer viruses know to man"
+Effects: Upon the successful implantation surgery the 5 minute timer starts, after which it runs out the station AI and all silicons get a new law 0: 
+,,Make the X suffer, but don’t let them die for their sins” 
+After the timer runs out the user periodically pulses doing a random effect from predetermined table: 
+- 66% - flickering lights / open closing doors 
+- 30% - drains all power from nearest APC 
+- 3% - Machine malfunction effect (Zaps people with electricity)
+- 1% - Tech anom crit effect around user
+
+#### - Broken AC - 
+Makes user spew out ice crystals and fireballs from ice and fire anoms -> I like that suggestion about spewing ice and fire, that would cause a ton of chaos if someone accidentaly gets set on fire, pair this with tritium farts for extra effect
+
+### Beneficial:
+- Thermal eyes - Allow full thermal vision , but user can be flashed even sunglasses/a welding mask on if turned on! ( ling code , replaces eyes) ( A bit weak for tier 4 upgrade, those things should be really strong) Thermal vision IS strong. Maybe then add laser shooting out of them like laser raptor eyes?
+- Reflective membrane - Allows user to be 100% invisible even while moving , but places a big strain onto the body - deals 0,2 slash and 0,2 poison per second! ( This one is pretty strong, I like it. ) ( Blood trail on ground from slash means they can still be tracked! ) ( ling code , replaces stomach )
+- Gorilla arms - Deal 40 blunt and 100 structural with 1 hit per 5 seconds. Also knockback (powered anomaly glove strength, NO PRONE)! [Clown gun debuff due to the arms being too big to use them ergonomically] ( cluwne + maybe Thaven unarmed strike code? Replaces arms and changes unarmed strike to itself) 
+- Subdermal armour - When activated , equips armour for head and chest that is as good as a bloodred hardsuit but without space resist and 30% slowdown. Can be hidden again at will. ( ling code , replaces stomach ) (To give it a bit more flair what about we also make them spiky, similar to thorn enchant - dealing piercing damage on contact? Wren Could be hard to implement? I have a fun idea - make it work like ling armour by allowing pill taking/eating and syringes while active -> I think it should work like this so the Bodymodder can heal his minion without them being forced to turn off their armor. The hiding of armor needs to not be instant for balance. We could steal goob code for enchanting and use it for the spiky effect.
+## Tier 5: (CAN ONLY CHOOSE ONE , ALL ARE IMPLANTS INSTEAD OF SURGERY , 80CR)
+### Detrimental:
+-  A.M.A - All Modifications Applied. Turns the person into a slug like creature that screams constantly and can only crawl. Based on the slug person AM makes ( Has DOUBLE RC generation ( 2 RC per minute! ) , but is universally hated as unethical. ) ( Not holdable , Slow,  200 damage until it is dead , no critstate to prevent abusing crit to not let it attack. It constantly generates omnizine in its body , its attack is 5 structural and 3 damage split between slash , caustic and genetic. Tweak the stamina regen so that it takes a lot of hits to stamcrit but recharges very slowly to allow RC extraction. So its a whole ordeal to extract tc- half a disabler mag etc. Maybe an entire stun prod? So it can be makeshift but still usable for non sec gear situations. the actual value should probably be playtested but yeah, a stun prod should work. I assume actually getting value out of this requires doc + at least one more person and a fair bit of prep time so you can buy this implant multiple times. Once per like 5 mins it can activate a random effect making a LOT of RC ( like 3 ) but doing stuff like exploding or generating a space carp? yeah, that's pretty fun, it will definitely die without supervision 
+
+### Beneficial:
+- Stealth one (spitballin ideas: give them a door jacker, tear gas dispensers and a toggleable suit with built in internals and limited spacefaring capability (maybe still affected by cold temp like the emergency EVA) instead of repping invisibility of the ninja/ stealth hardsuit they’d be good at just rushing through departments and opening them up for others to breach. Also some kind of non lethal weapon? rechargable bola or smth) (ling flesh spacesuit code) ( I have some ideas relating to it, what about we make it a sort of ultimate chemistry machine, they can produce Smoke, Flash reactions, sleepy gas, smoke, lube, thermite, basically anything that has an effect that could help a potential thief ) Maybe make it slowly generate any chem they need? Like a chem dispenser but slowly makes all chems. I’m not sure if thats on par with the strength of the rest of the tier 5’s, i guess that really depends on quantity output and how quickly it can be input -> Tier 5 should be somewhere in the ballpark of slightly below the heretic ascension, not as destructive but most DEFINITELY a cause for red alarm. Panopticon is a good example, it can do a ton of harm with its Malf abilities. )
+- W.A.S.P - Weaponised Automatic Security Producer - Person that has the implant can , once per minute , create a drone that is allied to themselves and the Bodymodder. They act like rat king rats - you can command them to stay , follow , attack on point and attack everyone. ( Could maybe use glockroach code to allow them to shoot people as NPCs? ) -> The patients and the doctor are on the non-hit list of the drones if we go with this solution. They are reskinned carp and also ghost roles! ( Rat king code ) ( This is honestly fine, will prove a difficult enemy for the security )
+- Panopticon - Changes the user sprite to be a biomechanical monstrosity , turning them into a malfunctioning AI. Starts as an instant threat to station        ( and has no doomsday protocol ) , so make sure to perform the operation in a safe location! ( Malf AI code ) ( So after implanting there is a short grace period after which they transform and become the malf , with their mutated but not yet malf AI body being a slower than normal cyborg but looks like a derelict cyborg )
+
+## Game Design Rationale
+
+What shitmed needs right now is more organs. Who better to help with aquiring those than dubious spess doctors? This antag will both allow antags to interact more with the surgery and body powers , but also give medical more work to do by making them remove harmful implants , harvest beneficial ones for crew from people working with the Bodymodder and heal those poisoned by the slowly growing poison damage of implant users!
+### More antag and crew interaction!
+The new implants have some seriously fun interactions possible for both crew and antags. A syndie traitor requesting an implant that lets them have a mantis blade but the ripperdoc adding a detrimental implant as well that activates in the worst moment. A crew member requesting pizza arms or a shoulder cannon and getting a femur breaker and MORE!
+
+
+### Antags not being purely antaggy!
+An antagonist that helps the crew by supplying its members against threats while also helping the threats themselves would bring a lot of benefits. A syndie not killing their target because it will piss off the Bodymodder , or security staying blind to maints surgery because they themselves benefit from it! It would mean that people wouldn't instantly think "Antag = Arrest"!
+
+## Roundflow & Player interaction
+
+### Roundflow
+A Bodymodder would not be the spotlight of a shift. While other antags create the tension , the Bodymodder supplies tools to both sides of the conflict while also reaping some stuff for themselves , asking their clients for money , technology and Research Credits from their implants in return. While their most powerful implants may cause an antagonist to be more powerful , they might not supply them due to that ruining the Status Quo that allows the Bodymodder to continue being ignored by sec! Making the implants contraband would also create tension between the Magistrate and HoS and the crew , with one side wanting to uphold the law and the other reap benefits of cybernetic enchancement!
+
+
+## Administrative & Server Rule Impact
+Nothing added would cause reasonable strain upon the server. At most , it may be dubious how people interpret the T.I.D.E.R mood. But otherwise , a person who gets a cool implant will not become a free agent - likewise , an antag that gets chromed up won't suddenly become crew aligned.
+
+## Technical Considerations
+
+We tried to underline what existing code can be used for the features! Hopefully it will help with coding it , as no features implemented here require anything groundbreaking while at the same time hopefully staying original!
