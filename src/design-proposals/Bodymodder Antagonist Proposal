@@ -63,16 +63,17 @@ The bodymodder might buff certain antags a lot , which may cause issues. As such
 
 #### Ripperdoc Shop (separate satchel from implants , once it is done buying just throw it away! Uses thief satchel code , stuff chosen spawns in a syndie toolbox), buy two or three abilities  to fit an archetype (cyberpunk ripperdock/ frankenstein like scientist/ biomodder etc.):
 
-- Mantis blade (probably just an arm blade reskin/ possibly goob port)
-- Antagonist cooperation kit ( Has a syndicate radio implant , a changeling hivemind radio implant and a voice mask ) ( Work with your Syndicate buddy, or (literally)  break their legs in front of security for top 10 anime betryal) 
-- rechargeable emergency pen implant - for getting people up after implanting.
-- internal defib - for getting dead dead people up
-- Tranquilizer dart launcher ranged stun similar to the energy crossbow syndies can buy, doesn't deal damage, limited ammo that self recharges. Both deals stamina damage and injects target with 
+- Multiphase Mantis blade - Has an EMP/Stun/Kill mode , EMP has one charge per 40 seconds , Stun works like a stun prod that self recharges and kill deals armblade damage. (probably just an arm blade reskin/ possibly goob port)
+- Antagonist cooperation kit ( Has a syndicate radio implant , a changeling hivemind radio implant and a voice mask ) ( Work with your Syndicate buddy, or (literally) break their legs in front of security for top 10 anime betryal)
+- Stem Cell Pen - for getting people up after implanting. ( Looks like a pen , has 2 charges that recharge once per 40 seconds , each charge works like a hypopen that injects 15u epi and 5u grani )
+- Shock pads - Work like a defib but in combat mode can shoot out a projectile that deals 10 shock and forces target to go prone ( without stunning ). Has 1 charge for projectile and regains it over 60 seconds.
+- Tranquilizer dart launcher ranged stun similar to the energy crossbow syndies can buy, doesn't deal damage, limited ammo that self recharges. Both deals stamina damage and injects target with 10u chloral hydrate. Stores 3 bolts.
 - Syndicate surgery kit (should be free to make tier 3 implants feasible.)
 - Black market digiboard - works like an EMAG-ed cargo console with some additional contraband thrown inside ( basic stuff like syndie guns and armour worth less than 20 TC with 1 TC being 1k spesos ). Can also buy “TC”  at an exchange rate of 1000 spesos for 1 “TC”. To actually buy anything it silently purchases them and sends them to ATS , where the clients or ripperdoc needs to pick them up.
 
+
 # Implants
-### All implants deal ( 0.05 x Tier-1 ) per second poison damage to person injected with them. Some may also have additional downsides.
+### All implants deal ( 0.05 x Tier-1 ) per second poison damage to person injected with them. Some may also have additional downsides. For IPCs , implants cause them to lose charge faster , requiring recharges more often!
 
 ## Tier 1: ( 5CR )
 ### Detrimental:
@@ -152,7 +153,7 @@ An antagonist that helps the crew by supplying its members against threats while
 ## Roundflow & Player interaction
 
 ### Roundflow
-A Bodymodder would not be the spotlight of a shift. While other antags create the tension , the Bodymodder supplies tools to both sides of the conflict while also reaping some stuff for themselves , asking their clients for money , technology and Research Credits from their implants in return. While their most powerful implants may cause an antagonist to be more powerful , they might not supply them due to that ruining the Status Quo that allows the Bodymodder to continue being ignored by sec! Making the implants contraband would also create tension between the Magistrate and HoS and the crew , with one side wanting to uphold the law and the other reap benefits of cybernetic enchancement!
+A Bodymodder would not be the spotlight of a shift. While other antags create the tension , the Bodymodder supplies tools to both sides of the conflict while also reaping benefits for themselves , asking their clients for money , technology and Research Credits from their implants in return. While their most powerful implants may cause an antagonist to be more powerful , they might not supply them due to that ruining the Status Quo that allows the Bodymodder to continue being ignored by sec! Making the implants contraband would also create tension between the Magistrate and HoS and the crew , with one side wanting to uphold the law and the other wanting more cybernetic enchancement!
 
 
 ## Administrative & Server Rule Impact
