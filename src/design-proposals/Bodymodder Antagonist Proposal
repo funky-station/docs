@@ -20,7 +20,7 @@ Originally , we just goofed around when we realised this is turning out to be qu
 ### SPAWNING MECHANIC-
 This is intended to act as an entrance for midround ghostroles. Would probably be fine roundstart as long as sec/command play along.
 
-- Spawn in a random maints locker (skeleton code, specifically maints though.)
+- Spawn in a random maints locker (skeleton code, specifically maints though.) If shift start , forces person that rolled the antag to spawn in as an assistant.
 - Other than the bag containing the kit picker, emergency box etc. the Doc gets:
 - A visiting Doctor/Scientist/Roboticist PDA with an ID (randomly picked)
 - Matching clothes for the ID 
@@ -38,11 +38,12 @@ Tier 3 and above require surgery ( To all implants in this tier mention which or
 
 “RC” ( Research Credits ) gain:
 
-- Detrimental implants give more RC ( 1 RC x Tier x 5 mins )
-- Supporting implants give less RC ( 1 RC x Tier x 10 mins )
+- Detrimental implants give more RC ( 1 RC x Tier x 1 min )
+- Supporting implants give less RC ( 1 RC x Tier x 5 mins )
 
-To get RC , Ripperdoc needs to use their implant ( internal downloader , it can also recharge anything put into it,batons ,cells ,power cages , etc. ) to extract RC from clients after it builds up.
-They can also use the downloader on research server to get 5 RC per researched tech ( ninja code? )
+
+To get RC , Ripperdoc needs to use their implant ( internal downloader , it can also recharge anything put into it,batons ,cells ,power cages , etc. ) to extract RC from clients after it builds up. This action heals ALL poison damage from clients and injects them with 10u multiver and 30u of grani. Each extraction makes it require a cooldown period of 60 seconds.
+They can also use the downloader on research server to get 5 RC per researched tech. Steals 1 tech at a time with a 20 second doafter for each tech. ( ninja code? )
 
 Possible objectives: ( Chooses 3 randomly )
 Earn 100k or more spesos shift end
@@ -70,7 +71,8 @@ The bodymodder might buff certain antags a lot , which may cause issues. As such
 - Tranquilizer dart launcher ranged stun similar to the energy crossbow syndies can buy, doesn't deal damage, limited ammo that self recharges. Both deals stamina damage and injects target with 10u chloral hydrate. Stores 3 bolts.
 - Syndicate surgery kit (should be free to make tier 3 implants feasible.)
 - Black market digiboard - works like an EMAG-ed cargo console with some additional contraband thrown inside ( basic stuff like syndie guns and armour worth less than 20 TC with 1 TC being 1k spesos ). Can also buy “TC”  at an exchange rate of 1000 spesos for 1 “TC”. To actually buy anything it silently purchases them and sends them to ATS , where the clients or ripperdoc needs to pick them up.
-
+- Rechargable DNA Scrambler - DNA scrambler that gets 1 charge every 5 minutes. Can hold 2 charges at once.
+- Rechargable SCRAM implanter - SCRAM implant that holds 3 charges and gets one back every 1 minute.
 
 # Implants
 ### All implants deal ( 0.05 x Tier-1 ) per second poison damage to person injected with them. Some may also have additional downsides. For IPCs , implants cause them to lose charge faster , requiring recharges more often!
@@ -133,12 +135,12 @@ Makes user spew out ice crystals and fireballs from ice and fire anoms -> I like
 - Subdermal armour - When activated , equips armour for head and chest that is as good as a bloodred hardsuit but without space resist and 30% slowdown. Can be hidden again at will. ( ling code , replaces stomach ) (To give it a bit more flair what about we also make them spiky, similar to thorn enchant - dealing piercing damage on contact? Wren Could be hard to implement? I have a fun idea - make it work like ling armour by allowing pill taking/eating and syringes while active -> I think it should work like this so the Bodymodder can heal his minion without them being forced to turn off their armor. The hiding of armor needs to not be instant for balance. We could steal goob code for enchanting and use it for the spiky effect.
 ## Tier 5: (CAN ONLY CHOOSE ONE , ALL ARE IMPLANTS INSTEAD OF SURGERY , 80CR)
 ### Detrimental:
--  A.M.A - All Modifications Applied. Turns the person into a slug like creature that screams constantly and can only crawl. Based on the slug person AM makes ( Has DOUBLE RC generation ( 2 RC per minute! ) , but is universally hated as unethical. ) ( Not holdable , Slow,  200 damage until it is dead , no critstate to prevent abusing crit to not let it attack. It constantly generates omnizine in its body , its attack is 5 structural and 3 damage split between slash , caustic and genetic. Tweak the stamina regen so that it takes a lot of hits to stamcrit but recharges very slowly to allow RC extraction. So its a whole ordeal to extract tc- half a disabler mag etc. Maybe an entire stun prod? So it can be makeshift but still usable for non sec gear situations. the actual value should probably be playtested but yeah, a stun prod should work. I assume actually getting value out of this requires doc + at least one more person and a fair bit of prep time so you can buy this implant multiple times. Once per like 5 mins it can activate a random effect making a LOT of RC ( like 3 ) but doing stuff like exploding or generating a space carp? yeah, that's pretty fun, it will definitely die without supervision 
+-  T.E.D - Terminal Enigmatic Detriment. Turns the person into a slug like creature that screams constantly and can only crawl. Based on the slug person AM makes ( Has DOUBLE RC generation! ) , but is universally hated as unethical. ) ( Not holdable , Slow,  200 damage until it is dead , no critstate to prevent abusing crit to not let it attack. It constantly generates omnizine in its body , its attack is 5 structural and 3 damage split between slash , caustic and genetic. Tweak the stamina regen so that it takes a lot of hits to stamcrit but recharges very slowly to allow RC extraction. So its a whole ordeal to extract tc- half a disabler mag etc. Maybe an entire stun prod? So it can be makeshift but still usable for non sec gear situations. the actual value should probably be playtested but yeah, a stun prod should work. I assume actually getting value out of this requires doc + at least one more person and a fair bit of prep time so you can buy this implant multiple times. Once per like 5 mins it can activate a random effect making a LOT of RC ( like 3 ) but doing stuff like exploding or generating a space carp? yeah, that's pretty fun, it will definitely die without supervision 
 
 ### Beneficial:
 - Stealth one (spitballin ideas: give them a door jacker, tear gas dispensers and a toggleable suit with built in internals and limited spacefaring capability (maybe still affected by cold temp like the emergency EVA) instead of repping invisibility of the ninja/ stealth hardsuit they’d be good at just rushing through departments and opening them up for others to breach. Also some kind of non lethal weapon? rechargable bola or smth) (ling flesh spacesuit code) ( I have some ideas relating to it, what about we make it a sort of ultimate chemistry machine, they can produce Smoke, Flash reactions, sleepy gas, smoke, lube, thermite, basically anything that has an effect that could help a potential thief ) Maybe make it slowly generate any chem they need? Like a chem dispenser but slowly makes all chems. I’m not sure if thats on par with the strength of the rest of the tier 5’s, i guess that really depends on quantity output and how quickly it can be input -> Tier 5 should be somewhere in the ballpark of slightly below the heretic ascension, not as destructive but most DEFINITELY a cause for red alarm. Panopticon is a good example, it can do a ton of harm with its Malf abilities. )
 - W.A.S.P - Weaponised Automatic Security Producer - Person that has the implant can , once per minute , create a drone that is allied to themselves and the Bodymodder. They act like rat king rats - you can command them to stay , follow , attack on point and attack everyone. ( Could maybe use glockroach code to allow them to shoot people as NPCs? ) -> The patients and the doctor are on the non-hit list of the drones if we go with this solution. They are reskinned carp and also ghost roles! ( Rat king code ) ( This is honestly fine, will prove a difficult enemy for the security )
-- Panopticon - Changes the user sprite to be a biomechanical monstrosity , turning them into a malfunctioning AI. Starts as an instant threat to station        ( and has no doomsday protocol ) , so make sure to perform the operation in a safe location! ( Malf AI code ) ( So after implanting there is a short grace period after which they transform and become the malf , with their mutated but not yet malf AI body being a slower than normal cyborg but looks like a derelict cyborg )
+- Panopticon - Changes the user sprite to be a biomechanical monstrosity , turning them into a malfunctioning AI. Starts as an instant threat to station  ( Would need some buffs. Extra CPU at start or make other clients allied? )      ( and has no doomsday protocol ) , so make sure to perform the operation in a safe location! ( Malf AI code ) ( So after implanting there is a short grace period after which they transform and become the malf , with their mutated but not yet malf AI body being a slower than normal cyborg but looks like a derelict cyborg )
 
 ## Game Design Rationale
 
