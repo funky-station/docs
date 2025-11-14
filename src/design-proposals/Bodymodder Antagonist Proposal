@@ -51,6 +51,7 @@ Have over 50 RC in your uplink shift end
 Steal over 15 technologies
 Escape alive and unrestrained
 Have ( 20% of crew ) clients
+Deploy Panopticon ( This antag's version of DAGD )
 
 Uses pinktext so no need to track if completed or not!
 
@@ -140,7 +141,7 @@ Makes user spew out ice crystals and fireballs from ice and fire anoms -> I like
 ### Beneficial:
 - Stealth one (spitballin ideas: give them a door jacker, tear gas dispensers and a toggleable suit with built in internals and limited spacefaring capability (maybe still affected by cold temp like the emergency EVA) instead of repping invisibility of the ninja/ stealth hardsuit they’d be good at just rushing through departments and opening them up for others to breach. Also some kind of non lethal weapon? rechargable bola or smth) (ling flesh spacesuit code) ( I have some ideas relating to it, what about we make it a sort of ultimate chemistry machine, they can produce Smoke, Flash reactions, sleepy gas, smoke, lube, thermite, basically anything that has an effect that could help a potential thief ) Maybe make it slowly generate any chem they need? Like a chem dispenser but slowly makes all chems. I’m not sure if thats on par with the strength of the rest of the tier 5’s, i guess that really depends on quantity output and how quickly it can be input -> Tier 5 should be somewhere in the ballpark of slightly below the heretic ascension, not as destructive but most DEFINITELY a cause for red alarm. Panopticon is a good example, it can do a ton of harm with its Malf abilities. )
 - W.A.S.P - Weaponised Automatic Security Producer - Person that has the implant can , once per minute , create a drone that is allied to themselves and the Bodymodder. They act like rat king rats - you can command them to stay , follow , attack on point and attack everyone. ( Could maybe use glockroach code to allow them to shoot people as NPCs? ) -> The patients and the doctor are on the non-hit list of the drones if we go with this solution. They are reskinned carp and also ghost roles! ( Rat king code ) ( This is honestly fine, will prove a difficult enemy for the security )
-- Panopticon - Changes the user sprite to be a biomechanical monstrosity , turning them into a malfunctioning AI. Starts as an instant threat to station  ( Would need some buffs. Extra CPU at start or make other clients allied? )      ( and has no doomsday protocol ) , so make sure to perform the operation in a safe location! ( Malf AI code ) ( So after implanting there is a short grace period after which they transform and become the malf , with their mutated but not yet malf AI body being a slower than normal cyborg but looks like a derelict cyborg )
+- Panopticon - Changes the user sprite to be a biomechanical monstrosity , turning them into a malfunctioning AI. Starts as an instant threat to station  ( Would need some buffs. Extra CPU at start or make other clients allied? If the second , all clients get turned like revs and station wide annoucement is made )      ( and has no doomsday protocol ) , so make sure to perform the operation in a safe location! ( Malf AI code ) ( So after implanting there is a short grace period after which they transform and become the malf , with their mutated but not yet malf AI body being a slower than normal cyborg but looks like a derelict cyborg )
 
 ## Game Design Rationale
 
