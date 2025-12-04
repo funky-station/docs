@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| Delorphin | :x: | https://github.com/funky-station/funky-station/pull/1948|
+| Delorphin | Yes | https://github.com/funky-station/funky-station/pull/1948|
 
 ## Overview
 
