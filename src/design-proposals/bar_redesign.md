@@ -38,8 +38,6 @@ As it stands, the only way for a bartender to see the composition of liquids is 
 
 The reason why the mixing glass is added is as well as another form of liquid storage. Some recipes produce non-30u amounts of liquid, leading to excess. This is better seen visually when in a transparent vessel over a shaker. This is also useful for determining at a glass if a vessel has liquid, which is important in cases where you need to produce large amounts of a certain beverage without having to resort to sourcing beakers as it is more in line with the bartender's set of equipment.
 
----
-
 ### Removal of liquid dispensers from the bar
 
 #### Implementation
@@ -70,6 +68,18 @@ I believe the latter is more compelling to work with.
 
 In addition to this, a variety of drinks have no "reward" for their creation. A posca "tastes bitter" while its description talks about it being a drink of ancient warriors. Non-alcoholic drinks, in general, do not have unique flavour profiles that help them stand out.
 
+
+---
+### Giving drinks themes in the guidebook
+
+#### Implementation
+
+In the guidebook description of each drinks, other than the lore, add in things like "classy", "strong", "bitter", etc to further categorise and describe the drinks like in VA-11 Hall-A.
+
+#### Motivation
+
+People who visit the bar tend to only order the same drink over and over again rather than varying their choices like people would do in real life. With this, it could start encouraging people to ask for broad categories of drinks or to change their choices based on their character's mood as it gives them a more applicable description to roleplay with.
+
 ---
 
 ### Completion of the non-metamorphic glass set
@@ -93,15 +103,15 @@ Refactor code for non-metamorphic glasses to include sprite layers and the creat
 
 To further increase the uniqueness of a drink beyond just choice of glass and the colour produced, additions such as staws, umbrellas, ice, etc. are all things that can make the drinks stand out. The initial impression of a custom cocktail will be the look, not the words that appear when it is drank, of course. I believe this would, with the above changes, allow for more personal expression in each individual barkeep beyond making the set drinks and increases roleplay opportunities as both the customer and the bartender can use the drink as a catalyst for conversation. It may also potentially draw more players to visit the bar due to it having more novelty and uniqueness on a round by round basis in comparison to the current system, where players are liable to order a regular drink and expect the same result, regardless of the bartender.
 
-### Updates to the guidebook
+### Reworking the metamorphic glass meta
 
 #### Implementation
+Rather than drinks being created in a metamorphic glass, the drink and its respective look will instead be determined by a combination of the correct glass and liquid. There can only be one liquid in the glass. For example, putting a gin and tonic in a coupe glass will give the liquid color and be identified as a coupe glass. Putting it in a collins glass wil label it as a gin and tonic, add the lemon, and possibly have a custom color to match the glass. The metamorphic glass will retain its use only for the more strange drinks like cogchamp or the Manhattan Project. It will also be changed to be more magical or otherwise fantastical in its appearance and  a renaming to suit. 
 
-Change guidebook to explain the above mechanics.
+The metmorphic glass actually works like this in some capacity. For certain liquids, it doesnt change the sprite but instead just adds the fill layers which mix colors as liquids are added and finally update theres a liquid with a valid sprite. The main difference in this newer system would be to revert to the unsprited state when there is more than one liquid type in the vessel as well.
 
 #### Motivation
-
-Due to the deviation from the current system, the guidebook must be updated so that bartenders are aware of the new mechanics and the way things work.
+To me, this is one of the biggest parts of the bartender fantasy that is missing from the current system. Now, bartenders are motivated to be picky with their choice in glassware to fully create a given drink. At the same time, it also gives more room for people to actually  start experimenting and making more custom drinks as they are forced to engage with systems that facilitate them.
 
 ---
 
