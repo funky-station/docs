@@ -1,6 +1,6 @@
 # IPC Rework Document - Draconic Edition
 
-| Designers | Implemented | GitHub Links |
+| Designers | Requires code | GitHub Links |
 |---|---|---|
 | SigmaTheDragon (Discord: Sigma Draconis) | :x: No | N/A |
 
