@@ -39,7 +39,7 @@ Round Start Engines:
 
 Researchable Engines:
 * Nuclear Engine: Lasts longer and produces more power than other engines, giving the IPCs a 5% speed boost, but requires the handling of uranium, which will cause the IPCs to receive unwanted damage.
-* Infinite power and a 10% speed boost, but deals passive radiation damage while the IPC is alive, requiring constant repairs if they are to be kept alive.
+* RTG Engine: Infinite power and a 10% speed boost, but deals passive radiation damage while the IPC is alive, requiring constant repairs if they are to be kept alive.
 
 Other Engines:
 * Syndicate Engine: A nuclear operative only engine, essentially works like the RTG engine without the speed boost and irradiation but is immune to EMPs.
