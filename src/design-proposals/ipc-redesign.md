@@ -102,7 +102,7 @@ The blob should remain largely the same towards IPCs, with the exception that it
 Zombies should also affect IPCs, growing a tumor that slowly infects them. This way they don't become either a hindrance or a counter to zombie rounds.
 
 ### Other Antags:
-Other antagonists such as wizards, ninjas, dragons, cults, etc do not have as many deep rooted issues with IPCs that need to be addressed.
+Other antagonists such as wizards, ninjas, dragons, cults, etc do not have as many deep rooted issues with IPCs that need to be addressed, but the general rework should make security IPCs significantly less OP against all antags.
 
 ## Addressing Current Issues:
 Many issues with IPCs have been brought up, and I hope to address them all:
