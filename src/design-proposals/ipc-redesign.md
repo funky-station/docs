@@ -90,7 +90,7 @@ EMPs should have a ‘lingering’ effect, which should keep the IPC disabled fo
 With new options for poisons and a nocturine-equivalent to use against IPCs (that should be added to both the sleeper kit and the uplink) and the lingering effect EMPs will have when disabling an IPC, both thieves and traitors should be better equipped to handle them both quietly and loudly.
 
 ### Nukies:
-With pressure damage and a unique syndicate Engine that is emp immune, having IPCs in your nukies team should no longer be a liability.
+With pressure damage and a unique syndicate Engine that is emp immune, having IPCs in your nukies team should no longer be a liability nor would the raid suit always be the go to for IPC nukies.
 
 ### Changelings:
 Changelings, with the addition of the lingering EMP effect, should be able to deal with IPCs much more efficiently rather than the EMP being a mere inconvenience.
