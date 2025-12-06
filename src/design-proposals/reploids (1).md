@@ -47,7 +47,7 @@ Assume these changes are made with a basic human as the template. Every organ a 
 
 - I'd like to give them some exotic metal for blood. Copper comes to mind, making the blood blue. It's more scifi.
 
-The main freature, of course, would be Reploids themselves. The lore entry when selecting species would be something like the following:
+The main feature, of course, would be Reploids themselves. The lore entry when selecting species would be something like the following:
 
 | Artificial beings grown in vats to help stabilize colony workforce numbers on planets with poor supply chains or excessively harsh conditions, from batches upon batches of donor imprints from species of all sorts. They have since become a welcome presence amongst many locations, albeit with scrutiny from those who view them as wholly unnatural. |
 |---|
