@@ -58,6 +58,7 @@ Considerations for why they are on sation could be easily rationalized:
 - Degrading capability to cope with the conditions of certain planets naturally phases them out of participation, so they go to work elsewhere.
 - Perhaps, paradoxically, going to work at a megacorp is more “freedom” than whatever is happening on whatever colony they came from.
 
+Naming convention: Common with variable numbering identifier (ex. John Doe 19), Custom variable numbering identifier (ex. M3G4N, Bill-9), Simple defining adjectives with variable numbering identifier (ex. Picky-13, Calm-82, 53-Dull)
 
 For the damage modifiers, I propose the following, to reflec the 'harsh environments, weak immune system' idea:
   
