@@ -56,7 +56,7 @@ Considerations for why they are on sation could be easily rationalized:
 - Degrading capability to cope with the conditions of certain planets naturally phases them out of participation, so they go to work elsewhere.
 - Perhaps, paradoxically, going to work at a megacorp is more “freedom” than whatever is happening on whatever colony they came from.
 
-Naming convention: Common with variable numbering identifier (ex. John Doe 19), Custom variable numbering identifier (ex. M3G4N, B1ll-9), Simple defining adjectives with variable numbering identifier (ex. Picky-13, Calm-82, 53-Dull)
+`Naming convention:` Common with variable numbering identifier (ex. John Doe 19), Custom variable numbering identifier (ex. M3G4N, B1ll-9), Simple defining adjectives with variable numbering identifier (ex. Picky-13, Calm-82, 53-Dull)
 
 For the damage modifiers, I propose the following, to reflec the 'harsh environments, weak immune system' idea:
   
@@ -108,6 +108,16 @@ This kind of thing seems as if it'd be a no-brainer for the kind of sandbox stuf
 - The main point of player interaction is player expression itself. Making cool things is cool.
 - Most importantly, though, the player is now exposed to all of the mechanics that one is expected to deal with in a typical SS13 round. They are no longer a `blatant obstacle` for lings or zombies, no longer something that people outright need to deal with. The ion is now for things like rogue borgs, mechs, or other 'purely' mechanical threats, whilst still doing _something_ to Reploids that flavors them as having an underlying mechanical nature.
 
+## How Does This Fix Things, Thematically?
+
+Lets tackle this bit by bit.
+- Cyborg logic conflict is resolved.
+> - Reploids do not involve positronic brains and are biomechanical. This implicitly seperates them from cyborgs; as in, there is no longer a question as to 'what' makes them different from the lawed silicons on the station.
+> - Reploids make greater sense as to 'why' they are around __alongside__ cyborgs. Seeking opportunity, much like every other living, breathing thing on the station.
+> - Cyborgs can now go back to their assumed role alongside mechs as high-value, corporate-owned equipment, rather than being considered 'worse IPCs.'
+- It would make too much sense for IPCs to be prioritized by NT as their existence is _so efficient_ in comparison to living creatures; Reploids now take the same kind of resources as anyone else, and therefore would be employed only for the same reasons rather than a lore-perceived superiority.
+- Reploids do not need specific lore, laws, or justification to exist, and do not need mechanically enforced limitations; these are the kind of things often introduced on other stations to keep them around, which Taydeo has expressed explicit disinterest in.
+- The final peice is that of building parts. I assume those parts would be renamed or removed. I will make a seperate design doc for 'in-round metal prosthetics' for Robotics to provide, if the server does not already have them.
 
 ## Administrative & Server Rule Impact (if applicable)
 
