@@ -25,7 +25,7 @@ This takes out *several* lines of SOP, making it shorter and more comprehensible
 
 #### New Sub-SOP
 
-Earlier I mentioned Science SOP focusing on the front desk too much, to solve this I have a simple idea for issues like this. Make a new Sub-SOP for that part of the job. If someone is doing regular science work they do not need to even look at this document, and if someone is doing this part it should be made simple and short. Continuing with the science example, Scientist SOP can be made to focus more on the Science part of the job, with the General SOP containing a line like this: "All Science Roles are expected to adhere to the Front Desk Guidelines when taking orders or processing requests from the crew."
+Earlier I mentioned Science SOP focusing on the front desk too much, to solve this I have a simple idea for issues like this. Make a new Sub-SOP for that part of the job. If someone is doing regular science work they do not need to even look at this document, and if someone is doing this part it should be made simple and short. Continuing with the science example, Scientist SOP can be made to focus more on the Science part of the job, with the General SOP containing a line like this: "All Science Roles are expected to adhere to the Front Desk Guidelines when taking orders or processing requests from the crew." This should be a way to regulate things more while having less SOP to read for just doing your main job, and provide more of a reference sheet then pure SOP.
 
 #### New Alert SOP
 
@@ -34,6 +34,14 @@ Alert SOP sucks. It does. Sorry to whoever made it but it doesn't align with wha
 #### Seriously Silly SOP
 
 I want more Funky SOP to be Seriously Silly. A perfect example of this (and my favorite SOP) is the Clown's first SOP, which allows them to slip LITERALLY ANYONE! This is hilarious and we should have more examples of it. SOP should be written like it is 90% what the role should be doing, and 10% what some out of touch bureaucrat would think that roles does or just something that's a funny addition. SOP should help people know what they should be doing but also encourage some of that sweet IAA/CC RP.
+
+#### SOP Number/Referencing
+
+I would also like to figure out a system for SOP to be easily referenced in paperwork or just quicker in general. Something like: [Department]-Role-Alert-Number or [Sec]-Officer-Blue-2. This should make communicating specific SOP easier. This is just an example and certain considerations need to me made in terms of how specific we want referencing to be and how or if it should be in the documents.
+
+#### SOP Formatting Guide
+
+A guide for future contributors on how SOP has been formatted should be created to keep things consistent. I made a PR formatting a lot of SOP but we need to formalize how we do it so it can stay consistent in future PRs.
 
 ## Game Design Rationale
 
@@ -45,12 +53,28 @@ SOP is not going to be a part of every role, and that's fine. For some roles it 
 
 ## Administrative & Server Rule Impact (if applicable)
 
-- Does this feature introduce any new rule enforcement challenges or additional workload for admins? SOP is enforced in-character, but seeing as this is meant to make SOP easier for everyone, this should hopefully reduce the admin intervention for SOP.
-- Could this feature increase the likelihood of griefing, rule-breaking, or player disputes? No. In-character disputes are likely, but that's RP, that's why we are here.
-- How are the rules enforced mechanically by way the feature will be implemented? Same as the current system, in-character RP via CC staff.
+- Does this feature introduce any new rule enforcement challenges or additional workload for admins?
+
+    SOP is enforced in-character, but seeing as this is meant to make SOP easier for everyone, this should hopefully reduce the admin intervention for SOP.
+
+- Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?
+
+    No. In-character disputes are likely, but that's RP, that's why we are here.
+
+- How are the rules enforced mechanically by way the feature will be implemented?
+
+    Same as the current system, in-character RP via CC staff.
 
 # Technical Considerations
 
-- Are there any anticipated performance impacts? No way.
-- Does the feature require new systems, UI elements, or refactors of existing ones? Only changes to the guidebook, but no UI or new systems.
-- For required UI elements, give a short description or a mockup of how they should look like (for example a radial menu, actions & alerts, navmaps, or other window types) N/A
+- Are there any anticipated performance impacts?
+
+    No way.
+
+- Does the feature require new systems, UI elements, or refactors of existing ones?
+
+    Only changes to the guidebook, but no UI or new systems.
+
+- For required UI elements, give a short description or a mockup of how they should look like (for example a radial menu, actions & alerts, navmaps, or other window types)
+
+    N/A
