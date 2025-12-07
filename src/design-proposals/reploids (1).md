@@ -6,7 +6,7 @@
 
 ## Overview
 
-Completely replaces the niche IPCs occupy; that being a highly customizeable synthetic speices. Reduces the gameplay differences to ones more in line with the milder changes that other races have; such as Slimes, Vox, Thaven, and the like. This avoids both lore and mechanical pitfalls associated with IPCs. Long has this issue plagued many-a-server. Now, ideally, it will plague one less. But the hole there should be patched up, and that's what this aims to address. Scifi 'synthetic' species are always cool to explore, and, ideally, this will expand the options farther past 'just a robot' without letting the existing ones die in the cold.
+Completely replaces the niche IPCs occupy; that being a highly customizeable synthetic speices. Reduces the gameplay differences to ones more in line with the milder changes that other races have; such as Slimes, Vox, Thaven, and the like. This avoids both lore and mechanical pitfalls associated with IPCs. Long has this issue plagued many-a-server. Now, ideally, it will plague one less. But the hole there should be patched up, and that's what this aims to address. Scifi 'synthetic' species are always cool to explore, and, ideally, this will expand the options farther past 'just a robot' without letting the existing ones die in the cold. Also, this has a few options: The easy way, and the not easy way.
 
 ## Background
 
@@ -33,21 +33,19 @@ As we can see, the biggest points are as follows:
 
 
 Assume these changes are made with a basic human as the template. Every organ a 'basic' species has will be here. Heart, brain, lungs, stomach, kidneys, liver, eyes. All present and accounted for.
+| Easy Way |
+|----|
+| In oder to maintain/preserve existing characters, the main and **most important** thing that needs to be done is...the porting of most/all markings, sounds, or hair options to this new species (except maybe "robotic wings;" those look rediculous). All those unique looking IPCs are thereby salvaged as Reploids. I'm uncertain on adding anything from vox, slimes, thaven, or diona. |
 
-- In oder to maintain/preserve existing characters, the main and **most important** thing that needs to be done is...the porting of most/all markings or air options to this new species (except maybe "robotic wings;" those look rediculous). All those unique looking IPCs are thereby salvaged as Reploids. I'm uncertain on adding anything from vox, slimes, thaven, or diona.
+| Less easy Way |
+|----|
+| Existing IPC markings, sounds, and emotes will be ported to the class, but additional markings will be presented instead of also porting more from other species. The visual aesthetic and the fact that they are “artificial” are the most important parts to preserve, so future marking additions would want to lean into that and _not_ into lifting assets from other races. In this theoretical version, the main templates for Reploids are solely humans, and they are altered in order to fit the environment they are in. ||
 
+The basic color pallet should allow from a high degree of choice; not limited to human skin tones. I'm assuming people can be trusted with this.
 
-- The ability to replicate some of the other species specific traits via the trait selection menu, such as playing MIDIs, webspinning, or flight is apprecaited, but `very much not necessary`. I will make some proposals for native traits later in this section.
+- The ‘meat’ that is gained from them should be called `“Synthflesh”`, as well should the organs be flavortexted as `"Synthetic [Organ"]`.I will suggest copper-based, horseshoe-crab-esque blue blood for them, as it further visually differentiates them from the baseline and makes it apparent upon damage what they are by default.
 
-- The 'sounds' from IPCs will be ported to these; the robotic laugh/scream, the sound that plays when they speak. The flavor as well; the beeps/boops on text, all of the fonts, everything of that nature. The idea is to drive home that they are artificial, even ones that are potentially 'passing' as human.
-
-- The basic color pallet should allow from a high degree of choice; not limited to human skin tones. I'm assuming people can be trusted with this.
-
-- A new set of sprites will be required for the basic body. I am leaning heavily on the asthetics of replikas from Signalis for this, with the most basic, non-marking'd sprites being humanoids with metal arms and legs.
-
-- I'd like to give them some exotic metal for blood. Copper comes to mind, making the blood blue. It's more scifi.
-
-The main feature, of course, would be Reploids themselves. The lore entry when selecting species would be something like the following:
+- The main feature, of course, would be Reploids themselves. The lore entry when selecting species would be something like the following:
 
 | Artificial beings grown in vats to help stabilize colony workforce numbers on planets with poor supply chains or excessively harsh conditions, from batches upon batches of donor imprints from species of all sorts. They have since become a welcome presence amongst many locations, albeit with scrutiny from those who view them as wholly unnatural. |
 |---|
@@ -62,19 +60,19 @@ Naming convention: Common with variable numbering identifier (ex. John Doe 19), 
 
 For the damage modifiers, I propose the following, to reflec the 'harsh environments, weak immune system' idea:
   
-  Cold: -50%
+  `Cold: -50%`
   
-  Heat: -50%
+  `Heat: -50%`
   
-  Shock: +100%
+  `Shock: +100%`
   
-  Cellular: +75%
+  `Cellular: +75%`
   
-  Poison: +50%
+  `Poison: +50%`
   
-  Radiation: +50%
+  `Radiation: +50%`
 
-`Native Traits: These are **potential** mechanics that might be added to them in order to give them some flavor.
+`Native' Traits: These are **potential** mechanics that might be added to them in order to give them some flavor.
 - Damage Assesment
 
 Using an action, accurately deduce the state of one's internal, if they are sick, what is hurt. Basically, personal vitals sensors. This leans into them being artificial, and additionally being fully aware of their own artificial nature.
