@@ -103,9 +103,11 @@ This kind of thing seems as if it'd be a no-brainer for the kind of sandbox stuf
 
 ## Roundflow & Player interaction
 
-- The effect upon the round is mup to the whim of the player RPing out the character they've made. People seem to like playint robots, so. Here's something similar, so that they can keep making good impressions on others.
+- If the native traits make it in, they can now interact with all the basic mechanics that everyone else does. Now with funky robo-flavor.
+- People seem to like playing robots, and (rp-wise, at least), people like to interact with them. Here's something similar, so that they can keep making good impressions on others.
 - The main point of player interaction is player expression itself. Making cool things is cool.
 - Most importantly, though, the player is now exposed to all of the mechanics that one is expected to deal with in a typical SS13 round. They are no longer a `blatant obstacle` for lings or zombies, no longer something that people outright need to deal with. The ion is now for things like rogue borgs, mechs, or other 'purely' mechanical threats, whilst still doing _something_ to Reploids that flavors them as having an underlying mechanical nature.
+
 
 ## Administrative & Server Rule Impact (if applicable)
 
