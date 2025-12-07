@@ -27,7 +27,7 @@ As we can see, the biggest points are as follows:
 > - Can IPCs exist in a gameplay sense without lore as baggage in the first place?
 > - Why doesn't NT just hire exclusively IPCs if they have an army of funtionally deathless machines who's posibrains they can just rehome in a pinch?
 > - If the only difference between an IPC and a cyborg is laws, what's the point?
-> - If they can't be rebuilt, why are players able to build parts for them? (This one I am actually usnure of, I didn't even know that was a limitation in ss14)
+> - If they can't be rebuilt, why are players able to build parts for them? (This one I am actually unsure of, I didn't even know that was a limitation in ss14)
 
 ## Features to be added
 
@@ -56,7 +56,7 @@ Considerations for why they are on sation could be easily rationalized:
 - Degrading capability to cope with the conditions of certain planets naturally phases them out of participation, so they go to work elsewhere.
 - Perhaps, paradoxically, going to work at a megacorp is more “freedom” than whatever is happening on whatever colony they came from.
 
-Naming convention: Common with variable numbering identifier (ex. John Doe 19), Custom variable numbering identifier (ex. M3G4N, Bill-9), Simple defining adjectives with variable numbering identifier (ex. Picky-13, Calm-82, 53-Dull)
+Naming convention: Common with variable numbering identifier (ex. John Doe 19), Custom variable numbering identifier (ex. M3G4N, B1ll-9), Simple defining adjectives with variable numbering identifier (ex. Picky-13, Calm-82, 53-Dull)
 
 For the damage modifiers, I propose the following, to reflec the 'harsh environments, weak immune system' idea:
   
@@ -90,7 +90,7 @@ During an Ion storm, there is a percentage chance to apply the Emagged status. A
 
 Consuming oil, space lube, or 'normal' liquids (Milk, water, soda, etc) will sate hunger and thirst simultaneously.
 
-Consuming solid foods (any interaction that triggers the 'chew' sfx) will also sate both, but provide a reduction to speed and stamina for a while.
+Consuming solid foods (basically, any interaction that triggers the 'chew' sfx) will also sate both, but provide a reduction to speed and/or stamina for a while.
 
 Although radiation does a decent amount of damage to them, a small amount of uranium could serve to stave off hunger or slightly increase stamina/speed. Alternatively, welder fuel could work here, additionally acting as an intoxicant in the same vein as alcohol (which would still effect them as normal).
 
@@ -99,7 +99,7 @@ Although radiation does a decent amount of damage to them, a small amount of ura
 At a certain point in a Malfunctioning AI's capability, something like a virus, transmitted through an electrified item, will enslace the nervous system and mind of Reploids to the AI itself. They will be prompted to follow the AI's instructions; be that to blend in, or to do specific tasks. They will be encouraged NOT to announce what has happened to them. This should require a flag that marks the object as 'infected', and a text string that informs the Reploid of what is going on; this is most similar to the mechanics of a heretic's ghoul.
 ## Game Design Rationale
 
-This kind of thing seems as if it'd be a no-brainer for the kind of sandbox stuff Funky seems to want to provide. Not only that, there ends up room for quite a bit _more_ than what was bargained for initially, solely from customization potential alone. I'm unsure of what more one would want to add mechanically; but that can be fleshed out in the future. Making the basic concept exist is the most important part; all the mechanical stuff can be fleshed out later, if that is more beneficial. 
+This kind of thing seems as if it'd be a no-brainer for the kind of sandbox stuff Funky seems to want to provide. Not only that, there ends up room for quite a bit _more_ than what was bargained for initially, as it's no longer 'just a robot' and etends into bio-organic territory, too. I'm unsure of what more one would want to add mechanically; but that can be fleshed out in the future. Making the basic concept exist is the most important part; all the mechanical stuff can be fleshed out later, if that is more beneficial. 
 
 ## Roundflow & Player interaction
 
