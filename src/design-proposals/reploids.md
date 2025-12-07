@@ -47,7 +47,7 @@ The basic color pallet should allow from a high degree of choice; not limited to
 
 - The main feature, of course, would be Reploids themselves. The lore entry when selecting species would be something like the following:
 
-| Artificial beings grown in vats to help stabilize colony workforce numbers on planets with poor supply chains or excessively harsh conditions, from batches upon batches of donor imprints from species of all sorts. They have since become a welcome presence amongst many locations, albeit with scrutiny from those who view them as wholly unnatural. |
+| Artificial beings grown in vats to help stabilize colony workforce numbers on planets with poor supply chains or excessively harsh conditions, from batches upon batches of donor imprints from people of all walks of life. They have since become a welcome presence amongst many locations, albeit with scrutiny from those who view them as wholly unnatural. |
 |---|
 | Because of intentionally weakened immune systems and suppressed reception to pain, Reploids seamlessly integrate technology and flesh into one another; often, it can be hard, if not impossible, to tell where one begins and the other ends. |
 
@@ -66,11 +66,13 @@ For the damage modifiers, I propose the following, to reflect the 'harsh environ
   
   `Shock: +100%`
   
-  `Cellular: +75%`
+  `Cellular: +10%`
   
-  `Poison: +50%`
+  `Poison: +50%` [Alternative idea; make all chems metabolize slower]
   
   `Radiation: +50%`
+
+  
 
 `Native' Traits: These are **potential** mechanics that might be added to them in order to give them some flavor.
 - Damage Assesment
