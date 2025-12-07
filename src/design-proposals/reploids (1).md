@@ -82,11 +82,10 @@ Using one of the unused letters or a number (say, :b or :0 whatever), Reploids c
 - Emag interaction
 
 Becoming Emagged causes reploids to experience auditory and visual hallucinations, and induces the 'drugged/drunk' filter on ocassional intervals. They would begin to twitch, visually. Potentially fun things might additionally be cuasing the combat mode to toggle at random. The "total" time that this occurs should be limited, somewhere between five and fifteen minutes. The idea to is impair them, not to completely debilitate them for the rest of a given round.
+- Ion Storm/Ion damage/EMP interaction
 
-- Ion Storm interaction
+Ion damage applies the ‘Emagged’ status for a short, intense duration. This is, by far, a better result than simply dying of death, as IPCs are prone to doing when confronted with Ions generally. Ion storms, however, will have a chance to do this during their duration, with an even shorter duration, and milder effects.
 
-During an Ion storm, there is a percentage chance to apply the Emagged status. Alternatively, induces hunger/thirst.
-- Chemical/Food Interaction (WIP)
 
 Consuming oil, space lube, or 'normal' liquids (Milk, water, soda, etc) will sate hunger and thirst simultaneously.
 
