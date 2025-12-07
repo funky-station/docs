@@ -58,7 +58,7 @@ Considerations for why they are on sation could be easily rationalized:
 
 `Naming convention:` Common with variable numbering identifier (ex. John Doe 19), Custom variable numbering identifier (ex. M3G4N, B1ll-9), Simple defining adjectives with variable numbering identifier (ex. Picky-13, Calm-82, 53-Dull)
 
-For the damage modifiers, I propose the following, to reflec the 'harsh environments, weak immune system' idea:
+For the damage modifiers, I propose the following, to reflect the 'harsh environments, weak immune system' idea:
   
   `Cold: -50%`
   
