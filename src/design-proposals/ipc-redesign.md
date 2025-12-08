@@ -86,7 +86,9 @@ The advanced eyes used by IPCs require high grade materials to heal. These come 
 
 ### Surgery:
 Surgery can be done to repair damage on IPCs, similar to how it is currently done, however it would also be possible to repair radiation damage with surgery on top of burn and brute damages. (IPCs won't be essentially RRed if they go ssd near some uranium!)
-
+  
+  
+  
 Note: Having topicals allows the creation of 'mechanical repair kits' and 'advanced mechanical repair kits' for more advanced healing, alongside variations of these for burn, brute, radiation and even a combat medkit version too.
 
 
@@ -125,7 +127,7 @@ With these changes IPCs should have ways to be dealt with by all antagonists tha
 Now significantly weaker in combat, IPCs will no longer be the go-to security species. Oftentimes having IPCs as security may be an issue especially when dealing with enemies equipped with EMPs. This should hopefully deal with the issue of power gaming via choosing the best species to deal with station threats. IPCs will no longer be able to simply waltz into space with some winter clothes either, they'll require proper space protection and, depending on the engine they use, even an air supply.
 
 ### “IPCs are inconsistent with cyborgs”
-Hopefully by making so that medbay can also print their limbs and that their brain does not work like a positronic brain, we can increase the gap between cyborgs and IPCs enough that they will be shown as their own unique species. Much like medbay can print limbs but not rebuild a person from scratch, robotics shouldn't be able to do it either, as the resources required for such advanced manufacturing wouldn't be available in a fringe research station.
+By making so that medbay can also print their limbs and that their brain does not work like a positronic brain, we can increase the gap between cyborgs and IPCs enough that they will be shown as their own unique species. Much like medbay can print limbs but not rebuild a person from scratch, robotics shouldn't be able to do it either, as the resources required for such advanced manufacturing wouldn't be available in a fringe research station.
 With the modification of the brain it should also show that the IPCs aren't cyborgs, but rather quite different and significantly more advanced, and because of that they cannot be built, only repaired. Hopefully this should be enough to show new players that IPCs cannot be built like cyborgs.
 
 
