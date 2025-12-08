@@ -34,16 +34,16 @@ As we can see, the biggest points are as follows:
 Assume these changes are made with a basic human as the template. Every organ a 'basic' species has will be here. Heart, brain, lungs, stomach, kidneys, liver, eyes. All present and accounted for.
 | The Way With Some Effort |
 |----|
-| Existing IPC markings, sounds, and emotes will be ported to the class, but additional markings will be presented instead of also porting more from other species. The visual aesthetic and the fact that they are “artificial” are the most important parts to preserve, so future marking additions would want to lean into that and _not_ into lifting assets from other races. In this theoretical version, the main templates for Reploids are solely humans, and they are altered in order to fit the environment they are in. There would probably be some redesigning on part of the players to salvage their previous character concepts. ||
+| Existing __UNIQUE__ IPC markings, sounds, and emotes will be ported to the class, with additional markings will be presented as new content instead of also porting more from other species. The visual aesthetic and the fact that they are “artificial” are the most important parts to preserve, so future marking additions would want to lean into that and _not_ into lifting assets from other races. In this theoretical version, the main templates for Reploids are solely humans, and they are altered in order to fit the environment they are in. There would probably be some redesigning on part of the players to salvage their previous character concepts. ||
 
 | The Easy Way |
 |----|
-| In oder to maintain/preserve existing characters, the main and **most important** thing that needs to be done is...the porting of most/all markings, sounds, or hair options to this new species (except maybe "robotic wings;" those look rediculous). All those unique looking IPCs are thereby salvaged as Reploids. I'm uncertain on adding anything from vox, slimes, thaven, or diona. |
+| In oder to maintain/preserve existing characters, the main and **most important** thing that needs to be done is...the porting of most/all markings, sounds, or hair options to this new species (except maybe "robotic wings;" those look ridiculous). All those unique looking IPCs are thereby salvaged as Reploids. I'm uncertain on adding anything from vox, slimes, thaven, or diona. |
 
 
 The basic color pallet should allow from a high degree of choice; not limited to human skin tones. I'm assuming people can be trusted with this.
 
-- The ‘meat’ that is gained from them should be called `“Synthflesh”`, as well should the organs be flavortexted as `"Synthetic [Organ"]`.I will suggest copper-based, horseshoe-crab-esque blue blood for them, as it further visually differentiates them from the baseline and makes it apparent upon damage what they are by default.
+- The ‘meat’ that is gained from them should be called `“Synthflesh”`, as well should the organs be flavortexted as `"Synthetic [Organ"]`.I will suggest copper-based, horseshoe-crab-esque blue blood for them, as it further visually differentiates them from the baseline and makes it apparent upon damage what they are by default. [If the "Synthetic" trait gets added, I will isntead lobby for this to be attached to the species permanently]
 
 - The main feature, of course, would be Reploids themselves. The lore entry when selecting species would be something like the following:
 
