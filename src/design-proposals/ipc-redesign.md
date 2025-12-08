@@ -2,7 +2,7 @@
 
 | Designers | Requires code | GitHub Links |
 |---|---|---|
-| SigmaTheDragon (Discord: Sigma Draconis) | :x: No | N/A |
+| SigmaTheDragon (Discord: Sigma Draconis) | :x: Yes | N/A |
 
 
 ## Overview
