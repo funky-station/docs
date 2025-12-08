@@ -34,7 +34,7 @@ As we can see, the biggest points are as follows:
 Assume these changes are made with a basic human as the template. Every organ a 'basic' species has will be here. Heart, brain, lungs, stomach, kidneys, liver, eyes. All present and accounted for.
 | The Way With Some Effort |
 |----|
-| Existing __UNIQUE__ IPC markings, sounds, and emotes will be ported to the class, with additional markings will be presented as new content instead of also porting more from other species. The visual aesthetic and the fact that they are “artificial” are the most important parts to preserve, so future marking additions would want to lean into that and _not_ into lifting assets from other races. In this theoretical version, the main templates for Reploids are solely humans, and they are altered in order to fit the environment they are in. There would probably be some redesigning on part of the players to salvage their previous character concepts. ||
+| Existing __UNIQUE__ IPC markings, sounds, and emotes will be ported over, with additional markings will be presented as new content instead of also porting more from other species. The visual aesthetic and the fact that they are “artificial” are the most important parts to preserve, so future marking additions would want to lean into that and _not_ into lifting assets from other races. In this theoretical version, the main templates for Reploids are solely humans, and they are altered in order to fit the environment they are in. There would probably be some redesigning on part of the players to salvage their previous character concepts. ||
 
 | The Easy Way |
 |----|
