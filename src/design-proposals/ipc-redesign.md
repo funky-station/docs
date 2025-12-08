@@ -4,9 +4,11 @@
 |---|---|---|
 | SigmaTheDragon (Discord: Sigma Draconis) | :x: No | N/A |
 
+
 ## Overview
 IPCs, being so different to other species, are hard to balance. They must remain both unique and balanced, which can be hard to achieve. With this doc I aim to rebuild the IPCs ground up to bring them up to the standard they should be in.
 For this rework IPCs would have to be remade. Most of the code that IPCs currently have would have to be removed and standardized to be the same as other species as to remove much of the technical woes they cause.
+
 
 ## Base Modifications
 Base IPCs will not need air but will still be affected by pressure, taking increased amounts of blunt damage when compared to other species as their components break down, but these can change depending on the ‘engine’ which will be explained later.
@@ -14,6 +16,7 @@ IPCs will be immune to poison and asphyxiation, but take ion damage and 20% more
 They will have 90 normal health and 90 critical health (for a total of 180). Much like other species, IPCs will slowly die once crit, but instead of asphyxiation damage they would slowly take shock damage. Instead of gasping, they would do a ‘[CHARACTER]’s wires fizzle as they short circuit!’ emote.
 Defibbing an IPC shocks everyone around and drains their battery, so to revive an IPC a new item is required: The IPC Reboot Key. These keys would be medium items that use batteries, and can be used on IPCs to reboot them. These keys would be available in robotics round start and be printable in both the protolathe and medical lathe.
 Finally, IPCs will not be able to rot due to their mechanical nature.
+
 
 ## Metabolism, Engines and Power
 
@@ -44,12 +47,14 @@ Researchable Engines:
 Other Engines:
 * Syndicate Engine: A nuclear operative only engine, essentially works like the RTG engine without the speed boost and irradiation but is immune to EMPs.
 
+
 ## Oil and Blood
-IPCs will use oil as their blood. In machines, oil is used in lubrication, cleaning and cooling. All this to say that, the lower the oil, the slower they get. They cannot regenerate their oil either due to being inorganic, so they have to keep an eye on it!
+IPCs will use oil as their blood. In machines, oil is used in lubrication, cleaning and cooling. All this to say that, the lower the oil, the slower they get. They cannot regenerate their oil either due to being inorganic, so they have to keep an eye on it! They do however posses self-sealing oil tanks and pipes (a technology that exists since the 1940's), so they slowly stop bleeding as any organic would.
 Certain chems will regenerate their oil, such as:
 * Oil: The thing they bleed. If it's leaking, scooping some up and reinjecting into it will help a little, but it's only a stopgap solution.
 * Space Lube: Saline equivalent, great at restoring the oil of IPCs.
 * Ice: Not very good at restoring oil and it cools down the user, potentially causing damage, but it may be useful in a pinch.
+
 
 ## Organs and Body
 
@@ -62,28 +67,33 @@ IPCs lack some organs other species have, but still have a decent collection.
 * Lungs: IPCs do not have real lungs, instead they have a fuse box. If it is removed the IPC will start short circuiting. (Similar to a normal lung, but doesn't allow them to breathe, rather just stopping them from short circuiting (asphyxiating) directly.)
 * Stomach: IPCs have their engines in the place of their stomach. These engines define how the IPC powers itself. (An unique organ that will change how IPCs power themselves.)
 
+
 ## Healing Damage
 ### Brute Damage:
-Brute damage can be healed with two items: Steel and Plasteel. Steel would heal 3 brute damage per steel, taking a total of 60 steel to heal an IPC from dead to full. Plasteel however is significantly more effective, healing 6 per Plasteel. Of course, they are more expensive and much harder to come by.
+Brute damage can be healed with two items: Emergency Repair Foam and Nanometal Plates. Both are small 1x2 items that stack up to 10 that are craftable at exofabs and medlathes and that act as topicals to heal IPCs, like all the other topicals that will come later. The Emergency Repair Foam can be crafted for 0.25 Steel and Glass, and can heal up to 6 brute damage. Nanometal Plates however are more advanced, requiring 1 Steel, 0.5 Plasteel and 0.1 Silver, and is able to repair up to 12 damage. These two topicals also stop bleeding.
 
 ### Non-Shock Burns:
-Burn damage, such as heat, cold and caustic, can be fixed via Plastic and Durathread. Plastic heals only 3 burn damage per plastic, but Durathread being the more advanced option will heal 6 per plastic.
+Burn damage, such as heat, cold and caustic, can be fixed via Burn Removal Solution and Casing Repair Kits. Healing 6 and 12 respectively, the Burn Removal Solution costs 0.5 plastic and the Casing Repair Kits cost 0.2 gold, 0.2 Silver and 1 Steel.
 
 ### Shock Burns and Ion:
-These types of damage often affect the circuitry of IPCs, requiring cables to fix. The amount healed per cable depends on the quality of the cable, being 2/4/6 for LV/MV/HV respectively.
+These types of damage often affect the circuitry of IPCs, requiring a specific topical to fix: the Advanced Multipurpose Circuit. This topical costs 0.4 steel, 0.2 Plastic, 0.1 gold and 0.1 silver and is able to heal 8 Ion or Shock damage.
 
 ### Radiation:
-Radiation damages the more delicate and advanced internals of the IPC. To repair radiation damage, they require plasma, which would heal 5 rad per plasma (requiring 36 to heal from dead to full.)
+Radiation damages the more delicate and advanced internals of the IPC. To repair radiation damage, they require Positronic Components. These components cost 0.2 Steel, 0.5 Plasma, 0.1 Gold, 0.1 Silver and 0.5 Glass per component but heal 10 Radiation damage.
 
 ### Blindness:
-The advanced eyes used by IPCs require high grade materials to heal. These come in the form of plasma glass, requiring at least 5 of it to heal an IPC that had welded without a mask.
+The advanced eyes used by IPCs require high grade materials to heal. These come in the form of Replacement Lenses. These do not stack and cost 5 Plasma, 2 Steel and 5 Glass to make, but completely heal the blindness of an IPC. They can be crafted both in the medlathe and in the exofab.
 
 ### Surgery:
 Surgery can be done to repair damage on IPCs, similar to how it is currently done, however it would also be possible to repair radiation damage with surgery on top of burn and brute damages. (IPCs won't be essentially RRed if they go ssd near some uranium!)
 
+Note: Having topicals allows the creation of 'mechanical repair kits' and 'advanced mechanical repair kits' for more advanced healing, alongside variations of these for burn, brute, radiation and even a combat medkit version too.
+
+
 ## Other
 ### EMPs:
 EMPs should have a ‘lingering’ effect, which should keep the IPC disabled for at least 10 to 20 seconds regardless of the engine installed. Electric engines would be especially affected by this as they'd have to have someone else swap their cell after the lingering effect passed or have to slowly walk to a cyborg recharger.
+
 
 ## Antagonist Interactions:
 ### Traitors & Thieves:
@@ -104,6 +114,7 @@ Zombies should also affect IPCs, growing a tumor that slowly infects them. This 
 ### Other Antags:
 Other antagonists such as wizards, ninjas, dragons, cults, etc do not have as many deep rooted issues with IPCs that need to be addressed, but the general rework should make security IPCs significantly less OP against all antags.
 
+
 ## Addressing Current Issues:
 Many issues with IPCs have been brought up, and I hope to address them all:
 
@@ -116,6 +127,7 @@ Now significantly weaker in combat, IPCs will no longer be the go-to security sp
 ### “IPCs are inconsistent with cyborgs”
 Hopefully by making so that medbay can also print their limbs and that their brain does not work like a positronic brain, we can increase the gap between cyborgs and IPCs enough that they will be shown as their own unique species. Much like medbay can print limbs but not rebuild a person from scratch, robotics shouldn't be able to do it either, as the resources required for such advanced manufacturing wouldn't be available in a fringe research station.
 With the modification of the brain it should also show that the IPCs aren't cyborgs, but rather quite different and significantly more advanced, and because of that they cannot be built, only repaired. Hopefully this should be enough to show new players that IPCs cannot be built like cyborgs.
+
 
 ## Final Considerations:
 IPCs are a species that many love in Funky. Several IPC characters are seen every day, some becoming iconic or even a staple of everyday funky rounds. Hopefully with this rework of IPCs, most if not all of the current issues plaguing the species can be resolved, and we can return to hugging the stupid little robots we love.
