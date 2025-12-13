@@ -80,16 +80,13 @@ Becoming Emagged causes reploids to experience auditory and visual hallucination
 - Ion Storm/Ion damage/EMP interaction
 
 Ion damage (and whatever EMPs do) applies the ‘Emagged’ status for a short, intense duration. This is, by far, a better result than simply dying of death, as IPCs are prone to doing when confronted with Ions generally. Ion storms, however, will have a chance to do this during their duration, with an even shorter duration, and milder effects.
+- Liquid Diet
 
 
-Consuming oil, space lube, or 'normal' liquids (Milk, water, soda, etc) will sate hunger and thirst simultaneously.
+Reploids are limited to liquid food only. Maybe some special reagents in the list to let them additionally get drunk off of welder fluid, space lube, or some other "common" chem.
+- Unique antagonist interaction: Personality Reformat (MALF-AI).
 
-Consuming solid foods (basically, any interaction that triggers the 'chew' sfx) will also sate both, but provide a reduction to speed and/or stamina for a while.
-
-Although radiation does a decent amount of damage to them, a small amount of uranium could serve to stave off hunger or slightly increase stamina/speed. Alternatively, welder fuel could work here, additionally acting as an intoxicant in the same vein as alcohol (which would still effect them as normal).
-- Unique antagonist interaction: Personality Reformat (MALF-AI)
-
-At a certain point in a Malfunctioning AI's capability, something like a virus, transmitted through an electrified item, will enslace the nervous system and mind of Reploids to the AI itself. They will be prompted to follow the AI's instructions; be that to blend in, or to do specific tasks. They will be encouraged NOT to announce what has happened to them. This should require a flag that marks the object as 'infected', and a text string that informs the Reploid of what is going on; this is most similar to the mechanics of a heretic's ghoul, or maybe a rev.
+Probably not going to happen but cool anyways. At a certain point in a Malfunctioning AI's capability, something like a virus, transmitted through an electrified item, will enslace the nervous system and mind of Reploids to the AI itself. They will be prompted to follow the AI's instructions; be that to blend in, or to do specific tasks. They will be encouraged NOT to announce what has happened to them. This should require a flag that marks the object as 'infected', and a text string that informs the Reploid of what is going on; this is most similar to the mechanics of a heretic's ghoul, or maybe a rev. The idea here is to force laws onto something that would never have them. And to make malf cooler.
 ## Game Design Rationale
 
 This kind of thing seems as if it'd be a no-brainer for the kind of sandbox stuff Funky seems to want to provide. Not only that, there ends up room for quite a bit _more_ than what was bargained for initially, as it's no longer 'just a robot' and etends into bio-organic territory, too. I'm unsure of what more one would want to add mechanically; but that can be fleshed out in the future. Making the basic concept exist is the most important part; all the mechanical stuff can be fleshed out later, if that is more beneficial. 
