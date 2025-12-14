@@ -1,110 +1,68 @@
-# Genetics and Mutations systems
-
 ## Overview
 
-Genetics is a new medical/science feature that lets crew scan, sequence, and modify DNA to unlock mutations ranging from typical accents and traits to powerful and dangerous abilities.  
-Every round, all mutations receive completely unique 32-base DNA sequences that players must discover through experimentation. Correctly sequencing a block activates the mutation; adding too many non-natural mutations causes genetic instability that can spiral into random harmful mutations that cannot be undone or even persistant cellular damage.
+Genetics is a new medical science wing that lets researchers scan, sequence, and modify DNA to unlock mutations ranging from harmless accents and traits to powerful abilities. Every round, all mutations receive unique 32-base DNA sequences that must be discovered through experimentation on test subjects. Correctly sequencing a block activates the mutation, but excessive non-natural mutations cause genetic instability leading to harmful effects; rare mutations generate research points. While most mutations will be discovered through research on monkeys, some only naturally manifest in certain species or mob types, leading to experimentation with a wider assortment of station life. 
 
-The system is built around four pieces of equipment. The DNA scanner and it's console, DNA injectors, and the handheld genetic analyzer.
+## Background
 
-## Core Gameplay Loop
+Science currently lacks depth in research variance, with minimal interaction involving live subjects or DNA manipulation. This proposal draws inspiration from SS13's genetics system but adapts it for SS14's codebase, emphasizing discovery, risk-reward experimentation, and integration with the proposed science overhaul's point types (e.g., biology points). Genetics will function as a wing of science, using monkeys, crew volunteers, or acquired specimens (e.g., from salvage, cargo, or scavenged pets) as test subjects.
 
-1. Put a living test subject in the DNA scanner.
-2. Use the DNA scanner console to view their partially hidden DNA blocks.
-3. Click bases in the sequencer grid to guess the correct sequence (each click deals 0.2 cellular damage).
-4. When a block is fully correct, the mutation activates automatically.
-5. Save discovered mutations to the console's storage and print single-use injectors (activator to turn on an existing mutation, mutator to add a new one).
-6. Too much instability = bad things happen.
+## Features to be added
 
-## Key Mechanics
+Genetics revolves around four key pieces of equipment: the DNA Scanner, DNA Scanner Console, DNA Injectors, and Handheld Genetic Analyzer. Mutations are prototype-based, and include many unofficial categories such as speech accents, quirks/disabilities, beneficial, harmful, and instability punishments.
 
-### Round-Unique DNA Sequences
-- At round start every mutation prototype is randomly assigned a block (currently between 1–150) and a unique 32-base sequence (valid A-T / G-C pairs).
-- Sequences never repeat.
+### Core Mechanics
+- **Round-Unique DNA Sequences**: At round start, each mutation prototype is assigned a unique block and 32-base sequence (A-T/G-C pairs). Sequences never repeat.
+- **Genetic Instability**: Non-natural mutations add instability. Over 100: random severe negative mutation every 60–90s. Over 150: constant cellular damage. Instability is balanced to discourage spamming powerful mutations.
+- **Mutation Discovery**: Sequencing a block reveals and activates the mutation station-wide. Common mutations generate minimal/no research points; rare mutations (unlocked via precursors) generate significant biology points, pacing higher rewards mid-to-late round.
+- **Mutation Removal**: Mutadone removes most mutations. Select mutations can be flagged resistant to mutadone, sequencer, or "Scramble DNA" (30s cooldown, 25 cellular damage, resets non-resistant mutations).
+- **Departure from SS13**: Monkeys cannot revert to humans (permanent visual punishment for instability; avoids conflicts with changeling/cargo systems involving corpses being a rare commodity).
 
-### Genetics and Mutation Systems
-- Inactive random mutations are genereated at round start. These are your base sequences.
-- Added sequences contribute to genetic instability.
-- Radiation or unstable mutagen exposure can also trigger random mutations.
+### Equipment
+- **DNA Scanner**: Pod for one occupant. Links to console via device network for scanning.
+- **DNA Scanner Console**: UI shows vitals, mutation list, sequencer grid (click bases to guess; each click: 0.2 cellular damage), saved mutations, injector printing. Starts with 60 empty injectors (refillable via lathe). Filled injectors transfer mutations between consoles. Hidden mutations unlock via precursors (e.g., thermal resistance after heat/cold).
+- **DNA Injector – Activator (blue)**: Single-use; activates existing mutation.
+- **DNA Injector – Mutator (red)**: Single-use; adds/activates new block (increases instability if non-base).
+- **Handheld Genetic Analyzer**: Portable; displays all blocks/revealed sequences, prints paper reports. Uses small power cell.
 
-### DNA Scanner and Console
-- A test subject with the genetics component can be scanned to view which mutations are present. 
-- The console contains a sequencer that allows you to attempt to solve a mutations sequence by matching base pairs. 
-- When the sequence is successfully solved and discovered by a console for the first time, it is added to the station's discovered mutations
-- Important sequences can be saved to individual consoles to be accessed later independant of a test subject.
+### Example Mutations (21 Implemented, Expandable)
+- **Speech/Accents** (0 instability): Cowboy, Pirate, Russian, Stuttering, etc.
+- **Quirks/Disabilities**: Pacifism, Narcolepsy, Blindness, Mute, etc.
+- **Beneficial**: Alcohol Immunity, Supermatter Hallucination Immunity, Anaerobic Metabolism, etc.
+- **Punishments**: Monkey Transformation (human-only, permanent, non-printable, sequencer, mutadone and scramble resistant).
 
-### Genetic Instability
-- Non-natural mutations add/subtract instability.
-- Over 100 instability and you will have between 60 and 90 seconds until a random severe negative mutation occurs.
-- Over 150 instability and you will recieve constant cellular damage. 
+Mutations apply/remove components dynamically. Balance focuses on removable effects (except instability punishments) with visible but non-permanent drawbacks.
 
-### Mutation Removal & Resistance
-- Mutadone removes almost everything.
-- Specific mutations can be flagged mutadone-resistant, sequencer-resistant, or scramble-resistant.
-- “Scramble DNA” (30 s cooldown, 25 cellular damage) resets the entire genetics component except resistant mutations.
+## Game Design Rationale
 
-### Discovery Persistence
-- Once a mutation is fully sequenced on a grid, its name is permanently revealed to every console and handheld analyzer on that grid. This could potentially be used to have the discovery of certain or rare mutations contribute to the station's research points. 
+- **Seriously Silly**: Experimenting on monkeys/kobolds/crew with mystery DNA sequences encourage absurd and serious roleplay, from forcing accents on unwilling subjects, chasing rare mutations in unique species or mob types, or dealing with upset monkeys who have gained sentience.
+- **There is no Winning or Losing**: Instability risks balance powergaming mutations, and mutadone/scramble provide easy recovery before permanent consequences are suffered. Most mutations will be researched solely for the sake of contributing to scientific research points, not simply to hand out to crew. 
+- **Maintaining Authenticity**: NanoTrasen experimenting on DNA fits corporate evil. The simplified sequencing mimic genetic base pairs. Genetic instability mutations such as those that polymorph players into another creature follow the Carpenter/Cronenbergesque aesthetic of Space Station.
+- **Dynamic Environment**: Rare mutations require diverse subjects/stimuli, pulling in medical/cargo/salv.
+- **Take Things Slow**: Paced by sequencing damage, instability, and precursor unlocks; extends science gameplay without rushing.
+- **Maximizing Roleplay Potential**: Injectors enable trading mutations, and sequences can be discovered by analyzing crew and printing out their genetic sequences. Both of these should foster inter-department roleplay and cooperation.
 
-## Equipment
+## Roundflow & Player Interaction
 
-**DNA Scanner**  
-A pod that holds one occupant. Occupants are inserted by dragging and dropping (2-second entry delay). The scanner links to a console via the device network.
+- **Early Round**: Scan monkeys/crew with handheld for base sequences; discover low-point common mutations.
+- **Mid Round**: Radiation/crew incidents provide new subjects; precursors unlock rarer mutations for research points.
+- **Late Round**: High-point rare mutations discovered; injectors potentially distributed to crew for buffs/drama.
+- **Every Round**: Core loop active throughout, slowing early science (plentiful undiscovered commons) and ramping late.
+- **Desired Interactions**: Voluntary crew testing, injector trading, cross-dept subjects.
 
-**DNA Scanner Console**  
-Full UI showing subject vitals, mutation list with partially hidden sequences, sequencer buttons, saved mutation storage, and printing controls. Starts with 60 empty injectors in stock which can be made into activators and mutators.
+## Administrative & Server Rule Impact (if applicable)
 
-Empty injectors are lathe-printable trash items. They can be inserted into the console to refill it's stock. Filled injectors inserted into a console will save the mutation to that console. This can be used to transfer mutations between consoles.
+- Minimal new workload: Fits existing griefing rules (no forced perma-harm without consent). Instability self-regulates abuse.
+- Low grief risk: Removable mutations prevent round-removal; instability mutations require many deliberate choices and failure to recieve mutadone for at least a full minute of warnings. 
+- Mechanical enforcement: Instability, resistant flags, and scramble cooldown prevent exploits.
 
-Some mutations will remain hidden and unable to randomly appear in the round until unlocked by the console. For example, the thermal resistance mutation will unlock once you have discovered and saved the cold and heat resistance mutations. 
+# Technical Considerations
 
-**DNA Injector – Activator (blue)**  
-Single-use syringe that activates an already existing mutation in the target.
-
-**DNA Injector – Mutator (red)**  
-Single-use syringe that adds a new block and immediately activates it, increasing instability if it is not part of the target’s base genome.
-
-**Handheld Genetic Analyzer**  
-Portable scanner that instantly displays all blocks and current revealed sequences. Can print a formatted paper report with block numbers and sequences. Requires a small power cell.
-
-## Important Departure from SS13-Style Genetics
-
-Unlike SS13, monkeys **cannot** be turned back into humans. Instead, they will simply have fewer sequences to examine. This is for a few reasons:
-
-- There is currently no safe, generic “spawn human” system in SS14.
-- Reversing monkey transformations would interfere with changeling mechanics, cargo organ bounties, and other systems that treat human corpses as a limited resource.
-- The monkey mutation is currently intended as a permanent, visual punishment for extreme instability rather than a reversible state.
-
-## Example Mutations (21 currently implemented)
-
-**Speech / Accents** (0 instability)  
-Cowboy, Pirate, Russian, Southern, Stuttering, Frontal Lisp, etc.
-
-**Quirks & Disabilities**  
-Pacifism, Narcolepsy, Total Blindness, Mute, Chronic Snoring, etc.
-
-**Beneficial**  
-Alcohol Immunity, Supermatter Hallucination Immunity, Anaerobic Metabolism, etc.
-
-**Instability Punishments**  
-Permanent Monkey Transformation (hidden, mutadone/sequencer/scramble-resistant, non-printable, human-only).
-
-All mutations are prototype-based and easy to add or tweak. Instability mutations will be added to cause more, generally visibily noticible consequences to overdoing it on mutations. 
-
-## Round Flow Impact
-- **Early round** - Geneticist begins work on available monkeys, scanning crew members with their handheld scanner to find missing parts of sequences.
-- **Mid round** - Radiation exposures lead to random mutations in crew, giving the geneticist a chance to examine undiscovered mutations. Advanced and hidden mutations begin to unlock from discovering and saving their precursors. 
-- **Late round** - Many beneficial and unique mutations are found and applied to crew. If rare mutations generate research points, geneticists may start trying to discover instability mutations just to contribute, to the detriment of many poor monkeys and kobolds. Species specific instability mutations will make some impossible to discover without living test subjects of that species, willing or otherwise.
-
-
-## Balance & Safety
-
-- 2 second injection time and break on damage/movement to prevent quick injections.
-- Instability risks discourage spamming powerful mutations.
-- Nearly all mutations, apart from instability mutations, are easily removable, preventing the player from feeling round-long loss of control over their character.
-
-Mutations will be easy for anyone to add or remove but should remain balanced in design. Their instability and drawbacks should be carefully considered to self-regulate abuse. Negative mutations should not have severe or visual consequences to the player that last all round unless those mutations are preventable, such as via instability. Almost all mutations should be easily removable with no lasting effects. 
-
-## Technical Notes
-
-- Mutations simply apply the components provided in the prototype and remove them on mutation removal.
+- **Performance Impacts**: Should be negligible; prototype-based mutations use lightweight components. Sequencing grid is client-side UI.
+- **New Systems/UI/Refactors**:
+  - New genetics component (per-entity DNA blocks/instability).
+  - DNA Scanner/Console entities with device linking.
+  - Console UI: Tabs for vitals, sequencer grid (clickable 32-slot base pair matcher), mutation list/storage, injector printer.
+  - Handheld UI: Simple list view with print button.
+  - Injector entities.
+  - Round-start prototype shuffling for sequences.
+- No major refactors; integrates with science lathes/research points. 
