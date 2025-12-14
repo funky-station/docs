@@ -30,7 +30,7 @@ Genetics revolves around four key pieces of equipment: the DNA Scanner, DNA Scan
 - **Beneficial**: Alcohol Immunity, Supermatter Hallucination Immunity, Anaerobic Metabolism, etc.
 - **Punishments**: Monkey Transformation (human-only, permanent, non-printable, sequencer, mutadone and scramble resistant).
 
-Mutations apply/remove components dynamically. Balance focuses on removable effects (except instability punishments) with visible but non-permanent drawbacks.
+Mutations apply/remove components dynamically. Balance focuses on removable effects with non-permanent drawbacks (except instability punishments).
 
 ## Game Design Rationale
 
