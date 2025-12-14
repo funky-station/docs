@@ -24,7 +24,7 @@ Genetics revolves around four key pieces of equipment: the DNA Scanner, DNA Scan
 - **DNA Injector – Mutator (red)**: Single-use; adds/activates new block (increases instability if non-base).
 - **Handheld Genetic Analyzer**: Portable; displays all blocks/revealed sequences, prints paper reports. Uses small power cell.
 
-### Example Mutations (21 Implemented, Expandable)
+### Example Mutations
 - **Speech/Accents** (0 instability): Cowboy, Pirate, Russian, Stuttering, etc.
 - **Quirks/Disabilities**: Pacifism, Narcolepsy, Blindness, Mute, etc.
 - **Beneficial**: Alcohol Immunity, Supermatter Hallucination Immunity, Anaerobic Metabolism, etc.
