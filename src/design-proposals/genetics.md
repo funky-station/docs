@@ -4,7 +4,7 @@ Genetics is a new medical science wing that lets researchers scan, sequence, and
 
 ## Background
 
-Science currently lacks depth in research variance, with minimal interaction involving live subjects or DNA manipulation. This proposal draws inspiration from SS13's genetics system but adapts it for SS14's codebase, emphasizing discovery, risk-reward experimentation, and integration with the proposed science overhaul's point types (e.g., biology points). Genetics will function as a wing of science, using monkeys, crew volunteers, or acquired specimens (e.g., from salvage, cargo, or scavenged pets) as test subjects.
+Science currently lacks depth in research variance, with minimal interaction involving live subjects or DNA manipulation. This proposal draws inspiration from SS13's genetics system but adapts it for SS14's codebase, emphasizing discovery, experimentation, and integration with the proposed science overhaul's point types (e.g., biology points). Genetics will function as a wing of science, using monkeys, crew volunteers, or acquired specimens (e.g., from salvage, cargo, or scavenged pets) as test subjects.
 
 ## Features to be added
 
@@ -57,7 +57,7 @@ Mutations apply/remove components dynamically. Balance focuses on removable effe
 
 # Technical Considerations
 
-- **Performance Impacts**: Should be negligible; prototype-based mutations use lightweight components. Sequencing grid is client-side UI.
+- **Performance Impacts**: Should be negligible; prototype-based mutations use lightweight components.
 - **New Systems/UI/Refactors**:
   - New genetics component (per-entity DNA blocks/instability).
   - DNA Scanner/Console entities with device linking.
