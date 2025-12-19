@@ -32,13 +32,12 @@ Proposals
   - [Map Template](design/maps/template.md)
 
 - [Game Design Proposals]()
-  - [Hydroponics Changes](design-proposals/botany-changes.md)
-  - [Command SOP](design-proposals/command-sop.md)
+  - [Hydroponics ](design-proposals/botany-changes.md)
   - ["Corporate Secrets"](design-proposals/corporate-secrets.md)
   - [Lasers and Armory Overhaul](design-proposals/lasers.md)
-  - [The Metashield](design-proposals/metashield.md)
   - [Company Scrip](design-proposals/scrip.md)
-  - [Security Training Manual](design-proposals/security-training-manual.md)
+  - [Medical](design-proposals/medical/medical-direction.md)
+    - [Scanners & Triage](design-proposals/medical-scanners.md)
 
 - [Map Proposals]()
 
