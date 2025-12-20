@@ -26,14 +26,20 @@ The medical system, as a whole, will impact every single player regardless of ho
 
 These systems, if grounded in reality, are pretty complex systems and knowledge that not everyone has access to. Similarly, as we abstract and simplify these systems to be in a video game, then there's a disconnect between that knowledge and knowledge of the game itself. Relying on people to be able to interact with these systems at all, without the safety net of in-game training, will likely just cause people to become frustrated with the entirety of the system as a whole.
 
-### III. Represent What You Can
+Another thing to keep in mind with this is how we communicate systems to players. There will be a  disconnect between the game and the player, so with certain systems, we have to keep in mind how game information is communicated to the player. For example, moodlets and pain are not things that can easily be communicated to the player (because the player is not their character). Expecting players to adhere to and even recognize abstract things like emotions through their character does not respect their autonomy.
 
-should be grounded in reality and represent those who cant
+### III. Represent What You Can, Respect What You Can't
+
+By attempting to simulate real biology, we are also simulating medical problems that people face in their lives. Not everything will be the same as it is in real life, but there will still be parallels regardless of if we try to move away from that. Instead, it is better for us to embrace this representation. People may be chronically ill, and maybe they want their characters to represent them and their medical issues. This is fine, and we should strive to represent this! This is especially true because we, inadvertently, can help bring more understanding to how these medical problems work to people who may not be directly impacted by them. 
+
+However, the flip side is true: we can't represent everything with the accuracy that these issues may require. From this, we should still be respectful of the fact that chronic medical issues do impact many people, regardless of if we personally know about that particular medical issue or anyone impacted by it. 
 
 ### IV. Let Things Progress Naturally
 
-nothing should feel forced
+Again, the primary goal is to tell a story from these systems. With the medical system in particular, it is important to remember that this story should have a natural, emergent progression. This is particularly important when deciding things like chronic illnesses or blood types--people should not have to deal with the exact same issues, at the exact same time, every single shift. The game is ultimately about improv, and when creating  systems that can be persistent, it is still important to make sure that they allow for emergent storytelling.
+
+For example, in the case of blood types (a system we are likely not implementing regardless): assuming blood is cross-compatible between species, should the types be a persistent player trait or randomized every shift? Both have their pros and cons, it's kind of silly for players to need to check their own blood type every shift instead of just being able to know that. However, letting it be a trait also creates the issue where it promotes players memorizing other players blood types, instead creating a stagnant story. 
 
 ### V. Above All, Have Fun
 
-these should be *interesting* systems that are fun
+Ultimately, these should be fun systems! This is especially important to remember when we seek to emulate real biology, memorizing chemical structures or enzymes or proteins is not that fun for everyone. Spending the entire shift completely rotted because of a small mistake or misunderstanding is not that fun. Spending 30 minutes in crit because you can't be revived just yet, but also can't ghost out because you're almost up, is not that fun. We want a fun and interesting system! 
