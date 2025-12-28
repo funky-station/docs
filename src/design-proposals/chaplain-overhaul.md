@@ -11,17 +11,15 @@ These changes are unlikely to happen anytime soon, so please make balancing sugg
 This document will propose several ideas I've been thinking up for quite some time regarding the chaplain's role on the station, but the key points are:
 
 • Chaplain will become an authority on magic/the occult, similar to the magister, with one predominant role: enforcing what magic is legal/considered evil and what religion is sanctioned aboard the station.
-The reason for this being that there currently isn't an authority on magics as of the removal of EOC and navigating magic use in general has been confusing for many.
+The reason for this being that there currently isn't an authority on magics as of the removal of EOC and navigating magic use in general has been confusing for many. They don't know about corporate secrets, they know a heavily skewed and brainwashed account of the occult (cultists, heretics). It is a sort of altered version of corpo secrets that is only relevant to the chaplain and their acolytes.
 
 • Similarly to the nullrod, chaplain will - preferably roundstart - select a sect. Sects will be themed around the already existing altars. This sect defines the flavour of whatever religion they decide to practice this shift. 
-More details on sects below and will be expanded as I get more ideas/feedback
+More details on sects below and will be expanded as I get more ideas/feedback. Sects define the following: the function of the chaplain's bible, flavour-over-function miracles and limiting nullrod selections to those appropriate for the sect's theme.
 
 • Chaplain will have a small group of acolytes, likely 1-3, who follow the chaplain and whatever sect they decide upon. They will be notably less capable than the chaplain, 
 but can act as the chaplain's successor in the event of their permanent death or when they cryo/SSD. They will also be vulnerable to cult mind control and other magics that the chaplain is normally impervious to.
 
 • An actual SOP for the chaplains and acolytes to define the role of NanoTrasen's religious sect more clearly.
-
-• Debating whether or not nullrods should be attached to respective sects
 
 
 ## Features to be added
@@ -44,7 +42,35 @@ but can act as the chaplain's successor in the event of their permanent death or
 • Requires a PDA. I'll probably resprite the chaplain PDA at the same time as making this one.
 
 ## Chaplain and acolyte SOP
-WIP
+
+### Green alert
+1. The chaplain must keep the nullrod in its base form, or otherwise manifest a non-weapon form.
+
+2. The chaplain must listen and make time for any and all confessions or otherwise direct an acolyte to handle individual confessions.
+
+3. The chaplain may not bible thump crew without explicit consent from the thumpee.
+
+### Blue alert
+1. The chaplain may manifest any nullrod form, but may not openly carry it if it has been manifested as a weapon.
+
+2. The chaplain must investigate the legitimacy of any occult-related claims and relay their findings to the relevant authorities: central command or command. General holy duties can be given to acolytes while the chaplain investigates.
+
+3. If unholy activities are confirmed, the chaplain is expected to inform their acolytes under a non-disclosure agreement.
+### Red alert
+
+1. The chaplain is only expected to act against threats that are occult in nature, working closely with security until the threat is quelled.
+
+2. The chaplain must comply if any member of command or security requests access to the cremator.
+
+3. The chaplain can, in cases of grievous emergency, bible thump members of crew without their consent assuming they are protected from its harmful elements.
+
+4. The chaplain may use their nullrod and its respective forms in self defence or otherwise in pursuit of its holy duties.
+
+### OOC rules & expectations
+
+1. The chaplain is recommended not to reveal what they know about the occult to crew. In the best of cases, this will result in demotion and in the worst of cases this will result in execution.
+
+2. The chaplain is not a security role and is not expected to pursue people legally or arrest them.
 
 ## Sects - WIP
 ### Fire (red altar)
