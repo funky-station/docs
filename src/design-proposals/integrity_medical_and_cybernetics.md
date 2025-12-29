@@ -1,4 +1,4 @@
-# Vitality-Based Medical and Cybernetics System
+# Integrity-Based Medical and Cybernetics System
 
 | Designers       | Implemented                                 | GitHub Links    |
 | --------------- | ------------------------------------------- | --------------- |
@@ -7,7 +7,7 @@
 ## Overview
 
 
-A redesign of shitmed that replaces the current surgery system, and a complete removal and replacement of the cybernetics system. The new system will be more dynamic, based on actual possible to perform surgeries, and using a combined Vitality system to track incompatible organs, surgical penalties, quality penalties of parts, and rejection of implants. In order to help give Robotics more interesting gameplay, this also includes a customization system for cybernetic limbs, where the roboticist will be able to customize cyber limbs and organs in a variety of ways, and will be required to perform maintence on cybernetics during the shift or people will suffer penalties. The system is designed to be highly configurable, so if a specific limb is "too good" you can simply raise the vitality penalty to a point where the drawbacks equal the benefits. 
+A redesign of shitmed that replaces the current surgery system, and a complete removal and replacement of the cybernetics system. The new system will be more dynamic, based on actual possible to perform surgeries, and using a combined Integrity system to track incompatible organs, surgical penalties, quality penalties of parts, and rejection of implants. In order to help give Robotics more interesting gameplay, this also includes a customization system for cybernetic limbs, where the roboticist will be able to customize cyber limbs and organs in a variety of ways, and will be required to perform maintence on cybernetics during the shift or people will suffer penalties. The system is designed to be highly configurable, so if a specific limb is "too good" you can simply raise the Integrity penalty to a point where the drawbacks equal the benefits. 
 
 I specifically considered the case of "skilled doctor in a fully equipped medbay doing multiple implants" versus "maints doctor doing surgery with a toolbelt", and plan to balance the system so it's possible (but unwise) for a maints doctor to perform organ surgery, assuming the patient is happy with taking heavy doses of immune suppressant medication for the rest of the shift.
 
@@ -15,8 +15,8 @@ I specifically considered the case of "skilled doctor in a fully equipped medbay
 
 The previous medical system (`Shitmed`) used an approach that didn't scale well with the complexity of organ management, limb replacement, and cybernetics. This redesign creates a standalone system that:
 
-- Tracks "vitality" as a resource that organs, limbs, and cybernetics consume
-- Introduces bio-rejection damage when vitality exceeds capacity
+- Tracks "Integrity" as a resource that organs, limbs, and cybernetics consume
+- Introduces bio-rejection damage when Integrity exceeds capacity
 - Provides immunosuppressant chemicals to temporarily manage rejection
 - Implements a 3-layer surgery system (Skin, Tissue, Organ) with dynamic flowcharts
 - Creates configurable cyber-limbs with module-based customization
@@ -26,23 +26,23 @@ The system is designed to be performance-optimized for 90 players, with cached c
 
 ## Features to be Added
 
-### Core Vitality System
+### Core Integrity System
 
-**Vitality Tracking:**
-- Each species has a `MaxVitality` (default 6, dwarves get 8)
-- Organs, limbs, and cybernetics from a compatable donor don't consume vitality points
-- Biosynthetic organs consume some vitality (typically 1 each)
-- Players can exceed their vitality limit, but this triggers bio-rejection
+**Integrity Tracking:**
+- Each species has a `MaxIntegrity` (default 6, dwarves get 8)
+- Organs, limbs, and cybernetics from a compatable donor don't consume Integrity points
+- Biosynthetic organs consume some Integrity (typically 1 each)
+- Players can exceed their Integrity limit, but this triggers bio-rejection
 
 **Bio-Rejection Damage:**
-- A new damage type that gradually accumulates when vitality exceeds capacity
-- Increments by 0.2 per tick toward a target value based on vitality over-limit
+- A new damage type that gradually accumulates when Integrity exceeds capacity
+- Increments by 0.2 per tick toward a target value based on Integrity over-limit
 - Suppressed by immunosuppressant chemicals
 - When immunosuppressant is active, bio-rejection slowly decrements to 0 and stays there for the duration
 
 **Immunosuppressant Chemical (specific name of the chemical pending):**
 - Suppresses bio-rejection for a set duration (1 unit per minute, cap of 20 units before overdose)
-- Adds a temporary vitality bonus for the duration
+- Adds a temporary Integrity bonus for the duration
 - Allows edge cases where players can stack different quality immunosuppressants for extended suppression
 
 ### Surgery System
@@ -58,7 +58,7 @@ The system is designed to be performance-optimized for 90 players, with cached c
 - Organ-specific steps only appear if the organ slot exists (e.g., no heart surgery for Diona)
 
 **Surgery Penalties:**
-- Incomplete surgeries apply temporary vitality penalties
+- Incomplete surgeries apply temporary Integrity penalties
 - Penalties count as bio-rejection damage directly
 - Specific amounts: retracting skin (+1), retracting tissue (+1), sawing bones (+8)
 - Penalties apply gradually, giving players time to complete procedures
@@ -71,20 +71,20 @@ The system is designed to be performance-optimized for 90 players, with cached c
 
 **Medical Job Skills:**
 - Medical jobs (doctor, paramedic, etc.) have skill flags that affect success/complication rates
-- Non-medical personnel can still perform surgery but with slower speed and a flat bio-rejection penalty (unskilled surgeon +2) vitality penalty applied until a real doctor fixes it.
+- Non-medical personnel can still perform surgery but with slower speed and a flat bio-rejection penalty (unskilled surgeon +2) Integrity penalty applied until a real doctor fixes it.
 
 **Equipment Quality:**
-- Tools and equipment have quality modifiers that affect vitality costs. Medical tools start at +0. Improvised tools have higher costs.
-- Higher quality equipment reduces vitality penalties
+- Tools and equipment have quality modifiers that affect Integrity costs. Medical tools start at +0. Improvised tools have higher costs.
+- Higher quality equipment reduces Integrity penalties
 
 ### Health Analyzer Enhancement
 
 **Dual-Mode Display:**
 - **Health Mode** (default): Works as always has, showing damage groups
-- **Vitality Mode**: Shows overall vitality (e.g., "Vitality 4/6") and breakdown of penalties:
+- **Integrity Mode**: Shows overall Integrity (e.g., "Integrity 4/6") and breakdown of penalties:
   - "-2 Cybernetic Left Arm"
   - "-2 Biosynthetic Heart"
-  - Each component contributing to vitality usage is listed
+  - Each component contributing to Integrity usage is listed
 
 ### Slime-Specific Systems
 
@@ -164,7 +164,7 @@ The system is designed to be performance-optimized for 90 players, with cached c
   - Everyone knows this will be the first question asked about a surgical limb system.
 
 **Take Things Slow:**
-- The vitality system creates gradual consequences rather than instant death.
+- The Integrity system creates gradual consequences rather than instant death.
 - Ensures cyberwear isn't just power creep as it has significant drawbacks.
 - Bio-rejection accumulates slowly, giving players time to seek medical attention
 - Surgery procedures are multi-step, requiring time investment and planning
@@ -174,19 +174,19 @@ The system is designed to be performance-optimized for 90 players, with cached c
 **Maximizing Roleplay Potential:**
 - Cyber-limb maintenance creates opportunities for roboticists to service crew members
 - Organ compatibility checks create interesting scenarios (e.g., "Can we implant this Mouse heart in a human?")
-- The health analyzer's vitality mode encourages doctors to explain medical conditions to patients
+- The health analyzer's Integrity mode encourages doctors to explain medical conditions to patients
 - Bio-rejection creates ongoing medical needs, encouraging regular chemist visits
 
 **Respect for Player Time:**
 - The system is designed for 2-2.5 hour rounds
-- Vitality penalties are gradual, not instant death
+- Integrity penalties are gradual, not instant death
 - Surgery can be completed in stages (e.g., implant organ now, mend bones later)
 - Cyber-limb modules can be configured over time, not requiring immediate optimization
 
 ### Complexity vs. Accessibility
 
 The system is designed to be:
-- **Easy to understand initially**: "You have 6 vitality, organs cost vitality, going over causes bio-rejection"
+- **Easy to understand initially**: "You have 6 Integrity, organs cost Integrity, going over causes bio-rejection"
 - **Deep mechanically**: Module combinations, efficiency optimization, surgery planning, immunosuppressant stacking
 - **Skill-based**: Better surgeons have fewer complications, better roboticists optimize cyber-limbs more effectively
 
@@ -196,8 +196,8 @@ The system is designed to be:
 
 **Early Round (0-30 minutes):**
 - Players with cyber-limbs may need initial configuration (Possibly scrap this if we don't want cyberlimbs to start damaged or in need of maintence)
-- Basic medical procedures use the vitality system
-- Health analyzer vitality mode available roundstart
+- Basic medical procedures use the Integrity system
+- Health analyzer Integrity mode available roundstart
 
 **Mid Round (30-90 minutes):**
 - Organ replacements become more common as people die
@@ -208,7 +208,7 @@ The system is designed to be:
 **Late Round (90-150 minutes):**
 - Complex multi-organ procedures
 - Cyber-limb optimization and module swapping
-- Immunosuppressant management for high-vitality characters
+- Immunosuppressant management for high-Integrity characters
 
 
 ### Player Interaction Patterns
@@ -246,16 +246,16 @@ The system is designed to be:
   - **Mitigation**: Storage only accessible when maintenance panel is open, which requires a multi-step procedure. Panel state is tracked in component.
 
 - **Bio-Rejection Abuse**: Players could intentionally cause bio-rejection in others
-  - **Mitigation**: Bio-rejection requires organ/limb/cybernetic installation, which is a complex process. Admins can check vitality components for abuse patterns.
+  - **Mitigation**: Bio-rejection requires organ/limb/cybernetic installation, which is a complex process. Admins can check Integrity components for abuse patterns.
 
 **Additional Admin Workload:**
-- Admins may need to understand vitality system
+- Admins may need to understand Integrity system
 - Surgery state tracking helps with griefing reports
 
 **Player Disputes:**
 - Disputes may arise over incomplete surgeries or module configurations
 - Component state provides clear audit trail
-- Health analyzer vitality mode lets players understand the surgery as it's happening.
+- Health analyzer Integrity mode lets players understand the surgery as it's happening.
 
 ### Mechanical Rule Enforcement
 
@@ -277,7 +277,7 @@ The system is designed to be:
 ### Required Systems
 
 **New Systems:**
-- `VitalitySystem` (shared and server)
+- `IntegritySystem` (shared and server)
 - `SurgerySystem` (shared)
 - `CyberLimbStorageSystem` (shared)
 - `CyberLimbStatsSystem` (shared)
@@ -289,7 +289,7 @@ The system is designed to be:
 **Modified Systems:**
 - `SharedStorageSystem` (extended for non-stacking behavior)
 - `ExamineSystem` (extended for cyber-limb inspection)
-- `HealthAnalyzerSystem` (extended for vitality mode)
+- `HealthAnalyzerSystem` (extended for Integrity mode)
 
 ### UI Elements
 
@@ -300,10 +300,10 @@ The system is designed to be:
 - Visual indicators for completed steps
 
 **Health Analyzer:**
-- Toggle button for Health/Vitality mode
-- Vitality mode shows:
-  - Overall vitality (e.g., "Vitality 4/6")
-  - List of components with vitality penalties
+- Toggle button for Health/Integrity mode
+- Integrity mode shows:
+  - Overall Integrity (e.g., "Integrity 4/6")
+  - List of components with Integrity penalties
   - Each entry shows component type and penalty amount
   - List of ongoing penalties
 
@@ -336,21 +336,21 @@ The system is designed to be:
 
 ### What Needs Balancing
 
-**Vitality Costs:**
-- Organ vitality costs (currently varies by organ type)
-- Limb vitality costs (currently varies by limb type)
-- Cybernetic vitality costs (currently varies by cybernetic type)
+**Integrity Costs:**
+- Organ Integrity costs (currently varies by organ type)
+- Limb Integrity costs (currently varies by limb type)
+- Cybernetic Integrity costs (currently varies by cybernetic type)
 - Biosynthetic organ bonus (currently +1)
 
 **Bio-Rejection Rates:**
 - Increment rate (currently 0.2 per tick)
-- Target calculation based on vitality over-limit
+- Target calculation based on Integrity over-limit
 - Decrement rate when immunosuppressant active
 
 **Immunosuppressant:**
 - Duration per unit (currently 1 minute per unit)
 - Overdose threshold (currently 20 units)
-- Vitality bonus amount (varies by quality)
+- Integrity bonus amount (varies by quality)
 - Stacking behavior for different qualities
 
 **Surgery Penalties:**
@@ -403,7 +403,7 @@ The system is designed to be:
 
 ## Conclusion
 
-This system redesigns medical and cybernetics gameplay to be more engaging, roleplay-focused, and mechanically deep while remaining accessible to new players. The vitality system creates ongoing medical needs that encourage player interaction, while the cyber-limb system provides long-term customization and maintenance gameplay. Performance optimizations ensure the system scales to 80 concurrent players without significant impact.
+This system redesigns medical and cybernetics gameplay to be more engaging, roleplay-focused, and mechanically deep while remaining accessible to new players. The Integrity system creates ongoing medical needs that encourage player interaction, while the cyber-limb system provides long-term customization and maintenance gameplay. Performance optimizations ensure the system scales to 80 concurrent players without significant impact.
 
 The system aligns with Funky Station's design principles by:
 - Taking things slow (gradual consequences, multi-step procedures)
