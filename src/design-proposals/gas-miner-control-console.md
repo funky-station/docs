@@ -37,7 +37,7 @@ New console entity:
 
 ### Failure and Risk States
 
-- Gas lost to space (spacing, poor gas management) represents direct budget loss.  
+- Gas lost to space represents direct budget loss.  
 - Inefficient TEGs, supermatter, or excessive waste burn through budget quickly.  
 - When budget is depleted, miners stop. Funds must be restored to resume mining. 
 
