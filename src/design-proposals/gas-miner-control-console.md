@@ -52,17 +52,16 @@ New console entity:
 
 ## Round Flow Impact
 
-- **Round Start** - Miners disabled, budget comfortable. Set up baseline O₂/N₂ supply, fill tanks, prepare chambers.  
-- **Mid Round** - Budget accumulates from station activity. Increase rates, introduce higher-cost gases, optimize for power output.  
-- **Late Round** - High production requires strict leak control and efficient usage to avoid depletion. Surplus budget enables aggressive experimentation.
+- **Round Start** - Oxygen and nitrogen miners set to default, other disabled, budget comfortable. Set up baseline O₂/N₂ supply, enable additional miners if needed, make and sell lower cost gases for funding.  
+- **Mid Round** - Budget accumulates from station activity. Increase rates, experiment with making higher-cost gases, optimize power output, etc.  
+- **Late Round** - Surplus budget enables aggressive experimentation and less focus on preventing loss. Poor budget may lead to atmosians trying to secure funding by other means.
 
-Basic air supply remains viable even under budget pressure due to low O₂/N₂ costs. No emergency free tier for rare gases.
+Basic air supply remains viable even under budget pressure due to low O₂/N₂ costs.
 
 ## Administrative & Rules Notes
 
-No significant additional admin burden.  
-Intentional budget sabotage (e.g. mass spacing to drain funds) falls under existing griefing/sabotage rules.  
-The system is inherently self-limiting.
+No significant additional admin burden aside from standard role incompetence issues.  
+Intentional budget sabotage (e.g. mass spacing to drain funds) falls under existing griefing/sabotage rules. 
 
 ## Technical Notes
 
