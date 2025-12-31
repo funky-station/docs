@@ -11,9 +11,7 @@ This change makes gases a finite resource with real cost, ties budget management
 
 ## Current Situation
 
-Gas miners currently produce at their component-limited rate with no recurring cost.  
-After initial setup, they provide effectively unlimited gas for the entire round.  
-This results in trivial access to important gases, reduces the impact of poor gas management, and makes Atmos feel like Engineering+ rather than a distinct role.
+Gas miners currently produce at their component-limited rate with no limitations aside from their component-set pressure. They provide unlimited gas the entire round, allowing engineers to simply shut themselves into a room and produce endless amounts of expensive gases. This results in trivial access to important gases very early on, reduces the impact of poor gas management, and makes Atmos feel like Engineering+ rather than a distinct role dedicated to management of the stations atmospherics.
 
 ## Proposed Changes
 
