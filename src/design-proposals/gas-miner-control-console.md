@@ -4,12 +4,12 @@
 
 Atmos receives its own budget allocation on the Funding Allocation Computer, consistent with other departments.  
 
-Gas miners are now controlled through a dedicated **Gas Miner Control Console**.  
-Technicians can configure production rate (mols/second) and target pressure per gas, but every mole extracted deducts from the department's budget via a purchased pool of extraction credits.  
+- Gas miners are now controlled through a dedicated **Gas Miner Control Console**.  
+- Technicians can configure production rate (mols/second) and target pressure per gas, but every mole extracted deducts from the department's budget via a purchased pool of extraction credits.  
 
-Oxygen and nitrogen are low-cost gases.  
-Plasma is significantly more expensive.  
-Other minable gases scale in cost accordingly. Availability depends on the map.
+- Oxygen and nitrogen are low-cost gases.  
+- Plasma is significantly more expensive.  
+- Other minable gases scale in cost accordingly.
 
 This change makes gases a finite resource with real cost, ties budget management to leak/spacing prevention, requires cooperation with Cargo for funding, and adds progression to Atmos gameplay.
 
