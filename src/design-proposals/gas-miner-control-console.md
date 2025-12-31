@@ -18,7 +18,7 @@ Gas miners currently produce at their component-limited rate with no limitations
 ### Departmental Budget
 
 - Atmos gains its own budget entry on the Funding Allocation Computer.  
-- Starting budget is set to comfortably support normal station air supply (primarily O₂ and N₂) for a full round, with reasonable headroom for moderate additional gas usage assuming no catastrophic losses.  
+- Starting budget is set to comfortably support normal station air supply for a full round, with reasonable headroom for moderate additional gas usage assuming no catastrophic losses.  
 - Budget cannot go negative. When funds reach zero, gas miners shut down.
 
 ### Gas Miner Control Console
