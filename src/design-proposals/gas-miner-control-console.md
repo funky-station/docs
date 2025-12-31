@@ -23,7 +23,7 @@ Gas miners currently produce at their component-limited rate with no limitations
 
 ### Gas Miner Control Console
 
-New console entity (suggested placement: near gas miner chambers):
+New console entity:
 
 - Toggle for each gas miner.  
 - Configurable rate in mols/second per gas.  
@@ -34,12 +34,6 @@ New console entity (suggested placement: near gas miner chambers):
 - Tracks internal pool of gas credits.  
 - Miners consume credits continuously while enabled and producing.  
 - Automatic shutdown of all miners when gas credits reach zero.
-
-**Cost Structure**  
-Costs are per mole and vary by gas:  
-- Oxygen, Nitrogen stays low cost (baseline air remains sustainable).  
-- Plasma is high cost (typically the most expensive commonly minable gas).  
-- Other gases scaled appropriately based on rarity/value.
 
 ### Failure and Risk States
 
