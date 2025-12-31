@@ -7,7 +7,7 @@
 - Gas miners are now controlled through a dedicated **Gas Miner Control Console**.  
 - Technicians can configure production rate (mols/second) and target pressure per gas, but every mole extracted deducts from the department's budget via a purchased pool of "gas credits". 
 
-This change makes gases a finite resource with real cost, ties budget management to leak/spacing prevention, requires cooperation with Cargo for funding, and adds progression to Atmos gameplay.
+This change makes gases a finite resource with real cost, links budget management directly to leak and spacing prevention, requires cooperation with Cargo for funding, and introduces meaningful progression to Atmos gameplay - preventing unlimited production of expensive gases from round start while also enabling higher miner output and better optimization once funding is secured.
 
 ## Current Situation
 
