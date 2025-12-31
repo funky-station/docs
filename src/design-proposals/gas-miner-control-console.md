@@ -2,7 +2,7 @@
 
 ## Overview
 
-Atmos receives its own budget allocation on the Funding Allocation Computer, consistent with other departments.  
+- Atmos receives its own budget allocation on the Funding Allocation Computer, consistent with other departments.  
 
 - Gas miners are now controlled through a dedicated **Gas Miner Control Console**.  
 - Technicians can configure production rate (mols/second) and target pressure per gas, but every mole extracted deducts from the department's budget via a purchased pool of extraction credits.  
