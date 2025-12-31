@@ -48,7 +48,7 @@ New console entity:
 - Introduce progression: start with basic air supply, scale up production as budget allows.  
 - Require meaningful interaction with Cargo/HoP for budget priority.  
 - Incentivize efficient power generation designs (TEG, supermatter).  
-- Establish Atmos as a separate department with its own economic and security considerations.
+- Establish Atmos as a separate department worthy of it's current security and playtime considerations.
 
 ## Round Flow Impact
 
