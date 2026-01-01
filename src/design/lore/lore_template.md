@@ -16,6 +16,13 @@ Your title should convey the basic jist of your proposed changes. It should be s
 
 Github links can include multiple PRs. Game design PRs are not required, but a helpful addition if they are associated with the proposed lore change.
 
+## Required Affirmation
+
+-- Confirm the following by placing an X in the brackets [X]: 
+- [ ] I acknowledge that my lore contribution can be iterated on in the future, and potentially changed. Lore is a community project from all members and of mutual ownership, though properly attributed to writers.
+- [ ] I acknowledge that lore and development work in tandem, and both can change each other. Lore can and will be changed as required to fit the needs of greater development goals.
+-- You should understand that not following the above may get your proposal closed at lore maintainer’s discretion --
+
 ## Overview
 
 A very short, maybe three sentence summary of what this proposal is about. A high level "overview" or "what this adds".
@@ -45,7 +52,7 @@ Examples:
 |---|---|---|---|
 | Zero work needed | Changing wording on select documents |Creation of new mechanics or art, potentially several PRs| Nanotrasen's color scheme is now Red and Gold, except on Tuesdays|
 
-##Design and Lore Space
+## Design and Lore Space
 
 Lore is an ever shifting and collaborative effort, working in tandem with the game development. Does this change provide new space for lore and game development or does it shrink it? Does it close off or limit further creative development in this space, or does it provide a launching off point for further efforts? 
 
