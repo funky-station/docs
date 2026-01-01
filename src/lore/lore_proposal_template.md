@@ -61,7 +61,7 @@ Lore is an ever shifting and collaborative effort, working in tandem with the ga
 
 What sort of gameplay or roleplay changes will result from this change, both from a player and admin side? Do you envision it having an impact on how rounds play or feel? Do you feel these changes will arise organically, or will they require prodding and reinforcement?
 
-## Game Design Rationale
+## Game Design Rationale (if applicable)
 
 Consider addressing:
 - How does the feature align with our [Core Design Principles](../design/design-principles.md) and game philosphy?
