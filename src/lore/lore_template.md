@@ -73,6 +73,8 @@ Consider addressing:
 - Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?
 - How are the rules enforced mechanically by way the feature will be implemented?
 
-## Full Article Text
+## Lore Articles
 
-Please add the full text of any lore articles here. If it would be better organized through multiple documents, please centralize the links here.
+Your PR should put the full article of their lore in the lore-articles folder. If the proposal is to modify an existing lore article, the PR should modify those files.
+
+Please list any newly created or modified lore articles here.
