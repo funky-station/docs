@@ -1,0 +1,122 @@
+Reagent Rework - Homingpenguins [Mun Dark]
+
+Im writing this document in the hopes that reagents will be un-screwed from whatever cross threaded backwards system is in place to handle reagents, and specifically their temperatures. I hope to give direction and ideas to those unscrewing the system, and  to help give a framework of how reagents should be built back up for increased ability to do neat things with it.
+
+I will preface this now, I cannot code. At best i can imitate what others have done within a file to achieve something simple, rewriting a gas reaction, creating an object, implementing a map, ect. This document is not written with codability in mind, and i cannot even do the work myself to achieve what I wish. I must rely on yall to handle something this big.
+
+# Why a rework?
+
+Reagents, for some reason or another, seem inconsistent with how it handles temperature manipulation. It feels this way because i don't know exactly what the code is doing. It would likely make more sense if I did, but i don't. So for now, I and likely most of the server population, feels that reagent temperatures are just some mysterious number that occasionally turns your oil into ash. I feel that this is a massive opportunity lost, Temperatures should be just as much on the mind when working with reagents as the reagent itself (especially in medical). From something as simple as heating up coffee to warm the body up to as complex as keeping a cryox reaction cold in medical to make it work more effectively, there should be a system in place as to not have to hardcode all of it. This is the system I'm preposing.
+
+# The Core Rework: Heat Caps.
+
+I wish to give all reagents and containers a heat capacity. This will allow us to interact with the environment a lot more, especially the air. I am unsure of how a temperature of a reagent is currently calculated. and it seems like its different depending on the process of change being done. sometimes removing reagents from a container sometimes heats the contain up, so its some sort of heat cap system with a singular heat cap. It really doesn't matter, all these will have to be unified into a single consistent method anyways, specifically the same math used to calculate atmos temperature. When a reagent is removed from a container, its temperature is always unaffected. The new container and it's reagents do change its temperature following this equation.
+
+[(T of added * H of added + T of old * H of old) / (H of new + H of old) = T
+T being Temperature
+H being Heatcap
+[Please fact check this equation i wrote it from memory. There are also several ways to do this equation as well to achieve the same result.]
+
+Note that for the purposes of heat cap math, 5 units is treated as 1 mole.
+
+This all leads to the second main property of the reagent temperature rework.
+
+# The Secondary Rework: Temperature Equalization
+
+All that math above was to achieve one thing. To force the temperature of any container and its reagent to equalize with the atmosphere over time. Each tick, 00.5% of the container and its reagents will equalize with the atmosphere. So a container will slowly heat up the atmosphere, and cool itself off. assuming the container has more heat than the atmosphere. The math looks something like this.
+
+// Equation to equalize Atmos to portion of container.
+[T of Container * (.005 * H of Container) + T of Atmos * H of atmos / H of Atmos = T of Atmos
+
+// Equation of equalize Portion of container to Atmos
+[T of Container * (.005 * H of Container) + T of Atmos * H of atmos / (.005 * H of Container) = T of Equalized Container
+
+// Equation to equalize the Changed Portion of the container to the Rest of the container.
+[T of Equalized Container * (.005 * H of container) + T of Container * .995 of Container = T of Container
+
+[Yet again, please fact check this. Im known for my math mistakes.]
+
+If that was too much math, don't worry, its probably wrong. All that matters is that in a stale atmosphere (the tile isn't changing temps for reasons outside the beaker), the beaker and atmosphere will equalize temps in about 200 ticks. or about 1.6 mins. Too fast? just change the .005 to a smaller number. this can all be discussed.
+
+# Exceptions and Special Circumstances.
+
+Puddles:
+I believe puddles should not equalize as slowly as beakers and such do. I think 10 seconds is good. This has dangerous implications, and ties very much in with the burning reagents that have just recently been added. I do not know much about the new system or how it works. so ill refrain from commenting on this further. but i think this needs much discussion for both implementation and idea crafting.
+
+IVs:
+IV bags are in a thin bag used purely to hold chemicals with a ton of surface area, they should equalize faster, say about .025 or so. This is all a well crafted excuse to force IV Chemicals to be at room temperature more often, which should effect the next section of this document very much.
+
+# Reagents and Mobs
+
+I am unsure if we are going to get the Wizden Bloodstream changes, the one that merges the bloodstreams. This will be a more complicated affair otherwise. This section is written assuming the bloodstream has the single 1000 capacity pool with 300 blood as baseline.
+
+Mobs with bloodstreams should be effected by chemical temperature. you inject a hot liquid into the body, by god you should be burned.
+To this end, I believe your 300 blood should always be the same temperature as your body. Pull the blood out, and its the temperature of the mob, inject something into the bloodstream? it should equalize temps with the blood like any other container, and heat up the patient accordingly. This will only matter in the most extreme of circumstances, 1 needle of reagent isn't going to do much. However, 100 units of an IV bag WILL decrease the body temperature quite a bit. Although now that I'm thinking about it, mobs in this game are quite cold resistant anyways, so it might not effect much.
+
+This leads to the second point. Injection of hot/cold chemicals should cause damage upon injection. Drinking scalding hot coffee wont effect your body temperature to the point of burning. but it will scald your throat. What these damage values should be and what temp ranges? No clue. Discussion is advised.
+
+# Melting Points
+
+Currently, temperatures can get to some WILD heights. Part of this rework would hopefully fixing all the wack stuff to where it never happens. BUT. sometimes, chemists just go too far. they aren't paying attention, or just don't care that they have reduced 4 units of chemicals into 1 unit of revivopine. Sometimes, the container needs to melt.
+
+Eventually you come to the point of asking yourself, how is this plastic jug not a pile of melted plastic on the ground. How has this glass beaker not melted or even shattered from thermal shock?
+
+So I believe Beakers and Jugs need to at some point melt. This entire document, I've been stating "the temperature of the container and its reagents", This comes into play now. When specifically the container reaches its melting point, it will have different actions depending on the container.
+
+Plastic Will melt at 600 Kelvin, leaving a blob of plastic and spilling its contents on the ground.
+Glass Will shatter at 2000 Kelvin, leaving a shard of glass and spilling its contents on the ground.
+Blue space beakers should be immune, or at least be significantly higher than anything reasonable. 10,000 Kelvin?
+
+Im still unsure what their heat capacities will be, that can be more discussion.
+
+Additionally. Glass will undergo thermal shock. When the beaker's temperature jumps over 500 kelvin in one tick (or perhaps longer. still unsure), it will crack. which will slowly leak 2 unit of the contents of the beaker onto the floor every second.
+
+# Medical and its storage of Chemicals.
+
+Given these new changes, Medicine will now have to be properly stored to keep their temperatures correct. 
+
+This brings me to a change i wish to see in the Smart-Fridge. I purpose we give it 3 different shelves that are isolated from each other, and each has its own temperature setting (which would include temperatures higher than room temperature). And while it shouldn't have infinite storage, it should be at least somewhat significant. Perhaps only 1 shelf has a large amount of space, and the other two hold 10 IVs (or 20 bottles, or 4.5 jugs) or some such. When power is cut from the fridge. Each shelf's Atmosphere will slowly equalize with the atmosphere similar to how reagents would, and consequently the containers inside the fridge will also slowly equalize. So being in the fridge is better than not, but it will become room temp over time. This makes power crucial to some chemicals existences [Clarified later in this document].
+
+There are also bags to consider. lockers already have their own atmosphere, so will have temperature changed faster than open air, but what about bags? I think normal bags should provide no insulation at all. While new insulated bags are introduced. both for ghetto chem and for storing without the fridge. These bags would slow the equalization by half or a third or some such. discussion is again necessary.
+
+
+# Chemistry, and its Production of Chemicals.
+
+That brings us to the last person majorly effected by this change, Chemistry. This will no doubt cause more burden on chemists. That's why i intend to have basic chems not be all that effected by these changes. Oil still does its thing, decrease temps then die in higher temps (rip). but otherwise the basic chems will be just fine working in room temperature. But that's not the point of this section. I intend to elaborate on how i want to see the machines changed, particularly the chem master.
+
+I'm quite fond of the chem master, and how it currently operates. When you place a beaker inside, whatever chems may be moved around, the chem master magics heat in or out of existence to set it to the temperature of the beaker. I want this to stay the same, at the cost of power. This does not apply to the reactions. making oil will still decrease the temperature of the beaker, making exotic chems will still heat up the beaker to ungodly amounts, but the action of moving chems will not change temperatures. This has the added benefit of not having to store reagent temperatures inside the buffer. Also, while inside a chem master a beaker will not equalize with the atmosphere, and i would also like to see a display to show what the temperature of a beaker is inside the chem master (although it might be too good for chemists, i would imagine it to be massively helpful for newer players trying to learn the system). For the purposes of power consumption, when magicking heat in, all reagents will be assumed to be the temperature of the atmosphere, or in a lack of one, whatever space is (i forgot). This can lead to funny shenanigans that i believe drives ss13 and 14, at least to a small extent.
+
+The dispenser will be mostly unchanged. jugs inside the machine will be treated as if they are just on the ground, so are going to almost always be the same temperature as the atmosphere. Inside the dispenser though, like the master, the beaker will not equalize with the atmosphere.
+
+The hot plate will still exist, but instead of being a chemistry machine, will be a machine for the public. See below to see its replacement.
+
+The condenser. Each gas will be set to have a boiling point (i think it already exists, but i don't know what its for). if the temperature of the gas is above its boiling point, the condenser will use power to bring the gas inside it to the boiling point, where it will turn into liquid. If it is below, it will bypass having to cool the gas and simply turn it into liquid (at the same max rate it already has). Honestly, i wouldn't be surprised if the condenser already works like this. it would actually explain why plasma takes longer to condense than the co2. and WV too now that i think about it. I'm not certain though, so in the document this goes.
+
+All other existing chemistry tools will stay the same (for now...)
+
+Chemistry will require a new machine to run, something to replace the hot plate. A mini smart-fridge. It will work similarly to the hot plate, but it will have a target temperature, and can be set to lower than the room temperature. These can have upgrades similar to the thermo-machines of atmos.
+
+# 5 Units = 1 Mole? that doesn't make sense chemically.
+Why not have a molar system to do true chemistry with? Because no matter how i spun it in my head, the system would be so complex it would drive new chemists away even more than the current system does.
+
+You would need 2 systems to co exist. the unit system and the molar system, and every chemical would need conversions between the two. A bartender would never work with moles, that's stupid, so this necessitates the creation of two differing systems. one riddled with conversion hell for the chemist. with evil fraction and decimal places present in what would otherwise be a nice clean chem-master.
+
+# Atmos Implications
+
+This will not matter to most of you, but it massively interests me. Imagine a real liquid cooled turbine. this will actually be possible with these new changes. These changes definitely aren't limited to medical, and have massive implications for all the station. except maybe cargo...
+
+Perhaps one day we will be able to turn each chemical into a convertible gas to have it truly interact with atmos. This is however, a pipe dream, and wont happen any time soon.
+
+# Individual Chemicals
+
+I have not put much thought into this section. and will honestly feel small for what it should be. but this is something that can be expanded slowly.
+
+Cryox: Requires temperatures under 230 Kelvin to be made, 3 cryox breaks down into 1 water and 1.6 oxygen if above it. It will heal more efficiently the cooler it is.
+
+Pyrox: would be much the same as cryox, but above i think 320 Kelvin instead. again, the dex will break down into oxygen if it goes below.
+
+All cryox and pyrox subsidiaries would do much the same. but you would lose the botany chems as well, they turn into water or something. [This will make power outages truly devastating for well stocked medicals.]
+
+I'm currently bankrupt of individual ideas. so again, i encourage discussion on the matter.
+
+
