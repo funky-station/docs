@@ -21,7 +21,8 @@ Github links can include multiple PRs. Game design PRs are not required, but a h
 -- Confirm the following by placing an X in the brackets [X]: 
 - [ ] I acknowledge that my lore contribution can be iterated on in the future, and potentially changed. Lore is a community project from all members and of mutual ownership, though properly attributed to writers.
 - [ ] I acknowledge that lore and development work in tandem, and both can change each other. Lore can and will be changed as required to fit the needs of greater development goals.
--- You should understand that not following the above may get your proposal closed at lore maintainer’s discretion --
+
+-- You should understand that not following the above may get your proposal closed at lore maintainer’s discretion 
 
 ## Overview
 
