@@ -2,7 +2,7 @@
 
 | Designers       | Implemented                                 | GitHub Links    |
 | --------------- | ------------------------------------------- | --------------- |
-| Terkala         | No		                                     | TBD             |
+| Terkala         | Yes (50%)		                            | https://github.com/Terkala/Fern-Station/tree/Fern-Med             |
 
 ## Overview
 
@@ -112,7 +112,7 @@ The system is designed to be performance-optimized for 90 players, with cached c
 - **Battery Modules**: Provide power capacity (joules)
 - **Matter Bin Modules**: Provide service time (10 minutes per bin)
 - **Manipulator Modules**: Increase efficiency (first = 100%, each additional = +10%)
-- **Capacitor Modules**: Modify power efficiency/storage
+- **Capacitor Modules**: Modify Service time of all cyberwear by +10%. So a cyber-organ full of capacitors would lessen the amount of repairs all other cyberwear requires
 - **Special Modules**: Jaws of Life (adds prying capability), Bio-Battery (converts hunger to charge), Other tools add their respective abilities (screwdriver lets you screw things, etc). Pressing Use with an empty hand to trigger cyber-arms. Have cyber-legs not accept tools, but instead accept things that adjust walk speed, or stand-up-speed, make cyber-legs have less room as a result of not needing other tools to be put into them.
 
 **Shared Resource Pool:**
