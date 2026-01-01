@@ -77,4 +77,12 @@ Consider addressing:
 
 Your PR should put the full article of their lore in the lore-articles folder. If the proposal is to modify an existing lore article, the PR should modify those files.
 
+If a new lore article is made, the file title should be a descriptive and general name. All lore submissions should be in a github markdown file (.md)
+
+Ex: 
+| Bad | Good |
+|---|---|
+| mylore.md, cybersun_ferynn.md, syndicatelore.md | gorlexmarauders.md, deathsquad.md|
+
+
 Please list any newly created or modified lore articles here.
