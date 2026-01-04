@@ -33,7 +33,7 @@ By reintroducing the role with a **dedicated gas economy** and clear boundaries,
 - **Not** primarily responsible for station power (unless collaborating on specific systems like TEG's burn chamber)
 
 **Reasoning**:  
-The role needs a clear, exclusive identity that cannot be easily subsumed by Engineers, nor is seen as a senior Engineering role as it currently is. By making the entire station's breathable atmosphere their core duty (with economic weight behind every mole), and making them answer to Engineers on matters withing the Engineering department, enforced by SOP, we create gameplay that feels meaningfully different from that of standard Engineering. This directly addresses the previous removal reason by giving Atmos a unique "thing" that no other role owns.
+The role needs a clear, exclusive identity that cannot be easily subsumed by Engineers, nor is seen as a senior Engineering role as it currently is. By making the entire station's breathable atmosphere their core duty (with economic weight behind every mole), and making them answer to Engineers on matters withing the Engineering department, enforced by SOP, we create gameplay that feels meaningfully different from that of standard Engineering. 
 
 ### 2. Gas Economy System
 - **Every mole of gas now costs money**
