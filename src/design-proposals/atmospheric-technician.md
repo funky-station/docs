@@ -16,11 +16,11 @@ The core goals are:
 
 ## Motivation
 
-Atmospherics was removed because its gameplay was not unique enough — it often devolved into Engineering Plus with little consequence for waste, blurred responsibilities, and powergaming. Examples include atmos players forcing their way into power generation or providing all of Cargo's funds.  
+Atmospherics was removed because its gameplay was not unique enough - it often devolved into Engineering Plus with little consequence for waste, blurred responsibilities, and powergaming. Examples include atmos players forcing their way into power generation or providing all of Cargo's funds.  
 Stations run infinite gas setups with almost no maintenance.  
 Power generation frequently exploits free or looped atmos gases without real cost.
 
-By reintroducing the role with a **dedicated gas economy** and clear boundaries, we aim to make **station air supply a scarce, valuable, and truly specialized responsibility** — giving Atmos Techs a distinct identity separate from (but still collaborative with) Engineering.
+By reintroducing the role with a **dedicated gas economy** and clear boundaries, we aim to make **station air supply a scarce, valuable, and truly specialized responsibility** - giving Atmos Techs a distinct identity separate from (but still collaborative with) Engineering.
 
 ## Proposed Changes
 
@@ -31,11 +31,11 @@ By reintroducing the role with a **dedicated gas economy** and clear boundaries,
 - **Not** primarily responsible for station power (unless collaborating on specific systems like TEG's burn chamber)
 
 **Reasoning**:  
-The role needs a clear, exclusive identity that cannot be easily subsumed by Engineers, nor is seen as a senior Engineering role as it currently is. By making the **entire station's breathable atmosphere** their core duty (with economic weight behind every mole), we create gameplay that feels meaningfully different from power management. This directly addresses the previous removal reason by giving Atmos a unique "thing" that no other role owns.
+The role needs a clear, exclusive identity that cannot be easily subsumed by Engineers, nor is seen as a senior Engineering role as it currently is. By making the entire station's breathable atmosphere their core duty (with economic weight behind every mole), and making them answer to Engineers on matters withing the Engineering department, enforced by SOP, we create gameplay that feels meaningfully different from that of standard Engineering. This directly addresses the previous removal reason by giving Atmos a unique "thing" that no other role owns.
 
 ### 2. Gas Economy System
-- **Every mole of gas now costs money** (new station "gas credits" economy)
-- Price tiers (examples — to be balanced):
+- **Every mole of gas now costs money**
+- Price tiers (examples):
   - Extremely cheap: Water Vapor, CO₂, Nitrogen
   - Moderately priced: Oxygen, N₂O
   - Expensive: Plasma
@@ -43,7 +43,7 @@ The role needs a clear, exclusive identity that cannot be easily subsumed by Eng
 - Overfilling distro early drains starting funds rapidly
 
 **Reasoning**:  
-By attaching real economic cost to every mol (even if tiny for basics), every decision matters — overpressurizing, wasting, or mismanaging quickly becomes a budget issue. Early reserves and cheap basic gases keep survival feasible even with an underperforming Cargo department.
+By attaching real economic cost to every mol (even if tiny for basics), every decision matters - overpressurizing, wasting, or mismanaging quickly becomes a budget issue. Early reserves and cheap basic gases keep survival feasible even with an underperforming Cargo department.
 
 ### 3. Departmental Jurisdiction & Access Changes
 - **Engineers**:
@@ -165,7 +165,7 @@ This is a proposal to bring back **Atmospheric Technician** as a properly unique
 Particularly looking for feedback on:
 - Does this give Atmos Tech a strong, unique gameplay identity separate from Engineering?
 - Are the proposed boundaries and economic systems likely to create fun tension/cooperation rather than frustration?
-- Pricing philosophy — how aggressive should the cost curve be for basic vs exotic gases?
+- Pricing philosophy - how aggressive should the cost curve be for basic vs exotic gases?
 - Any other ways to further emphasize the role's uniqueness without overlapping too much with other jobs?
 
 All input appreciated
