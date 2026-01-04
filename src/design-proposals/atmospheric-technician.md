@@ -18,11 +18,11 @@ Alternative name: Gas accountant
 
 ## Motivation
 
-Atmospherics was removed because its gameplay was not unique enough - it often devolved into Engineering Plus with little consequence for waste, blurred responsibilities, and powergaming. Examples include atmos players forcing their way into power generation or providing all of Cargo's funds.  
+Atmospherics was removed because its gameplay was not unique enough - it often devolved into Engineering Plus with little consequence for waste, blurred responsibilities, and powergaming. Examples include atmos players forcing their way into power generation or providing all of Cargo's funds. 
 Stations run infinite gas setups with almost no maintenance.  
 Power generation frequently exploits free or looped atmos gases without real cost.
 
-By reintroducing the role with a **dedicated gas economy** and clear boundaries, we aim to make **station air supply a scarce, valuable, and truly specialized responsibility** - giving Atmos Techs a distinct identity separate from (but still collaborative with) Engineering.
+By reintroducing the role with a **dedicated gas economy** and clear boundaries, we aim to make **station air supply a scarce, valuable, and truly specialized responsibility** - giving Atmos Techs a distinct identity separate from (but still collaborative with) Engineering. Unlike before, unless otherwise directed by the Chief Engineer, their primary role and concern IS station gas reserves and management and nothing else. Mechanics will be balanced around making this a full time, dedicated station role that is justified in having it's own department. 
 
 ## Proposed Changes
 
@@ -33,7 +33,7 @@ By reintroducing the role with a **dedicated gas economy** and clear boundaries,
 - **Not** primarily responsible for station power (unless collaborating on specific systems like TEG's burn chamber)
 
 **Reasoning**:  
-The role needs a clear, exclusive identity that cannot be easily subsumed by Engineers, nor is seen as a senior Engineering role as it currently is. By making the entire station's breathable atmosphere their core duty (with economic weight behind every mole), and making them answer to Engineers on matters withing the Engineering department, enforced by SOP, we create gameplay that feels meaningfully different from that of standard Engineering. 
+The role needs a clear, exclusive identity that cannot be easily subsumed by Engineers, nor is seen as a senior Engineering role as it currently is. By making the entire station's breathable atmosphere their core duty (with economic weight behind every mole), and making them answer to Engineers on matters within the Engineering department, enforced by SOP, we create gameplay that feels meaningfully different from that of standard Engineering. 
 
 ### 2. Gas Economy System
 - **Every mole of gas now costs money**
@@ -45,7 +45,7 @@ The role needs a clear, exclusive identity that cannot be easily subsumed by Eng
 - Overfilling distro early drains starting funds rapidly
 
 **Reasoning**:  
-By attaching real economic cost to every mol (even if tiny for basics), every decision matters - overpressurizing, wasting, or mismanaging quickly becomes a budget issue. Early reserves and cheap basic gases keep survival feasible even with an underperforming Cargo department.
+By attaching real economic cost to every mol (even if tiny for basics), every decision matters - overpressurizing, wasting, or mismanaging quickly becomes a budget issue. Early reserves and cheap basic gases keep survival feasible even with an underperforming Cargo department. Mismanagement, however, can quickly drain funds and leave you unable to supply fuel for burn chambers, mix any exotic gases, or even refill spaced areas, needing to wait until funds become available before being able to do so. 
 
 ### 3. Departmental Jurisdiction & Access Changes
 - **Engineers**:
@@ -61,7 +61,7 @@ By attaching real economic cost to every mol (even if tiny for basics), every de
   - **Cannot** unilaterally interfere with powergen systems under SOP. Engineers outrank them on such matters.
 
 **Reasoning**:  
-Blurred lines caused most conflict and role dilution before. Strict access boundaries + chain-of-command clarity prevent "atmos bullying" while still allowing cooperation. Engineers keep power as their domain; Atmos gets exclusive ownership of the station's atmospheric system.
+Blurred lines caused conflict and role dilution before. Strict access boundaries and chain-of-command clarity prevent "atmos bullying" while still allowing cooperation. Engineers keep power as their domain; Atmos gets exclusive ownership of the station's atmospheric system. 
 
 ### 4. Power Generation Adjustments
 - **Systems heavily dependent on steady atmos gas flow**:
@@ -82,7 +82,7 @@ Blurred lines caused most conflict and role dilution before. Strict access bound
     - Uranium provides significantly longer runtime
 
 **Reasoning**:  
-Many issues can be traced to free atmos gas feeding powergen. Removing/converting them + adding fuel/refuel costs to electrolyzer breaks exploits. TEG stays as a deliberate bridge between roles (Atmos owns the burn room, Engineers can help with gas loops), creating natural collaboration without Atmos dominating power. One thing to note is that the use of gas does not necessitate an Atmos tech. Atmos techs are there to manage **station atmospherics**, not every single pipe or gas can. If a power source requires the use of gas, Engineers will be required to learn how to manage it's gas loop.
+Many issues can be traced to free atmos gas feeding powergen. TEG stays as a deliberate bridge between roles (Atmos owns the burn room, Engineers can help with gas loops), creating natural collaboration without Atmos dominating power. One thing to note is that the use of gas does not necessitate an Atmos tech. Atmos techs are there to manage **station atmospherics**, not every single pipe or gas can. If a power source requires the use of gas, Engineers will be required to learn how to manage it's gas loop. Electrolyzer changes are simply needed for balance. There is no feasible way for them to follow the laws of thermodynamics, so as a drawback they will require maintenance in the form of refueling. 
 
 ### 5. New Tools & Quality-of-Life
 - **Pipe analyzers**:
@@ -106,12 +106,12 @@ Pipe analyzers will allow engineers and atmos techs alike to immediately visuall
    - Shut down your gas factories when not needed to avoid wasting funds
    - Prioritize station air needs first
    - Produce valuable gases (e.g. Frezon) only when funds allow
-4. Sell excess gases via **Cargo** to finance more production
-5. Collaborate with Engineers on TEG setups when requested
+4. Sell excess gases via Cargo to finance more production
+5. Collaborate with Engineers on TEG setups when requested, but only after establishing cheap oxygen and fuel sources
 6. Play with gases in the SM, HFR or cystallizer
 
 **Reasoning**:  
-This loop emphasizes proactive management, economic awareness, and prioritization - core to making the role feel unique and engaging.
+This loop emphasizes proactive management, economic awareness, and prioritization. No longer will Atmos techs be able to speedrun infinite amounts of all gases. Without a steady flow of income through cargo, they cannot simply mix gases endlessly. Although the station as a whole may profit by Atmos mixing gases, at 10% of the station budget, even gases they sell through cargo are not likely to make back their production cost for the AIR budget unless very careful steps are taken to prevent any waste. Atmos would rely on cargo producing a flow of cash to fund their own Atmos projects and gas production. Their priorities will consist primarily of finding ways of saving money while supplying a steady supply of air and any other gas needs the station may have. Mixing gases will be a secondary endeavor, still important to the Atmos tech, but done so carefully and at a small scale so as to not drain funds. 
 
 ### 7. Economic & Progression Implications
 - Early: Focus on cheap gases + basic oxygen/hydrogen production.
@@ -122,7 +122,7 @@ This loop emphasizes proactive management, economic awareness, and prioritizatio
  https://github.com/funky-station/docs/pull/24/files?short_path=362209f#diff-362209f400135f73e1629d3831f35fa7f2e601cb41dec8504df42a46583f6d8a
 
 **Reasoning**:  
-Tying exotic production to Cargo creates station-wide economic interdependence. The Science tie-in (researching exotic gases and their reactions) offers future expansion potential.
+Tying gas production to Cargo performance creates station-wide economic interdependence. Without cashflow from Cargo, Atmos just won't have the means to mix gases, including air. The Science tie-in (researching exotic gases and their reactions) offers future expansion potential, giving atmos tech's a reason to produce and keep some exotic gases on hand.
 
 ### 8. Atmospheric Reserves Computer & Atmospheric Integrity Reserve (AIR) Budget
 - **Atmospheric Reserves Computer**:
