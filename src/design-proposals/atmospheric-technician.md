@@ -16,7 +16,7 @@ The core goals are:
 
 ## Motivation
 
-Atmospherics was removed because its gameplay was not unique enough — it often devolved into Engineering Plus with little consequence, blurred responsibilities, and powergaming (e.g., atmos players forcing their way into power generation).  
+Atmospherics was removed because its gameplay was not unique enough — it often devolved into Engineering Plus with little consequence for waste, blurred responsibilities, and powergaming. Examples include atmos players forcing their way into power generation or providing all of Cargo's funds.  
 Stations run infinite gas setups with almost no maintenance.  
 Power generation frequently exploits free or looped atmos gases without real cost.
 
