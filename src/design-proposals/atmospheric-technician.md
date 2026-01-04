@@ -135,7 +135,7 @@ Tying exotic production to Cargo creates station-wide economic interdependence. 
   - Atmos Techs **cannot** access or draw from the Engineering budget (to be enforced mechanically)
 
 **Reasoning**:  
-This system reinforces the Atmos technicians independence from Engineering. The dedicated computer makes gas sourcing feel like it's own logistics mini-game. A separate AIR budget prevents overlap/conflict with Engineering funds, ensures atmos mistakes only impact air supply, and makes the role's economy feel owned and distinct - further emphasizing the role's unique place on the station.
+This system reinforces the Atmos technicians independence from Engineering. The dedicated computer makes gas sourcing feel like it's own logistics mini-game. A separate AIR budget prevents overlap/conflict with Engineering funds, ensures atmos mistakes only impact air supply and atmos funds, and makes the role's budget feel owned and distinct - further emphasizing the role's unique place on the station and the need to manage and account for every mol that is leaving atmos.
 
 ## Balance Considerations
 - Prevents infinite oxygen/TEG loops without fuel cost
@@ -165,7 +165,8 @@ This is a proposal to bring back **Atmospheric Technician** as a properly unique
 Particularly looking for feedback on:
 - Does this give Atmos Tech a strong, unique gameplay identity separate from Engineering?
 - Are the proposed boundaries and economic systems likely to create fun tension/cooperation rather than frustration?
-- Pricing philosophy - how aggressive should the cost curve be for basic vs exotic gases?
+- Pricing philosophy - how aggressive should the pricing of basic gases be?
 - Any other ways to further emphasize the role's uniqueness without overlapping too much with other jobs?
+- Do these proposals properly address many of the issues mentioned in this PR? https://github.com/funky-station/funky-station/pull/2500
 
 All input appreciated
