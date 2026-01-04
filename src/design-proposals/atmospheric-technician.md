@@ -11,7 +11,7 @@ The core goals are:
 - Reintroduce Atmospheric Technician as a properly unique, meaningful role with distinct responsibilities
 - Create clear role specialization and healthy inter-departmental cooperation/tension
 - Turn gas management into a core economic, logistical, and gameplay pillar
-- Prevent infinite loops and free resources while rewarding thoughtful production & waste management
+- Prevent infinite gas utilization/waste and free resources while rewarding thoughtful production & waste management
 - Tie exotic gas production to the broader station economy (requiring Cargo cooperation)
 
 Alternative name: Gas accountant
