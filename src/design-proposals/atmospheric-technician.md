@@ -167,6 +167,5 @@ Particularly looking for feedback on:
 - Are the proposed boundaries and economic systems likely to create fun tension/cooperation rather than frustration?
 - Pricing philosophy - how aggressive should the pricing of basic gases be?
 - Any other ways to further emphasize the role's uniqueness without overlapping too much with other jobs?
-- Do these proposals properly address many of the issues mentioned in this PR? https://github.com/funky-station/funky-station/pull/2500
 
 All input appreciated
