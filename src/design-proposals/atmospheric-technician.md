@@ -5,7 +5,7 @@
 
 ## Overview
 
-This proposal introduces a dedicated **Atmospheric Technician** role under the Engineering department (a role that was recently removed due to lacking unique gameplay). It fundamentally reworks the station's gas economy by making **all gases** a purchasable resource with associated costs, and clearly separates responsibilities between standard Engineers (power-focused) and Atmos Techs (air/gas mixture-focused).
+This proposal introduces a dedicated **Atmospheric Technician** role under the Engineering department (a role that was recently removed due to lacking a clear distinction from Engineering gameplay). It fundamentally reworks the station's gas economy by making **all gases** a purchasable resource with associated costs, and clearly separates responsibilities between standard Engineers (power-focused) and Atmos Techs (air/gas mixture-focused).
 
 The core goals are:
 - Reintroduce Atmospheric Technician as a properly unique, meaningful role with distinct responsibilities
