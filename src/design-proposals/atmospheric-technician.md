@@ -5,16 +5,42 @@
 
 ## Overview
 
-This proposal introduces a dedicated **Atmospheric Technician** role under the Engineering department (a role that was recently removed due to lacking a clear distinction from Engineering gameplay). It fundamentally reworks the station's gas economy by making **all gases** a purchasable resource with associated costs, and clearly separates responsibilities between standard Engineers (power-focused) and Atmos Techs (air/gas mixture-focused).
+This proposal introduces a new job: the **Atmospheric Technician** (commonly called Atmos Tech), placed under the Engineering department.
 
-The core goals are:
-- Reintroduce Atmospheric Technician as a properly unique, meaningful role with distinct responsibilities
-- Create clear role specialization and healthy inter-departmental cooperation/tension
-- Turn gas management into a core economic, logistical, and gameplay pillar
-- Prevent infinite gas utilization/waste and free resources while rewarding thoughtful production & waste management
-- Tie exotic gas production to the broader station economy (requiring Cargo cooperation)
+Atmos Techs are completely responsible for the station's air supply and overall atmosphere. That means producing gases, mixing breathable air, distributing it through the pipe networks, maintaining reserves, pressure and temperature, handling all gas-related emergencies, and - importantly - owning **firefighting** across the entire station.
 
-Alternative name: Gas accountant
+They report to the **Chief Engineer** in the department hierarchy, but their day-to-day duties are entirely separate from standard Engineers. The two roles run in parallel with almost no overlap:
+
+- **Engineers** focus on power generation, electrical distribution, station construction, and structural repairs.  
+- **Atmos Techs** focus on **everything** related to gases, air quality, atmospheric integrity, and firefighting.
+
+To support this clear division, a new shared **Engineering access** level gives both jobs entry to common areas (main Engineering, tool storage, lathe room, shared maintenance corridors, etc.). Beyond those shared spaces:
+
+- Power generation facilities (Supermatter chamber, Nuclear Reactor area, major SMES rooms, etc.) remain **Engineer-only** access.  
+- The Atmos department, gas production facilities, major pipe distribution hubs, and canister storage remain **Atmos Tech-only** access.
+
+Equipment is split accordingly to reinforce the specialization:
+
+- Atmos Tech lockers will **not** include RCDs (their work isn't construction-focused) or insulated gloves (they can grab them from shared Engineering storage when needed).  
+- Engineers will **not** start with Rapid Pipe Dispensers (RPDs) in their lockers, but RPDs will still be available in Engineering areas where piping is generally required and will be printable at the protolathe.
+
+**Firefighting** is explicitly owned by Atmospherics. Only Atmos Techs will spawn with the specialized firefighting backpacks round-start. This makes it very clear who is accountable when a fire breaks out or an atmospheric incident occurs, establishing a clear sense of responsibility and the urgency it holds.
+
+Atmospheric alerts will be significantly improved for better visibility and accountability. The alert console will trigger consistent alarms, room-wide announcements, and flashing lights throughout the entire Atmos department. These alerts **cannot** be passively ignored - an Atmos Tech must actively acknowledge and clear them to end the alarms. Warnings will be detailed and specific: exact location, type of issue (dangerous gas leak, extreme heat, low temperature, overpressure, underpressure, etc.), so there's no ambiguity about the problem. Per SOP, Atmos Techs are **required** to respond to every fire and every atmospheric alert - no exceptions. Failure to clear Atmos warnings will result in fund penalties extracted from the Atmospheric budget. Marking legitimate emergencies for ignore without first addressing them will be a violation of SOP and a massive failure of duties, likely resulting in IC firings, and possibly even role bans if egregious enough.
+
+An app will also be added to the Atmos PDA that will ping the Atmospheric Technician with the above information any time there is a fire or other atmos emergency. The app will show any warnings and danger alerts in the atmospheric alert console. This will prevent there being any excuses for Atmos Techs failing to respond to atmospheric emergencies. In an emergency, all techs are required to respond with whatever relevant equipment they can reasonably grab. These changes establish the sense of urgency that atmospheric disasters on a small space station are worthy of.
+
+In the event of major station damage (meteor strikes, bombings, hull breaches, etc.), Atmos Techs are expected to assist with rebuilding the atmospheric distribution and emergency networks. They will focus on restoring pipe networks, fire alarms, and firelocks. They are not expected to carry bulk construction materials or handle the majority of structural reconstruction - that remains Engineering's domain - but they must be present to monitor atmosphere loss, minimize venting, and ensure the station doesn't bleed air while repairs are underway.
+
+The core gameplay loop for Atmos Techs revolves around carefully managing the station's limited resources while keeping everyone breathing. Refilling spaced or vented areas can get expensive (roughly **$3 per tile** as a baseline, primarily oxygen), so careless spacings, overpressurization, or waste can drain the department budget very quickly. This incentivizes smart, efficient production: setting up and maintaining the gas recycler, running the electrolyzer to produce oxygen and hydrogen on-site, burning hydrogen to reclaim CO2 into usable oxygen, and other cost-saving measures. These systems become expected priorities rather than optional side projects.
+
+The new gas economy fundamentally changes several long-standing problems. Gases will no longer be a source of infinite free value. Because Atmos only receives **10%** of the credits from any gases they sell through Cargo, mixing and selling exotics will typically not be profitable enough to sustain the Atmos budget on its own. While the station as a whole may earn money (spending less on raw gases than it earns from finished products), Atmos itself won't see a meaningful return. This completely flips the old dynamic: instead of Atmos pumping endless gas to fund Cargo, Cargo now needs to generate funds through other sales to fuel Atmos's exotic gas production. Gas mixing becomes a mid-to-late game luxury rather than an early exploit.
+
+This also kills the use of infinite free gas for power generation. Power setups like the TEG burn chamber will require real funding from the Atmos budget, meaning they are unlikely to run at scale early on. Overproduction will be punished - dumping excess heat into space for no gain just wastes precious gas. High-power gas-dependent generators will naturally become late-round projects that depend on a healthy Cargo economy and careful Atmos budgeting.
+
+To manage the new resource flow, the **Atmospheric Reserves Computer** will be added - a dedicated terminal located in the Atmos department. It functions like a cargo request console but is exclusive to Atmos Techs. Through it, they spend their department budget to purchase gas directly from the renamed **Gas Suppliers** (formerly gas miners). You buy the desired volume of gas, then set the desired flow rate and maximum pressure (capped at 1600 mol/s and 2500 kPa) to control how much enters the holding tank.
+
+Together, these changes turn station air supply into a real economic and logistical responsibility. Atmos Techs must balance keeping the crew alive with keeping their department solvent - rewarding careful planning, efficient recycling, and smart budgeting, while making wasteful or negligent play punishing.
 
 ## Motivation
 
