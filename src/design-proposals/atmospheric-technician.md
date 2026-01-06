@@ -179,30 +179,31 @@ The crystallizer is one of the areas where Atmos Techs get to experiment and mak
 The Atmospheric Reserves Computer is a cornerstone of Atmos Tech gameplay. Every purchase draws directly from the AIR budget, giving full control over gas intake. The list shows reserve levels instantly, so you can see if nitrogen or oxygen is low for distro or if plasma is running out for burns. Setting mol/s and max kPa lets you fine-tune delivery without flooding the system. Specific buys allow for a greater degree of control, while autobuy takes care of providing basics like distro supply without needing constant monitoring of an Atmos Tech - set it once and forget it, but always watch the budget isn't drained doing so. This turns gas sourcing into a real management loop: automate the cheap essentials, manually control expensive exotics, and react to station demands without waste. It keeps Atmos independent from Engineering, prevents overproduction that drain funds, and makes budget decisions a constant, active part of the shift.
 
 ### Typical Atmos Tech Gameplay Loop (Intended Shift)
-1. Setup basic distro (conservatively - avoid overpressurizing)
-2. Establish oxygen independence:
-   - Pipe water vapor to burn chamber with electrolyzer (with plasma/uranium fuel)
-   - Split into oxygen and hydrogen
-   - Burn hydrogen to produce heat for gas recycler and recycle CO₂ into O₂
-3. Carefully mix & produce gases:
-   - Shut down your gas factories when not needed to avoid wasting funds
-   - Prioritize station air needs first
-   - Produce valuable gases (e.g. Frezon) only when funds allow
-4. Sell excess gases via Cargo to finance more production
-5. Collaborate with Engineers on TEG setups when requested, but only after establishing cheap oxygen and fuel sources
-6. Play with gases in the SM, HFR or cystallizer
 
-This loop emphasizes proactive management, economic awareness, and prioritization. No longer will Atmos techs be able to speedrun infinite amounts of all gases. Without a steady flow of income through cargo, they cannot simply mix gases endlessly. Although the station as a whole may profit by Atmos mixing gases, at 10% of the station budget, even gases they sell through cargo are not likely to make back their production cost for the AIR budget unless very careful steps are taken to prevent any waste. Atmos would rely on cargo producing a flow of cash to fund their own Atmos projects and gas production. Their priorities will consist primarily of finding ways of saving money while supplying a steady supply of air and any other gas needs the station may have. Mixing gases will be a secondary endeavor, still important to the Atmos tech, but done so carefully and at a small scale so as to not drain funds. 
+1. Set up basic distro conservatively - avoid overpressurizing or wasting early funds  
+2. Establish oxygen independence:  
+   - Pipe water vapor to the burn chamber and run the electrolyzer (fuel with plasma or uranium)  
+   - Split into oxygen and hydrogen  
+   - Burn hydrogen to generate heat for the gas recycler and reclaim CO₂ into usable O₂  
+3. Produce gases carefully:  
+   - Use the Reserves Computer to buy base gases (oxygen, plasma, etc.) from suppliers as needed  
+   - Prioritize station air and basic needs first  
+   - Run gas factories (Frezon, tritium, healium, etc.) only when the AIR budget supports it  
+4. Sell excess gases through Cargo - returns are limited so this mainly benefits the station overall  
+5. Collaborate with Engineers on TEG burn chamber setups when requested, but only after securing cheap oxygen and fuel sources  
+6. Experiment with gases in the SM, HFR, or crystallizer once basics are stable and funds allow
+
+This loop keeps Atmos Techs focused on staying ahead of the budget while keeping air flowing. Gas suppliers provide the raw inputs (like oxygen or plasma) that everything else depends on - you buy what you need, when you need it. Factories for exotic gas production only run when there's room in the AIR budget after distro and emergencies are covered. Selling through Cargo brings some credits back, but the return is small enough that it's more about helping the station economy than keeping Atmos flush. The priority stays on finding ways to save money: efficient recycling, careful purchasing, and quick responses to breaches or fires. Once the basics are locked in, there's space for more experimentation - crystallizer, advanced mixes, or TEG support - but only if the funds are there.
 
 ### Economic & Progression Implications
-- Early: Focus on cheap gases + basic oxygen/hydrogen production.
-- Mid-game: Start on making exotic gases. Quickly run out of department funds. 
-- Late-game: Cargo must actively work to provide station funds enabling further exotic gas production.
-- If Cargo is inactive, station risks oxygen shortages and inability to produce interesting gases
-- Future tie-in: Exotic gases could provide **research value** to Science department tying into this suggestion:
- https://github.com/funky-station/docs/pull/24/files?short_path=362209f#diff-362209f400135f73e1629d3831f35fa7f2e601cb41dec8504df42a46583f6d8a
 
-Tying gas production to Cargo performance creates station-wide economic interdependence. Without cashflow from Cargo, Atmos just won't have the means to mix gases, including air. The Science tie-in (researching exotic gases and their reactions) offers future expansion potential, giving atmos tech's a reason to produce and keep some exotic gases on hand.
+- Early game: Focus on cheap gases (nitrogen, CO₂, water vapor) and basic oxygen/hydrogen production via electrolyzer and recycler 
+- Mid-game: Begin mixing exotic gases - costs add up quickly and budget limits become obvious  
+- Late-game: Cargo must generate funds through other sales (ore, artifacts, bounties, etc.) to keep exotic gas production going
+- If Cargo is inactive or underperforming, exotic mixing slows or stops, burn fuel runs low, and station air may start to feel strained  
+- Future tie-in: Exotic gases could provide research value to Science (studying reactions for points) - gives Atmos Techs a reason to produce and store some exotics even when funds are tight. Ties into this suggestion here: [ Science change proposal #24 ](https://github.com/funky-station/docs/pull/24/files?short_path=362209f#diff-362209f400135f73e1629d3831f35fa7f2e601cb41dec8504df42a46583f6d8a)
+
+The gas economy ties Atmos directly to the station's overall performance. Cheap basic air keep the station breathing most of the time with little input, but anything beyond that - exotic gas mixing, large-scale burns, crystallizer runs - requires a steady flow of credits from Cargo's other activities. Without it, production scales back fast. This makes Atmos feel like part of the bigger picture: they open late-game finances when the economy is healthy, but they can't carry the station alone. Early rounds stay manageable with smart recycling and conservative buying. Mid-game hits the budget wall on exotic gas production, forcing prioritization. Late-game opens up more when Cargo succeeds - more factories running, bigger mixes, and room for fun like crystallizer, SM or HFR experimentation or TEG support. The potential Science connection adds another use for exotics: keep some on hand for research instead of selling everything.
 
 ## Balance Considerations
 - Prevents infinite oxygen/TEG loops without fuel cost
