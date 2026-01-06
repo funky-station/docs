@@ -59,46 +59,50 @@ This gives one of SS14's deepest and most interesting systems, the atmospherics 
 ## Proposed Changes
 
 ### 1. New Role: Atmospheric Technician
+
 - Belongs to **Engineering department**
 - Answers to **Chief Engineer**
 - Primary responsibility: **Production, mixing, buying, managing, and distribution of the station's entire air supply**
-- **Not** primarily responsible for station power (unless collaborating on specific systems like TEG's burn chamber)
+- **Not** primarily responsible for station power (unless collaborating on specific systems like TEG burn chamber)
 
-**Reasoning**:  
-The role needs a clear, exclusive identity that cannot be easily subsumed by Engineers, nor is seen as a senior Engineering role as it currently is. By making the entire station's breathable atmosphere their core duty (with economic weight behind every mole), and making them answer to Engineers on matters within the Engineering department, enforced by SOP, we create gameplay that feels meaningfully different from that of standard Engineering. 
+**Reasoning**  
+The Atmospheric Technician is built around a clear focus within Engineering. Their core job is the station atmosphere - producing, mixing, buying, and distributing every gas the station needs, with real cost tied to every mole. This keeps their work separate from Engineers while staying under the Chief Engineer for department oversight. Atmos Techs handle air and gases, Engineers handle power and construction, and any overlap (like TEG fuel) requires explicit coordination. The setup creates two distinct roles that support each other without stepping on toes.
 
 ### 2. Gas Economy System
-- **Every mole of gas now costs money**
+
+- **Every mole of gas costs money**
 - Price tiers (examples):
   - Extremely cheap: Water Vapor, CO₂, Nitrogen
   - Moderately priced: Oxygen, N₂O
   - Expensive: Plasma
-- Station starts with a modest budget for initial distro/reserves priming
-- Overfilling distro early drains starting funds rapidly
+- Station starts with a modest AIR budget for initial distro priming and reserves
+- Overfilling distro or buying excess early drains funds quickly
 
-**Reasoning**:  
-By attaching real economic cost to every mol (even if tiny for basics), every decision matters - overpressurizing, wasting, or mismanaging quickly becomes a budget issue. Early reserves and cheap basic gases keep survival feasible even with an underperforming Cargo department. Mismanagement, however, can quickly drain funds and leave you unable to supply fuel for burn chambers, mix any exotic gases, or even refill spaced areas, needing to wait until funds become available before being able to do so. 
+**Reasoning**  
+Putting a cost on every mole makes every choice matter. Overpressurizing lines, venting carelessly, or buying too much at once eats into the budget fast. Cheap gases like nitrogen keep basic air refills and survival affordable, even on slow Cargo rounds. Expensive gases like plasma or exotics are gated by starting funds, so they require planning and justification. The starting budget provides enough cushion to get distro running without instant failure, but poor management forces waiting on more credits before fueling burns or mixing anything advanced.
 
 ### 3. Departmental Jurisdiction & Access Changes
-- **Engineers**:
-  - Primary focus remains power generation & distribution
-  - Use **canned gases** for power generators requiring gases(SM, nuclear reactor) with strong emphasis on waste reduction
-  - No direct/privileged access to atmos pipe networks
-  - Connecting pipes to atmos now requires **explicit discussion/cooperation** with Atmos Tech
-  - Jurisdiction over power producers (SM, Nuclear Reactor, etc.)
-- **Atmos Techs**:
-  - Full control over atmos department area & gas production facilities
-  - Responsible for station-wide breathable air mixture
-  - Can assist with engineering tasks when directed by Chief Engineer
-  - **Cannot** unilaterally interfere with powergen systems under SOP. Engineers outrank them on such matters.
 
-**Reasoning**:  
-Blurred lines caused conflict and role dilution before. Strict access boundaries and chain-of-command clarity prevent "atmos bullying" while still allowing cooperation. Engineers keep power as their domain; Atmos gets exclusive ownership of the station's atmospheric system. 
+- **Engineers**:
+  - Primary focus: power generation and distribution
+  - Use canned gases for power systems that need them (SM, nuclear reactor), with emphasis on waste reduction
+  - No direct access to atmos pipe networks
+  - Connecting pipes to atmos requires explicit cooperation with Atmos Tech
+  - Full jurisdiction over power producers (SM, Nuclear Reactor, etc.)
+
+- **Atmos Techs**:
+  - Full control over atmos department area and gas production facilities
+  - Responsible for station-wide breathable air mixture
+  - Can assist with engineering tasks only when directed by Chief Engineer
+  - Cannot interfere with powergen systems under SOP (Engineers outrank them on power matters)
+
+**Reasoning**  
+Defined boundaries make responsibilities clear from the start. Engineers own power fully, including any gas they use - they manage their own systems. Atmos Techs own the atmosphere, pipes, and production facilities. This reduces confusion, makes cooperation deliberate (like agreeing on a TEG connection), and keeps each role focused on what it does best. The Chief Engineer oversees the department overall, but daily decisions stay within each specialty.
 
 ### 4. Power Generation Adjustments
 
 - **Systems heavily dependent on steady atmos gas flow**:
-  - Removed at round-start or converted to canister/closed-loop systems
+  - Removed or converted to canister/closed-loop systems
 
 **Reasoning**  
 Power generation belongs to Engineering, and it should work independently without pulling unlimited free gas from the atmos department. Round-start setups that feed directly from distro or infinite sources get removed or reworked into self-contained canister systems. Engineers buy the gas they use, so they have to think about waste and efficiency. 
@@ -155,19 +159,24 @@ The electrolyzer is the main way Atmos Techs produce oxygen and hydrogen on-site
 The crystallizer is one of the areas where Atmos Techs get to experiment and make money or interesting/useful materials once the basics are covered. With gas no longer free, recipes need tuning so that inputs and outputs balance out and stay profitable. New recipes add options: air crystals for emergency refills, halon crystals for fire suppression grenades. The new loading system works like this: craft the crystal in the crystallizer, craft an empty air grenade, combine them to load the effect. Trigger the grenade and it releases the payload - air, healium, N₂O, halon, etc., at different amounts or temperatures depending on the crystal. This keeps the crystallizer as an Atmos tool, ties into firefighting, and gives late-game play something fun and useful without breaking the economy.
 
 ### 6. Atmospheric Reserves Computer & Atmospheric Integrity Reserve (AIR) Budget
-- **Atmospheric Reserves Computer**:
-  - A unique cargo-request-style computer located in the Atmos department
-  - Dedicated tab/interface for purchasing **gas credits** using the AIR budget
-  - Controls the flow rate / activation of connected gas miners
-  - Allows fine-tuned management of mined gas input to prevent wasteful overproduction
-- **Atmospheric Integrity Reserve (AIR) Budget**:
-  - Separate, dedicated budget exclusively for the Atmospheric department
-  - Used for all gas purchases, miner operations, and credit top-ups via the Reserves Computer
-  - Completely independent from the standard Engineering/Maintenance budget
-  - Atmos Techs **cannot** access or draw from the Engineering budget (to be enforced mechanically)
 
-**Reasoning**:  
-This system reinforces the Atmos technicians independence from Engineering. The dedicated computer makes gas sourcing feel like it's own logistics mini-game. A separate AIR budget prevents overlap/conflict with Engineering funds, ensures atmos mistakes only impact air supply and atmos funds, and makes the role's budget feel owned and distinct - further emphasizing the role's unique place on the station and the need to manage and account for every mol that is leaving atmos.
+- **Atmospheric Reserves Computer**:
+  - Dedicated terminal located in the Atmos department
+  - Displays a list of all connected gas suppliers with current reserve amounts for each gas
+  - For each gas: set flow rate (mol/s), max pressure (kPa), and option to buy a specific amount in specos immediately
+  - Autobuy toggle per gas - when enabled, automatically purchases to maintain a configurable minimum reserve level
+  - Manual buy button: select a gas and specify exact amount to purchase right away
+  - When triggered (manual or autobuy), the supplier delivers gas directly to the set mol/s rate and max kPa limit
+  - Reserve levels for all gases shown in real time in the list for quick monitoring
+
+- **Atmospheric Integrity Reserve (AIR) Budget**:
+  - Separate budget dedicated exclusively to the Atmospheric department
+  - Used for all gas purchases, supplier operations, and any related costs
+  - Completely independent from the Engineering budget to prevent a few players draining all ENG funds
+  - Atmos Techs have no access to Engineering funds (enforced mechanically)
+
+**Reasoning**  
+The Atmospheric Reserves Computer is a cornerstone of Atmos Tech gameplay. Every purchase draws directly from the AIR budget, giving full control over gas intake. The list shows reserve levels instantly, so you can see if nitrogen or oxygen is low for distro or if plasma is running out for burns. Setting mol/s and max kPa lets you fine-tune delivery without flooding the system. Specific buys allow for a greater degree of control, while autobuy takes care of providing basics like distro supply without needing constant monitoring of an Atmos Tech - set it once and forget it, but always watch the budget isn't drained doing so. This turns gas sourcing into a real management loop: automate the cheap essentials, manually control expensive exotics, and react to station demands without waste. It keeps Atmos independent from Engineering, prevents overproduction that drain funds, and makes budget decisions a constant, active part of the shift.
 
 ### Typical Atmos Tech Gameplay Loop (Intended Shift)
 1. Setup basic distro (conservatively - avoid overpressurizing)
@@ -218,12 +227,12 @@ Tying gas production to Cargo performance creates station-wide economic interdep
 
 ## Feedback Requested
 
-This is a proposal to bring back **Atmospheric Technician** as a properly unique role with a dedicated identity that it lacked before its removal.
+This is a proposal to introduce the **Atmospheric Technician** as a dedicated role with clear responsibilities and real economic weight.
 
 Particularly looking for feedback on:
-- Does this give Atmos Tech a strong, unique gameplay identity separate from Engineering?
-- Are the proposed boundaries and economic systems likely to create fun tension/cooperation rather than frustration?
-- Pricing philosophy - how aggressive should the pricing of basic gases be?
-- Any other ways to further emphasize the role's uniqueness without overlapping too much with other jobs?
+- Does this give Atmos Tech a strong, focused gameplay identity separate from Engineering?
+- Do the boundaries and economic systems create good cooperation and tension between departments without too much frustration?
+- How aggressive should basic gas pricing be (nitrogen/CO₂ cheap, plasma expensive)?
+- Any other ways to make the role stand out without overlapping too much with other jobs?
 
-All input appreciated
+All input appreciated.
