@@ -96,67 +96,65 @@ By attaching real economic cost to every mol (even if tiny for basics), every de
 Blurred lines caused conflict and role dilution before. Strict access boundaries and chain-of-command clarity prevent "atmos bullying" while still allowing cooperation. Engineers keep power as their domain; Atmos gets exclusive ownership of the station's atmospheric system. 
 
 ### 4. Power Generation Adjustments
+
 - **Systems heavily dependent on steady atmos gas flow**:
   - Removed at round-start or converted to canister/closed-loop systems
+
+**Reasoning**  
+Power generation belongs to Engineering, and it should work independently without pulling unlimited free gas from the atmos department. Round-start setups that feed directly from distro or infinite sources get removed or reworked into self-contained canister systems. Engineers buy the gas they use, so they have to think about waste and efficiency. 
+
 - **TEG (Thermo-Electric Generator)**:
   - Remains a joint responsibility system
-  - Burn chamber supply & maintenance remains an **Atmos Tech primary responsibility** (mapped connection encouraged)
+  - Burn chamber supply & maintenance is an **Atmos Tech primary responsibility** (direct mapped pipe connection from Atmos encouraged)
   - Loop setup can be done by either role
-  - Running round start on plasma rather than on hydrogen wastes money needlessly
-  - Oversupplying power burns money causing a natural economic limiter
+  - Running round-start on plasma rather than hydrogen wastes money needlessly
+  - Oversupplying power burns money, acting as a natural economic limiter
+
+**Reasoning**  
+The TEG is the main point where Atmos and Engineering actually work together. Atmos Techs control the burn chamber and fuel supply - it's their budget that pays for the plasma or hydrogen going in. Engineers take care of the heat loop and power output. Because gas comes from limited funds now, you can't just run a TEG at full blast from round start; plasma is expensive, so it only makes sense later when Cargo is bringing in funds. If you produce more power than the station needs, you end up spacing heat for nothing and wasting budget. The system limits itself naturally and forces both departments to talk and coordinate.
+
 - **HFR**:
-  - Rebalance to cost a bit less power while still remaining fairly high
-  - Fuel cost becomes the primary limiter (plasma/tritium/hydrogen)
+  - Rebalance to cost significantly less to buy
+  - Reduce the power costs of running it
+  - Fuel cost (plasma/tritium/hydrogen) becomes the primary limiter
+
+**Reasoning**  
+Stations won't have endless cash anymore with the gas economy in place. Dropping the price of the HFR significantly brings it back into reach for mid-game Engineering projects. Fuel becomes the real limiter - plasma, tritium, or hydrogen all require funds and time to acquire, so running the HFR already depends on excess department funds. This keeps it a solid late-round goal while limiting early catastrophes out of Atmospherics.
+
+### 5. New Tools and Atmospheric Device Adjustments
+
+- **Pipe Sensors**:
+  - Clicking a pipe sensor now shows the gas mixture inside the pipe (same interface as a gas analyzer)
+  - Sprite blinks green (<4500 kPa), orange (>4500 kPa), or red (>9000 kPa) to indicate pressure
+
+**Reasoning**  
+Pipe sensors are already placed along major networks, so adding this functionality makes them more useful without needing a new item. Engineers and Atmos Techs can quickly check gas composition and pressure in loops or distro lines by just clicking the sensor - no more carrying a separate gas analyzer everywhere. The color-coded blinking gives an instant visual cue on whether a line is safe, overpressurized, or dangerously high. This helps debug clogs, spot waste, and monitor systems faster, especially during emergencies such as a Supermatter delamination. 
+
+- **Temperature Gates**:
+  - New pipe valve type: only opens within a configurable temperature range
+  - Helps maintain safe return temperatures in recycling loops
+
+**Reasoning**  
+Recycling distro air back into production saves a lot of budget, but heat from burn chambers or reactions can wreck your mixtures fast. Temperature gates let you set a safe window so the loop only passes gas when it's at the right temp. This makes recycling reliable and cuts down on constant manual fixes. Atmos Techs can focus on keeping the station breathing and the budget in the green instead of babysitting every pipe for temperature spikes.
+
 - **Electrolyzer**:
   - Remove "magic gas vanishing" balancing mechanic
-  - Rework to function like a generator:
-    - Requires **plasma** or **uranium** to operate (refueling needed)
-    - Uranium provides significantly longer runtime
+  - Rework to require **plasma** or **uranium** fuel to operate (refueling needed)
+  - Uranium provides significantly longer runtime than plasma
 
-**Reasoning**:  
-Many issues can be traced to free atmos gas feeding powergen. TEG stays as a deliberate bridge between roles (Atmos owns the burn room, Engineers can help with gas loops), creating natural collaboration without Atmos dominating power. One thing to note is that the use of gas does not necessitate an Atmos tech. Atmos techs are there to manage **station atmospherics**, not every single pipe or gas can. If a power source requires the use of gas, Engineers will be required to learn how to manage it's gas loop. Electrolyzer changes are simply needed for balance. There is no feasible way for them to follow the laws of thermodynamics, so as a drawback they will require maintenance in the form of refueling. 
+**Reasoning**  
+The electrolyzer is the main way Atmos Techs produce oxygen and hydrogen on-site, especially for the recycling loop (water vapor in, O₂ and H₂ out, burn H₂, reclaim CO₂ with heat). It always took less power than the energy it was capable of producing. To mitigate that issue, it will need fuel to run - plasma for shorter runtimes, uranium for longer runtimes. 
 
-### 5. New Tools & Quality-of-Life
-- **Pipe analyzers**:
-  - Show gas mixture inside pipe (gas analyzer window)
-  - Color-coded pressure indication (green < 4500, orange > 4500, red > 9000)
-  - Help Engineers monitor and debug gas loops without needing to carry a gas analyzer
-- **Temperature gates**:
-  - Special valves that only open within a configurable temperature range
-  - Helps maintain safe return temperatures in loops
+- **Crystallizer**:
+  - Rebalance all recipes for new gas economy (e.g., plasma recipe adjusted so input costs vs. output value make it profitable)
+  - Add new recipes: basic air crystal, halon crystal (for firefighting grenades)
+  - Crystals no longer act as standalone grenades - combine with empty air grenades to load effects
+  - Add basic air crystal recipe to produce standard air grenades when loaded
 
-**Reasoning**:  
-Pipe analyzers will allow engineers and atmos techs alike to immediately visually identify clogged pipe networks, making it far easier for even inexperienced technicians to indentify and address issues quickly. Temperature gates will be neccessary for safely recycling distro gases.
+**Reasoning**  
+The crystallizer is one of the areas where Atmos Techs get to experiment and make money or interesting/useful materials once the basics are covered. With gas no longer free, recipes need tuning so that inputs and outputs balance out and stay profitable. New recipes add options: air crystals for emergency refills, halon crystals for fire suppression grenades. The new loading system works like this: craft the crystal in the crystallizer, craft an empty air grenade, combine them to load the effect. Trigger the grenade and it releases the payload - air, healium, N₂O, halon, etc., at different amounts or temperatures depending on the crystal. This keeps the crystallizer as an Atmos tool, ties into firefighting, and gives late-game play something fun and useful without breaking the economy.
 
-### 6. Typical Atmos Tech Gameplay Loop (Intended Shift)
-1. Setup basic distro (conservatively - avoid overpressurizing)
-2. Establish oxygen independence:
-   - Pipe water vapor to burn chamber with electrolyzer (with plasma/uranium fuel)
-   - Split into oxygen and hydrogen
-   - Burn hydrogen to produce heat for gas recycler and recycle CO₂ into O₂
-3. Carefully mix & produce gases:
-   - Shut down your gas factories when not needed to avoid wasting funds
-   - Prioritize station air needs first
-   - Produce valuable gases (e.g. Frezon) only when funds allow
-4. Sell excess gases via Cargo to finance more production
-5. Collaborate with Engineers on TEG setups when requested, but only after establishing cheap oxygen and fuel sources
-6. Play with gases in the SM, HFR or cystallizer
-
-**Reasoning**:  
-This loop emphasizes proactive management, economic awareness, and prioritization. No longer will Atmos techs be able to speedrun infinite amounts of all gases. Without a steady flow of income through cargo, they cannot simply mix gases endlessly. Although the station as a whole may profit by Atmos mixing gases, at 10% of the station budget, even gases they sell through cargo are not likely to make back their production cost for the AIR budget unless very careful steps are taken to prevent any waste. Atmos would rely on cargo producing a flow of cash to fund their own Atmos projects and gas production. Their priorities will consist primarily of finding ways of saving money while supplying a steady supply of air and any other gas needs the station may have. Mixing gases will be a secondary endeavor, still important to the Atmos tech, but done so carefully and at a small scale so as to not drain funds. 
-
-### 7. Economic & Progression Implications
-- Early: Focus on cheap gases + basic oxygen/hydrogen production.
-- Mid-game: Start on making exotic gases. Quickly run out of department funds. 
-- Late-game: Cargo must actively work to provide station funds enabling further exotic gas production.
-- If Cargo is inactive, station risks oxygen shortages and inability to produce interesting gases
-- Future tie-in: Exotic gases could provide **research value** to Science department tying into this suggestion:
- https://github.com/funky-station/docs/pull/24/files?short_path=362209f#diff-362209f400135f73e1629d3831f35fa7f2e601cb41dec8504df42a46583f6d8a
-
-**Reasoning**:  
-Tying gas production to Cargo performance creates station-wide economic interdependence. Without cashflow from Cargo, Atmos just won't have the means to mix gases, including air. The Science tie-in (researching exotic gases and their reactions) offers future expansion potential, giving atmos tech's a reason to produce and keep some exotic gases on hand.
-
-### 8. Atmospheric Reserves Computer & Atmospheric Integrity Reserve (AIR) Budget
+### 6. Atmospheric Reserves Computer & Atmospheric Integrity Reserve (AIR) Budget
 - **Atmospheric Reserves Computer**:
   - A unique cargo-request-style computer located in the Atmos department
   - Dedicated tab/interface for purchasing **gas credits** using the AIR budget
@@ -170,6 +168,32 @@ Tying gas production to Cargo performance creates station-wide economic interdep
 
 **Reasoning**:  
 This system reinforces the Atmos technicians independence from Engineering. The dedicated computer makes gas sourcing feel like it's own logistics mini-game. A separate AIR budget prevents overlap/conflict with Engineering funds, ensures atmos mistakes only impact air supply and atmos funds, and makes the role's budget feel owned and distinct - further emphasizing the role's unique place on the station and the need to manage and account for every mol that is leaving atmos.
+
+### Typical Atmos Tech Gameplay Loop (Intended Shift)
+1. Setup basic distro (conservatively - avoid overpressurizing)
+2. Establish oxygen independence:
+   - Pipe water vapor to burn chamber with electrolyzer (with plasma/uranium fuel)
+   - Split into oxygen and hydrogen
+   - Burn hydrogen to produce heat for gas recycler and recycle CO₂ into O₂
+3. Carefully mix & produce gases:
+   - Shut down your gas factories when not needed to avoid wasting funds
+   - Prioritize station air needs first
+   - Produce valuable gases (e.g. Frezon) only when funds allow
+4. Sell excess gases via Cargo to finance more production
+5. Collaborate with Engineers on TEG setups when requested, but only after establishing cheap oxygen and fuel sources
+6. Play with gases in the SM, HFR or cystallizer
+
+This loop emphasizes proactive management, economic awareness, and prioritization. No longer will Atmos techs be able to speedrun infinite amounts of all gases. Without a steady flow of income through cargo, they cannot simply mix gases endlessly. Although the station as a whole may profit by Atmos mixing gases, at 10% of the station budget, even gases they sell through cargo are not likely to make back their production cost for the AIR budget unless very careful steps are taken to prevent any waste. Atmos would rely on cargo producing a flow of cash to fund their own Atmos projects and gas production. Their priorities will consist primarily of finding ways of saving money while supplying a steady supply of air and any other gas needs the station may have. Mixing gases will be a secondary endeavor, still important to the Atmos tech, but done so carefully and at a small scale so as to not drain funds. 
+
+### Economic & Progression Implications
+- Early: Focus on cheap gases + basic oxygen/hydrogen production.
+- Mid-game: Start on making exotic gases. Quickly run out of department funds. 
+- Late-game: Cargo must actively work to provide station funds enabling further exotic gas production.
+- If Cargo is inactive, station risks oxygen shortages and inability to produce interesting gases
+- Future tie-in: Exotic gases could provide **research value** to Science department tying into this suggestion:
+ https://github.com/funky-station/docs/pull/24/files?short_path=362209f#diff-362209f400135f73e1629d3831f35fa7f2e601cb41dec8504df42a46583f6d8a
+
+Tying gas production to Cargo performance creates station-wide economic interdependence. Without cashflow from Cargo, Atmos just won't have the means to mix gases, including air. The Science tie-in (researching exotic gases and their reactions) offers future expansion potential, giving atmos tech's a reason to produce and keep some exotic gases on hand.
 
 ## Balance Considerations
 - Prevents infinite oxygen/TEG loops without fuel cost
