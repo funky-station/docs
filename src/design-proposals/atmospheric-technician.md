@@ -205,26 +205,37 @@ This loop keeps Atmos Techs focused on staying ahead of the budget while keeping
 
 The gas economy ties Atmos directly to the station's overall performance. Cheap basic air keep the station breathing most of the time with little input, but anything beyond that - exotic gas mixing, large-scale burns, crystallizer runs - requires a steady flow of credits from Cargo's other activities. Without it, production scales back fast. This makes Atmos feel like part of the bigger picture: they open late-game finances when the economy is healthy, but they can't carry the station alone. Early rounds stay manageable with smart recycling and conservative buying. Mid-game hits the budget wall on exotic gas production, forcing prioritization. Late-game opens up more when Cargo succeeds - more factories running, bigger mixes, and room for fun like crystallizer, SM or HFR experimentation or TEG support. The potential Science connection adds another use for exotics: keep some on hand for research instead of selling everything.
 
-## Balance Considerations
-- Prevents infinite oxygen/TEG loops without fuel cost
-- Forces meaningful limitations to exotic gas production
-- Creates natural cooperation and tension between Cargo, Atmos and Engineering
-- Keeps TEG viable but economically limited (Should still be far more rarely mapped)
-- Makes early-round atmos mistakes **expensive** (teachable moment)
+### Balance Considerations
 
-## Drawbacks & Risks
-- Increased complexity for new players
-- Potential for toxic atmos-engineering conflict if roles aren't clearly communicated
-- Cargo dependence might feel punishing on low-pop or dead Cargo rounds
-- Requires careful tuning of gas prices, budget allocation and starting budget
+- Eliminates free gas for power generation  
+- Limits exotic gas production to budget availability  
+- Encourages cooperation and tension between Cargo, Atmos, and Engineering  
+- Keeps TEG viable but economically restricted - it should remain rare in mapping  
+- Makes early-round Atmos mistakes expensive and noticeable - teaches budget awareness quickly  
+- Prevents Atmos from flooding the station with funds just to self-sustain production - station profits from exotic gases go through Cargo, with Atmos getting a small cut (10% or similar) back to AIR  
 
-## Implementation Notes
-- New role job definition + access levels
-- Gas credit economy backend
-- Electrolyzer & HFR reworks
-- Temperature gate pipes
-- Pipe analyzer sprites & functionality
-- Map updates
+### Drawbacks & Risks
+
+- Adds complexity for new players - Reserves Computer, budget tracking, and device reworks take time to learn  
+- Risk of Atmos-Engineering conflict if boundaries aren't communicated clearly - requires good Chief Engineer oversight  
+- Cargo dependence can feel punishing on low-pop or dead Cargo rounds - station air stays affordable, but exotic gas production and burns stall  
+- Drastically changes current atmospheric gameplay that many enjoy - removes infinite production and shifts focus to budget management  
+- Creates a marked split between atmos gameplay on Funky compared to other servers
+- Overhauls the station economy - traditionally inflated by Atmos gas sales, now requires a new progression system with careful tuning needed for prices, starting budget, and returns  
+- New systems like autobuy and Reserves Computer could lead to accidental drains if misconfigured
+
+### Implementation Notes
+
+- New role job definition and access levels  
+- Direct gas purchase system and Reserves Computer backend (including list view, flow rate/kPa controls, specific buys, autobuy logic, reserve monitoring)  
+- Electrolyzer rework (fuel requirement)  
+- HFR rebalance (lower purchase/power costs)  
+- Temperature gate pipes  
+- Pipe sensor updates (gas analyzer view + pressure-color blinking)  
+- Crystallizer recipe rebalance and new additions (air/halon crystals, grenade loading)  
+- PDA alert app for fires and atmos emergencies  
+- Map updates (e.g., TEG burn chamber pipe routing, shared Engineering areas)  
+- Mechanical enforcement of AIR budget isolation from Engineering funds
 
 ## Feedback Requested
 
