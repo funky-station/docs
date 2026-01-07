@@ -20,7 +20,7 @@ The damage can also be healed via the chaplain's bible and through 'Aqua Vitae',
 
 
 All magical entities should be able to deal and receive arcane damage. The chaplain, cosmic cultists, blood cultists, heretics and wizards all should have options that deal damage and ways to heal it.
-- Chaplains will deal the arcane damage primarily via their non-support nullrods (as the support nullrods would remain focused on support rather than damage). They would be able to use the bible to quickly heal said damage on anyone afflicted by it via their bible (so after deconverting someone they can heal them from the damage).
+- Chaplains will deal the arcane damage primarily via their non-support nullrods (as the support nullrods would remain focused on support rather than damage). They would be able to use the bible to quickly heal said damage on anyone afflicted by it (so after deconverting someone they can heal them from the damage).
 - Blood cults should be able to deal arcane damage via their knives and abilities, and their pylon should be able to heal it relatively quickly.
 - Cosmic cultists should deal arcane damage via their weapons and abilities, and heal it via producing Aqua Vitae and through their ability to heal when near the monument.
 - A heretic would never normally lose to a chaplain in a scenario where they go against eachother solo, but the heretic would still be able to deal arcane damage via their blades and abilities. Their summons should also be able to deal arcane when attacking.
