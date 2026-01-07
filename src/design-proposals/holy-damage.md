@@ -28,7 +28,7 @@ All magical entities should be able to deal and receive arcane damage. The chapl
 ## Holy Item Crafting
 Both science, the chaplain and sec should be able to craft items that deal and increase the resistance to arcane damage. Allowing them to interact between eachother will also increase the possible RP between them.
 - The chaplain should be able to create items and light armor that protects against arcane damage. These can come in many flavours, from charms and sigils to tinfoil hats. They should also be able to bless items to deal slight holy damage for a limited time, so increasing the possible roleplay interactions between them and sec. On top of that, the holy water the chaplain makes should be able to deal arcane damage against magical threats splashed with it.
-- Security should be able to make basic weapons that deal holy damage (but not as much as chaps), such as silver knives and stakes. These would not be as good as nomral bullets against unarmored magical threats, but against things like heretic armor, cosmic armor and blood cult armor it would be preferrable, and otherwise very useless agains non-magical threats.
+- Security should be able to make basic weapons that deal holy damage (but not as much as chaps), such as silver knives and stakes. These would not be as good as normal weapons against unarmored magical threats, but against things like heretic armor, cosmic armor and blood cult armor it would be preferrable, and otherwise very useless agains non-magical threats.
 - Science should be able to research items to help both the chaplain and security against magical threats. Such items could include reality anchors (items that passively heal arcane damage), but shouldn't have as many options as the chaplain.
 
 ## Changes
