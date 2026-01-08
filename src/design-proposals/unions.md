@@ -14,6 +14,8 @@ This will ultimately replace the Revolutionaries gamemode, and server rules will
 
 All station unions will have a mix of benefits already provided, such as improved healthcare plans, increased scrip pay, or other benefits, such as a free drink every 15 minutes. The Head of Personnel, NTR or Captain can increase or remove benefits.
 
+This isn't a separate gamemode, this is just Space Station now.
+
 ## Background
 
 There is a huge gap in this game. How do players express discontent with command staff in a way that is tangible and round changing? Revolutionaries as a secret gamemode only present a window into an overarching story of corporate slavery and exploitation. As Funky Station wants to be a more immersive MRP environment, its best that we introduce dynamics that exist in real life.
@@ -70,18 +72,38 @@ A clipboard that can register new members to the union. Simply tap their ID, ent
 
 Sometimes words aren't enough.
 
+### Win Condition
+
+Since this is replacing revolutionaries, this is important to mention.
+
+There is no win-condition.
+
+People who are on strike or willingly break their contracts, or those who do NOT have contracts are not allowed on the evacuation shuttle. If a riot or strike gets so terrible, command is free to use lethal force to escape, and protect loyal crew and station property. A contract can be broken by the worker themselves or a command member. A Union Steward can recommend that someones contract be broken, for fighting, not following SOP, endangering others, or otherwise any issue that is deemed relavent. 
+
+There will be no evac restrictions apart from those imposed by other antagonists. A new Space Law provision can be added to prevent strikers from accessing CC, allowing security to forcefully remove or kill strikers and union heads. Encourage strikers to stay on the station with some fancy green text talking about how the station was overrun by strikers and revolutionaries.
+
 ## Game Design Rationale
 
-will finish later
+Setting is the most important thing in Space Station. Building up this setting to its maximum potential allows players to sink their teeth into a rich world where things Happen:tm:. This Happening:tm: will encourage players to interact with one another in a way that makes sense for roleplay.
+
+There is nothing magical here in terms of mechanics, but the primary goal is to continue building up our world to encourage corruption and violence, in a way that does not feel out of nowhere.
 
 ## Roundflow & Player interaction
 
-will finish later
+This is the biggest change to roundflow that has ever happened on Funky.
+
+All rounds from now on will have this looming precense of tangible violence that can break out at any time if someone fucks up big enough. Players will be forced to consider what their actions will mean in the long run (in the context of a round), both in terms of what there is to gain and potential consequences. Laws will also have to be rewritten to make sure that they do side with NanoTrasen, but also leave there be enough meat for potential court cases and decisions to be made by higher ups in NanoTrasen. The Magistrate and all other roles will now have an extended responsibility to make sure that they protect all NanoTrasen property. 
+
+Union Stewards will also now make sure their departments have everything they need to keep running. This is the contract between the Union, employees, and NanoTrasen. That they will fulfill the stipulations of the contract to the best of their ability.
+
+More and more people will be accountable to each-other, which for an immersive roleplaying game, is a good thing.
 
 ## Administrative & Server Rule Impact (if applicable)
 
-will finish later
+This will change a lot of things. The removal of the self-antag rule and an emphasis on keeping things in-character is now paramount. There needs to be a greater emphasis on each player that they will keep things that happens in a round confined to a round, and to accept that things will not always go their way, if ever. 
+
+Why this prelude? The game, after this is merged, more than ever is now dependent on things running smoothly between departments and between individuals. If a break down in communication happens, that is heard. If materials are now running out, that is heard. Conflicts that does not relate directly with antagonists will be more common now. This is ultimately our goal, to blur that distinction in-character as much as possible to allow people to tell interesting and immersive stories.
 
 # Technical Considerations
 
-will finish later
+not much really other than revs being removed. we can keep all that logic the same.
