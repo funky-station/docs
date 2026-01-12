@@ -111,7 +111,7 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 ### III degree
 
-## Denial of Spiritual & Religious Service
+### Denial of Spiritual & Religious Service
 
   [bold]Description[/bold]: To deny an employee the mandated 5-10 minute work exemption for spiritual and religious service through congregation.
 
