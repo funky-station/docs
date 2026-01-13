@@ -10,7 +10,7 @@ Adds in [Conspirators](https://wiki.ss13.co/Conspirator) to Funky, roleplay focu
 
 ## Background
 
-As Funkystation currently is, there is a significant lack of RP antagonists to tie into the roleplay that MRP implies. With the addition of pinktext, there are definitely more incentives for existing antagonists to RP and be creative with their objectives - thieves are especially subject to this - but there is a lack of antags where the focus is RP. Especially so for team antagonists.
+As Funkystation currently is, there is a significant lack of largely RP-focused and freeform antagonists. With the addition of pinktext, there are definitely more incentives for existing antagonists to RP and be creative with their objectives - thieves are especially subject to this - but there is largely a lack of antags allowed to follow practically any plan to achieve their goals. Especially so for team antagonists.
 
 Adding conspirators and a gamemode focused around them intends to adress this issue. While criticisms of Goon's conspirators seem to pin down a lack of tools, direction, and end reward for them, chances are that these issues may be reduced with the different server culture of Funky and SS14 as a whole.
 
