@@ -44,6 +44,17 @@ This also may fit proposals that are too vague. Usually, a maintainer will spell
 
 ```
 
+## A Lore Proposal
+
+A lore proposal is a submission of an article or content piece for canon status in the Funky environment. Articles may be developed and discussed in the Lore-Article-Review channel of discord, but must undergo a proper review via submission to the lore-proposals folder. The submission template is located in the design folder of src
+
+The reasons for why a lore proposal may be denied include:
+
+* The proposal does contradicts the core vision and goal of the Funkystation project
+* The proposal has goes against one our core design principles
+* The proposal requires further changes or review to meet standards, whether in grammar or content
+* The proposal does not properly explore the ramifications of the change on the setting and game
+
 ## What are the chances my proposal gets accepted?
 
 To be truthful, we won't know until you propose it. We can give you some expectations though.
