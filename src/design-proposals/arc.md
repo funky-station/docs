@@ -1,7 +1,7 @@
 # Atmospheric Reserves Computer (ARC) and Gas Economy Design Document
 
 ## Status
-**Draft** / **Proposal**
+**Proposal**
 
 ## Overview / Core Goal
 
