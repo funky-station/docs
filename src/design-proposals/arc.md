@@ -23,7 +23,6 @@ Gas becomes a purchasable commodity with per-mol pricing, managed through the AR
 - Key features:
   - View and manage AIR budget balance.
   - Purchase gases directly from linked extractors (configure output pressure, moles-per-second rate).
-  - Emergency money case: pull cash from an emergency case if AIR depleted and station distro is low.
   - UI shows current reserves in extractors, extractor status, cost per mol.
 
 ## The AIR Budget (Atmospheric Integrity Reserve)
