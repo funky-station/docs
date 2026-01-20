@@ -18,7 +18,7 @@ Okay so when Security arrests someone the Inmate will be transported to the Proc
 
 In the Courtroom guilt will be determined. Any evidence of the crime will be brought to the Courtroom by the escorting officer. Any witnesses or victims that were related to the crime that are willing to testify should be in the court too. The Magistrate will then proceed with a hasty trial to determine sentence and guilt.
 
-The Inmate will be escorted back to processing where the Warden simply finsihes locking up their personal items and gives them their Prisoner ID.
+The Inmate will be escorted back to processing where the Warden simply finishes locking up their personal items and gives them their Prisoner ID.
 
 Now, for actual changes needed to take place
 
