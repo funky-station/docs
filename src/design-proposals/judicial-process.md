@@ -43,19 +43,17 @@ A new system of Trials will probably have to be added, designed to simply establ
 
 ## Game Design Rationale
 
-Consider addressing:
 - This Judicial Process system will add many new ways to RP, and should bring consistent RP to lawyers and to CentComm personell. It should decrease the workload of the Warden aswell, and will make sentencing feel more RP'ing, instead of just rushing through sentence after sentence. Trials will be cool again, trust
 
 ## Roundflow & Player interaction
 
-Consider addressing:
 - This feature will be present in every round, since there is always Inmates. I want people that witness crimes and are victims to crimes to show up to Court on their own accord. Both to defend the Inmate and to Prosecute the Inmate. 
 
 Magistrates should make sure they're communicating with Lawyers and IAAs since both of them usually like trials.
 
 And the option to halt the Judicial Process is an option if Security is busy with greater threats, so it shouldn't ever be bothersome to attend Court as Security or CC.
 
-## Administrative & Server Rule Impact (if applicable)
+## Administrative & Server Rule Impact 
 
 - This rule shouldn't require any additional admin intervention. People are already getting sentenced, this is just a more formal way of doing it
 - I don't think this feature will add more potential for griefing. When Court becomes more frequent, there shouldn't be any Court bombers or anything
