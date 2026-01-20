@@ -1,6 +1,6 @@
 # Condition-Based Medical System
 
-| Designers | Implemented                    | GitHub Links |
+| Designers | Implemented | GitHub Links |
 | --- | --- | --- |
 | Ven | :x: No | TBD |
 
@@ -35,6 +35,32 @@ The choice of treatment depends on severity, time pressure, and Medbay workload.
 ### Condition Progression and Complications
 Untreated or minimally treated conditions may worsen over time or develop complications (e.g., infection, organ damage), encouraging follow-up care and long-term consequences.
 
+## Crit, Incapacitation, and Death
+
+Under a condition-based medical system, **crit and death are outcomes of systemic failure**, not standalone conditions themselves. This proposal does not remove crit/dead states, it changes how injuries and illnesses contribute to reaching them.
+
+### Vital vs Non-Vital Systems
+
+Conditions can broadly be categorized by the systems they affect:
+
+- **Non-vital conditions** (e.g., broken bones, soft tissue injuries, localized burns) are generally not immediately lethal on their own.
+- **Vital system conditions** (e.g., oxygen deprivation, cardiac failure, brain trauma, severe organ damage) directly threaten a character’s ability to remain conscious or alive.
+
+Non-vital conditions may indirectly contribute to crit or death over time through mechanisms such as blood loss, shock, pain, infection, or reduced mobility.
+
+### Crit
+
+Crit represents a state where one or more vital systems can no longer maintain normal function (for example: loss of consciousness, respiratory failure, cardiac arrest, or extreme shock). A character in crit is alive but systemically unstable, and requires intervention to prevent death.
+
+### Death
+
+Death occurs when vital system failure becomes irreversible. This may be caused by untreated cascading conditions, catastrophic organ damage, prolonged hypoxia, or other failures that exceed the body’s ability to recover.
+
+### Repeated or Overlapping Injuries
+
+When damage is applied to an already-injured body part, it does not create redundant conditions (e.g., “double-breaking” a bone). Instead, it worsens the existing condition or introduces secondary effects such as increased bleeding, tissue damage, nerve trauma, or heightened shock risk, placing additional strain on vital systems.
+
+Internally, numeric values are still used to evaluate thresholds and progression, but these are abstracted away from the player-facing experience.
 
 ## Game Design Rationale
 
