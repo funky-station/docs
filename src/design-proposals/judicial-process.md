@@ -6,7 +6,7 @@
 
 ## Overview
 
-This Doc puts a recent discussion into writing. Instead of Warden being the one who convicts and sentences, the Magistrate will be the one who determines what someone is guilty of and what length their sentence is. In the courtroom, hopefully...
+This Doc puts a recent discussion into writing. Instead of Warden being the one who convicts and sentences, the Magistrate will be the one who determines what someone is guilty of, and what length their sentence is. And of course it will take place in the Courtroom
 
 ## Background
 
