@@ -1,4 +1,4 @@
-# Short, Properly Capitalized Title
+# Changes to the Judicial Process
 
 Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
 
