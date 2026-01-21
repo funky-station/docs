@@ -36,7 +36,7 @@ Currently, the salvage chassis struggles with the fact it's only useful for mini
 This chassis could use some minor buffs, mostly for the lategame.
 
 - Add an advanced topicals module.
-- Add soap to the surgery module, or make the advanced surgery module the default. Currently the default surgery module is broken, dirtying without the borg knowing.
+- Add soap to the surgery module, or make the advanced surgery module the default. Currently the default surgery module is broken and can contaminate surgical tools without providing any feedback to the borg player.
 - Add a paramed module, giving the borg a medical scanner and other utilities for on the go medical aid as a lategame research.
 
 ***
