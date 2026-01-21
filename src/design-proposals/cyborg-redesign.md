@@ -1,4 +1,4 @@
-# "Cyborg Reowork"
+# "Cyborg Rework"
 
 | Designers             | Implemented | GitHub Links |
 |-----------------------| ----------- | ------------ |
