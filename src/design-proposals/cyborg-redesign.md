@@ -27,7 +27,7 @@ This chassis already seems perfectly balanced; I want the other chassis to get b
 
 ***
 ### Salvage Chassis
-Currently, the salvage chassis struggles with the fact it's only useful for mining, and mining only. This leaves salv borgs most of the time seperating from the salvage team, as the only benefit they'll have for them is easy repairs in fights. The changes here help the salvage chassis be more useful for salvagers that prefer mags or wrecks, while also keeping them strong in the mining department.
+Currently, the salvage chassis struggles with the fact it's only useful for mining, and mining only. This leaves salv borgs most of the time separating from the salvage team, as the only benefit they'll have for them is easy repairs in fights. The changes here help the salvage chassis be more useful for salvagers that prefer mags or wrecks, while also keeping them strong in the mining department.
 - The salvage chassis now starts with a basic mining module instead of the mining module, containing a radio and pickaxe.
 - The normal mining module is now unlocked with research, with salvage equipment.
 - Add a salvaging module, moving the shovel and crowbar from the mining module to itself, and adding a fulton slot.
