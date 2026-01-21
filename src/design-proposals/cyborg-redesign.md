@@ -16,7 +16,7 @@ In the rework, I'd like to ensure that every single chassis has equal opportunit
 
 The summary of the changes are as follows:
 
-- All borg chassis should start significantly weaker that how they will eventually be in the lategame.
+- All borg chassis should start significantly weaker than how they will eventually be in the lategame.
 - Each borg chassis should have equal opportunity to get upgrades.
 - Borgs should be better than their crew staff counterpart in the lategame on their own.
 ## Features to be added
