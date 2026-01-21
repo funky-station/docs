@@ -61,5 +61,5 @@ More suggestions are always appreciated
 Currently borgs are a pretty versatile asset for antagonists that choose to convert them, though a major drawback is that generally, it's only science that can even get a chance to EMAG them in most cases.
 A traitor could in theory gain AA, or access break the Borg, but I'm fond of the idea of additional methods of EMAGing a Borg.
 
-An idea is that when a borg is crit, the lock on their maintainance panel automatically unlocks. Then only needing to screw the panel open and use the EMAG.
+An idea is that when a borg is crit, the lock on their maintenance panel automatically unlocks. Then only needing to screw the panel open and use the EMAG.
 This way it would be a little easier to get a borg as your ally.
