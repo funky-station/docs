@@ -23,7 +23,7 @@ The summary of the changes are as follows:
 ***
 ### Engineering Chassis
 
-This chassis already seems perfectly balanced, I want the other chassis need to get buffs to bring those chassis to the same level as this chassis in terms of usage.
+This chassis already seems perfectly balanced; I want the other chassis to get buffs to bring those chassis to the same level as this chassis in terms of usage.
 
 ***
 ### Salvage Chassis
