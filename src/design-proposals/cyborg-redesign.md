@@ -44,7 +44,7 @@ This chassis could use some minor buffs, mostly for the lategame.
 This one's a bit of a tricky one, I have been thinking to give it more variety of things it can do. Adding some new modules to help them assist the various departments
 
 - Basic Security (unlocked in a T1 security research): Disabler (one that auto recharges), a slowly recharging flash, slot to hold handcuffs and a space law book.
-- Lethal Security (unlocked in a T3 security research, the module is printable in the secfab instead): Rechargeable Laser Riffle, Combat Knife.
+- Lethal Security (unlocked in a T3 security research, the module is printable in the secfab instead): Rechargeable Laser Rifle, Combat Knife.
 
 The idea of these are that the borgs will need to go to the roboticist or research director to probably get relawed to fit their purpose.
 
