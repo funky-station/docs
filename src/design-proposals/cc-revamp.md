@@ -1,6 +1,4 @@
-# Short, Properly Capitalized Title
-
-Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
+# Central Command Revamp
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
@@ -49,15 +47,11 @@ This wouldn't influence the round per se, except for the Central Command Intern 
 This would maybe give admins a bit more workload, due to Central Command being a separate map.
 Maybe small changes for the EORG rule need to be made, we wouldn't want players to destroy Central Command before the end of round.
 
-Additionally, the CCI needs to get some ground rules, currently they kind of are an CCO, but not an admin.
+Additionally, the Central Command Intern needs to get some ground rules, currently they kind of are a Central Command Official, but not an admin.
 
 Every role available at Central Command then, will all have randomized characters. So people wouldn't know who is what unless they say something OOC to one another. (Unless it's okay if it can pick a player's character, this isn't final)
 
-# Technical Considerations
-
-- Are there any anticipated performance impacts?
-- Does the feature require new systems, UI elements, or refactors of existing ones?
-- For required UI elements, give a short description or a mockup of how they should look like (for example a radial menu, actions & alerts, navmaps, or other window types)
+## Technical Considerations
 
 This proposal uses mostly already existing systems and UI elements.
 The ghost bar button might get removed, or that it will open a new UI that looks like the ghostroles menu, but displays roles available for at Central Command instead.
