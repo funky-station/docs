@@ -17,13 +17,13 @@ I wanted to make a doc proposal out of it to summarize it and for people to talk
 
 ## Features to be added
 
-First off, the Central Command Intern. There are some minor tweaks it needs to get;
+First off, the Central Command Intern. There are some minor tweaks it needs to get:
 
 - They need to get their own stamp.
 - They also need to get some OOC rules, due to it being able to overrule the NTR and Magistrate
 - And they need to require playtime from both the NTR and the Magistrate. Around 30h each I was thinking, but could be tweaked. The reason being the same as the previous point.
 
-When the Central Command Intern changes are made, there will be two roles available roundstart
+When the Central Command Intern changes are made, there will be two of those roles available roundstart.
 
 Roles that will be at Central Command, like some medics at the medical wing, and some engineers in the engineering wing.
 Those will be ghost roles for players to pick from the ghost role menu, in the description of the ghost role it will clearly state it is on Central Command.
@@ -44,7 +44,7 @@ This wouldn't influence the round per se, except for the Central Command Intern 
 
 ## Administrative & Server Rule Impact
 
-This would maybe give admins a bit more workload, due to Central Command being a separate map.
+This might give admins a bit more workload, due to Central Command being a separate map.
 Maybe small changes for the EORG rule need to be made, we wouldn't want players to destroy Central Command before the end of round.
 
 Additionally, the Central Command Intern needs to get some ground rules, currently they kind of are a Central Command Official, but not an admin.
@@ -56,4 +56,4 @@ Every role available at Central Command then, will all have randomized character
 This proposal uses mostly already existing systems and UI elements.
 The ghost bar button might get removed, or that it will open a new UI that looks like the ghostroles menu, but displays roles available for at Central Command instead.
 
-For performance, it might increase it a bit. If this feature gets added, the ghost bar would be unnecessary and that would be one less map to have active.
+For performance, it might improve it a bit. If this feature gets added, the ghost bar would be unnecessary and that would be one less map to have active.
