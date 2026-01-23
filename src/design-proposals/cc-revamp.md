@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| TheHolyAegis | :x: | TBD |
+| TheHolyAegis | :x: | https://github.com/funky-station/funky-station/pull/2733 |
 
 ## Overview
 
