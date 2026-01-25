@@ -5,8 +5,6 @@
 | Teasq | :x: No | TBD |
 | otokonoko-dev | :x: No | TBD |
 
-Shoutout to GreyMario for bouncing ideas.
-
 ## Forewarning
 These changes are unlikely to happen anytime soon, so please make balancing suggestions with that in mind. As of right now, I am planning on rebalancing the gauntlet and all the other nullrods. With the increase in effective "chaplains", I will also obviously make stuff like closing rifts take much longer and potentially damaging to the acolytes. Number discussions are welcome, but I don't want that to be the predominant discussion until the ideas are set in stone.
 
@@ -133,12 +131,6 @@ but can act as the chaplain's successor in the event of their permanent death or
 ### Miracle system
 Originally inspired by the /tg/station sects, but I realized the possibility of that becoming very gamey so instead it works as follows:
 You have a miracle pool that slowly fills up over the course of the round, performing miracles draws from this pool. Could possibly make use of rituals that requires the presence of acolyte(s) to speed up miracle regeneration
-
-## Holy damage
-
-Holy damage is a form of supernatural damage, fueled by the belief of the acolytes and the chaplain.
-The primary purpose of holy damage is to provide strength to the chaplain's weapons without it applying to every scenario in the game. It is a form of metaphysical damage that penetrates usual resistances, but will only apply its damage to antagonists with a specific component. That way, the nullrods are still a powerful tool against the occult (heretics and cults) while being rather weak otherwise.
-Much like on other servers where it has been implemented and working, holy damage will passively heal itself as the target's spirit recovers from the damage. 
 
 ## Technical considerations
 • Rebalancing nullrods and the chaplain/acolytes' ability to effectively remove cult rifts.
