@@ -53,7 +53,7 @@ but can act as the chaplain's successor in the event of their permanent death or
 ### Green alert
 1. The chaplain must keep the nullrod in its base form, or otherwise manifest a non-weapon form.
 
-2. The chaplain must prepare an oration and establish a time of congregation for said oration. Orations are expected to last 5 to 10 minutes.
+2. The chaplain must prepare a sermon and establish a time of congregation for said sermon. Sermons are expected to last 5 to 10 minutes.
 
 3. The chaplain may not bible thump crew without explicit consent from the thumpee.
 
@@ -62,7 +62,7 @@ but can act as the chaplain's successor in the event of their permanent death or
 ### Blue alert
 1. The chaplain may manifest any nullrod form, but may not openly carry it if it has been manifested as a weapon.
 
-2. The chaplain must still make preparations for an oration if one has not yet been held.
+2. The chaplain must still make preparations for a sermon if one has not yet been held.
 
 3. The chaplain must investigate the legitimacy of any occult-related claims and relay their findings to the relevant authorities: central command or command. General holy duties can be given to acolytes while the chaplain investigates.
 
@@ -89,7 +89,7 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 1. Acolytes are expected to follow the same religion and practices as the chaplain, unless the religion and practices are unsanctioned and/or illegal.
 
-2. Acolytes must help the chaplain prepare for the oration and participate in it. When the time for an oration is established and the time draws near, acolytes are expected to gather as many people for the oration as they can.
+2. Acolytes must help the chaplain prepare for the sermon and participate in it. When the time for a sermon is established and the time draws near, acolytes are expected to gather as many people for the sermon as they can.
 
 3. Acolytes must must listen and make time for any and all confessions when directed or when the chaplain is indisposed.
 
