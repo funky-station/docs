@@ -3,7 +3,6 @@
 | Designers | Implemented | GitHub Links |
 |---|---|---|
 | Teasq | :x: No | TBD |
-| otokonoko-dev | :x: No | TBD |
 
 ## Forewarning
 These changes are unlikely to happen anytime soon, so please make balancing suggestions with that in mind. As of right now, I am planning on rebalancing the gauntlet and all the other nullrods. With the increase in effective "chaplains", I will also obviously make stuff like closing rifts take much longer and potentially damaging to the acolytes. Number discussions are welcome, but I don't want that to be the predominant discussion until the ideas are set in stone.
@@ -38,9 +37,9 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 • Crafting for altars in the case that a chaplain wishes to follow a sect that doesn't match the roundstart altar.
 
-• Making holy damage functional.
 
-• Mapping and pietydrobe changes to account for acolytes.
+## Acolyte
+• Requires a PDA. I'll probably resprite the chaplain PDA at the same time as making this one.
 
 ## Chaplain and acolyte SOP
 
