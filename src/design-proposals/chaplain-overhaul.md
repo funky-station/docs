@@ -107,19 +107,19 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 • Bible: loses the ability to heal organics, instead heals silicons
 
-• Miracle(s): VERY expensive ability to convert organics into silicons (default borg with medium capacity cell, target has to be willing)
+• Miracle(s): VERY expensive ability to convert organics into silicons (likely default look, target has to be willing)
 
 ### Greed (NanoTrasen altar)
 
 • Bible: stronger heal, but costs money
 
-• Miracle(s): spawn a random amount of spesos, can convert silver into gold and vice versa.
+• Miracle(s): spawn a random amount of spesos, can convert silver into gold
 
 ### Chaos (chaos altar)
 
 • Bible: stronger heal that has a chance of dealing damage instead regardless of a helmet
 
-• Miracle(s): roll the fated die: a d6 with varying negative or positive effects (TBD)
+• Miracle(s): roll the fated die: a d6 with varying negative or positive effects
 
 ### Nature (druid altar)
 
@@ -132,11 +132,9 @@ Originally inspired by the /tg/station sects, but I realized the possibility of 
 You have a miracle pool that slowly fills up over the course of the round, performing miracles draws from this pool. Could possibly make use of rituals that requires the presence of acolyte(s) to speed up miracle regeneration
 
 ## Technical considerations
-• Rebalancing nullrods and the chaplain/acolytes' ability to effectively remove cult rifts.
+• Rebalancing nullrods and the chaplain/acolytes' ability to effectively remove cult rifts
 
-• Reducing the chaplain's individual combat prowess against cultists and heretics if the addition of acolytes makes them too difficult to face.
-
-• Removing or severely reducing crew's ability to use bibles, thus making it easier on cult as only a few select individuals can reasonably contest them for rifts and exorcise them.
+• Reducing the chaplain's individual combat prowess against cultists and heretics
 
 # Game Design rationale
 
