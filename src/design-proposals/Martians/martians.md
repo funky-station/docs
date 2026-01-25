@@ -1,7 +1,5 @@
 # Martians/Eggheads
 
-Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
-
 | Designers     | Implemented | GitHub Links |
 |---------------|---|---|
 | Teasq | :x: No | TBD |
@@ -53,7 +51,7 @@ fit back into their suits. (Current idea is a long do-after to "squeeze" them ba
 - They are particularly weak to piercing damage, because it makes holes in their suits and that is a no-no.
 - They have a slightly higher heat resistance, thanks to their adaption to the heat of their planet and the insulative
 nature of their suit.
-- A selection blues, greens and gray skin tones or at the very least a limited hue selection.
+- A selection blues, greens and gray skin tones or at the very least a limited hue selection.﻿
 
 - Most importantly, unique uniform sprites for each department so Martians can still be identified easily.
 - A variety of bubble helmets to allow for greater individual expression.
