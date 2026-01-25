@@ -51,7 +51,8 @@ fit back into their suits. (Current idea is a long do-after to "squeeze" them ba
 - They are particularly weak to piercing damage, because it makes holes in their suits and that is a no-no.
 - They have a slightly higher heat resistance, thanks to their adaption to the heat of their planet and the insulative
 nature of their suit.
-- A selection blues, greens and gray skin tones or at the very least a limited hue selection.﻿
+- A selection blues, greens and gray skin tones or at the very least a limited hue selection.
+- They cannot wear head items other than bubble helmets due to their colossal cranium.
 
 - Most importantly, unique uniform sprites for each department so Martians can still be identified easily.
 - A variety of bubble helmets to allow for greater individual expression.
@@ -91,4 +92,5 @@ had they intended to and not something the mechanics inherently promote.
 that scrambles your speech for those who do not have a specific component.
 - Infrastructure is needed to change the Martians' sprites conditionally. This is already being worked on, but the 
 mechanic of blobifying is impossible without it.
+- Displacements are needed for outerclothing and hands. It is not necessary for the head, as that will be whitelisted.
 - VERY IMPORTANT: the AAC tablet needs to be renamed to "Speech Pro™"
