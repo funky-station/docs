@@ -28,9 +28,9 @@ Many initially believed it to be a neurological disorder similar to aphasia: wha
 for the simple fact that it was not a disorder. This is the norm for Martians. While Martians can understand the
 
 common language (idk what the common language is called? Simlish type shit), any attempts to reciprocate results in
-the Martians' uniquely encoded language: gleeblespeak. Many attempts have been made by non-Martians to translate the
+the Martians' uniquely encoded language: glumphish. Many attempts have been made by non-Martians to translate the
 language, but all attempts have failed. There are no grammar markers and no correlation between the words they mean to
-say and the gleeble that is produced. This seemingly insurmountable language barrier has made every attempt at integrating
+say and the glumphish that is produced. This seemingly insurmountable language barrier has made every attempt at integrating
 Martians a failure, until...
 
 
@@ -89,7 +89,7 @@ had they intended to and not something the mechanics inherently promote.
 
 # Technical Considerations
 
-- There is a need to port over language systems from other forks specifically for the gleeblespeak, or otherwise a system
+- There is a need to port over language systems from other forks specifically for the glumphish, or otherwise a system
 that scrambles your speech for those who do not have a specific component.
 - Infrastructure is needed to change the Martians' sprites conditionally. This is already being worked on, but the 
 mechanic of blobifying is impossible without it.
