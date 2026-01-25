@@ -44,29 +44,23 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 • Mapping and pietydrobe changes to account for acolytes.
 
-• Mandatory exemptions from working for mass.
-
-## Chaplain and acolyte SOP & Space Law
+## Chaplain and acolyte SOP
 
 ### Chaplain
 
 ### Green alert
 1. The chaplain must keep the nullrod in its base form, or otherwise manifest a non-weapon form.
 
-2. The chaplain must prepare a sermon and establish a time of congregation for said sermon. Sermons are expected to last 5 to 10 minutes.
+2. The chaplain must listen and make time for any and all confessions or otherwise direct an acolyte to handle individual confessions.
 
 3. The chaplain may not bible thump crew without explicit consent from the thumpee.
-
-4. The chaplain must listen and make time for any and all confessions or otherwise direct an acolyte to handle individual confessions.
 
 ### Blue alert
 1. The chaplain may manifest any nullrod form, but may not openly carry it if it has been manifested as a weapon.
 
-2. The chaplain must still make preparations for a sermon if one has not yet been held.
+2. The chaplain must investigate the legitimacy of any occult-related claims and relay their findings to the relevant authorities: central command or command. General holy duties can be given to acolytes while the chaplain investigates.
 
-3. The chaplain must investigate the legitimacy of any occult-related claims and relay their findings to the relevant authorities: central command or command. General holy duties can be given to acolytes while the chaplain investigates.
-
-4. If unholy activities are confirmed, the chaplain is expected to inform their acolytes under a non-disclosure agreement.
+3. If unholy activities are confirmed, the chaplain is expected to inform their acolytes under a non-disclosure agreement.
 ### Red alert
 
 1. The chaplain is only expected to act against threats that are occult in nature, working closely with security until the threat is quelled.
@@ -89,11 +83,9 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 1. Acolytes are expected to follow the same religion and practices as the chaplain, unless the religion and practices are unsanctioned and/or illegal.
 
-2. Acolytes must help the chaplain prepare for the sermon and participate in it. When the time for a sermon is established and the time draws near, acolytes are expected to gather as many people for the sermon as they can.
+2. Acolytes must must listen and make time for any and all confessions when directed or when the chaplain is indisposed.
 
-3. Acolytes must must listen and make time for any and all confessions when directed or when the chaplain is indisposed.
-
-4. Acolytes may not bible thump crew without explicit consent from the thumpee.
+3. Acolytes may not bible thump crew without explicit consent from the thumpee.
 
 ### Blue alert
 
@@ -106,17 +98,6 @@ but can act as the chaplain's successor in the event of their permanent death or
 2. Acolytes can, in cases of grievous emergency, bible thump members of crew without their consent assuming they are protected from its harmful elements.
 
 3. Acolytes must comply if any member of command or security requests access to the cremator.
-
-## Space Law
-
-### III degree
-
-## Denial of Spiritual & Religious Service
-
-  [bold]Description[/bold]: To deny an employee the mandated 5-10 minute work exemption for spiritual and religious service through congregation.
-
-  [bold]Recommended Minimum Punishment:[/bold] 3:00
-  [bold]Recommended Maximum Punishment:[/bold] 6:00
 
 ## Sects - WIP
 ### Fire (red altar)
