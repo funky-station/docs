@@ -43,8 +43,6 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 ## Chaplain and acolyte SOP
 
-### Chaplain
-
 ### Green alert
 1. The chaplain must keep the nullrod in its base form, or otherwise manifest a non-weapon form.
 
@@ -66,35 +64,13 @@ but can act as the chaplain's successor in the event of their permanent death or
 
 3. The chaplain can, in cases of grievous emergency, bible thump members of crew without their consent assuming they are protected from its harmful elements.
 
-4. The chaplain may use their nullrod and its respective forms in self defence or otherwise in pursuit of their holy duties.
+4. The chaplain may use their nullrod and its respective forms in self defence or otherwise in pursuit of its holy duties.
 
 ### OOC rules & expectations
 
 1. The chaplain is recommended not to reveal what they know about the occult to crew. In the best of cases, this will result in demotion and in the worst of cases this will result in execution.
 
 2. The chaplain is not a security role and is not expected to pursue people legally or arrest them.
-
-### Acolyte
-
-### Green alert
-
-1. Acolytes are expected to follow the same religion and practices as the chaplain, unless the religion and practices are unsanctioned and/or illegal.
-
-2. Acolytes must must listen and make time for any and all confessions when directed or when the chaplain is indisposed.
-
-3. Acolytes may not bible thump crew without explicit consent from the thumpee.
-
-### Blue alert
-
-1. Acolytes are still expected to continue their general holy duties.
-
-### Red alert
-
-1. Acolytes must assist the chaplain and security with possible exorcisms, cleanses, etc. as necessary.
-
-2. Acolytes can, in cases of grievous emergency, bible thump members of crew without their consent assuming they are protected from its harmful elements.
-
-3. Acolytes must comply if any member of command or security requests access to the cremator.
 
 ## Sects - WIP
 ### Fire (red altar)
