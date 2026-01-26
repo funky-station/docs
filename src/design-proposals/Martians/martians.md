@@ -13,7 +13,8 @@ and big, black eyes. Everyone knows them, so instead I'm going to drop some lore
 
 ## Background
 
-Martians come from the planet Mart (Mars? Who knows).
+Martians come from the planet Mart, according to NanoTrasen. The planet they actually come from is Glumph, but 
+that would not be discovered for some time due to reasons that will soon be discovered.
 
 For many years, companies have tried and failed to add Martians to their workforce due to the Martians' unique
 neurological disposition. Initially, NanoTrasen social workers believed it to be a simple language barrier, but when
@@ -24,8 +25,7 @@ work like any other species they had made contact with before.
 Many initially believed it to be a neurological disorder similar to aphasia: what Martians mean to say and what they say
 *never* align. Early neurologists coined the term "Martaphasia" but that was quickly dispelled due to PR concerns and
 for the simple fact that it was not a disorder. This is the norm for Martians. While Martians can understand the
-
-common language (idk what the common language is called? Simlish type shit), any attempts to reciprocate results in
+common language (Anglosinetic, a blend of English and Mandarin!), any attempts to reciprocate results in
 the Martians' uniquely encoded language: glumphish. Many attempts have been made by non-Martians to translate the
 language, but all attempts have failed. There are no grammar markers and no correlation between the words they mean to
 say and the glumphish that is produced. This seemingly insurmountable language barrier has made every attempt at integrating
@@ -39,7 +39,7 @@ due to the Alien Kids's indefatigable hunger for concerts.
 
 Finally, when asked in an interview how the divide between Martians and the rest of the universe could be bridged even
 further, the super-genius superstars made a revelation never before thought of: "Just use AAC tablets." This was
-later renamed to the "Speech Pro™" as the brand became synonymous with the product.
+later widely known as the "Speech Pro™" as the brand became synonymous with the product.
 
 ## Features to be added
 
@@ -54,7 +54,7 @@ nature of their suit.
 - A selection blues, greens and gray skin tones or at the very least a limited hue selection.
 - They cannot wear head items other than bubble helmets due to their colossal cranium.
 
-- Most importantly, unique uniform sprites for each department so Martians can still be identified easily.
+- Most importantly, unique uniform, shoes and glove sprites for each department so Martians can still be identified easily.
 - A variety of bubble helmets to allow for greater individual expression.
 
 ## Game Design Rationale
