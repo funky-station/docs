@@ -38,8 +38,8 @@ bridge between Martians and the rest of the universe, it also resulted in a mass
 due to the Alien Kids's indefatigable hunger for concerts.
 
 Finally, when asked in an interview how the divide between Martians and the rest of the universe could be bridged even
-further, the super-genius superstars made a revelation never before thought of: "Just use AAC tablets." This was
-later widely known as the "Speech Pro™" as the brand became synonymous with the product.
+further, the super-genius superstars made a revelation never before thought of: "Just use AAC tablets." This
+later became widely known as the "Speech Pro™" as the brand became synonymous with the product.
 
 ## Features to be added
 
