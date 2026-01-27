@@ -72,7 +72,7 @@ Add Traders
 - Visiting ships, 10-30 mins then warp away
 - Buy low, Sell high
 - Mail deliveries
- - Add fingerprint locked creates
+  - Add fingerprint locked creates
 - Bounties
 - Hold Orders (another ship will come get this crates soon, don't loose em)
 - Haggling for non-deliveries?
@@ -84,8 +84,8 @@ NT Deliveries
 Other faction deliveries
 - Crew ordered things (with Scrip)
 - Hidden manifests
- - Emagging a FTL-C or ERC allows access to viewing the manifest
- - Certain antags could also get access to the manifest (Fence antag; See UristMcWiki's Thief Rework)
+  - Emagging a FTL-C or ERC allows access to viewing the manifest
+  - Certain antags could also get access to the manifest (Fence antag; See UristMcWiki's Thief Rework)
 
 Other events?
 - Disaster relief being asked to the station
@@ -98,13 +98,13 @@ Pirate ambushes (Separate doc for Player Trader and Pirates)
 
 Syndicate contraband (Will be made a separate doc) (delivery methods https://discord.com/channels/1276640157511979008/1276653734767755294/1465387091998281769)
 - Deliverred via ship, depending on order size you get (Option discarded for easy metagaming)
- - Mail (paper)
- - Mail (box)
- - Create (ID/Fingerprint locked)
- - Big wooden crate (for mechs)
+  - Mail (paper)
+  - Mail (box)
+  - Create (ID/Fingerprint locked)
+  - Big wooden crate (for mechs)
 - Fallback options
- - PDA can act as beacon to fulton contra over?
- - Keeps Syndicate brand boxes
+  - PDA can act as beacon to fulton contra over?
+  - Keeps Syndicate brand boxes
 - Add transport costs?
 
 ### endregion Bullet Points
@@ -137,15 +137,15 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
 
 ### Trader Ships
 - Each trader ship will start with a random timer designating how long they will stay near the station.
- - Soft ship limit can be enforced by not having any more trade ships on the FTL-C.
+  - Soft ship limit can be enforced by not having any more trade ships on the FTL-C.
 
 - A trader will have a list of things they sell. This is their manifest.
- - A hidden manifest can be implemented for antags to use. They usually contain contraband items.
-  - This feature is mostly for other people to build on. (eg: Urist's Fence for thief rework, or the Interdyne Chemist to get some special restocks).
+  - A hidden manifest can be implemented for antags to use. They usually contain contraband items.
+    - This feature is mostly for other people to build on. (eg: Urist's Fence for thief rework, or the Interdyne Chemist to get some special restocks).
 
 - Each trader will come with a list of missions the station can partake in.
- - For now, they will be heavily weighted towards Bounties, till enough mission types can be added to make it more interesting.
- - Some missions will need to be completed before the trader leaves, and some will have other triggers for completion.
+  - For now, they will be heavily weighted towards Bounties, till enough mission types can be added to make it more interesting.
+  - Some missions will need to be completed before the trader leaves, and some will have other triggers for completion.
 
 
 ## Delivery ships
@@ -156,74 +156,74 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
 
 ### Mapping Trader Ships
 - Different styles for each corporation
- - A corporation could have a fleet of smaller and larger ships.
- - Ships could share shape (ship model), but with different paint jobs.
- - Smaller traders could have more cozy ships, or repurposed vessels? (eg: Big Ore Trader using a standard ship vs Local Salvaging Crew having a scrappy salvage vessel).
+  - A corporation could have a fleet of smaller and larger ships.
+  - Ships could share shape (ship model), but with different paint jobs.
+  - Smaller traders could have more cozy ships, or repurposed vessels? (eg: Big Ore Trader using a standard ship vs Local Salvaging Crew having a scrappy salvage vessel).
 
 - Use a modified ATS spawning and sell zones in a hidden compartment to hide the spawning of crates and selling of bounties. Usage of conveyors and airtight flaps is encouraged.
- - Spawn zones modified to have a buy queue (Kills "not enough space" error message).
-  - Spawns crates from the queue in an interval to simulate cargo being moved on the back of the ship.
- - Sell areas modified to instantly sell any crates placed on them.
+  - Spawn zones modified to have a buy queue (Kills "not enough space" error message).
+    - Spawns crates from the queue in an interval to simulate cargo being moved on the back of the ship.
+  - Sell areas modified to instantly sell any crates placed on them.
 
 
 ### FTL Antenna
 - A big device that needs to be powered and connected to the FTL-C Computer with a networking tool
- - (Optional) When a connection is started, power usage increases
-  - (Optional) The power usage could depend on how high the signal gain is
+  - (Optional) When a connection is started, power usage increases
+    - (Optional) The power usage could depend on how high the signal gain is
 
 
 ### FTL-Commnications Computer
 - Requires the FTL Antenna to be connected via a networking tool to function (Look at how artifact scanners work).
 
 - Minigame that lets you tune the antenna's FTL comms to find traders that are "warping" (not spawned) near the station.
- - Adjust Azimuth and Elevation, read radio gain, and adjust again till you hit a trader with a high enough gain to connect.
+  - Adjust Azimuth and Elevation, read radio gain, and adjust again till you hit a trader with a high enough gain to connect.
 
 - When tuned lets you see the cargo manifest of a ship and also allows you to call it to the station for trade.
- - Emmaging enables looking at the hidden manifest of ships that have it.
+  - Emmaging enables looking at the hidden manifest of ships that have it.
 
 
 ### External Radio Communications Computer
 - 2 Tabs
- - Ship Manifests Tab:
-  - Allows you to see the manifests of nearby ships and place orders on them.
-   - Emmaging enables looking at the hidden manifest of ships that have it.
-   - You can haggle the price of the order. Bigger orders can get a bigger discount.
-    - Being too unreasonable (haggling too far or too many attempts) will annoy the trader, who may refuse to complete the order and leave as soon as they can.
+  - Ship Manifests Tab:
+    - Allows you to see the manifests of nearby ships and place orders on them.
+      - Emmaging enables looking at the hidden manifest of ships that have it.
+      - You can haggle the price of the order. Bigger orders can get a bigger discount.
+        - Being too unreasonable (haggling too far or too many attempts) will annoy the trader, who may refuse to complete the order and leave as soon as they can.
 
   - Will allow you to see the remaining time before they warp away.
   - Will allow you to dismiss the trader early, freeing up a spot for another trader to come (soft trader limit).
 
- - Missions Tab:
-  - Let's you track active bounties on the different ships.
-  - Let's you track other missions (like hold orders).
+  - Missions Tab:
+    - Let's you track active bounties on the different ships.
+    - Let's you track other missions (like hold orders).
 
 
 ### Haggling
 - Each trader has 2 values:
- - Price Change Tolerance: How much they are willing to go over or under the price for selling and buying, respectively.
- - Patience: How many attempts the player gets before getting annoyed and rejecting the haggle outright.
+  - Price Change Tolerance: How much they are willing to go over or under the price for selling and buying, respectively.
+  - Patience: How many attempts the player gets before getting annoyed and rejecting the haggle outright.
 
 - Traders haggling back will take a value between the original price and your offer.
- - Exception: The offer is in their favor (you sell cheap or buy high).
+  - Exception: The offer is in their favor (you sell cheap or buy high).
 
 
 ### Annoyance
 - Annoyance is a counter that increases when players act in ways that are not good for the traders, and decreases when favorable deals are struck with the traders.
 
 - When the annoyance counter is high enough, traders will stop allowing haggling.
- - If the annoyance counter keeps increasing, they will stop visiting the station if they don't have a purpose. This includes refusing to come over when contacted, and stop allowing trade altogether.
-  - It is a QM's job not allow this to happen.
+  - If the annoyance counter keeps increasing, they will stop visiting the station if they don't have a purpose. This includes refusing to come over when contacted, and stop allowing trade altogether.
+    - It is a QM's job not allow this to happen.
 
 - Each trader has their own annoyance threshold. This is done to make sure that the station is not suddenly cut off from trade.
 
 - Annoyance triggers:
- - If a player is on a trading ship, the ship will not FTL away. If you leave traders waiting to leave for a long time they, will get annoyed.
- - Failed haggling attempts will annoy traders.
- - Failing missions (may also incur a fine).
- - Damage to trader ships will ANNOY traders a lot.
-  - This includes hacking doors.
-  - If damage is serious enough, they may hightail it. Any players remaining on board will be round removed as their body left with the trader ship.
-   - (To determine later) Display a message on the common channel about them leaving? Play some claxon to indicate the ship is emergency warping away soon?
+  - If a player is on a trading ship, the ship will not FTL away. If you leave traders waiting to leave for a long time they, will get annoyed.
+  - Failed haggling attempts will annoy traders.
+  - Failing missions (may also incur a fine).
+  - Damage to trader ships will ANNOY traders a lot.
+    - This includes hacking doors.
+    - If damage is serious enough, they may hightail it. Any players remaining on board will be round removed as their body left with the trader ship.
+      - (To determine later) Display a message on the common channel about them leaving? Play some claxon to indicate the ship is emergency warping away soon?
 
 
 ### Removals
