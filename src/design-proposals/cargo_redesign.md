@@ -183,19 +183,19 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
 
 
 ### External Radio Communications Computer
-- 2 Tabs
-  - Ship Manifests Tab:
-    - Allows you to see the manifests of nearby ships and place orders on them.
-      - Emmaging enables looking at the hidden manifest of ships that have it.
-      - You can haggle the price of the order. Bigger orders can get a bigger discount.
-        - Being too unreasonable (haggling too far or too many attempts) will annoy the trader, who may refuse to complete the order and leave as soon as they can.
+2 Tabs:
+- Ship Manifests Tab:
+  - Allows you to see the manifests of nearby ships and place orders on them.
+    - Emmaging enables looking at the hidden manifest of ships that have it.
+    - You can haggle the price of the order. Bigger orders can get a bigger discount.
+      - Being too unreasonable (haggling too far or too many attempts) will annoy the trader, who may refuse to complete the order and leave as soon as they can.
 
   - Will allow you to see the remaining time before they warp away.
   - Will allow you to dismiss the trader early, freeing up a spot for another trader to come (soft trader limit).
 
-  - Missions Tab:
-    - Let's you track active bounties on the different ships.
-    - Let's you track other missions (like hold orders).
+- Missions Tab:
+  - Let's you track active bounties on the different ships.
+  - Let's you track other missions (like hold orders).
 
 
 ### Haggling
