@@ -38,15 +38,19 @@ The horror form is a clearly non-humanoid mass of flesh. However, using this for
 
 Turning into the horror form is instant, and causes the changeling to fully restore its health, stamina, go out of stun, destroy any bola or cuffs on its body and emit a horrific shriek that causes anyone nearby to be stunned. Leaving this form requires a 5 second doafter. You are not able to wear any armour in this form ( it has in-built armour with the same statistics as the current chitinous armour ). In addition, your hands are replaced with borg-like flesh modules. This form does not share abilities with the stealth form, but you can buy abilities that are restricted to it. You choose to invest DNA into either horror or normal form.
 
+Horror form will not benefit in any way from your gear. All of your things will be hidden inside it and as such provide no armour, way to access your things or anything else.
+
+Horror form will require extra code for transforming. I think that it will help a lot with other antags however, as it is an important framework for wizard, heretic and syndicate transformations.
+
 In short: The stealth form will be a powerful ambush predator that will benefit from the “Maints slasher” playstyle but will be horrible in any open spaces or in any fights that are not 1v1. It will however have ways to play up its stealth aspect, which I will expand on in the Hivemind and Hivebuilding sections. The horror form will be a powerful, limited way for changelings to fight back if discovered which will be about as powerful as an ascended flesh heretic when enough of its abilities are purchased. 
 
 #### The Hivemind & reworked absorbing
 
 	To encourage identity theft, and give stakes to being a changeling victim, the hivemind will be a new mechanic that rewards absorbing more difficult targets. 
 
-	The Hivemind works the same way spectating a person in a replay works. You see the health, stamina, abilities, hands, inventory, everything the changeling does. You can talk to them using a special radio channel and you cannot be heard by anyone surrounding you and the changeling. ( This promotes organic gameplay – the killed person tells the changeling how to impersonate them, as they are now a familiar of the changeling ). 
+	The Hivemind works the same way spectating a person in a replay works. You see the health, stamina, abilities, hands, inventory, everything the changeling does. You can talk to them using a special radio channel and you cannot be heard by anyone surrounding you and the changeling. ( This promotes organic gameplay – the killed person tells the changeling how to impersonate them, as they are now a familiar of the changeling ). The way this works is: The person absorbed by the changeling is an invisible mob placed on the ling that acts as a ghost that has its dead chat replaced with a new radio channel. This channel is heard only by the ling that absorbed the person ( This might require a rework of radio channels, or using an ability like blood cult that speaks to every person that has the same tag as the killed person and the ling )
 
-	However, you are able to do more than just talk. The changeling begins with 3 abilities that allow them to spawn minions, and may evolve a 4th once they absorb enough people. The abilities are handspider, eyespy and legipede. In addition, the changeling may temporarily relinquish control ( and get it back at any time it wants to ) to any member of the hivemind, allowing them full control of the body, which will allow them to appeal to the emotions of their coworkers.
+	However, you are able to do more than just talk. The changeling begins with 3 abilities that allow them to spawn minions, and may evolve a 4th once they absorb enough people. The abilities are handspider, eyespy and legipede. Until you are summoned, you help the changeling with advice, and they can evolve abilities for you to use.
 
 The purpose of the hivemind serves a triple purpose, aligning with the “There is no winning or losing” and “Maximizing roleplay potential” and “Taking things slow” which are the main server ideas.
 
