@@ -2,12 +2,15 @@
 
 | Designers       | Implemented                                 | GitHub Links    |
 | --------------- | ------------------------------------------- | --------------- |
-| Terkala         | Yes (50%)		                            | https://github.com/Terkala/Fern-Station/tree/Fern-Med             |
+| Terkala         | Yes (50%)		                            | https://github.com/Terkala/forky-fern/tree/Cyber-Med             |
 
 ## Overview
 
+I started with a premise, that premise is that Cybernetic arms are interesting from both an item-design point of view, and as something for science to research and for medical to implant. With that in mind, I worked backwards to see what systems are required for that to function in a satisfying and interesting way.
 
-A redesign of shitmed that replaces the current surgery system, and a complete removal and replacement of the cybernetics system. The new system will be more dynamic, based on actual possible to perform surgeries, and using a combined Integrity system to track incompatible organs, surgical penalties, quality penalties of parts, and rejection of implants. In order to help give Robotics more interesting gameplay, this also includes a customization system for cybernetic limbs, where the roboticist will be able to customize cyber limbs and organs in a variety of ways, and will be required to perform maintence on cybernetics during the shift or people will suffer penalties. The system is designed to be highly configurable, so if a specific limb is "too good" you can simply raise the Integrity penalty to a point where the drawbacks equal the benefits. 
+Since I'm rebuilding this with no knowledge or use of any shitmed code, I started looking at what systems I'd need. Realizing that the UI is really the thing people interact with most surgery wise, but it makes very little sense for surgery to be started via rightclicking and opening a menu. So I instead added surgery as a function to health scanners. That way there is a reason for a UI popup to exist. Health analyzers will have 3 functions, one for Health, Integrity, and Surgery. Health is the default, Integrity shows any integrity penalties from surgical procedures, and the surgery tab allows you to select a body part and perform that surgery.
+
+This surgical system is dynamic, based on actual possible to perform surgeries, and using a combined Integrity system to track incompatible organs, surgical penalties, quality penalties of parts, and rejection of implants. In order to help give Robotics more interesting gameplay, this also includes a customization system for cybernetic limbs, where the roboticist will be able to customize cyber limbs and organs in a variety of ways, and will be required to perform maintence on cybernetics during the shift or people will suffer penalties. The system is designed to be highly configurable, so if a specific limb is "too good" you can simply raise the Integrity penalty to a point where the drawbacks equal the benefits. 
 
 I specifically considered the case of "skilled doctor in a fully equipped medbay doing multiple implants" versus "maints doctor doing surgery with a toolbelt", and plan to balance the system so it's possible (but unwise) for a maints doctor to perform organ surgery, assuming the patient is happy with taking heavy doses of immune suppressant medication for the rest of the shift.
 
@@ -69,22 +72,21 @@ The system is designed to be performance-optimized for 90 players, with cached c
 - Applies double penalty (+16 bio-rejection) compared to sawing
 - Requires 5-stage bone repair process to mend
 
-**Medical Job Skills:**
-- Medical jobs (doctor, paramedic, etc.) have skill flags that affect success/complication rates
-- Non-medical personnel can still perform surgery but with slower speed and a flat bio-rejection penalty (unskilled surgeon +2) Integrity penalty applied until a real doctor fixes it.
-
 **Equipment Quality:**
 - Tools and equipment have quality modifiers that affect Integrity costs. Medical tools start at +0. Improvised tools have higher costs.
 - Higher quality equipment reduces Integrity penalties
 
 ### Health Analyzer Enhancement
 
-**Dual-Mode Display:**
+**Trio-Mode Display:**
 - **Health Mode** (default): Works as always has, showing damage groups
 - **Integrity Mode**: Shows overall Integrity (e.g., "Integrity 4/6") and breakdown of penalties:
   - "-2 Cybernetic Left Arm"
   - "-2 Biosynthetic Heart"
   - Each component contributing to Integrity usage is listed
+- **Surgery Mode**:
+- 3 layers as described above
+- Icon of the player, clickable to select the body part
 
 ### Slime-Specific Systems
 
@@ -142,8 +144,8 @@ The system is designed to be performance-optimized for 90 players, with cached c
   6. Close Panel (Tissue layer, Screwdriver) - -1 bio-rejection
   7. Seal Panel (Skin layer, Welder) - -1 bio-rejection (total 0)
 - Panel must be open to access storage or swap batteries
-- If you do any of these steps and don't have a "Roboticist" flag (added to RD and Roboticist jobs), you apply a permament +2 "unskilled technician" bio rejection penalty.
-- This penalty can only be removed via one of those two jobs actually doing the repair. So if there's no robo onboard, you "can" do the repairs if you have tools, and the penalties are light enough that a simple basic cyberlimb and that penalty won't even go to the point of applying any stat penalty, but you'd want to have that job do the repair when possible.
+- If you do any of these steps and don't use a "High Precision Screwdriver" (added to RD and Roboticist jobs), you apply a permament +2 "low quality maintence" bio rejection penalty. The intent is for only 1 or 2 of these to exist, and for it to be rare enough that nobody gives it away, leading to people intentionally seeking the Roboticist out for their repair needs.
+- This penalty can only be removed via using that tool to actually do the repair. So if there's no robo onboard, you "can" do the repairs if you have tools, and the penalties are light enough that a simple basic cyberlimb and that penalty won't even go to the point of applying any stat penalty, but you'd want to have that job do the repair when possible.
 - Once you finish the replace wiring step, it resets the maintence time to maximum. 
 - Example of ending surgery early: If you simply replace the wiring and leave it open, a med scanner would show "1 bio rejection, open panel. 1 bio rejection, unsealed panel."
 
