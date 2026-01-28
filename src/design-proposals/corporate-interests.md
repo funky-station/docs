@@ -47,6 +47,8 @@ Loyalty testing: Orchestrate the conducting of thorough loyalty tests for all co
 
 Make an example: You are to find a fitting candidate for execution by the end of the shift. Take your time and ensure this is not done baselessly but some bending of the usual requirements will be approved. This is to be approved and overseen by the magistrate if available. If no magistrate is available you must fax CC to approve your candidate. This execution is to be done publicly with an announcement of their crimes against NT. These crimes may be embellished to avoid an uproar but the message regarding acting out against NT should be clear.
 
+Secure and contain: We believe there may be dangerous individuals on board with knowledge or abilities that may prove to be valuable assets in our research of the unknown. At least one of these individuals must be contained and brought alive to the CC outpost to be transported to a secret research facility. The abilities they possess may not be removed or suppressed. (Can appear in rounds with changelings, wizards, heretics, or either forms of cultists).
+
 Interests like “drug testing” may require additional features being added. Features like this could very well see use outside of the interest they were created for. Drug testing’s randomized chemical potentially being found in maints pills for one example.
 
 Planned future content will allow for more and more memorable interests to be added. Xenobiology or virology forced to create bio weapons for NT, genetics making super soldiers or mutations that suppress free will in some way, payment of scribs could be docked from the department deemed least productive and given to that deemed most productive in an “incentivise competition” interest etc.
