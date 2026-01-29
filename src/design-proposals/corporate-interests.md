@@ -49,7 +49,7 @@ Secure and contain: We believe there may be dangerous individuals on board with 
 
 Major deficit: Our regional commander accidentally misplaced 200000 spesos during the previous quarter and we need a windfall to make up that deficit. You are to obtain that money and arrive with it in your briefcase by any means necessary.
 
-Priviliged hospitality: The regional commander had to leave the sector on business and their son is bored. You are to protect and entertain his son by any means necessary" (Spawns a ghost role for the son with the objective of "be as shitty and demanding of the station as possible")
+Priviliged hospitality: The regional commander had to leave the sector on business and their son is bored. You are to protect and entertain his son by any means necessary. (Spawns a ghost role for the son with the objective of "be as shitty and demanding of the station as possible")
 
 Interests like “drug testing” may require additional features being added. Features like this could very well see use outside of the interest they were created for. Drug testing’s randomized chemical potentially being found in maints pills for one example.
 
