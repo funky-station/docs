@@ -4,7 +4,7 @@
 |---|---|---|
 | Joaco545 | :x: No | TBD |
 
-Special thanks to ThatOneMoon, Pink, Sophia, Goobie, Moxie, and Urist. You helped flesh out this idea a ton <3
+Special thanks to ThatOneMoon, literallyablueberryguy, Sophia Impetus, [Goobie](https://github.com/pirakaplant), Moxie_Is_Moxie, and UristMcWiki. You helped flesh out this idea a ton <3
 
 
 ## Overview
