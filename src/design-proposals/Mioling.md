@@ -1,0 +1,214 @@
+# Changeling – Mio’s take
+
+| Designers | Implemented | Links |
+|---|---|---|
+| miosar | Needs code! | No links so far |
+
+## Overview
+
+Proposes a rework of the changeling antagonist, recreated in a form that is much more clear on its purpose as a combined stealth/loud antag based on flesh horror, impersonation and „The Thing”
+
+## Background
+
+Changeling, the one we ported from goob station, is fundamentally a flawed design for a roleplay server. Trying to rework it over the many months worth of changes, many of which were attempts to lower the stakes of the changeling to a less punishing experience to its victim.
+
+As such, I am hoping to allow it to return to its roots as a terror inducing flesh abomination, both by supporting it both through its abilities and mechanics.
+
+
+# Core Gameplay Loop
+
+## Progression
+
+### SHIFT START
+
+Just like they do currently, changelings spawn like a normal crew-member. However, an important difference will be its starting abilities. A changeling should have a reason to consume crew members – as such, the initial amount of DNA points will be reduced, and its abilities changed. In addition, they will once again be solo antagonists, with a few mechanics even encouraging in-fighting.
+
+The main way to achieve this snowball effect will be through three mechanics reinforcing the core idea of a changeling: The Hivemind, Horror and stealth forms, and flesh cocoons.
+
+I will briefly explain them, provide a few in-game examples and afterwards write down an example reworked changeling shift.
+
+#### Stealth & Horror form
+
+Discovering a changeling should be something horrific. Not a “Gotcha!” but a “Oh my god.” To encourage this, changelings will have the ability to change between a horror and stealth form. The stealth form will be a humanoid looking form that uses abilities that do not require biomass ( think the same as changeling was right now, but different abilities, I will list the exact ones in the ability section. ). However, if the changeling is attacked – for example, cuffed by security, shot by a syndicate agent or in any other way threatened, they may change into a horror form.
+
+The changeling may transform at any time they want to unless they are dead. It will heal the changeling to full, remove any stuns, bolas or cuffs that are put on it. The purpose of the transformation is to “jumpscare” people around it – your coworker suddenly becomes a horrific abomination that is an affront against nature that is now running towards you, ready to devour your head. It should be scary, while at the same time limiting for the changeling – the time limit for the horror form will be very strict, to encourage staying in stealth until you acquire more DNA and max biomass. To stay in the horror form, you will spend biomass every second, the specifics will be discussed in the main point regarding this feature.
+
+The horror form is a clearly non-humanoid mass of flesh. However, using this form quickly drains biomass from the changeling. Thinking of it in units – a changeling, at shift start may only last 30 seconds in this form. In units, one unit per second, you start with 30, stealth absorb gives 20 of which 5 is max, loud absorb gives 60 of which 15 is max, monkey and rotten corpse absorb is 5u. In human terms – absorbing people in stealth and horror form increases maximum biomass and restore a lot of it, while rotten corpses and monkeys only restore a very small amount of biomass to allow a changeling to regain it in a purposefully annoying and slow, but safe way.
+
+
+Turning into the horror form is instant, and causes the changeling to fully restore its health, stamina, go out of stun, destroy any bola or cuffs on its body and emit a horrific shriek that causes anyone nearby to be stunned. Leaving this form requires a 5 second doafter. You are not able to wear any armour in this form ( it has in-built armour with the same statistics as the current chitinous armour ). In addition, your hands are replaced with borg-like flesh modules. This form does not share abilities with the stealth form, but you can buy abilities that are restricted to it. You choose to invest DNA into either horror or normal form.
+
+Horror form will not benefit in any way from your gear. All of your things will be hidden inside it and as such provide no armour, way to access your things or anything else.
+
+Horror form will require extra code for transforming. I think that it will help a lot with other antags however, as it is an important framework for wizard, heretic and syndicate transformations.
+
+In short: The stealth form will be a powerful ambush predator that will benefit from the “Maints slasher” playstyle but will be horrible in any open spaces or in any fights that are not 1v1. It will however have ways to play up its stealth aspect, which I will expand on in the Hivemind and Hivebuilding sections. The horror form will be a powerful, limited way for changelings to fight back if discovered which will be about as powerful as an ascended flesh heretic when enough of its abilities are purchased. 
+
+#### The Hivemind & reworked absorbing
+
+	To encourage identity theft, and give stakes to being a changeling victim, the hivemind will be a new mechanic that rewards absorbing more difficult targets. 
+
+	The Hivemind works the same way spectating a person in a replay works. You see the health, stamina, abilities, hands, inventory, everything the changeling does. You can talk to them using a special radio channel and you cannot be heard by anyone surrounding you and the changeling. ( This promotes organic gameplay – the killed person tells the changeling how to impersonate them, as they are now a familiar of the changeling ). The way this works is: The person absorbed by the changeling is an invisible mob placed on the ling that acts as a ghost that has its dead chat replaced with a new radio channel. This channel is heard only by the ling that absorbed the person ( This might require a rework of radio channels, or using an ability like blood cult that speaks to every person that has the same tag as the killed person and the ling )
+
+	However, you are able to do more than just talk. The changeling begins with 3 abilities that allow them to spawn minions, and may evolve a 4th once they absorb enough people. The abilities are handspider, eyespy and legipede. Until you are summoned, you help the changeling with advice, and they can evolve abilities for you to use.
+
+The purpose of the hivemind serves a triple purpose, aligning with the “There is no winning or losing” and “Maximizing roleplay potential” and “Taking things slow” which are the main server ideas.
+
+1. Increasing the stakes of a changeling killing you.
+
+	A horror antagonist should be scary to fight against. As such, being absorbed by it should be a scenario you should be encouraged to prevent at all costs. One of the best ways to encourage it is by giving stakes to being absorbed – being kicked out of your body is a good enough motivation to stay out of maints and run away from a ling instead of trying to fight it, which is what is the intended IC behavior from an average player. At the same time, you do not “lose”, you instead become part of the changeling, helping them take over the station and impersonate your old identity.
+
+2. Maximizing potential roleplay
+
+	A person becoming part of an animal is an interesting horror trope. For example, the bear from “Annihilation”, the idea of being able to see parts of a loved one or a friend in something so feral and non-human has a lot of potential to roleplay out. Because the changeling can temporarily relinquish control, there are many ways for the victim-turned-monster to beg for mercy from people that knew them before they were absorbed. In addition, being turned into a member of the hivemind instead of a ghost allows the person to still take part in the shift, which is always fun!
+
+3. Allowing taking things slow
+
+The hives will expand on this further, but a changeling should be rewarded for taking things slow. A methodical killer that feasts on the crew’s flesh is a lot more interesting than a maints slasher that wordlessly kills, eats and runs to the next victim, at some point even stealing a gun and just shooting down targets in the hallways.
+
+To encourage this, minions will allow the changeling to secure a kill, surrounding the person and making sure they are far away from anyone that may help them. Eye-spies scouring out the location, handspiders slowing down the victim and legipedes slamming them down onto the floor. No longer will you have to risk your prey escaping – allow your pets to deal with it while you aurafarm.
+
+This may also be helped by Fern’s bloodcult code, as the shade uses a similar “anchor” system that allows it to return to the bloodstone without making either of them a ghostrole.
+
+Handspider ( 10u of biomass )  – Supportive minion, its purpose is to be a cheap distraction that will annoy the target while the changeling goes in for the kill. It has 30 max HP and a 7 blunt melee attack. It has two abilities – Burrow and Haymaker. 
+- Burrow may be used on any crew, alive or dead. The handspider burrows into its chest, leaving a gaping hole and requiring surgery to remove it. If it stays inside for 10 minutes, it will pop out as a “Chestgnawer” that can be eaten by the changeling to aquire 2 DNA points. The Chestgnawer has 100 max HP and a 15 brute melee attack split between slash and pierce.
+-Haymaker is a 15 blunt attack that forces the target to fall prone ( without stunning them ). It has a long cooldown to prevent spamming.
+
+Eyespy ( 15u of biomass ) – A weak scout minion, its purpose is to scout out targets and threats to the changeling. 20 max HP and a 3 blunt melee attack. They have an additional emmaged pinpointer they can use to track anything they want. In addition, they possess thermal vision. Only one of their abilities can be considered offensive: Cry. 
+- Cry may be used to create a small, 30u puddle of water under the eyespy, which may slip anyone coming near.
+
+Legipede – A powerful combat minion, its purpose is to tank hits for the changeling and, in big enough numbers kill and bring targets to their master. Cannot crawl under objects. It has 100 max HP and a 12 blunt melee attack. It also has 1 powerful ability – Slam.
+- Slam is a powerful, multi use ability. When used on an object, it is forced open. Locker? Open. Unbolted airlock? Open. When used on a person, it instead deals 30 blunt and deals 50 stamina damage. To compensate for its power, it has a long cooldown.
+
+Flesh Spider – The most powerful minion, which can be unlocked after 3 absorbs for 5 DNA points. When a changeling lays a flesh spider egg, it is a ghostrole that is a team antagonist with other flesh spiders ( but not the changeling ). The flesh spider deals 15 structural and 14 damage split between 8 slash and 6 poison. They also come with 5 abilities:
+- Hivebuild is an RCD like ability that allows the flesh spider to construct flesh structures. They are weaker than even normal walls but fit the theme and allow reinforcement of chokepoints. Could also have some special structures?
+- Bite – The same bite that other hostile spiders have.
+- Regenerate – A weaker fleshmend, injects the fleshspider with omnizine, saline and tranx acid.
+- Flesh cocoon – A stronger cocoon, completely halts rotting and has a special interaction with the next ability. Takes a lot longer to break open.
+- Lay eggs – A flesh spider can lay eggs on any flesh cocoon. They hatch in 10 minutes, creating a new flesh spider. A flesh spider can only create a total of 2 new flesh spiders.
+
+This new system will both make a changeling horrifying – if you die to a changeling, you will be dead. However, instead of being a ghost, you will assist the changeling in their objectives: Help them impersonate you, assist as a minion and a lot more. Minions costing biomass and requiring people to be in your hivemind will limit their numbers, but will still be viable as a tactic.
+
+As such, I hope that by providing the changeling AND its victims to have fun will allow a deeper, multi-layered experience.
+
+#### Numbers
+
+
+#### Hives ( IGNORE THIS SECTION, IT IS UNDER HEAVY CONSIDERATION TO BE DELETED )
+
+	A big problem that changelings had is that there was no reward for taking things slow and preparing for a murder. Using a cryo or lethargic sting on a victim that wandered off into maints and stabbing them to death then absorbing on the spot had the exact same result as luring them to a secluded location with a well prepared reason and hiding the body in a secret room. No longer! To encourage creating secret bases, the changeling will have a special, albeit costly hivebuilding ability.
+
+	Working like an RCD, the ability will use chemicals to create flesh structures. To not instantly give away the changeling, however, they will have a special ability – just like chameleon clothing, they will be able to take the appearance of any furniture in the game! Create a cozy office in maints that your victim slowly realizes is made fully out of wriggling flesh. There is a downside however – flesh floors will make squishy noises when walked on, and flesh structures have a lot less health than normal steel walls.
+
+	In addition, three special structures will be able to be constructed: a meathook-like flesh cocoon, a powerful goo pool and a pheromone secretor. Each one of them serves a different purpose.
+
+1. Flesh cocoon – It is, again, an immovable meathook-like object that a victim can be put on. If they stay in it long enough, the cocoon will be able to be absorbed for extra DNA and max biomass! The purpose of it is simple – encouraging slow play by rewarding it with additional DNA and biomass. The exact numbers will be in the abilities section, but the overall point I am trying to make is – hiding a body should be rewarded, and making a hive will help with the theme of the biological horror!
+
+2. Goo pool – The goo pool is a changeling only transmutation table. It will be able to produce medicine and enhancements out of blood and flesh, as well as using some expensive ingredients it is able to produce a larvae, that will be able to be forced inside a person to gib them and create a changeling that is your familiar and starts with no DNA and 15 max biomass. The larvae has a chance of being transferred when the infected creature attack something, and it gets the “Random attack” component from the wizden hostile vent mobs to increase the chances of doing it.
+
+Enhancements are another reward for building a hive – they require limbs and organs, but will reward the player with small, permanent bonuses that slowly stack up. The amount of enhancements you can apply to yourself is limited by integrity. This is in order to allow changelings body modifications since they are unable to use cybernetics.
+
+3. Pheromone Secretor – It is a small flesh spire that can be chameleoned to look like any plant that is in game. It slowly produces an invisible gas that heals changelings and in high doses causes drowsiness for non-changelings. This is meant to work as an area of denial tool, since it costs a lot of chemicals and is quite obvious due to the… unsubtle effects.
+
+Overall, building a hive will not be required to become powerful – in fact, only one or two changelings may attempt to build a hive. But the option for bigger rewards should entice players to differentiate their play style and allow a slower way of playing to thrive as well.
+
+#### Cocooning
+
+A changeling should have a reason to plan out a murder. Flesh cocoons are the way to encourage that.
+
+As a shift start ability, you can put a victim inside a flesh cocoon. After a timer, from 10-20 minutes ( this will be balanced out after new ling playtests ), the cocoon will change how it looks and will be able to be absorbed by the ling to get additional DNA and biomass.
+
+The cocoon itself is a meathook-like object and is quite heavy. Moving it will prove difficult. That is on purpose, as it serves a simple purpose: Hiding a victim for several minutes will require preparation and should be rewarded.
+
+The exact numbers for absorbs are:
+
+Normal absorb – 4 DNA, 40 biomass restored, 5 more max biomass, takes the same time as the current absorb
+
+Horror absorb – 2 DNA, 40 biomass restored, 15 more max biomass, takes 5 seconds and tears off the head of the victim
+
+Cocoon absorb – 5 DNA, 80 biomass restored, 20 more max biomass, takes 5 seconds once the cocoon is done processing.
+
+### Objectives
+
+Preferably, changelings should encourage the horror aspects of themselves. They are solo predators that pray on unsuspecting victims, that do not realize, until it is too late, what they are getting into. Getting a set number of absorbs is a step towards that – but I feel we can spice it up a little.
+
+- Hijack the emergency shuttle by ensuring only you and your body parts remain alive by the time it reaches Centcom. ( The new, DAGD like objective for the changeling. )
+- Absorb another Changeling.
+- Steal a confusing object – The list would be quite different from the syndicate one – Things such as the research server board, AI card, handheld crew monitor or RD’s teleporter, stuff flavored around the changelings attempting to understand NT technology.
+- Take x’s place on the station – This is a renamed objective of escape as X to CC. I feel like the renaming should make it more obvious that the point is to pretend to be that person.
+- Remain hidden – Renamed survive, this is to make it obvious the point is to complete the other ones without the station knowing that you are a changeling
+
+### Balance issues
+
+The new changeling may be a bit overpowered in the horror form. That is expected and done on purpose. The form lasts a very short amount of time and will most likely only be used in crowds or when the changeling is in danger – as such, it should be a “last resort” whose timer is increased the more the changeling absorbs. The fact it can stay on the rampage if it absorbs people as it kills them? That is a very fun, fitting horror moment.
+
+Hopefully, the high cost and timer to produce a new changeling will not allow a new ling epidemic to break out.
+
+### MID SHIFT
+
+#### Blood tests
+
+An issue of the original blood tests was the lack of consequence for doing one on a non-infected crew member and promoting random tests due to the simplicity of the test itself. Therefore, a changeling test should be invasive and gruesome, or hard to do to discourage keeping a suspected changeling in the brig for a long time waiting for the result.
+
+As such, there will be two main ways to test a changeling:
+
+- Vivisection
+Using surgery, a changeling may have an autopsy performed on it. A vivisection of a living crew member will damage them a lot with a high chance of killing them, as well as having the chance of permanently lowering their maximum integrity, and a low chance of giving them a random negative trait like frail, requiring a mobility aid or migranes. Their body will be mangled by the procedure, after all. However, it is the much easier and faster way of testing for a changeling, as when this procedure is performed on a changeling they will revert into their original, shift start form.
+
+- Electric overload
+
+A common complaint is that engineering does not have a lot of interaction with antagonists. This is intended to provide them with a way to counteract changelings and produce additional power. This test requires a new machine named the Electroshocker that can be built by the CE with a board that is in their locker shift start. It may also be researched under tier 2 experimental research.
+
+The Electroshocker will hopefully be used in the future for creating metals, as that is its intended purpose – it is a nicknamed arc furnace.
+
+It requires a lot of power, and has a cap on how fast it can charge – in addition, the more power you supply to it, the more of it is wasted. At low voltages it will charge a lot slower but will use nearly 100% of the power, while at high voltages it will waste up to 80% of the total supplied energy.
+
+If you insert a blood sample inside, it will start a 3 minute timer that will fully discharge all the power in the arc furnace.
+
+If it was a normal blood sample, you will receive a blood nugget, which is overall useless. It will also cause a short, station wide blackout.
+
+If it is a changeling blood sample, you will receive a blood metal nugget, which can be used to create some powerful traditional weaponry such as swords, plate armor and shields in addition to identifying the changeling. The created items will have horrible damage and defence ( crowbar tier damage for weapon and low resistances for armor ), but the sword will have 1:1 lifesteal and the armor will have slow passive healing. The shield will be nearly unbreakable but take low amounts of total damage.
+
+The full process 
+
+#### Dealing with the changeling
+
+Changelings currently are supposed to be ashed as soon as they are identified. However, adding a risk reward factor to keeping them alive while also keeping the ashing would allow a different path to take – trying to keep one prisoner.
+
+The main departments that will be rewarded due to this are cargo, medical and science, with engineering being able to create blood metal nuggets as an additional reward.
+
+-Cargo:
+
+The department will have 2 main ways to interact with a captured changeling, one of which may even work with a “wild” changeling.
+
+1. Selling the minions.
+Dead minions do not fall apart into organs, despite being soulless. Instead, their bodies will quickly start rotting. However, if they are sold before they rot – they will be worth a lot of spesos!
+2. Buying a Mutant Pacification Implant
+Costing 10k spesos, this implant, when injected into a changeling, will limit their chemicals to 20% of their normal maximum value. This will outright prevent the usage of some abilities, and overall heavily limit the ling from both escape attempts and further murders.
+
+-Science:
+
+Science will the be “Main” department to benefit from a changeling. The ways they can do so is as follows:
+
+1.. Research
+Experimental research tier two named xenobiology will unlock a few new items. A few of them will be entirely separate ( such as a one handed pet carrier that costs a lot more mats ), but there will be two special implants. One is the biological data scanner implant and the other a chemical purging implant.
+
+The first one is the more complex one – it works as a remote health scanner you can link to any existing health scanner to check it anytime. However, it can also be linked to an anomaly box – if it is a person, it will provide a small amount of research data when damaged ( inject into a prisoner and throw them into the torment nexus for points! ). If they are a changeling, it will also give a flat 30 points per second on top of the damage points!
+
+The chemical purge implant is simple. From non-lings, it quickly purges all chems from the bloodstream, preventing chem medicines and poisons from working. On lings, it limits the maximum chemicals to 10%. Its purpose is simple – allowing the crew to limit the ling, but not completely secure them. The 10% is enough to transform into horror form if the BZ ever runs out.
+
+2. Extraction
+Anything the changeling eats in horror form will be inside it. Science will be the ones tasked with cutting the changeling open and extracting the items. Guns, IDs, anything that was eaten by the changeling in horror form will need to be cut out using surgery.
+
+3. Company Manual
+Rewritten with new lore approved by G, the company handbook will dictate that lings are to be captured so that they can be taken to a C block blacksite for resource extraction post shift.
+
+## Abilities 
+
+### Normal Form
+
+TODO
+
+### Horror Form
+
+TODO
