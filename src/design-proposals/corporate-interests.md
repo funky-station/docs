@@ -37,7 +37,7 @@ Here are some examples of corporate interests:
 
 Lost command manual: It has been reported that a lost command manual containing corporate secrets is somewhere on board. Secure it and silence any crew deemed a liability to maintaining these secrets. Do this by any means necessary. Take no risks.
 
-Zombie specimen: A small amount of the bio weapon drug known as romeral has been found on station and is now in your possession. Ensure that a sapient being on board is infected and their condition progresses to the final stage of zombification. Ensure they are secure and do not allow this infection to spread. They must be discreetly brought in “live” zombie form to the CC outpost so they can be transported to a specialized research facility.
+Zombie specimen: A small amount of the bio weapon drug known as romeral has been found on station and is now in your possession. Ensure that an animal on board is infected and their condition progresses to the final stage of zombification. This condition must progress through each stage of infection so ensure the animal is not killed through any other means. This animal must be larger than a mothroach and may not be cube grown. Ensure they are secure and do not allow this infection to spread. They must be discreetly brought in “live” zombie form to the CC outpost so they can be transported to a specialized research facility.
 
 Drug testing: The following chemical drug is in the experimental stage and we need results from human testing (drug is a chemical with randomly generated effects). Divulging this to as few members of the crew as possible, ensure this drug is discreetly tested on X amount of people with the results recorded and faxed to CC.
 
@@ -45,9 +45,11 @@ Downsizing: Ensure that X amount of crew are fired before shift’s end includin
 
 Loyalty testing: Orchestrate the conducting of thorough loyalty tests for all command members and X amount of crew. You are not required to conduct these tests personally. Just see that it is done. Documentation of each test including a loyalty rating from 1 to 5 is to be faxed to CC.
 
-Make an example: You are to find a fitting candidate for execution by the end of the shift. Take your time and ensure this is not done baselessly but some bending of the usual requirements will be approved. This is to be approved and overseen by the magistrate if available. If no magistrate is available you must fax CC to approve your candidate. This execution is to be done publicly with an announcement of their crimes against NT. These crimes may be embellished to avoid an uproar but the message regarding acting out against NT should be clear.
-
 Secure and contain: We believe there may be dangerous individuals on board with knowledge or abilities that may prove to be valuable assets in our research of the unknown. At least one of these individuals must be contained and brought alive to the CC outpost to be transported to a secret research facility. The abilities they possess may not be removed or suppressed. (Can appear in rounds with changelings, wizards, heretics, or either forms of cultists).
+
+Major deficit: Our regional commander accidentally misplaced 200000 spesos during the previous quarter and we need a windfall to make up that deficit. You are to obtain that money and arrive with it in your briefcase by any means necessary.
+
+Priviliged hospitality: The regional commander had to leave the sector on business and their son is bored. You are to protect and entertain his son by any means necessary" (Spawns a ghost role for the son with the objective of "be as shitty and demanding of the station as possible")
 
 Interests like “drug testing” may require additional features being added. Features like this could very well see use outside of the interest they were created for. Drug testing’s randomized chemical potentially being found in maints pills for one example.
 
