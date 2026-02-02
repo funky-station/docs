@@ -16,10 +16,12 @@ One of the major issues with following this direction is that there is a **ludon
 
 ## Features to be added
 
-- The stun baton and the disabler will be removed from the game.
+- The stun baton, the disabler, and the disabler plus will be removed from the game.
 - Security personnel will start with a truncheon in place of a stun baton.
 - The truncheon will do less damage (probably about half or so). Its stamina damage will be unchanged.
 - Truncheons will be able to be made roundstart, and will no longer be unlocked by the Riot Control (buff the knuckledusters or something to make it still worth it).
+- HOP will get a different self-defence weapon, in the form of a cane that can launch people (specifics are outside the scope of this document).
+- Characters with the Pacifism trait will not be able to roll Security jobs.
 
 ## Game Design Rationale
 
@@ -47,4 +49,4 @@ That being said, the admins will have to draw a line on what is "too far" for a 
 
 # Technical Considerations
 
-Not applicable.
+I'll have to add a system for locking off jobs based on selected traits, which shouldn't be too hard.
