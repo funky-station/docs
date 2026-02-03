@@ -21,6 +21,8 @@ One of the major issues with following this direction is that there is a **ludon
 - The truncheon will do less damage (probably about half or so). Its stamina damage will be unchanged.
 - Truncheons will be able to be made roundstart, and will no longer be unlocked by the Riot Control (buff the knuckledusters or something to make it still worth it).
 - HOP will get a different self-defence weapon, in the form of a cane that can launch people (specifics are outside the scope of this document).
+- Other jobs with disablers will have them either removed or replaced with RG-2s.
+- SOPs will be update accordingly, with most jobs allowed to carry disablers instead being allowed to carry a sidearm in the same circumstances.
 - Characters with the Pacifism trait will not be able to roll Security jobs.
 
 ## Game Design Rationale
