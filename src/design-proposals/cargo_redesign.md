@@ -39,7 +39,7 @@ There are 2 options for deliveries:
 Traders that are going to the station anyways (are not contacted by FTL-Comms) may also carry regular mail deliveries.
 
 
-Once Scrip is added, players could also buy things with Scrip, and get delivered by a non-NT trader or delivery ships.
+Once Scrip is added, players could also buy things with Scrip, and get delivered by a non-NT trader or delivery ships. (NT would be acting as the intermediate party, letting their emploees use Scrip to buy small silly things)
 Traitors could also get their things delivered by traders, being smuggled onto the station this way, but after a discussion (https://discord.com/channels/1276640157511979008/1276653734767755294/1465387091998281769), the idea grew enough to become its own design doc for further down the line.
 
 ### FTL Antenna
@@ -107,6 +107,8 @@ Syndicate contraband (Will be made a separate doc) (delivery methods https://dis
   - Keeps Syndicate brand boxes
 - Add transport costs?
 
+How to image: <img src="path/to/image.png" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
+
 ### endregion Bullet Points
 
 
@@ -118,11 +120,11 @@ This also introduces some round variation, as each trader will buy and sell diff
 
 ## Roundflow & Player interaction
 
-The first random traders will start showing up soon after the round starts (min 5 minutes wait to give players some prep time?)
+The first random traders will start showing up soon after the round starts (minimum 5 minute wait time to give players some prep time?)
 
 Having to wait for all their batched orders to arrive will be a slowing factor for cargo, but it will also introduce variations into the rounds as each trader will be different than the last (With a big enough trader ship pool).
 
-Cargoninans will be expected to buy things needed by the station from the traders, plus things that they plan to sell to the highest bidder.
+Cargo is expected to buy things needed by the station from the traders, plus things that they plan to sell to the highest bidder.
 As different companies have different needs, they need to recognize who will buy things over the market price (bounties) to generate the most profit possible.
 
 As a way to de-incentivize certain behaviours, an "annoyance counter" will be added, representing how annoyed traders are at the station's cargo department.
@@ -137,26 +139,29 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
 
 ### Trader Ships
 - Each trader ship will start with a random timer designating how long they will stay near the station.
-  - Soft ship limit can be enforced by not having any more trade ships on the FTL-C.
+  - Soft ship limit can be enforced by not having any more trade ships on the FTL-C, or allow cargo to buy things till the current delivery ship is cleared
 
-- A trader will have a list of things they sell. This is their manifest.
+- A trader will have a list of things they sell. That is their manifest.
   - A hidden manifest can be implemented for antags to use. They usually contain contraband items.
-    - This feature is mostly for other people to build on. (eg: Urist's Fence for thief rework, or the Interdyne Chemist to get some special restocks).
+    - This feature is mostly for other people to build on. (eg: Urist's Fence support antag on his thief rework proposal, or the Interdyne Chemist to get some special restocks).
 
 - Each trader will come with a list of missions the station can partake in.
-  - For now, they will be heavily weighted towards Bounties, till enough mission types can be added to make it more interesting.
-  - Some missions will need to be completed before the trader leaves, and some will have other triggers for completion.
+  - For now, they will be heavily weighted towards Bounties, until enough mission types can be added to make it more interesting.
+  - Some missions will need to be completed before the trader leaves, while others will have different triggers for completion.
 
 
-## Delivery ships
+### Delivery ships
 - Unlike traders, delivery ships won't have anything to offer but what has been asked for.
 
 - They will arrive, announce themselves, and leave as soon as the ship is clear of any people and deliveries.
+  - They will get annoyed if they are left waiting for too long
 
 
 ### Mapping Trader Ships
 - Different styles for each corporation
   - A corporation could have a fleet of smaller and larger ships.
+    - This depends on corporation size and lore (Megacorp (NT), Big (Cybersun/Gorlex), Medium (Animal rights consortium), Small (random independent traders))
+
   - Ships could share shape (ship model), but with different paint jobs.
   - Smaller traders could have more cozy ships, or repurposed vessels? (eg: Big Ore Trader using a standard ship vs Local Salvaging Crew having a scrappy salvage vessel).
 
@@ -165,6 +170,7 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
     - Spawns crates from the queue in an interval to simulate cargo being moved on the back of the ship.
   - Sell areas modified to instantly sell any crates placed on them.
 
+<img src="cargo_redesign/Trader Ship Example.jpg" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
 
 ### FTL Antenna
 - A big device that needs to be powered and connected to the FTL-C Computer with a networking tool
