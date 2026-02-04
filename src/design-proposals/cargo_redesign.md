@@ -16,7 +16,7 @@ Overhauls how cargo works by replacing the ATS with Traders that visit the stati
 Cargo 2.0’s objective is to remove the “bluespacing” magic of things from normal rounds, making bluespace a more mysterious force, leaving it for the station’s purpose of researching it.
 The replacement for the game's magic instant teleportation comes in the form of Traders that visit the station, maintaining a more authentic way of how things would work on a real life space station.
 
-Inspired by https://static.slugcat.systems/salvage/
+Initially inspired by https://static.slugcat.systems/salvage/
 
 ## Features to be added
 
@@ -161,6 +161,8 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
 - Different styles for each corporation
   - A corporation could have a fleet of smaller and larger ships.
     - This depends on corporation size and lore (Megacorp (NT), Big (Cybersun/Gorlex), Medium (Animal rights consortium), Small (random independent traders))
+    - Each corporation should have it's own set of decals to make each ship theirs (eg: big NT logo, or red highlights for syndicate)
+    - After consulting with the lore people, I was told it would not be common for the competition to sell stuff directly, as such new companies will need to be created. Eg: CarpPro, a company that sells fishing products; MorningStar Dynamics, a company that resells mercenary gear
 
   - Ships could share shape (ship model), but with different paint jobs.
   - Smaller traders could have more cozy ships, or repurposed vessels? (eg: Big Ore Trader using a standard ship vs Local Salvaging Crew having a scrappy salvage vessel).
