@@ -60,10 +60,20 @@ All traders have a "final offer" line that they will say when they are out of pa
 ### Annoyance
 Annoying a trader won't have much effect, but annoying many traders will spread the word that this station is not worth the trouble.
 
-### Trader Types
-Not on this first push.
+### Ship Types
+Flagships - THE Flaghship. Has all the luxary for whoever owns it - Only for admemes (Think NT Super-VIP visit, probably has a death squad protecting them)
+
+Traders
+  - Big - Ships with tons of cargo space, they exist for moving freight across the vast distances of space
+  - Intermediate - Most common type of trader ship. Designed to go station to station, trading for goods
+  - Independent/Small - Small ships offering limited things
+
+Mail Carriers - Ships dedicated to moving large ammounts of mail through a territory.
+  - In between Intermediate and Small, designed for last light year (last mile) delivery
 
 
+- After consulting with the lore people, I was told it would not be common for the competition to sell stuff directly, as such new companies will need to be created. Eg: CarpPro, a company that sells fishing products; MorningStar Dynamics, a company that resells mercenary gear
+  - After even more consultation with the lore people, it has been determined that traders under Sol Gov could be a thing (as in registered under Sol Gov)
 
 
 ### region Bullet points
@@ -162,7 +172,6 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
   - A corporation could have a fleet of smaller and larger ships.
     - This depends on corporation size and lore (Megacorp (NT), Big (Cybersun/Gorlex), Medium (Animal rights consortium), Small (random independent traders))
     - Each corporation should have it's own set of decals to make each ship theirs (eg: big NT logo, or red highlights for syndicate)
-    - After consulting with the lore people, I was told it would not be common for the competition to sell stuff directly, as such new companies will need to be created. Eg: CarpPro, a company that sells fishing products; MorningStar Dynamics, a company that resells mercenary gear
 
   - Ships could share shape (ship model), but with different paint jobs.
   - Smaller traders could have more cozy ships, or repurposed vessels? (eg: Big Ore Trader using a standard ship vs Local Salvaging Crew having a scrappy salvage vessel).
