@@ -135,8 +135,6 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
     - Spawns crates from the queue in an interval to simulate cargo being moved on the back of the ship.
   - Sell areas modified to instantly sell any crates placed on them.
 
-<img src="cargo_redesign/Trader Ship Example.jpg" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
-
 ### FTL Antenna
 - A big device that needs to be powered and connected to the FTL-C Computer with a networking tool
   - (Optional) When a connection is started, power usage increases
