@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| pirakaplant | :x: No | TBD |
+| pirakaplant | :information_source: Open PR | funky-station/funky-station#2828 |
 
 ## Overview
 
@@ -17,6 +17,7 @@ One of the major issues with following this direction is that there is a **ludon
 ## Features to be added
 
 - The stun baton, the disabler, and the disabler plus will be removed from the game.
+- Lasers with a disable feature will have that setting removed.
 - Security personnel will start with a truncheon in place of a stun baton.
 - The truncheon will do less damage (probably about half or so). Its stamina damage will be unchanged.
 - Truncheons will be able to be made roundstart, and will no longer be unlocked by the Riot Control (buff the knuckledusters or something to make it still worth it).
