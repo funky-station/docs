@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| pirakaplant | :information_source: Open PR | funky-station/funky-station#2828 |
+| pirakaplant | :information_source: Open PR | funky-station/funky-station#2828, funky-station/funky-station#2829 |
 
 ## Overview
 
@@ -52,4 +52,4 @@ That being said, the admins will have to draw a line on what is "too far" for a 
 
 # Technical Considerations
 
-I'll have to add a system for locking off jobs based on selected traits, which shouldn't be too hard.
+N/A.
