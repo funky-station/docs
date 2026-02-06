@@ -76,52 +76,6 @@ Mail Carriers - Ships dedicated to moving large ammounts of mail through a terri
   - After even more consultation with the lore people, it has been determined that traders under Sol Gov could be a thing (as in registered under Sol Gov)
 
 
-### region Bullet points
-
-Add Traders
-- Visiting ships, 10-30 mins then warp away
-- Buy low, Sell high
-- Mail deliveries
-  - Add fingerprint locked creates
-- Bounties
-- Hold Orders (another ship will come get this crates soon, don't loose em)
-- Haggling for non-deliveries?
-
-NT Deliveries
-- Replaces ATS, brings things cargo bought
-- Does not need calling with the ERCC
-
-Other faction deliveries
-- Crew ordered things (with Scrip)
-- Hidden manifests
-  - Emagging a FTL-C or ERC allows access to viewing the manifest
-  - Certain antags could also get access to the manifest (Fence antag; See UristMcWiki's Thief Rework)
-
-Other events?
-- Disaster relief being asked to the station
-
-Pirate ambushes (Separate doc for Player Trader and Pirates)
-- Ship with hostile Pirate NPC's or mid-round Antag spawn
-- Has loot inside
-- Reward if crew/ship is captured?
-- If player controlled, a computer allows you to get the manifest shown to the ERCC when warped to station
-
-Syndicate contraband (Will be made a separate doc) (delivery methods https://discord.com/channels/1276640157511979008/1276653734767755294/1465387091998281769)
-- Deliverred via ship, depending on order size you get (Option discarded for easy metagaming)
-  - Mail (paper)
-  - Mail (box)
-  - Create (ID/Fingerprint locked)
-  - Big wooden crate (for mechs)
-- Fallback options
-  - PDA can act as beacon to fulton contra over?
-  - Keeps Syndicate brand boxes
-- Add transport costs?
-
-How to image: <img src="path/to/image.png" height=512 style="margin-left:auto;margin-right:auto;display:block"/>
-
-### endregion Bullet Points
-
-
 ## Game Design Rationale
 
 Removing the magic teleportation of things/spawning out of thin air to make a more authentic game, while making things slower by having to wait for the traders to deliver the goods.
