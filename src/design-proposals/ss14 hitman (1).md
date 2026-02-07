@@ -1,16 +1,16 @@
-\#Antag suggestion: hitman  
+##Antag suggestion: hitman  
 | designers | Implemented | github links |  
 |---|---|---|  
 | stormyatt | :x: No | TBD |
 
-\#\# Overview  
+## Overview  
 This suggests a new antagonist, Hitman. A kill objective only antag with a roulette of clients and kits.
 
-\#\# game design reasoning  
+## game design reasoning  
 Within the syndicate roles none of them purely have kill objectives. This makes playing a hitman and like very hard since it requires a kill objective to exist and be something that is hard to do.   
 By adding a role for kill objectives, it opens up this niche of roleplay. The factions add to this and make this different gameplay-wise from just kill only the syndicate. As well as make for more variance among rounds
 
-\#\# addtions   
+## addtions   
 major  
 One: Hitman as a antag  
 Minor  
@@ -24,7 +24,7 @@ seven: manus gloves. A weaker version of manus grasp tied to gloves since a hitm
 Eight: space breathing enchanter. An item similar to an implanter that grants space breathing. Used because a eva suit would be far too hard to bring around and out of theme for cosmic cult  
 Nine: pressure resistance enchanter. Same deal as eight but for it stops baratramua. For the same reason as eight.
 
-\#\# my design for a hitman antag  
+## my design for a hitman antag  
 Antagonist suggestion: hitman   
 Spawn rules: similar to thief or similar to traitor  
 Objectives: 0-1 kill x target objective/ 0-2 teach a leason to x target objectives, (max of two kill objectives, min of 1)/ reach cc unrestrained and alive.
@@ -73,10 +73,10 @@ Affluent kit: 30 steel, 30 plastic, 30 glass
 Criminal kit:  \[random pistol with one mag\],\[random knife\], \[random item\]  
 Nanotrasen kit: hand teliporter, laser pistol, security comms encryption key
 
-\#\# roundflow interaction   
+## roundflow interaction   
 This would basically act the same in a round as a kill only syndicate but how they do it would change due to the modifiers.  
 Basically, it would interact close to normal killer antagonists but with more variety in how exactly they are killed from round to round. For the antagonistic players, it allows for games with more creative kill objective rounds. That is about all  
-\#\# administrative impact  
+## administrative impact  
 There should not be much but this antagonist existing may mean more kills and thusly more malding. Alongside this it will have to be kept in mind there is a hitman possibly in the game and how they work. Overall should not be that much though.  
-\#\# technical considerations  
+## technical considerations  
 The faction system and its objectives should 
