@@ -1,13 +1,11 @@
 # Court and Trials
 
-Reworking the Legal System
-
 | Designers | Implemented | GitHub Links |
 |---|---|---|
 | Ferynn + Dev Chat | :x: No | PR Links or TBD |
 
 
-See this discord conversation for relevant parties
+See this discord conversation for relevant parties, and the root discussion.
 
 https://discord.com/channels/1276640157511979008/1276653734767755294/1460819328650706956
 
@@ -15,7 +13,7 @@ https://discord.com/channels/1276640157511979008/1276653734767755294/14608193286
 
 This is a formalization of a large brainstorming session we had on improving the legal system, trials, and the magistrate and lawyer system.
 
-The goal of this is to move the action of sentencing and criminal punishment away from the purview of the warden, and shifting it towards the courtroom.
+The goal of this is to move the action of sentencing and criminal punishment away from the purview of the warden, and shifting it towards the courtroom. Short and speedy trials will be the basis of sentencing.
 
 ## Background
 
