@@ -1,19 +1,15 @@
-# Short, Properly Capitalized Title
+# Court and Trials
 
 Reworking the Legal System
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| Ferynn + Dev Chat | :white_check_mark: Yes or :warning: Partially or :information_source: Open PR or :x: No | PR Links or TBD |
+| Ferynn + Dev Chat | :x: No | PR Links or TBD |
 
-`Designers` should be the names that you use on GitHub and/or Discord. This is optional but strongly recommended, since:
 
-- This acknowledges credit where it is due
-- People who are confused about the written intent can use this information to contact the authors
+See this discord conversation for relevant parties
 
-`Implemented` is the status of the feature.
-
-Github links can include multiple PRs, if relevant.
+https://discord.com/channels/1276640157511979008/1276653734767755294/1460819328650706956
 
 ## Overview
 
@@ -23,19 +19,15 @@ The goal of this is to move the action of sentencing and criminal punishment awa
 
 ## Background
 
-Currently, the legal system and trials at large are in a strange position. The trial system, and the legal apparatus at large, sits largely unused. Trials often last longer than any sentence, barring perma cases. They are rarely called upon, and almost all sentencing happens and concludes through the warden. This process largely negates the usage of the lawyer and the magistrate, and leaves trials as an exotic and often loathed experience in the wider ecosystem.
+Currently, the legal system and trials are in a strange position. The trial system, and the roles surrounding it, sit largely unused. Trials often last longer than any sentence, barring perma cases. They are rarely called upon, and instead almost all sentencing happens and concludes through the warden. This process largely negates the usage of the lawyer and the magistrate, and leaves trials as an exotic and often loathed experience in the wider ecosystem.
 
-To change this, several things need to be shifted. Criminal sentencing guidelines have been inherited from Wizden and similar servers, which aim for a faster paced game, and shorter rounds. This leads to trial related actions going to the wayside, as most sentences finish before a trial could conclude. The fact that trials are such a rare occurrence further seperates them from common thought and practice. 
-
-Summarize any information that is needed to contextualize the proposed changes, e.g. the current state of the game.
-
-Also link any relevant discussions on Discord, GitHub, or HackMD that are relevant to the proposal.
+This isn't ideal, as these roles have great potential to enhance the roleplay of the process. We don't need to settle for a stressed and overworked warden handling it all, and those courtrooms mapped on stations should be actually used. So, changes need to be made about how we approach and handle criminal sentencing.
 
 ## Features to be added
 
 ### Increasing Sentence Timers
 
-All sentence timers will be doubled. Perma is at 40 minutes instead of 20. Our rounds are targeted for two hours is which is about double of the Wizden/Goob sphere. Our criminal punishment system should be expanded to fit our timelines. This allows for meaningful legal system interaction, as it becomes more important to argue cases and get diminished or eliminated charges.
+Our laws and sentencing guidelines were inherited from the Wizden/Goob sphere, where they target much faster rounds than Funkystation does. These sentence times, accelerated compared to the tempo of the rest of the round, cause a very tight squeeze on any legal roleplay or deliberation. Our criminal punishment system should be expanded to fit our timelines, and so all recommended sentence timers should be doubled. This also leads to perma being recommended at a 40 minute sentence timer, instead of 20. These changes will allow for more meaningful legal system interaction, as it becomes more important to argue cases and work for diminished or eliminated charges. Now, spending a few minutes in a trial seems potentially attractive, instead of a waste.
 
 ### Reworking Trials
 
@@ -76,10 +68,11 @@ This could be potentially expanded with further work into a more advanced system
 
 ## Roundflow & Player interaction
 
-With this change, the legal system and trials will happen regularly, and often intersect with player experience. While this does have positives, as listed above, there are dangers as well.
+- Risks of trial times ballooning and both wasting the times of those directly involved, and those awaiting trial after. 
 
-Time control by the Judge is perhaps the most critical part of this. Trials have a reputation for running long, and even with streamlining the process, the risk remains. Ideally trials will be speedy and a decent enough experience for all involved. Most crimes are fairly open and shut, one way or another. The outliers though could lead to ballooning trial times if not carefully monitored.
+- Critical need for Judges to keep trials moving. Most trials will ideally be resolved within a handful of minutes, the guilt or innocence often clearly apparent. Outliers are the risk.
 
+- Plea deals are an option to speed through backlogs of cases. A chance to waive trial to keep the queue moving, and keep things on time.
 
 ## Administrative & Server Rule Impact (if applicable)
 
@@ -92,4 +85,5 @@ Time control by the Judge is perhaps the most critical part of this. Trials have
 # Technical Considerations
 
 - **Performance Impact:** Not applicable
-_ **New Systems/Refactors:** Requires some form of communication/ping system amongst involved parties. Likely a PDA app, similar to the SOS app, for an initial implementation.
+
+- **New Systems/Refactors:** Requires some form of communication/ping system amongst involved parties. Likely a PDA app, similar to the SOS app, for an initial implementation.
