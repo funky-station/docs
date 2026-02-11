@@ -86,7 +86,7 @@ The Head of Personnel will be the person who will interact the most with IDs and
 
 **Staff manager** \- This console is used to approve or deny bonuses, pay adjustments, and contract change requests that are submitted via command. CC can also send in the bonus or bonus events (like a pizza party).
 
-**Contract terminal** \- Allows for manual change and termination of NT contracts, and to mark if a crew member has a Mindsheild.
+**Contract terminal** \- Allows for manual change and termination of NT contracts, and to mark if a crew member has a mindsheild.
 
 **Tickets console** \- Allow for the approval of denial of tickets and arrests (this is mainly for magists but being a CC role, HoP should be a backup)
 
@@ -96,7 +96,7 @@ Gone will be the day of being able to look into a crowd of people and pick out a
 
 #### Security Scanner
 
-The Security Scanner is used to pull up all relevant information related to the ID by scanning it (the id can not be in a device when scanning). This will open a UI containing all the relevant info pertaining to the ID, including name, tracking number, warrants, minddsheild status, and criminal history. A standard ID or better is to be inserted to function.
+The Security Scanner is used to pull up all relevant information related to the ID by scanning it (the id can not be in a device when scanning). This will open a UI containing all the relevant info pertaining to the ID, including name, tracking number, warrants, mindsheild status, and criminal history. A standard ID or better is to be inserted to function.
 
 If the security officer deems it fitting to give a ticket or need one for an arrest, they can do so in the scanner. The officer must give both a reason and the amount of the ticket (either scrip or the sentence time). Once submitted, they will go to the ticket console to be approved by the Magistrate if one is available or the HoP if not. The name of both the ticket submitter, the ticketie, the amount, and the reason will all be available to see. The Magistrate is encouraged to hear a person's case before a ticket is submitted. If the ticket is to serve time, a quick trial must be had. 
 
@@ -114,7 +114,7 @@ Like the sec glasses, the command glasses will be killed. In its place, command 
 
 #### Command Scanner
 
-Functions like a security scanner, but with the ability to submit pay adjustments, contract changes, and bonus requests. It requires a silver ID or better to function. If the ID is silver, submissions will go to the staff management console for HoP approval. If a gold ID is instearted the request will be changed automatically. CC restricted id will also have the ability to send the change up to CC instead for automatic approval with a long delay (or being rejected by the admins). 
+Functions like a security scanner, but with the ability to submit pay adjustments, contract changes, and bonus requests. It requires a silver ID or better to function. If the ID is silver, submissions will go to the staff management console for HoP approval. If a gold ID is inserted, the request will be changed automatically. CC restricted id will also have the ability to send the change up to CC instead for automatic approval with a long delay (or being rejected by the admins). 
 
 ## Game Design Rationale
 
