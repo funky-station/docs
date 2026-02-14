@@ -30,6 +30,9 @@ Traders may advertise different missions that the station can take.
 - Traders may advertise a Hold mission, where cargo needs to hold onto some crates for a bit while another ship comes to take them later. The "holding price" can be haggled too.
 - Other mission types may be added later.
 
+
+I am looking for names and backgrounds for trader companies. If you want to contribute your own funky idea please do so [here](https://docs.google.com/document/d/1ZwMZVA_7eoe2qk0ULY0i9mHI4ZN5agnHebGdVTPx95A)
+
 ### Deliveries
 When things are bought through the station's cargo request terminal, a delivery will be generated. After enough time passes, a delivery ship will be sent to the station with both deliveries and mail.
 There are 2 options for deliveries:
