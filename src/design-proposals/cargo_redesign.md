@@ -13,7 +13,7 @@ Overhauls how cargo works by replacing the ATS with Traders that visit the stati
 
 ## Background
 
-Cargo 2.0’s objective is to remove the “bluespacing” magic of things from normal rounds, making bluespace a more mysterious force that needs to be investigated, leaving it for the station’s purpose of researching it.
+Cargo 2.0’s objective is to remove the “bluespacing” magic of things from normal rounds, making bluespace a more mysterious force that needs to be investigated, leaving it for the station’s purpose of researching it, while making cargo a more intresting role than just selling the station for parts on the ATS.
 The replacement for the game's magic instant teleportation comes in the form of Traders who visit the station, maintaining a more authentic representation of how things would work in real-life space logistics.
 
 Initially inspired by https://static.slugcat.systems/salvage/
@@ -75,6 +75,11 @@ Mail Carriers - Ships dedicated to moving large amounts of mail through a territ
 
 - After consulting with the lore people, I was told it would not be common for the competition to sell stuff directly, so new companies will need to be created. Eg, CarpPro, a company that sells fishing products; MorningStar Dynamics, a company that resells mercenary gear
   - After even more consultation with the lore people, it has been determined that traders under Sol Gov could be a thing (as in registered under Sol Gov)
+
+### Item market value fluctuations
+This is a system intended to add more variety by making prices slightly fluctuate throughout a round, while also preventing the station from only selling one thing.
+At the start of each round, item prices are randomly set higher or lower than usual. This randomness shifts the meta of what items are most profitable to sell each round.
+Selling a lot of one thing would impact its market value, lowering it. This is intended to stop the selling of one item the whole round (SMES farm)
 
 
 ## Game Design Rationale
