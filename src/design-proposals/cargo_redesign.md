@@ -84,7 +84,8 @@ Selling a lot of one thing would impact its market value, lowering it. This is i
 
 ## Game Design Rationale
 
-Removing the magic teleportation of things/spawning out of thin air to make a more authentic game, while making things slower by having to wait for the traders to deliver the goods.
+The proposal aims to remove the magic teleportation of things/spawning out of thin air to make a more authentic game, while also making the world feel bigger and more alive with the inclusion and regular interaction with different trading companies.
+
 This also introduces some round variation, as each trader will buy and sell different things. Maybe you can get a discounted artifact from some local archaeologist, or sell a used artifact to a research company just passing by!
 
 
