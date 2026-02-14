@@ -214,6 +214,8 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
 - Each item on the market should have a "mass" that makes it more or less easy to move its price from the station exporint/importing it
   - Events outside the station can still easily impact the market (say "a refinery-planet fire makes plastic costs soar by 15%", or "a shipping lane disaster makes ships coming from outside NT territory delayed, making certain product prices go up temporarily")
   - Basic resources should not be easy to move by the station selling them
+  - Some items should not be able to be moved (eg, lottery crate)
+    - Define mass = 0 to not allow items to be moved on the market
 
 ### Removals
 - Remove the ATS.
