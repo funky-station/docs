@@ -79,7 +79,10 @@ Mail Carriers - Ships dedicated to moving large amounts of mail through a territ
 ### Item market value fluctuations
 This is a system intended to add more variety by making prices slightly fluctuate throughout a round, while also preventing the station from only selling one thing.
 At the start of each round, item prices are randomly set higher or lower than usual. This randomness shifts the meta of what items are most profitable to sell each round.
-Selling a lot of one thing would impact its market value, lowering it. This is intended to stop the selling of one item the whole round (SMES farm)
+Include demand and supply dynamics
+- Selling a lot of one thing would impact its market value, lowering it. This is intended to stop the selling of one item the whole round (SMES farm type nerf)
+- Buying a lot of one thing would impact its market value, increasing it.
+- A random event could trigger that makes an item to be demanded by the market (raises prices), or the inverse, which makes the item be oversupplied/not wanted by the market (lowers prices).
 
 
 ## Game Design Rationale
@@ -100,6 +103,7 @@ As different companies have different needs, they need to recognize who will buy
 
 As a way to de-incentivize certain behaviours, an "annoyance counter" will be added, representing how annoyed traders are at the station's cargo department.
 
+The game director can call up random events mid-round that affect the item market, making things more or less expensive for the station. Many market events could have their own flavor text; this would give players a way to RP things happening outside the station (eg, news about a refinery fire) and make the world feel lived in outside the station itself.
 
 ## Administrative & Server Rule Impact (if applicable)
 
@@ -202,6 +206,14 @@ Cargo SOP will need to be amended to take into account the time it takes for Tra
     - If damage is serious enough, they may hightail it. Any players remaining on board will be removed from the round as their body has left with the trader ship.
       - (To determine later) Display a message on the common channel about them leaving? Play some claxon to indicate the ship is emergency warping away soon?
 
+### Item market value fluctuations
+- Add an item market console that would have a list of items that can be sold. When an item is clicked, relevant information is shown.
+  - Take inspiration from Sec’s Wanted computer and add a category dropdown and search functionality.
+  - Add a bar graph with historic prices when an item is clicked?
+
+- Each item on the market should have a "mass" that makes it more or less easy to move its price from the station exporint/importing it
+  - Events outside the station can still easily impact the market (say "a refinery-planet fire makes plastic costs soar by 15%", or "a shipping lane disaster makes ships coming from outside NT territory delayed, making certain product prices go up temporarily")
+  - Basic resources should not be easy to move by the station selling them
 
 ### Removals
 - Remove the ATS.
