@@ -1,3 +1,4 @@
+[ID & Contracts- Game Design Doc.md](https://github.com/user-attachments/files/25328048/ID.Contracts-.Game.Design.Doc.md)
 # ID & Contracts
 
 | Designers | Implemented | GitHub Links |
@@ -10,7 +11,7 @@ This document alters how ID’s function and how crew members are tracked. Every
 
 ## Background
 
-This is a document meant to support the less-defined features and consequences from both the Scirp and Unions game design docs. By fleshing out the fine details before anywork is done, the hope is to smooth out the development process while adding features to support the themes and ideas of funky moving forward.  
+This is a document meant to support the less-defined features and consequences from both the Scirp and Unions game design docs. By fleshing out the fine details before any work is done, the hope is to smooth out the development process while adding features to support the themes and ideas of funky moving forward.  
 
 ## Features to be added
 
@@ -24,7 +25,7 @@ All employees will have an NT Tracking number. They consist of two parts, the pr
 | TM | Has a terminated contract with NT |
 | IS | Is the currently in imprisoned servitude to NT |
 | UR | Non-NT people who use NT systems for vacationing or trade |
-| XX | Legally marked as dead and all accounts are frozen(this is what crew are marked as during epsilon) |
+| XX | Legally marked as dead, and all accounts are frozen(this is what crew are marked as during epsilon) |
 | NA | The tracking number has been voided, and a new one issued  |
 
 The prefix of the tracking number can be changed by the hop or the captain freely, but has no bearing on the system that uses the number. The number is what is used for systems like banking, managing contracts, and using other NT systems. 
@@ -64,6 +65,7 @@ Your paycheck will be determined by the contract you currently hold with NT, but
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | Civilian | 10 | 15 | 20 | 25 | 30 |
 | Service | 15 | 20 | 25 | 35 | 45 |
+| Cargo | 15 | 20 | 30 | 45 | 55 |
 | Engineers | 20 | 30 | 40 | 50 | 60 |
 | Security | 20 | 30 | 45 | 60 | 80 |
 | Medical | 25 | 35 | 45 | 55 | 65 |
@@ -82,13 +84,13 @@ The Head of Personnel will be the person who will interact the most with IDs and
 
 ####  New HoP Consoles
 
-**Payment portal** \-this is a console that lets the HoP manage the paycheck. This includes an increase of up to 200% or a decrease to 0%, halting payments, and forcing manual review (applies them as a bonus). Bonus can also be manually sent through this console. This console requires a gold ID to be inserted to make adjustments. 
+**Payment portal** \-this is a console that lets the HoP manage the paycheck. This includes an increase of up to 200% or a decrease to 0%, halting payments, and forcing manual review (applies them as a bonus). Bonus can also be manually sent through this console. These need a gold ID to submit changes, but not view them.
 
-**Staff manager** \- This console is used to approve or deny bonuses, pay adjustments, and contract change requests that are submitted via command. CC can also send in the bonus or bonus events (like a pizza party).
+**Staff manager** \- This console is used to approve or deny bonuses, pay adjustments, and contract change requests that are submitted via command. CC can also send in the bonus or bonus events (like a pizza party). Requests a gold ID for approval. 
 
-**Contract terminal** \- Allows for manual change and termination of NT contracts, and to mark if a crew member has a mindsheild.
+**Contract terminal** \- Allows for manual change and termination of NT contracts, and to mark if a crew member has a Mindsheild. These will also be placed in other department heads offices. These need a gold ID to submit changes, but not view them.
 
-**Tickets console** \- Allow for the approval of denial of tickets and arrests (this is mainly for magists but being a CC role, HoP should be a backup)
+**Tickets console** \- Allow for the approval or denial of tickets and arrests (this is mainly for magists but being a CC role, HoP should be a backup). Requests a gold ID for approval. 
 
 ### Security and IDs
 
@@ -96,13 +98,13 @@ Gone will be the day of being able to look into a crowd of people and pick out a
 
 #### Security Scanner
 
-The Security Scanner is used to pull up all relevant information related to the ID by scanning it (the id can not be in a device when scanning). This will open a UI containing all the relevant info pertaining to the ID, including name, tracking number, warrants, mindsheild status, and criminal history. A standard ID or better is to be inserted to function.
+The Security Scanner is used to pull up all relevant information related to the ID by scanning it (the id can not be in a device when scanning). This will open a UI containing all the relevant info pertaining to the ID, including name, tracking number, warrants, minddsheild status, and criminal history. A standard ID or better is to be inserted to function.
 
 If the security officer deems it fitting to give a ticket or need one for an arrest, they can do so in the scanner. The officer must give both a reason and the amount of the ticket (either scrip or the sentence time). Once submitted, they will go to the ticket console to be approved by the Magistrate if one is available or the HoP if not. The name of both the ticket submitter, the ticketie, the amount, and the reason will all be available to see. The Magistrate is encouraged to hear a person's case before a ticket is submitted. If the ticket is to serve time, a quick trial must be had. 
 
-#### ID detectors 
+#### Ticket detectors 
 
-Similar to contraband detectors, these will scan the ID of those who pass them. The detector looks for two things. The first is checking if the ID has the programmed accesses (none by default, security ones can be mapped), and the second is the NT prefix on the tracking ID. If one or the other is missing this an alarm will go off for 5 seconds. 
+Similar to contraband detectors, these will scan the ID of those who pass them. The detector looks if the person has a valid NT contract (the NT prefix on the ID). If they don't, an alarm will go off. These are to be placed in front of the evac dock to prevent uncontracted crew from boarding and help sec to know who to beat up. 
 
 #### Security Headset 
 
@@ -114,13 +116,13 @@ Like the sec glasses, the command glasses will be killed. In its place, command 
 
 #### Command Scanner
 
-Functions like a security scanner, but with the ability to submit pay adjustments, contract changes, and bonus requests. It requires a silver ID or better to function. If the ID is silver, submissions will go to the staff management console for HoP approval. If a gold ID is inserted, the request will be changed automatically. CC restricted id will also have the ability to send the change up to CC instead for automatic approval with a long delay (or being rejected by the admins). 
+Functions like a security scanner, but with the ability to submit pay adjustments, contract changes, and bonus requests. It requires a silver ID or better to function. If the ID is silver, submissions will go to the staff management console for HoP approval. If a gold ID is inserted the request will be changed automatically. CC restricted id will also have the ability to send the change up to CC instead for automatic approval with a long delay (or being rejected by the admins). 
 
 ## Game Design Rationale
 
 ### Maintaining Authenticity
 
-This system makes the ID systems more authentic and in-depth. This is especially for security and command, who will no longer be able to check IDs by looking at them. Instead, they must ask employees to hand over their IDs to be scanned. It also give a way for heads to fire or punish employees in a way that feels more tactical. This is especially true for the Magistrate and HoP, who get the final say on fines and bonuses respectively. 
+This system makes the ID systems more authentic and in-depth. This is especially for security and command, who will no longer be able to check IDs by looking at them. Instead, they must ask employees to hand over their IDs to be scanned. It also gives a way for heads to fire or punish employees in a way that feels more tactical. This is especially true for the Magistrate and HoP, who get the final say on fines and bonuses respectively. 
 
 ### Maximizing Roleplay Potential
 
