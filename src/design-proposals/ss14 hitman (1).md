@@ -21,8 +21,6 @@ four: false ninja boots, a variant of ninja boots that aren't no-slips,only give
 five: 1 use teleport scroll. Exactly what its name is. Weaker variant for hitmen  
 six: \[random\] heretic dagger. A weaker variant of the heretic blade with variants per the different paths.   
 seven: manus gloves. A weaker version of manus grasp tied to gloves since a hitman would not know the spell.  
-Eight: space breathing enchanter. An item similar to an implanter that grants space breathing. Used because a eva suit would be far too hard to bring around and out of theme for cosmic cult  
-Nine: pressure resistance enchanter. Same deal as eight but for it stops baratramua. For the same reason as eight.
 
 ## my design for a hitman antag  
 Antagonist suggestion: hitman   
@@ -42,7 +40,6 @@ Revolutionaries:(high chance to be a head) kill \[x\] in an overt way(untracked)
 Wizard federation:(lower chance for low rank nt to be targets) announce to everyone \[x\] targets to be killed before doing it(untracked)/be theatrical with \[X\] target's death.(untracked)  
 Manus cult: carve a rune onto the \[x\] target after death(given dagger)/ record the targets actions before death and reaction to death(give paper)(untracked)  
 Blood cult: carve a rune onto the \[x\] target after death(given dagger)/make \[x\] target’s death messy(untracked)  
-Cosmic cult: carve a rune onto the \[x\] target after death(given dagger)/ ensure \[x\] feels the grasp of space(deal 300 cold damage)(kill objective only)  
 Affluent client:(high chance for only 1 kill target. Higher chance to have multiple modifier objectives) ensure \[x\]’s death is painful/ make \[x\]’s death is theartical/make \[x\]’s death clean/ make \[x\]’s death theartical/ make \[x\]’s death look like an accident/ bring some of the items on \[x\] body to cc(untracked)  
 Criminal client:(lower chance for high value targets. higher chance for multiple modifiers) kill someone close to \[x\](any death greentexts)/put a calling card at the scene of the crime(untracked)/ ensure the station knows about the target's death(untracked)/ make \[x\]’s death messy(untracked)/ make \[x\]’s death is painful(untracked)/ bring some of the items on \[x\]’s body to cc(untracked)  
 Nanotrasen:(low chance of non-antags being targets, low chance of this faction being selected, ensures more antags can spawn) ensure \[x\]’s death seems like and acident(untracked)/ensure \[antagonist name\] on the station is killed, they have \[feature mutiple players have\]
@@ -66,8 +63,7 @@ Interdyne kit: 1 combat Medipen,1 hyperzine injector, 2 interdyne cigarettes
 Revolutionary kit: reinforcement, ldentity implanter, surplus rifle  
 Wizard federation kit: 1 use teleport scroll, haunted sword, clockwork shield  
 Spider clan kit: energy sword, 2 throwing knives, false ninja boots(+25% speed increase only and are illegal and noticeable)  
-Manus kit: random cultist dagger(dagger with random bonus similar to the heratic paths), recaller implant, manus gloves(illegal gloves which deal high stun on hit, medium cooldown)  
-Cosmic kit: space breathing enchanter, pressure resistance enchanter, jetpack   
+Manus kit: random cultist dagger(dagger with random bonus similar to the heratic paths), recaller implant, manus gloves(illegal gloves which deal high stun on hit, medium cooldown)    
 Blood kit: 3 clown spiders, 1 sharkimov, and a jugs worth of blood spilled on you. fuck you  
 Affluent kit: 30 steel, 30 plastic, 30 glass  
 Criminal kit:  \[random pistol with one mag\],\[random knife\], \[random item\]  
