@@ -1,10 +1,13 @@
 # IPCs & Robotics Reimagined
 
-IPCs are a species of autonomous silicon lifeforms not bound by the usual Silicon rounds. They are a roundstart species on servers such as Delta-V, and in fact used to be a roundstart species on Funky station. They were however, removed for a variety of reasons, some more valid than others. This of course, raises the question: why? Why propose to return them? They were surely removed for a good reason, and frankly, everyone is tired of talking about IPCs. The reasons for removing them have been gone over in exhaustive details and, to be blunt, they are very valid and important reasons. However, where others saw this problem as one with no solution, I see an opportunity to not only create an interesting species but to also reimagine a role sorely needing in more things to do; Robotocist. 
+| Designers | Implemented | GitHub Links |
+|---|---|---|
+| Claire / chapien | :x: No | TBD |
 
-In this design document, I will share my proposal for IPCs and their entanglement with robotics. I will go over the reasons they were removed, and systematically demonstrate how each and every one of these problems can be solved with alternative systems that will not only be fun, but also add to the setting and lore of the game in a way that furthers the cyberpunk evil megacorporation vibe.
+## Overview
+IPCs are a species of autonomous silicon lifeforms not bound by the usual Silicon rounds. They are a roundstart species on servers such as Delta-V, and in fact used to be a roundstart species on Funky station. They were however, removed for a variety of reasons. At the same time, the robotocist role is suffering from a lack of things to do. By reintroducing some sort of synthetic species to the game, I believe we can simultaneously bring back a well-liked species and give a role something to do besides welding borgs and building the occasional mech.
 
-## Why were IPCs removed?
+## Background
 
 IPCs were removed for a variety of reasons. So many that if you ask anyone, they all will give you a different reason! Here, I will go over each of those reasons, and why they are in fact pretty good reasons to remove IPCs. Consider this a summary and review of the species as it once existed, and why simply going back to that is not tenable. These reasons are listed in ascending order of least important to most important, although each of these need to be addressed.
 
@@ -17,74 +20,66 @@ IPCs don't interact with the medical department. At all. To be honest, I don't r
 ### Setting Incongruity
 IPCs as they existed were extremely dissonant with the setting that Funky Station (and honestly, most Space Station servers) tries to present. Essentially, there's a rather obvious question looming over every IPC created; why not just make a borg? Law-bound borgs are capable of doing most things IPCs can (granted, without hands and more specialized), but they are forced to obey, are the property of NanoTrasen, and most importantly don't need to be paid. So why would NanoTrasen build robots that cannot be controlled in the same manner and need to be paid? There are numerous workarounds, such as IPCs somehow being "cheaper" to make (I find this rather silly), but many are contrived. Rather than working around this issue, I intend to offer several complete rewrite solutions.
 
-## What about Robotics?
+### What about Robotics?
 Robotics is an interesting role. Part of the science department, they are in charge of maintaining borgs and building mechs. However, in practice this means they kind of don't really have much to do most of the time, and end up acting as a normal scientist once they have a few posibrains descrambling and some borgs built. There has been talk of merging robotics into general science, and if things remain this way, I think that is the ultimate fate of robotics. However, I believe the role has tons of potential, especially if something like IPCs as I envision them are added back to the game. 
 
-## Game Balance
-The primary advantages of IPCs are the need to not bleed, the ability to repair themselves with a simple weld, and the fact they don't need to eat or sleep. This was meant to be offset by the fact that they have to recharge, but it's honestly too easy to work around. They also had extra weakness to heat, which is interesting, but not all too significant on its own.
+## Features to be added
+### IPC/Autonomous Silicon species
+- **Roundstart Species**: A completely reimagined IPCs introduced to the game with new balance
+- **New Medical System**: A new medical system for IPCs, who will now take new damage types that can be healed with topicals made by the robotocist. Welding will now only fix bleeding. To be clarified further in the robotics section.
+- **Interactions with Antagonists**: Due to having genetic material and souls, they can be consumed by changelings, sacrificed by heretics, converted by cults etc. The only thing that might be restricted is that Changelings won't be able to turn into them.
+- **Alternative Implants**: As part of the rebalance, we remove the ability for IPCs to use most implants, with the exception being Mindshields and Pacifism. We could also expand this to make IPC/silicon specific implants too.
+- **Reworked Lore**: A new lore for IPCs that isn't simply contrivences.
+- **New Weaknesses**: IPCs will be extra weak to Spacing, in order to compensate for their lack of need for air.
 
-I think IPCs not having to breathe is fine, honestly, so long as other drawbacks make up for it, of which I have several in mind. 
+### Robotics Reimagined
+- **Doctors for Silicons**: IPCs will need medical treatment now, as welding serves as bandaging only. Robotocists will be expected to heal any IPCs that come to their office.
+- **Topicals**: Robotocists will be able to make Silicon-specific topicals that heal damage types. They will be made with steel, plastic, and LV cables. While intended only for IPCs at the moment, this could be expanded for all borgs
+- **Collaberation with Medical**: Paramedics will be required to carry some topicals for IPCs, and will have to bring IPCs to robotics. If we end up making silicon-specific chemicals, Chemistry will have to coordinate with robotics as well.
+- **Surgery for Silicons**: To heal severe damage, IPCs (and possibly borgs) will need deeper maintenance. This will functionally be surgery, but conducted by the robotocist and with different body parts/anatomy. Think of it like opening up a machine and fixing the innards. 
+- **Cybernetic Upgrades**: Standard Operating Procedure would be modified to forbid medical doctors from doing cybernetic surgery unless it is lifesaving/replacing an already missing limb. Upgrading someone with cybernetics will be done solely by the on-duty robotocist and any assistant medical borgs.
 
-### Implants? No Thanks
-IPCs are not biological constructs, so the fact they can use implants has never made sense to me. By removing implants from IPCs, we automatically nerf their antagonist potential. Instead of implants, IPCs will need discrete hardware upgrades, which will mechanically be implants but with a far limited selection; only Mindshield and Pacifism, at least at first. No storage implant, scram implant, EMP implant, or any other sort of implants. An Acidify / Lifeline equivilent could also be considered.
+### Lore
+IPCs will likely need to be renamed, but I have no proposal for that just yet. Specifically, IPCs will no longer have positronic brains at all; instead, their brains have a small organic component. This component requires synthblood, which IPCs will now produce and bleed (just like those with the synthetic trait). Because of this, they have souls, and even genetic residue -- they will leave some equivilent to fingerprints as evidence.
 
-### A Medical Overhaul & Robotics
-First, we give IPCs synthblood, just like the synthetic trait gives. Then, we make it so individual damage types matter on an IPC, just like they do on any organic player species. Welding becomes bandaging for IPCs, stopping bleading, but that's it. 
+Like synthetics, IPCs are built by NanoTrasen. Because they are not borgs at all, the conflict of "why not just build borgs" is somewhat settled; borgs and IPCs simply have different purposes. After all, NT seems to build Synthetic crewmembers that aren't borgs anyway; this would just be a more outwardly visible construct. NanoTrasen would essentially bind IPCs (and we should extend this to those with the synthetic trait) under contracts drafted before the synthetic was even born. 
 
-A new suite of topicals are introduced which are created by the robotocist, and used to heal different types of damage. There could also be IPC-specific chems. More details on this will be covered in the Interaction with Game Systems section of this document.
+Essentially, NanoTrasen would be acting as an abusive parent; "I made you, so you have to do what I say now in gratitude". The lack of laws isn't a downside by any means, as just like other synthetics, autonomous reasoning has its advantages in terms of command roles, reasoning, etc. You don't need laws to control someone if you have a contract that essentially reduces someone to your indentured servant -- as I imagine NT has for most of their employees, to be blunt.
 
-From a gamebalance perspective, this makes IPCs harder to heal and more killable. No more casually welding yourself in a corner to fix an injury -- you need to be healed the same way as everyone else.
+## Game Design Rationale
+### General Considerations
+- **Robotics Needs Things to Do**: As it stands, Robotics is barely a role at all. It's a scientist that has to make sure a posibrain is descrambling, and essentially nothing else. There has already been talk of removing Robotics, and I believe that this addresses that problem.
+- **Interesting Mechanics and Interactions**: One of the most fascinating things about Space Station 14 is how all of the different mechanics can interact, and how those interactions change with minor deviations. By giving IPCs alternate ways to interact with mechanics, rather than them just not being interactive, we add a new dimension to gameplay, as well as to the setting and immersion.
+- **Robots are just cool**: Synthetics are meant to be a sort of replacement for IPCs, but people also enjoy the cosmetic/aesthetic of robots. Synthetics are a half-measure that has few interesting mechnical interactions. Speaking of...
+- **Synthetics**: This opens the door to potential changes for the Synthetic trait, if some of the IPC changes carry over to Synthetics at large.
+- **Borgs!**: All of this lays a groundwork for borg reworks too, making repairing borgs more complicated than jsut welding them.
 
-### Souls and DNA
-IPCs in this conception have souls. More details in the lore section, but essentially, they can be sacrificed by heretics and cultists. They will leave a bio-signature on objects if they are not wearing gloves. The only antagonist Im having a hard time squaring are Changelings -- I don't see a way to make it possible for IPCs to be changelings. That said, I believe we could still allow Changelings to consume IPCs, just not transform into them.
+### Core Principals
+- **Seriously Silly**: A new species that interacts with game mechanics in a different way always adds the potential for more fun interactions. It gives the robotocist far more to do, and forces them to interact with otehr players rather than sit in their office and just make sure posibrains are on. It makes IPCs vulnerable in ways that other crew are. And it serves the setting by making NanoTrasen more comically evil; giving life to creations just to trap them in employment contracts forever.
+- **There Is no Winning or Losing**: This new iteration of IPCs will, ideally, no longer be a powergamer's fantasy. The weaknesses balance out the strengths, and IPCs are now forced to interact with game mechanics that they previously were able to simply avoid.
+- **Maintaining Authenticity**: As a science fiction setting, more robots generally adds to the atmosphere. As it stands, borgs are dead simple to maintain, and robotocists are a nothing-role that requires little thought. This will turn robotics into a role that requires roleplay and game mechanics, while also bringing back a species in a new way that better fits in with the setting.
+- **Take Things Slow**: Making borgs take longer than a simple weld to repair slows things down, and means borgs need to be more careful of how they approach things. Requiring a robotocist for cybernetic upgrades instead of allowing medical to do it adds a level of complexity, where someone has to stop and think, realize where to go, then go to the robotocist. It makes the robotocist busier, so they don't just make a posibrain and then do whatever their heart desires. It means science has to devote more resources to robotics, to maintain topicals. All of this contributes to our general longer round times.
+- **Maximizing Roleplay Potential**: This is not being added just to appease players that miss IPCs. This adds a new level of complexity to the game. It introduces a species with real strengths and weaknesses. Far from QOL, it actually makes robotics a harder, more complicated role, while simultaneously creating new roleplay opportunities.
+- **Dynamic Environment**: At risk of further repeating what has been stated, creating new ways for mechanics to be interacted with based on the player's species adds a dynamism to the game world. It furthermore makes robotics a real part of the station, not just a sidebar to science.
 
-### Vulnerabilities
-In addition to heat damage, I believe IPCs should be particularly vulnerable to spacing. Their chasses are fragile in comparison to borg chasses, and without upgrades or an EVA suit, they should take significantly more spacing damage than other species. This will (ideally) balance out the fact they don't need to breathe. I'm envisioning it as spacing dealing far more blunt damage to IPCs, representing their chasses getting compressed from the pressureloss. 
+## Roundflow & Player Interaction
+A major criticism of IPCs as they previously existed was that they did not need to interact with the station at large. By giving them their own anatomy that requires a robotocist to fix, it forces new player engagements. It also has the added advantage of forcing Robotics to interact with the station at large. If we port over these proposed changes to borgs, it also forces Borgs to be more careful and take things slower, as repairing them will no longer be as trivial as a simple re-welding.
 
-## Interaction with Game Systems
-I've been a game designer for some years now, and I believe that not every player needs to interact with every game system. Players approach games differently, and that's fine. However, I do believe that in a game like SS14, if someone does not have to interact with one system, there *should be a replacement system* that they are required to interact with instead. This is where I see the potential to kill two birds with one stone, by making Robotics responsible for IPC maintenance.
+It also makes science's gameplay flow more dynamic by making robotics a genuine consideration. They now have to consider researching cybernetic technology to make healing IPCs (and potentially borgs) easier, as well as divert resources to robotics to keep crewmembers alive. Do they focus on their anomaly infrastructure, or do they focus on maintaining silicon lifeforms more easily? It creates more dynamic choices for science to consider, and changes the flow (for the better) of research, which as it stands is rather monotonous with few real decisions outside of the T3 choice.
 
-### Robotics as Doctors
-As detailed in the Medical Overhaul section, IPCs will now take damage normally. A simple weld will not suffice to heal. Instead, they will require topicals to be administrated to them. These topicals will be creatable (mostly with plastic, steel and LV cables) by the robotocist, who can then apply them to injured IPCs who come to their office. We make it part of Robotocist SOP that they are responsible for IPC repairing and wellness. We could even potentially expand this to all borgs, requiring proper medical treatment (not just welds) for normal borgs as well, with welding serving purely stopping bleeds.
+## Administrative & Server Rule Impacts
+We would have to update the Standard Operating Procedure of Robotocists entirely, Doctors (forbid surgery for cybernetics), Paramedics (bring IPCs to robotics, not medical) and potentially Chemists (make chemicals for synthetic life forms). Previously, IPCs were a magnet for powergaming. While I do feel that my proposals largely make the species more balanced, there's no way to know for sure until we actually start testing it.
 
-Robotocists would also be responsible for upgrading IPCs should they wish them, performing surgery on them and giving their chasses upgrades. Additionally, we would make it explicit that ANY cybernetic upgrades for ANY crew must be done by the robotocist -- Medical surgeons can *only* do bio-synthetic prosthetics and lifesaving surgeries. Any operation involving a cybernetic, or any surgery on an IPC, MUST be done by the robotocist.
+Robotics will be expected to follow their new SOP, with IAAs enforcing it as they do for all departments. I don't forsee needing any special enforcement here, just an adjustment period to the new role of robotics.
 
-IPCs would not be able to receive cryogenic care. If their limbs are damaged beyond repair, it is far simpler to just replace their limb with a new IPC limb. Likewise, if they are too damaged, it is easier to transfer their brain to a new chassis.
+## Technical Considerations
+I believe the IPC code as it stands is completely unsalvagable. We would need to write new game systems from the bottom up, and scrap what exists -- only the art assets will remain, most likely. This will obviously take time.
 
-### Paramedic Training
-As part of their SOP, Paramedics would be instructed to bring any injured IPCs to the Robotocist. They could carry a few robotic topicals with them for emergency care. We would have to give them robotics access of course, and potentially even relocate robotics on some maps, but I think this is very much do-able. 
+The new robotics system will require us to change the medical code a bit as well, which is notoriously a bit finnicky and difficult to work with. We may need to tweak the surgical UI when operating on silicons, and an entire new suite of operations and "organs" will be required for performing surgery on silicons. 
 
-### Chems?
-An idea I'm less sure on is the idea of having a special set of chems that work on IPCs. It would add some complexity, but it would also ensure more departmental interlocking; chemistry would have to maintain some IPC chems, and send them to the robotocist.
+As a minor point of overhead, the alternative implants for IPCs will need to be implemented (IPC-compatible mindshields and pacifism implants mainly, probably trackers too). These should have unique art assets to differentiate them from normal implants, but otherwise can use the same code. We will need checks to verify if an implant is compatible with a character, but I do not forsee that being too difficult.
 
-## Setting Compatibility
-IPCs raise an important question: Why would NanoTrasen create IPCs, when they have borgs? It's a very good question, and I have a few ideas to fix it. The simplest idea is that NanoTrasen merely employs IPCs; they don't make them. In this conception, IPCs are either from their own self-replicating mechanical civilization, or are simply made by individuals on an ad-hoc basis. This has the disadvantage of making it somewhat difficult to explain how NT would be able to maintain IPC parts, however.
-
-Another idea is that they are simply bodies provided to the MMIs of important NT personnel who they don't want to borg. This has the problem of meaning the species would have to somehow be inherently limited, and isn't really much of a solution at all in my view.
-
-My last idea, however, is a bit more exciting and ties into my previous notes on DNA and souls; IPCs are partially organic. They do not have Positronic brains at all (meaning you can't put any borg brain in one), and instead have some sort of advanced, hybrid brain that has an organic component. Whether it is compatible with MMIs or not, I am not sure, but it would essentially be a unique biosynthetic brain. This organic component requires synthblood to survive, and is entirely incompatible with borg chasses (without a potential MMI). In Isaac Asimov's conception of the laws of robotics, the laws are not merely something enforced on robots; they are a *necessary byproduct* of their existence, as fundamental as neural synapses are to human life. Therefore, it would make sense for a lawless silicon to simply not have a positronic brain, and have something else entirely.
-
-Because of the organic component, they have some measure of DNA (but not enough to do genetics stuff). This can be extracted by changelings -- and can be used to identify IPCs as well, with DNA evidence being left behind unless the IPC removes evidence from their gloves/whatever they have touched. 
-
-Of course, this still leaves another question: why would NanoTrasen make them at all? They are no longer in the same category as borgs, but borgs still have their uses, and laws are useful. I have two responses to that. The first, we allow the synthetic trait -- which is mostly used for characters who are synthetic constructs of NT without laws binding them who are presumably paid. The same logic could be applied to the synthetic trait, but we don't, and I find that interesting.
-
-The second is less whataboutism and more a real solution; NanoTrasen is an abusive parent. Abusive parents will often on their adult children use something to the effect of "I raised you, so you owe me everything". With NT, we turn this up to eleven. By being created by NT, you owe them. You agreed to a contract to work for them, indefinitely, to pay off the cost of your creation, *before you were even born and before you could sign it*. You are an employee, like everyone else... and you're essentially an indentured servant, like everyone else. This idea, I feel, fits with the theming of NanoTrasen on Funky, while the advantages of autonomous decision makers explains the rationale for making them in teh first place.
-
-## Why Though?
-IPCs were removed for technical debt reasons, and the reasons above. It is fair to ask: why relitigate this? Why bother at all? It's a solved problem. Which, honestly, fair enough. The strongest argument I have, I think, is that it gives robotics something to do. Remember, this isn't just a proposed IPC reintroduction -- but a reworking of an entire role, to give them an actual purpose. I also feel that many of the ideas here (especially the medical stuff) can be ported to normal borgs.
-
-Another answer I have is that I think removing things is bad. Yes, sometimes you just have to, and yes, with IPCs it was ostensibly the last resort but I think my solutions are novel. If we can bring something back that people liked, we should.
-
-A third answer, and my least persuasive, is that I like robot people. Yeah, yeah, furslop (synthslop?) and all that, but sometimes, you just make things because you like them. I'm aware that many on the staff don't like the idea of IPCs out of principal. However, Taydeo told me to give this document a shot (despite being a certified hater of IPCs themselves!). So bluntly, I don't care if you personally dislike IPCs. What I do care about is interesting game design and solutions to difficult problems, and I think I have provided both of those. All I ask is that you keep an open mind. I am open to feedback and changes.
-
-## Implementation
-Here comes the toughest pill to swallow.
-
-I do not think the IPC code as it exists right now is salvagable. I believe that we will have to completely rewrite IPCs from the ground up, using little or even no code from the original species. Honestly, it deviates so much from IPCs that we might as well even rename the species and just use the visual assets; the only thing this has in common with original IPCs is "robot person".
-
-This is, bluntly, a lot of work. It's work, however, that I want to do -- but I don't want to do it if it's 100% certain to be rejected, which is why I submit this as a design document first. If you're not interested, that's fine, but I'm going to make this eventually anyway, if not for Funky, then for a different fork.
-
-## Challenges
+## Pros & Cons
 ### Pros
 - Returns removed content to the game
 - Gives robotics something to do
