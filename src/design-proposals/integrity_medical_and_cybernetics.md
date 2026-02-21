@@ -1,8 +1,8 @@
 # Integrity-Based Medical and Cybernetics System
 
-| Designers       | Implemented                                 | GitHub Links    |
+| Designers | Implemented | GitHub Links |
 | --------------- | ------------------------------------------- | --------------- |
-| Terkala         | Yes (50%)		                            | https://github.com/Terkala/forky-fern/tree/Cyber-Med             |
+| Terkala | Yes (80%) | [https://github.com/Terkala/forky-fern/tree/Cyber-Med](https://github.com/Terkala/forky-fern/tree/Cyber-Med-v2) |
 
 ## Overview
 
@@ -10,7 +10,7 @@ I started with a premise, that premise is that Cybernetic arms are interesting f
 
 Since I'm rebuilding this with no knowledge or use of any shitmed code, I started looking at what systems I'd need. Realizing that the UI is really the thing people interact with most surgery wise, but it makes very little sense for surgery to be started via rightclicking and opening a menu. So I instead added surgery as a function to health scanners. That way there is a reason for a UI popup to exist. Health analyzers will have 3 functions, one for Health, Integrity, and Surgery. Health is the default, Integrity shows any integrity penalties from surgical procedures, and the surgery tab allows you to select a body part and perform that surgery.
 
-This surgical system is dynamic, based on actual possible to perform surgeries, and using a combined Integrity system to track incompatible organs, surgical penalties, quality penalties of parts, and rejection of implants. In order to help give Robotics more interesting gameplay, this also includes a customization system for cybernetic limbs, where the roboticist will be able to customize cyber limbs and organs in a variety of ways, and will be required to perform maintence on cybernetics during the shift or people will suffer penalties. The system is designed to be highly configurable, so if a specific limb is "too good" you can simply raise the Integrity penalty to a point where the drawbacks equal the benefits. 
+This surgical system is dynamic, based on actual possible to perform surgeries, and using a combined Integrity system to track incompatible organs, surgical penalties, quality penalties of parts, and rejection of implants. In order to help give Robotics more interesting gameplay, this also includes a customization system for cybernetic limbs, where the roboticist will be able to customize cyber limbs and organs in a variety of ways, and will be required to perform maintence on cybernetics during the shift or people will suffer penalties. The system is designed to be highly configurable, so if a specific limb is "too good" you can simply raise the Integrity penalty to a point where the drawbacks equal the benefits.
 
 I specifically considered the case of "skilled doctor in a fully equipped medbay doing multiple implants" versus "maints doctor doing surgery with a toolbelt", and plan to balance the system so it's possible (but unwise) for a maints doctor to perform organ surgery, assuming the patient is happy with taking heavy doses of immune suppressant medication for the rest of the shift.
 
@@ -81,9 +81,9 @@ The system is designed to be performance-optimized for 90 players, with cached c
 **Trio-Mode Display:**
 - **Health Mode** (default): Works as always has, showing damage groups
 - **Integrity Mode**: Shows overall Integrity (e.g., "Integrity 4/6") and breakdown of penalties:
-  - "-2 Cybernetic Left Arm"
-  - "-2 Biosynthetic Heart"
-  - Each component contributing to Integrity usage is listed
+ - "-2 Cybernetic Left Arm"
+ - "-2 Biosynthetic Heart"
+ - Each component contributing to Integrity usage is listed
 - **Surgery Mode**:
 - 3 layers as described above
 - Icon of the player, clickable to select the body part
@@ -91,22 +91,22 @@ The system is designed to be performance-optimized for 90 players, with cached c
 ### Slime-Specific Systems
 
 **Surgery Restrictions:**
-- Slimes only have a "core" organ that performs all organ functions. Slime lungs removed and placed inside the core.
-- Slimes cannot receive organ implants (except core removal)
+- Slimes only have a "core" organ that performs all organ functions.
+- Slimes cannot receive organ implants (except core removal and lungs)
 - Slimes cannot receive limb implants
 
 **Limb Regeneration:**
 - Severed slime limbs and heads automatically regenerate
-- 1 minute delay before regeneration starts
-- Regenerates at 5% health, then slowly heals to full over 4 minutes
+- 1 minute delay before regeneration happens.
+- Currently instant regeneration of limbs due to no system of limb health. Intended to be more gradual if limb health ever added.
 
 ### Cyber-Limb System
 
 **Configurable Storage:**
 - Cyber limbs function as storage containers (2 rows × 3 columns = 6 slots for starting cyberlimbs, higher tech limbs have more space).
-	Subject to balance/change. Specific use case here is that I want to put tools "directly" into cyber limbs, and have the cyber-limb work to select those tools once active.
-	Example: Put a Jaws of Life into a cyber limb, and a High Capacity Battery, and a bunch of other components for "stats" such as battery life and use-speed of the limb.
-	The idea being that it's intuitive to just put tools that can do things into cyber limbs. Want a cyber gun? Put the gun actually in the limb. Want a cyber-crowbar? Put a crowbar into the arm. But the limb will work worse because there's not enough space for all of the power sources or servos to make it interact properly.
+ Subject to balance/change. Specific use case here is that I want to put tools "directly" into cyber limbs, and have the cyber-limb work to select those tools once active.
+ Example: Put a Jaws of Life into a cyber limb, and a High Capacity Battery, and a bunch of other components for "stats" such as battery life and use-speed of the limb.
+ The idea being that it's intuitive to just put tools that can do things into cyber limbs. Want a cyber gun? Put the gun actually in the limb. Want a cyber-crowbar? Put a crowbar into the arm. But the limb will work worse because there's not enough space for all of the power sources or servos to make it interact properly.
 - Non-stacking behavior: inserting a stack splits it, taking only 1 item
 - Storage only accessible when maintenance panel is open
 
@@ -136,24 +136,88 @@ The system is designed to be performance-optimized for 90 players, with cached c
 
 **Cyber-Limb Maintenance:**
 - 6-step maintenance procedure using surgery system:
-  1. Expose Screws (Skin layer, Welder) - +1 bio-rejection
-  2. Open Panel (Tissue layer, Screwdriver) - +1 bio-rejection (total +2)
-  3. Adjust Bolts (Tissue layer, Wrench) - no penalty change
-  4. Replace Wiring (Organ layer, Low-voltage wire) - no penalty change
-  5. Optional Replacement of Batteries (Organ Layer, hand interact) - no penalty change
-  6. Close Panel (Tissue layer, Screwdriver) - -1 bio-rejection
-  7. Seal Panel (Skin layer, Welder) - -1 bio-rejection (total 0)
+ 1. Expose Screws (Skin layer, Welder) - +1 bio-rejection
+ 2. Open Panel (Tissue layer, Screwdriver) - +1 bio-rejection (total +2)
+ 3. Adjust Bolts (Tissue layer, Wrench) - no penalty change
+ 4. Replace Wiring (Organ layer, Low-voltage wire) - no penalty change
+ 5. Optional Replacement of Batteries (Organ Layer, hand interact) - no penalty change
+ 6. Close Panel (Tissue layer, Screwdriver) - -1 bio-rejection
+ 7. Seal Panel (Skin layer, Welder) - -1 bio-rejection (total 0)
 - Panel must be open to access storage or swap batteries
 - If you do any of these steps and don't use a "High Precision Screwdriver" (added to RD and Roboticist jobs), you apply a permament +2 "low quality maintence" bio rejection penalty. The intent is for only 1 or 2 of these to exist, and for it to be rare enough that nobody gives it away, leading to people intentionally seeking the Roboticist out for their repair needs.
 - This penalty can only be removed via using that tool to actually do the repair. So if there's no robo onboard, you "can" do the repairs if you have tools, and the penalties are light enough that a simple basic cyberlimb and that penalty won't even go to the point of applying any stat penalty, but you'd want to have that job do the repair when possible.
-- Once you finish the replace wiring step, it resets the maintence time to maximum. 
-- Example of ending surgery early: If you simply replace the wiring and leave it open, a med scanner would show "1 bio rejection, open panel. 1 bio rejection, unsealed panel."
+- Once you finish the replace wiring step, it resets the maintence time to maximum.
+- Example of ending maintence early: If you simply replace the wiring and leave it open, a med scanner would show "1 bio rejection, open panel. 1 bio rejection, unsealed panel."
 
 **Ion Storm Interactions:**
 - Ion storms have a chance to damage cyberwear.
 - If the cyberwear is damaged, it may either immediately require servicing, or have a long term penalty applied.
-- Repair by a roboticist can remove this penalty.
+- Maintenance can remove this penalty.
 
+## Implementation Status
+
+This section documents the current implementation in the forky codebase. Implementation diverges from the original design in several areas (tool-based maintenance vs surgery UI, event naming, system split).
+
+### Required Systems – Status
+
+| System | Design Doc | Implementation | Status |
+| ------ | ---------- | -------------- | ------ |
+| IntegritySystem | shared/server | Split: `IntegrityUsageSystem`, `BioRejectionSystem`, `IntegrityPenaltyAggregatorSystem` | Implemented |
+| SurgerySystem | shared | `SurgerySystem`, `SurgeryLayerSystem` | Implemented |
+| CyberLimbStorageSystem | shared | `CyberLimbStorageSystem` (Content.Server) | Implemented |
+| CyberLimbStatsSystem | shared | `CyberLimbStatsSystem` | Implemented |
+| CyberLimbInspectionSystem | client | Planned (Shared; ExaminedEvent on CyberLimbStatsComponent) | Planned |
+| CyberLimbModuleSystem | shared | — | Not started |
+| CyberneticsMaintenanceSystem | shared | `CyberneticsMaintenanceSystem` | Implemented |
+| SlimeLimbRegenerationSystem | server | — | Not started |
+
+### Surgery – Implemented
+
+- **Health Analyzer**: Health / Integrity / Surgery modes; body part diagram; layer tabs (Skin, Tissue, Organ)
+- **Surgery steps**: RetractSkin, RetractTissue, SawBones (Skin/Tissue); RemoveOrgan, InsertOrgan, DetachLimb, AttachLimb (Organ)
+- **SurgerySystem**: SurgeryRequestEvent, DoAfter, layer validation; integrity capacity check before InsertOrgan/AttachLimb
+- **BodyPartOrganSystem**: OrganInsertRequestEvent, OrganRemoveRequestEvent; slot validation
+- **SharedBodyPartSystem**: limb attach/detach
+- **BodyPartComponent.Slots**: organ category slots per body part
+
+### Integrity – Implemented
+
+- **IntegrityUsageSystem**: OrganGotInserted/Removed updates usage; IntegrityCostRequestEvent for cost lookup
+- **IntegrityPenaltyAggregatorSystem**: SurgeryPenaltyApplied/Removed, IntegrityPenaltyApplied/Cleared, IntegrityPenaltyTotalRequestEvent; stores penalties on organs/body
+- **BioRejectionSystem**: applies bio-rejection damage when usage + penalty > capacity
+- **UnsanitarySurgeryCalculationSystem**: dirty room, improper tools penalties
+- **IntegrityPenaltyTotalRequestEvent** (design doc: TotalPenaltyRequestEvent)
+
+### Cybernetics – Implemented
+
+- **CyberneticsMaintenanceSystem**: Tool-based (screwdriver, wrench, wires); InteractUsingEvent + DoAfter; no surgery UI
+- **CyberneticsMaintenanceComponent**: PanelExposed, PanelOpen, PanelSecured, WiresInsertedCount
+- **Maintenance flow**: Screwdriver (expose/secure) → Wrench (open/close) → Wires (repair); repair resets service time
+- **CyberLimbStatsSystem**: ServiceTime, Efficiency; CyberMaintenanceStateChangedEvent, CyberLimbAttachedToBodyEvent, CyberLimbDetachedFromBodyEvent
+- **CyberLimbStatsComponent**: ServiceTimeRemaining, ServiceTimeMax, Efficiency, ServiceTimePerLimb (no Battery yet)
+- **CyberLimbStorageSystem**: storage blocked when panel closed; non-stacking on insert; closes UI when panel closed or limb attached
+- **CyberLimbAppearanceSystem**: humanoid sprite updates for cyber limbs
+- **CyberArmSelectSystem** (Server): hand selection UI for cyber arms
+- Maintenance penalties: SurgeryPenaltyAppliedEvent (same event as surgery penalties)
+
+### Cyber-Limb Inspection – Planned
+
+- **CyberLimbInspectionSystem** (Shared): ExaminedEvent on CyberLimbStatsComponent; examiner null check; goggle check via `TryGetSlotEntity(examiner, "eyes")` and ShowHealthBarsComponent with Silicon on equipped goggles; push service time, efficiency
+- Design doc lists (client); implementation Shared so handler runs on both client and server
+- Out of scope for current stage: Battery, module types, unskilled surgeon/roboticist penalty
+
+### Integration Tests
+
+- IntegrityPenaltyIntegrationTest, IntegrityUsageIntegrationTest, BioRejectionIntegrationTest, ImmunosuppressantIntegrationTest
+- SurgeryRetractSkinIntegrationTest, OrganRemovalSurgeryIntegrationTest, FullOrganSurgeryIntegrationTest, HeartRemovalSurgeryIntegrationTest
+- CyberneticsMaintenanceIntegrationTest, CyberLimbStatsIntegrationTest, CyberLimbStorageIntegrationTest, CyberLimbAppearanceAndHandIntegrationTest
+
+### Design vs Implementation Divergences
+
+- **Maintenance**: Design uses 6-step surgery UI (Skin/Tissue/Organ layers, Welder/Screwdriver); implementation uses tool-based InteractUsing + DoAfter (screwdriver, wrench, wires) on the person, no surgery UI
+- **Penalty events**: Design uses CyberMaintenancePenaltyAppliedEvent; implementation uses SurgeryPenaltyAppliedEvent for both surgery and cyber maintenance
+- **IntegritySystem**: Design single system; implementation split into IntegrityUsageSystem, BioRejectionSystem, IntegrityPenaltyAggregatorSystem
+- **Battery**: Design has battery + service time; implementation has ServiceTime only (no Battery yet)
 
 ## Game Design Rationale
 
@@ -162,8 +226,8 @@ The system is designed to be performance-optimized for 90 players, with cached c
 **Seriously Silly:**
 - Maints surgery is preserved. Some tider can remove your spleen with a crowbar and wirecutters. Is it a good idea? No. But you can.
 - Cyberlimb systems let you put weird and wacky things in a cyberlimb. Since the cyberlimb is dynamic, they will be able to put "any" item into the cyberlimb, and have it activate as a hand.
-  - We can finally, FINALLY, make someone a pizza by literally putting slices of pizza into their cyberlimbs.
-  - Everyone knows this will be the first question asked about a surgical limb system.
+ - We can finally, FINALLY, make someone a pizza by literally putting slices of pizza into their cyberlimbs.
+ - Everyone knows this will be the first question asked about a surgical limb system.
 
 **Take Things Slow:**
 - The Integrity system creates gradual consequences rather than instant death.
@@ -212,7 +276,6 @@ The system is designed to be:
 - Cyber-limb optimization and module swapping
 - Immunosuppressant management for high-Integrity characters
 
-
 ### Player Interaction Patterns
 
 **Surgeon-Patient Interaction:**
@@ -242,13 +305,13 @@ The system is designed to be:
 
 **Potential Griefing Vectors:**
 - **Incomplete/incompetent Surgeries**: Players could intentionally leave surgeries incomplete to harm others
-  - **Mitigation**: Penalties are gradual, giving victims time to seek help. Admins can check surgery state via components.
-  
+ - **Mitigation**: Penalties are gradual, giving victims time to seek help. Admins can check surgery state via health analyzer integrity mode.
+
 - **Cyber-Limb Module Theft**: Players could steal modules from cyber-limbs
-  - **Mitigation**: Storage only accessible when maintenance panel is open, which requires a multi-step procedure. Panel state is tracked in component.
+ - **Mitigation**: Storage only accessible when maintenance panel is open, which requires a multi-step procedure. Panel state is tracked in component.
 
 - **Bio-Rejection Abuse**: Players could intentionally cause bio-rejection in others
-  - **Mitigation**: Bio-rejection requires organ/limb/cybernetic installation, which is a complex process. Admins can check Integrity components for abuse patterns.
+ - **Mitigation**: Bio-rejection requires organ/limb/cybernetic installation, which is a complex process.
 
 **Additional Admin Workload:**
 - Admins may need to understand Integrity system
@@ -304,18 +367,18 @@ The system is designed to be:
 **Health Analyzer:**
 - Toggle button for Health/Integrity mode
 - Integrity mode shows:
-  - Overall Integrity (e.g., "Integrity 4/6")
-  - List of components with Integrity penalties
-  - Each entry shows component type and penalty amount
-  - List of ongoing penalties
+ - Overall Integrity (e.g., "Integrity 4/6")
+ - List of components with Integrity penalties
+ - Each entry shows component type and penalty amount
+ - List of ongoing penalties
 
 **Cyber-Limb Inspection:**
 - Examine verb (requires diagnostic goggles)
 - Formatted message showing:
-  - Battery status (percent and time remaining)
-  - Service time remaining
-  - Efficiency percentage
-  - List of installed modules
+ - Battery status (percent and time remaining)
+ - Service time remaining
+ - Efficiency percentage
+ - List of installed modules
 
 **Cyber-Limb Storage:**
 - Standard storage UI (2×3 grid)
@@ -325,13 +388,10 @@ The system is designed to be:
 ### Refactors Required
 
 **Existing Systems:**
-- `Shitmed` systems remain but are largely unused (except Targeting system)
-- Autodoc redesigned to 3-button interface (Organ Implant, Medical Care, Organ Removal)
-- Body system integration for organ/limb attachment/removal
+- None, all existing systems are compatible with no refactors needed
 
 **Prototype Structure:**
-- New namespace: `Content.Shared/Medical/` and `Content.Server/Medical/`
-- Standalone from `_Shitmed` to allow gradual migration
+- New namespace: `Content.Shared/Cybernetics/` and `Content.Server/Cybernetics/`
 - Integration points use existing patterns (BodySystem, StorageSystem, etc.)
 
 ## Balance Considerations
@@ -390,7 +450,7 @@ The system is designed to be:
 - More sophisticated organ compatibility system
 - Advanced immunosuppressant variants
 - Cyber-limb efficiency penalty application (movement speed, interaction speed, damage output)
-  - This will probably be in v1.0, but wanted to mention it here.
+ - This will probably be in v1.0, but wanted to mention here.
 - Integration with chemical systems in more ways than immunosuppressants
 - Additional species-specific considerations
 
@@ -413,4 +473,3 @@ The system aligns with Funky Station's design principles by:
 - Respecting player time (meaningful choices, avoid instant death)
 - Creating mechanical depth (module optimization, surgery planning)
 - Letting John Spacestation finally turn that poor tider into a Papa Johns in a maintence tunnel surgical room.
-
