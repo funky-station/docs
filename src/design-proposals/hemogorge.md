@@ -76,4 +76,4 @@ As iterated in the two points above, I feel the players in this role would find 
 As this is an entirely new antagonist gamerule, coding is a given, as well as minor spritework must be done for the UI and some abilities. 
 
 Here is a mockup of how the UI will possibly look.
-![src/assets/UI assets.png]
+![Hemogorge UI Elements Mockup Image](src/assets/UI assets.png)
