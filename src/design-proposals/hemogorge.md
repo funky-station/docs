@@ -55,20 +55,27 @@ Considering all of the other horrors and straight-up *magical* entities that exi
 ### Roundflow & Player interaction
 The Hemogorge is a round-start solo antagonist, starting the round in a similar vein to a thief, traitor, or changeling. This antagonist is metashielded by Corporate Secrets, meaning normal crew members do not know of its existence, though when witnessed, it would be reasonable to call them a "Vampire." Its revealing factor for Command is the puncture wounds left on the necks of the Hemogorge's victims. Command personnel can choose to brief Security on their existence at their reasonable discretion.
 
-The proper course of action when dealing with a confirmed Hemogorge threat is to first identify who it is. If security detains a violent criminal after a Hemogorge is confirmed on-station, they can force-feed them holy water. If a Hemogorge drinks holy water, they will take minor burn damage and vomit blood. ***Note: Holy Water force-feeds should be treated the exact same as forced Mindshield implants, and must not be given without very clear reason.***
+The proper course of action when dealing with a confirmed Hemogorge threat is to first identify who it is. If security detains a violent criminal after a Hemogorge is confirmed on-station, they can force-feed them holy water. If a Hemogorge drinks holy water, they will take minor burn damage and vomit blood. 
+
+***Note: Holy Water force-feeds should be treated the exact same as forced Mindshield implants, and must not be given without very clear reason. A possible SOP and Space Law addendum may be required for clarity.***
+
 The next step is to deal with the Hemogorge. This is when Security properly employs the help of the Chaplain. The Chaplain must dispense a Wooden Stake (will be added with this antagonist) from their clothing/accessories vendor and use it on the Hemogorge. After a medium-length doafter, the stake is driven into their body, the Hemogorge component is removed, and the Hemogorge is killed. 
-The ex-Hemogorge MUST be revived afterwards (unless they become catatonic), as they are no longer a blood-drinking ghoul. If acquisition of the Chaplain's wooden stake is impossible by some means, Command may elect to have the Hemogorge incinerated.
+
+The ex-Hemogorge MUST be revived afterwards (unless they become catatonic), as they are no longer a blood-drinking ghoul. If acquisition of the Chaplain's wooden stake is impossible by some means, Command may elect to engage in DNR methods regarding the ex-Hemogorge.
 
 
 ## Administrative & Server Rule Impact (if applicable)
 
-- *Does this feature introduce any new rule enforcement challenges or additional workload for admins?*
+- **Does this feature introduce any new rule enforcement challenges or additional workload for admins?**
+
 This should be no more of a workload than current Traitor rule enforcement. The only singular complication is ensuring the Hemogorge players aren't needlessly killing people on the station who aren't their targets. This is not a murderbone antag (and I suspect the player would have a really hard time doing so anyways).
  
-- *Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?*
+- **Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?**
+
 Less so than Traitors, and doubly less so than Changelings. The Hemogorge is significantly underpowered and underequipped compared to the other two, so I doubt there would be much complaint, if any. 
 
-- *How are the rules enforced mechanically by way the feature will be implemented?*
+- **How are the rules enforced mechanically by way the feature will be implemented?**
+
 As iterated in the two points above, I feel the players in this role would find themselves to not be powerful enough to murderbone. 
 
 
