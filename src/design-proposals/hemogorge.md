@@ -62,18 +62,19 @@ The ex-Hemogorge MUST be revived afterwards (unless they become catatonic), as t
 
 ## Administrative & Server Rule Impact (if applicable)
 
-- Does this feature introduce any new rule enforcement challenges or additional workload for admins?
+- *Does this feature introduce any new rule enforcement challenges or additional workload for admins?*
 This should be no more of a workload than current Traitor rule enforcement. The only singular complication is ensuring the Hemogorge players aren't needlessly killing people on the station who aren't their targets. This is not a murderbone antag (and I suspect the player would have a really hard time doing so anyways).
  
-- Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?
+- *Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?*
 Less so than Traitors, and doubly less so than Changelings. The Hemogorge is significantly underpowered and underequipped compared to the other two, so I doubt there would be much complaint, if any. 
 
-- How are the rules enforced mechanically by way the feature will be implemented?
+- *How are the rules enforced mechanically by way the feature will be implemented?*
 As iterated in the two points above, I feel the players in this role would find themselves to not be powerful enough to murderbone. 
 
 
-# Technical Considerations
-As this is an entirely new antagonist gamerule, coding is a given, as well as minor spritework must be done for the UI and some abilities. 
+## Technical Considerations
+As this is an entirely new antagonist gamerule, coding, as well as minor spritework must be done for the UI and some abilities. 
 
 Here is a mockup of how the UI will possibly look.
-![Hemogorge UI Elements Mockup Image](src/assets/UI assets.png)
+
+![Hemogorge UI Elements Mockup Image](https://raw.githubusercontent.com/funky-station/docs/c55c53806b290c4181fbb341853340debb3b0ded/src/assets/UI%20assets.png)
