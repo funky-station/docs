@@ -14,14 +14,13 @@ Central Command staff are outside the chain of command of the station. Part of t
 
 As it stands, security is very quick to arrest members of CC or command when crimes are committed. Making at the very least CC staff immune to legal consequences would prevent this behavior. Additionally it would make some sort of revolution the only IC recourse the crew has against an "out of hand" member of CC, allowing for more interesting round dynamics.
 
-A consideration should be made if this change would only include the NTR and the Magistrate, or the IAA's as well.
+Internal Affairs Agent should not be included in this change, they are a lower level agent from CC, and function as a sort of learner role for the NTR.
 
 ## Features to be added
 
-Addition to space law that members of Central Command are fully immune under the law for any crimes committed.
+Addition to space law that members of Central Command, the Magistrate and the NTR are fully immune under the law for any crimes committed.
 
 ## Game Design Rationale
-
 
 ### Maintaining Authenticity
 
@@ -29,7 +28,7 @@ This change reinforces that NT is an almost untouchable entity compared to the t
 
 ### Maximizing roleplay potential
 
-With this change, there would be next to no "proper channels" left to hold a CC vip accountable, leaving only direct, possibly violent action. Ideally in rounds where a CC vip would otherwise have been arrested, we instead see a lot more organized action from the sleighted crew.
+With this change, there would be next to no "proper channels" left to hold a CC vip accountable, leaving only direct, possibly violent action. Ideally in rounds where a CC vip would otherwise have been arrested, we instead see a lot more organized action from the slighted crew.
 
 ## Roundflow & Player interaction
 
@@ -37,4 +36,4 @@ This change shouldn't have a huge impact on the typical round. Characters that a
 
 ## Administrative & Server Rule Impact (if applicable)
 
-CC vip roles are already under a lot of scrutiny, and rolebans are not uncommon for players acting outside the spirit of their role. It should be clear that this change does not simply give them carte blanche to begin executing people left and right because they feel like it. A consideration may need to be made on if IAA's are included in this as well, seeing as they are arguably under less scrutiny and incentivised to be a lot more zealous.
+CC vip roles are already under a lot of scrutiny, and rolebans are not uncommon for players acting outside the spirit of their role. It should be clear that this change does not simply give them carte blanche to begin executing people left and right because they feel like it. This is why IAA's aren't included in this as, seeing as they are arguably under less scrutiny and incentivised to be a lot more zealous.
