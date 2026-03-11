@@ -8,6 +8,8 @@
 
 This proposal adds a new Mage of Ascension antagonist built around a Ley Line system and spell schools. Mages of Ascension start weak and grow into a nearly station-ending threat by opening confluences (ley-line confluences) to places of power. Spells are organized into schools (Necromancy, Elementalism, Honkamancy, Hemomancy, Dimensionalism, Chaosmancy), and progression is tied to confluence-opening and a mana system. This variant exists alongside the existing Wizard as a midround/event antagonist.
 
+This is meant as a subgamemode, similar to Thieves or Heretic with a chance of being in the round (ex: 20% chance). Intended for all game modes. There will be 1-3 Mages depending on server population, who are not allied and will have to compete with eachother over confluences. Since there's a delay between confluences, this will lead to natural antag-vs-antag gameplay, with the station as collateral.
+
 **Player goals:** The Mage's goal is to ascend to ultimate power. Once ascended, their goal is to show the station their power.
 
 ## Background
@@ -22,13 +24,14 @@ Confluences are ley-line confluences—points where ley lines converge, opening 
 
 **Spawn rules:**
 - One confluence exists at round start.
-- One new confluence spawns each time a confluence is pried open.
+- One new confluence spawns each time a confluence is pried open, with a 2 minute delay before the next one opens.
 - Only one "new" (unopened) confluence exists at a time.
 - Confluences spawn indoors, in areas with safe atmosphere (normal temperature, normal pressure).
 
 **Visibility:**
 - Unopened confluences are visible only to the mage.
 - When a confluence is pried open, its sprite changes and it becomes visible to all players.
+- Visible confluences can be researched by Science for up to 1000 points of research, after which they fade. They require no APE, and simply the act of linking them to a containment vessel is enough to cause them to fade over time (once they've given up their points).
 
 **Finding confluences:**
 - Each confluence fires a mote of mana on its own timer (25–35 seconds, randomized to prevent syncing).
@@ -41,7 +44,7 @@ Confluences are ley-line confluences—points where ley lines converge, opening 
 - Once pried open, the confluence's sprite updates and it becomes visible to everyone.
 
 **Final confluence:**
-- Special, more visible confluence.
+- Special, more visible confluence. Spawned via a ritual that the Mage gains at the final step of their spell tree.
 - Occupies a 3x3 area (similar to blood cult final rune rift).
 - Grants the capstone spell when opened.
 
@@ -82,6 +85,11 @@ Six schools: Necromancy, Elementalism, Honkamancy, Hemomancy, Dimensionalism, Ch
 - All spells use mana; no charge-based spells.
 - Some spells are "maintained" and drain mana continuously while active.
 
+### 5. Mage Highlander Rules
+
+- Mages will be encouraged to fight each other, because a mage can use their spell book on another mage to steal their power
+- Using a spell book on a dead mage starts a long do-after, on completition it steals "one" randomly selected active spell from that mage, and turns their body to ash as the magic is ripped out of them. This allows you to have a spell from another spell school you normally would have no access to.
+
 **Balance:** Early mana limits sustained combat; late-game mana supports more sustained casting. Maintained spells need clear cost and duration.
 
 ## Game Design Rationale
@@ -112,3 +120,4 @@ Six schools: Necromancy, Elementalism, Honkamancy, Hemomancy, Dimensionalism, Ch
 - **Reference:** Electrical anomaly spark behavior for mote travel through walls.
 - **UI:** Store UI for school choice and spell selection; mana bar; confluence markers on navmap or HUD for the mage; open-spellbook state for confluence interaction.
 - **Refactors:** Spellbook/Grimoire store logic, spell action structure (mana instead of charges), store transfer to mind (uplink implant pattern).
+
