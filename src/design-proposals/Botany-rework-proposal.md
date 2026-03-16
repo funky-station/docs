@@ -368,5 +368,103 @@ Upon harvesting, the plant would instead take the form of an animal, leaving the
 
 
 
+## Game Design Rationale
+
+### Take things slow
+
+One of the goals of this rework is to address botany’s current progression speed. In the existing system, plants can often reach near-optimal states very early in a round, causing the department’s gameplay loop to plateau quickly. This system does not align well with Funky Station’s longer round length.
+
+Funky Station is designed around rounds lasting roughly two to two and a half hours. The current botany system typically reaches its peak within the first 30–45 minutes, after which meaningful progression largely stops.
+
+The introduction of generational stat growth, instability-based mutations, and more deliberate genetic manipulation systems encourages botanists to gradually improve their plants rather than rapidly perfect them. These systems reward observation and experimentation while maintaining the unpredictability that makes botany interesting.
+
+
+### Seriously Silly
+
+Botany is one of the departments most capable of producing chaotic situations. Plants that explode when eaten, overproduction leading to department-wide puddles of medicine, and hostile plants already make it a place where these situations can occur.
+
+The instability system and new plants/mutations are designed to expand on this aspect of botany. By allowing plants to develop more unusal traits, botanists can produce outcomes which help contribute to this environment further.
+
+### There is no Winning or Losing
+
+The new systems still provide opportunities for optimization, but this does not necessarily translate into winning or losing. Botanists are given more control over how they develop their plants than in the current system, where outcomes are largely determined by rng.
+
+This greater level of control is intended to help remove the win or lose mindset from botany, optimisation would still be part of botany, but it would be more normalised and transparent, compared to the current system where most of the mechanics are opaque. 
+
+The design of new plants and mutations supports the no win or loss mindset. Many of the new mutations are intentionally more experimental in nature, rather than strictly positive or negative. These traits often introduce unusual behaviors or situational outcomes instead of simply making a plant stronger. 
+
+
+### Maintaining Authenticity
+
+While this rework changes many aspects of botany, it keeps interactions familiar and understandable. Plants are still grown, harvested and mutated, with the new systems building on these existing mechanics rather than replacing them.
+
+The DNA Manipulator and instability systems present plant genetics in a clearer and more visible way, allowing players to understand how their plants develop without relying on opaque mechanics. These systems are designed to feel like a natural extension of hydroponics experimentation rather than an abstract or overly complex mechanic.
+
+### Maximizing Roleplay Potential
+
+Many of the new systems are designed to encourage interaction between players and departments. Botanists may need to collaborate with, with science to access additional gene disks, chemistry will have its usual give and take relationship.
+
+The slower progression and more gene disk system also creates more opportunities for conversation and cooperation within hydroponics itself. Slower progression and less punishing gameplay give the botanist more downtime as they wait for plants to grow, while the gene disk creates more cooperation between botanists as they fill out a gene collection. 
+
+New mutation and plant designs should adhere to this rule. Mutations and plants added throughout this rework should act as vehicles to drive interaction and roleplay. An example of this is the Spatially Unstable mutation. When a plant with this mutation is harvested, the produce teleports a short distance away. This mutation does not benefit the botanist’s normal workflow, but it creates opportunities for roleplay. Produce may scatter around nearby hallways, forcing the botanist to quickly retrieve it before an unsuspecting crew member finds and eats a heavily experimental plant.
+
+## Roundflow and Player Interaction
+
+The systems introduced in this rework are intended to influence botany throughout the entire round rather than being confined to short interactions.
+
+Early in the round, botanists will primarily focus on base plants. This includes growing produce for the chef, supplying chemistry, and beginning natural growth on a few plant lines. During this stage, botanists start establishing stronger generations of plants while also fulfilling the department’s normal responsibilities to the rest of the station.
+
+By mid-round, botanists will likely have already begun experimenting with mutations and collected a small set of gene disks. At this stage, they can begin producing longer-term plant lines, refining them through the DNA Manipulator.
+
+Late in the round is when botanists will have a larger collection of genes available. This is when they will be able to take full advantage of the Seed Splicer. While they may have used it earlier to achieve heavily desired plants, the late game is where experimentation shines.
+
+These systems rework the core of botany, and as such they will appear in every round in which botany is played. The slower progression curve is intended to spread meaningful botany gameplay across the entire round.
+
+The pacing of the roundflow described above is mechanically enforced through systems such as instability, genome capacity limits, and genetic scarring, which limit how quickly plants can be perfected and encourage longer term experimentation.
+
+## Administrative & Server Rule Impact
+
+This proposal does introduce new mechanics that could enable more disruptive or dangerous plants.
+
+However, the current botany system already presents similar challenges. Plants capable of causing harm already exist, such as poisonous produce or hostile plants(killer tomatoes). Due to the largely random nature of the current mutation system, it may be difficult to determine whether a harmful plant outcome was intentional or simply the result of normal play,.
+
+The proposed instability and mutation systems make genetic outcomes significantly more deliberate. Because mutations and trait transfers are more controlled and visible, it may become easier to determine whether a plant was intentionally engineered to cause harm or whether it was produced through experimentation.
+
+Overall, while the rework expands the potential capabilities of botany, it does not introduce entirely new categories of administrative challenges beyond what already exists in the current system.
+
+## Technical Considerations
+
+This rework introduces several new systems, while some of them build on top of existing botany mechanics, most of them will require either refactoring parts of the code or new code entirely. 
+
+### Performance 
+The main anticipated performance concern remains the same as current botany: large amounts of produce piling up. This proposal partially addresses that through the Reagent Extractor, which is intended to reduce entity buildup through player incentive.
+
+Some of the more experimental mutations and plants may present minor performance implications if produced in large quantities. 
+
+Overall, the rework should not have major performance impact outside of the normal risks already associated with botan, in some cases may reduce them.
+
+### New systems
+
+This proposal would require several new or expanded systems:
+- Instability system, including mutation tier weighting and methods of increasing or reducing instability
+- Natural stat growth, allowing plants to  gradually improve core stats across generations
+- DNA manipulator and gene disks, including visible genome slots, gene extraction, application, and genetic scarring
+- Seed Splicer, for producing advanced plant species from specific seed and gene disk combinations
+- Reagent Extractor, for converting plant produce into reagents more efficiently
+
+While some of these build up existing mechanics, systems like the DNA manipulator, gene disks and genome space system would mostly be new code, requiring more work.
+
+### UI Elements
+
+This rework will require new UI elements for both the DNA Manipulator and the Seed Splicer.
+
+Additionally, the Plant Analyzer UI will require changes to accommodate the new mechanics introduced.
+
+A ui mockup of the DNA Manipulator will be attached to the PR of this proposal. 
+
+
+
+
+
 
 
