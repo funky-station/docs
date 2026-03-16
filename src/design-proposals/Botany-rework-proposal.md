@@ -251,7 +251,7 @@ Both adding and removing traits may introduce genetic scars. Each scar temporari
 
 Genetic scarring is not permanent. As the plant line continues through successive generations, the genome gradually stabilizes and these scars begin to repair themselves. By replanting seeds and continuing the growth cycle, botanists can slowly restore the lost genome capacity.
 
-This system ensures that while the DNA Manipulator allows powerful control over plant genetics, repeated editing carries a short-term cost that encourages players to stabilize their plant lines through continued cultivation and breeding. 
+This system ensures that while the DNA Manipulator allows powerful control over plant genetics, repeated editing carries a short-term cost that encourages players to stabilize their plant lines. 
 
 
 
