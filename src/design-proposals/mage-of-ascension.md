@@ -90,6 +90,12 @@ Six schools: Necromancy, Elementalism, Honkamancy, Hemomancy, Dimensionalism, Ch
 - Mages will be encouraged to fight each other, because a mage can use their spell book on another mage to steal their power
 - Using a spell book on a dead mage starts a long do-after, on completition it steals "one" randomly selected active spell from that mage, and turns their body to ash as the magic is ripped out of them. This allows you to have a spell from another spell school you normally would have no access to.
 
+### 6. Security Interactions
+
+- Security will be encouraged to arrest them, as they'll be breaking into places to access leylines (usually), and have an illegal book that they'll have to have in their hand to use on leylines
+- Balance will be around a 5-10 minute prison sentence if caught.
+- HoS will have a Lodestone Amulet in their locker. This is also able to be made at the sec lathe. It fits in the neck slot, and sets the Mage's mana to zero while equipped. It can only be removed by unlocking it with a Brig access ID. This encourages them to find (or make) an incapacitated security officer later to unlock it. Leading to natural escalation throughout the round.
+
 **Balance:** Early mana limits sustained combat; late-game mana supports more sustained casting. Maintained spells need clear cost and duration.
 
 ## Game Design Rationale
