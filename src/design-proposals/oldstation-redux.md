@@ -14,7 +14,7 @@ A year or so ago, Old Station was added to Funky Station. This side game gave pl
 
 ## Features to be added
 
-When a player is a ghost without a body to return to, they will be prompted to join a party for Old Station. Once the party fills up, it will begin after 1 minute. If more than 6 players join the party, it will become a raffle, and 6 players will be chosen out of the players. The game will create a new map, load a variant of the main Old Station map, and the players will be able to leave their Cryogenic Sleepers.
+When a player is a ghost without a body to return to, and they have been alive for X minutes (at least 25), they will be prompted to join a party for Old Station. Once the party fills up, it will begin after 1 minute. If more than 6 players join the party, it will become a raffle, and 6 players will be chosen out of the players. The game will create a new map, load a variant of the main Old Station map, and the players will be able to leave their Cryogenic Sleepers.
 
 A basic telescience setup alongside a randomized disk will be present on every station, the disk containing the id of a new Oldstation Dungeon prototype. Once the disk is loaded into the console, a portal will appear, and the crew will enter it to the dungeon. Every dungeon will contain a Oldstation Disk spawner, and depending on the ordering, the disk will either contain the next disk in the order, or a special final disk which will then send the entire grid to the main map, far away from the main station.
 
