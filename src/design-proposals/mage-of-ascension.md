@@ -10,6 +10,8 @@ This proposal adds a new Mage of Ascension antagonist built around a Ley Line sy
 
 This is meant as a subgamemode, similar to Thieves or Heretic with a chance of being in the round (ex: 20% chance). Intended for all game modes. There will be 1-3 Mages depending on server population, who are not allied and will have to compete with eachother over confluences. Since there's a delay between confluences, this will lead to natural antag-vs-antag gameplay, with the station as collateral.
 
+I want to call out that the intent of all of the Mage spells is to put them roughly in line with current Heretic spells, or CrystalEdge spells. Where a spell is "roughly" as deadly as a pistol, and instant-death or complete-incapacitation abilities are reserved solely for Ascension.
+
 **Player goals:** The Mage's goal is to ascend to ultimate power. Once ascended, their goal is to show the station their power.
 
 ## Background
@@ -94,7 +96,7 @@ Six schools: Necromancy, Elementalism, Honkamancy, Hemomancy, Dimensionalism, Ch
 
 - Security will be encouraged to arrest them, as they'll be breaking into places to access leylines (usually), and have an illegal book that they'll have to have in their hand to use on leylines
 - Balance will be around a 5-10 minute prison sentence if caught.
-- HoS will have a Lodestone Amulet in their locker. This is also able to be made at the sec lathe. It fits in the neck slot, and sets the Mage's mana to zero while equipped. It can only be removed by unlocking it with a Brig access ID. This encourages them to find (or make) an incapacitated security officer later to unlock it. Leading to natural escalation throughout the round.
+- HoS will have lead gauntlets in their locker. This is also able to be made at the sec lathe. It fits in the hands slot, and sets the Mage's mana to zero while equipped. It can only be removed by unlocking it with a Brig access ID. This encourages them to find (or make) an incapacitated security officer later to unlock it. Leading to natural escalation throughout the round.
 
 **Balance:** Early mana limits sustained combat; late-game mana supports more sustained casting. Maintained spells need clear cost and duration.
 
