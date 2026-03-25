@@ -1,14 +1,12 @@
 # [FORKY] Atmospheric Consolidation
 
-Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
-
 | Designers | Implemented | GitHub Links |
 |---|---|---|
 | pirakaplant, yaraaray | :x: No | TBD |
 
 ## Overview
 
-This document outlines the implementation and justification for removing the Atmospheric Technician job from [the Forky codebase](funky-station/forky-station), as well as several auxiliary changes intended to complement this removal.
+This document outlines the implementation and justification for removing the Atmospheric Technician job from [the Forky codebase](https://github.com/funky-station/forky-station), as well as several auxiliary changes intended to complement this removal.
 
 ## Background
 
