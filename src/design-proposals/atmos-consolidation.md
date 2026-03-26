@@ -46,6 +46,12 @@ Atmospherics access will be removed and replaced with Infrastructure access. Inf
 
 Any job (that currently exists) that has access to Engineering will have access to Infrastructure.
 
+### Mapping Conventions
+
+Ideally, maps would also be amended to account for these changes. In addition to unmapping deprecated items and features:
+- Atmospherics as a subdepartment should be de-emphasised visually. "Atmospheric cyan" trimming, as well as separate front desks, locker areas, etc. should be remapped as appropriate.
+- The atmospherics bay should be extended where appropriate to account for a larger amount of engineers working there.
+
 ## Game Design Rationale
 
 Unlike most other features that necessitate a design document, we have an existing environment where the bulk of these proposed changes have already been enacted. This allows us to analyse the merits of removing Atmospheric Technician objectively.
