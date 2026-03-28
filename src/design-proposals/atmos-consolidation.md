@@ -49,7 +49,7 @@ Any job (that currently exists) that has access to Engineering will have access 
 ### Mapping Conventions
 
 Ideally, maps would also be amended to account for these changes. In addition to unmapping deprecated items and features:
-- Atmospherics as a subdepartment should be de-emphasised visually. "Atmospheric cyan" trimming, as well as separate front desks, locker areas, etc. should be remapped as appropriate.
+- Atmospherics as a subdepartment should be de-emphasised visually. "Atmospheric cyan" trimming, as well as separate front desks, locker areas, etc. should be reduced and/or remapped as appropriate.
 - The atmospherics bay should be extended where appropriate to account for a larger amount of engineers working there.
 
 ## Game Design Rationale
