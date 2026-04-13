@@ -46,7 +46,7 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 - ENDGAME- **Goes full bee in terms of apperance**. CQC attacks & Punches deal moderate Radiation, Burn, and Physical damage. Gains a stinger that can begin a viral infection that converts a crew member after a minute if they aren't shoved in the oubliette. Passively heats up the atmosphere around them, and emits radiation. Can perform rituals to convert crew, including mind shielded crew at higher speeds on any hive tile. Can construct hive based shuttle components. Gain resistance to slashing and pierce damage.
 
 **Infected Borg Abilities:**
-- Early-mid- Reimplements a little bit of flat damage resistance, and includes a light amount of regeneration. Immunity to radiation, and Flames. **L.E.D has a yellow glow.**
+- Early-mid- Reimplements a little bit of flat damage resistance, and includes a light amount of regeneration. Immunity to radiation, and Flames. 0th law to protect all station cores at all costs, I.e AI core, Chrystaline Matter, Supermatter, tesla, Singulo, etc. **L.E.D has a yellow glow.**
 - Mid-Late- Can tank damage from nearby infected crew. Can ignore Do-after Interruptions. **Start buzzing when talking.**
 - Endgame- Provide an active shield to nearby infected crew when living, thus needing to be taken down first. **Morphs into a mechanical bee automaton**
 
