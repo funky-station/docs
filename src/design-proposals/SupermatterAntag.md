@@ -41,14 +41,14 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 - ENDGAME- **Is a big ole Bee Queen instead of a rock**. Can use both a player, and eye in the sky pov,  albeit the latter makes it form a protective shield but stand still. Can speak in standard chat, rather then only various comms. Causes heavy Radiation, and Burn damage with basic attacks. Can grab crew and break them over the knee to make them dead crew. Converts dead crew into more infected with a numpad action. Can revive dead infected with a fairly long do-after. Emits a high amount of radiation, and heat into the atmosphere. Can Overcharge any power cell to 8 times capacity. Can fly in space, Immune to pressure. Has two handslots, and a natural inventory.
 
 **CM Infected Abilities:**
-- Early-Mid- Inbuilt tool set, includes effectively everything in an engineer's tool belt. Gets strengthened and healed by hot gases. Gets weaker in the cold. Can make Hive Resin Tiles, windows, doors, and walls by generating the resin passively at a rate roughly matching the experimental RCD in terms the ratio to material:what's constructed. Immunity to Burn, Shock, & Radiation damage. Vulnerable to cold damage. **Has glowing yellow eyes, and antennae.** CQC attacks & Punches deal light Radiation, Burn, and Physical damage. Note: due to interactions with changelings, changelings will get ashed by this antag if converted, and are encourages to pull whatever stops to run away it can.
+- Early-Mid- Inbuilt tool set, includes effectively everything in an engineer's tool belt. Gets strengthened and healed by hot gases. Gets weaker in the cold. Can make Hive Resin Tiles, windows, doors, and walls by generating the resin passively at a rate roughly matching the experimental RCD in terms the ratio to material:what's constructed. Immunity to Burn, Shock, & Radiation damage. Vulnerable to cold damage. **Has glowing yellow eyes, and antennae, buzz when talking.** CQC attacks & Punches deal light Radiation, Burn, and Physical damage. Note: due to interactions with changelings, changelings will get ashed by this antag if converted, and are encourages to pull whatever stops to run away it can.
 - Mid-Late- Can build hive resin traps(Pits, Permanent Holofans, Hotpipes, Radzones, Blowdarts), circuits, wires, and atmos pipes. Gains pressure immunity. Can perform a leap, which can be an attack if harm is the mode selected. **Gains bee like wings, an abdomen, and the fuzz one would associated with a bee as physical signatures**. Can perform rituals to create a workstation that can make hive based hardsuits, voidsuits, jetpacks, and lances that can be used in harm dashes, These lances can be charged to deal Radiation, Burn, and Physical damage. Can perform conversion rituals on their own on any hive tile. 
 - ENDGAME- **Goes full bee in terms of apperance**. CQC attacks & Punches deal moderate Radiation, Burn, and Physical damage. Gains a stinger that can begin a viral infection that converts a crew member after a minute if they aren't shoved in the oubliette. Passively heats up the atmosphere around them, and emits radiation. Can perform rituals to convert crew, including mind shielded crew at higher speeds on any hive tile. Can construct hive based shuttle components. Gain resistance to slashing and pierce damage.
 
 **Infected Borg Abilities:**
-- Early-mid-W.I.P
-- Mid-Late-W.I.P
-- Endgame-W.I.P
+- Early-mid- Reimplements a little bit of flat damage resistance, and includes a light amount of regeneration. Immunity to radiation, and Flames. **L.E.D has a yellow glow.**
+- Mid-Late- Can tank damage from nearby infected crew. Can ignore Do-after Interruptions. **Start buzzing when talking.**
+- Endgame- Provide an active shield to nearby infected crew when living, thus needing to be taken down first. **Morphs into a mechanical bee automaton**
 
 **Engineering Centric Abilities:**
 - Early-Mid- Able to RCD unlimitedly, can generate lots of power. Able to make traps + atmos from the start.
@@ -56,7 +56,7 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 - ENDGAME- Gains a knightly dash with a lance it can make, gains the resistances that the metallic hydrogen armor gives.
 
 **R&D Centric Abilities:**
-- Early-Mid- Generates points at a fair rate, increases general speed, health, resistance, and damage of infected borgs by a fair margin. Can change batteries to make them run more efficiently.
+- Early-Mid- Generates points at a fair rate, increases general speed, health, resistance, and damage of infected borgs by a fair margin. Borgs can reflect shots struck at them early. Can change batteries to make them run more efficiently.
 - Mid-Late- Generates even more points, as well as acting as a protolathe that can create any item that science has researched, accessible or not through the regular protolathe.
 - ENDGAME- It and crew can cause detonations at themselves at will. Gain immunity to explosive damage. Can cause EMPs, localized teleportation of non infected crew, heat spikes, chemical anomalies, you name it, and cause the criticality effects to occur at will.
 
