@@ -45,6 +45,11 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 - Mid-Late- Can build hive resin traps(Pits, Permanent Holofans, Hotpipes, Radzones, Blowdarts), circuits, wires, and atmos pipes. Gains pressure immunity. Can perform a leap, which can be an attack if harm is the mode selected. **Gains bee like wings, an abdomen, and the fuzz one would associated with a bee as physical signatures**. Can perform rituals to create a workstation that can make hive based hardsuits, voidsuits, jetpacks, and lances that can be used in harm dashes, These lances can be charged to deal Radiation, Burn, and Physical damage. Can perform conversion rituals on their own on any hive tile. 
 - ENDGAME- **Goes full bee in terms of apperance**. CQC attacks & Punches deal moderate Radiation, Burn, and Physical damage. Gains a stinger that can begin a viral infection that converts a crew member after a minute if they aren't shoved in the oubliette. Passively heats up the atmosphere around them, and emits radiation. Can perform rituals to convert crew, including mind shielded crew at higher speeds on any hive tile. Can construct hive based shuttle components. Gain resistance to slashing and pierce damage.
 
+**Infected Borg Abilities:**
+- Early-mid-W.I.P
+- Mid-Late-W.I.P
+- Endgame-W.I.P
+
 **Engineering Centric Abilities:**
 - Early-Mid- Able to RCD unlimitedly, can generate lots of power. Able to make traps + atmos from the start.
 - Mid-Late- Facilitates easier creation of metallic hydrogen. Can enhance metallic hydrogen gear to immense knightly levels.
@@ -86,11 +91,11 @@ CTM - A handful of crew will be lightly influenced by the Chrystaline Matter, th
 
 - Does this feature introduce any new rule enforcement challenges or additional workload for admins? It involves CTM and metashield weirdness, so yes, it would require some admin oversight to make sure people don’t rush the supermatter whilst it’s behaving.
 - Could this feature increase the likelihood of griefing, rule-breaking, or player disputes? It provides the form  of griefing of just sprinting at the hive, or people griefing the hive by acting out of it's deals. Or as I have been informed, the HoS going out of their way to destroy it ahead of time if the CTM informed them of all of the potential negative effects, even if actively intended to be punished by the magistrate for doing so. 
-- How are the rules enforced mechanically by way the feature will be implemented? This is semi-reinforced mechanically by rushing a supermatter adjacent object on your own that’s defended being a bad idea, no matter how early in the round it is... Unless you happen to be the HoS, it is treated as a neutral entity but is defended by at least 3 crew members. 
+- How are the rules enforced mechanically by way the feature will be implemented? This is semi-reinforced mechanically by rushing a supermatter adjacent object on your own that’s defended being a bad idea, no matter how early in the round it is... Unless you happen to be the HoS, it is treated as a neutral entity but is defended by at least 3 crew members. And griefing whilst on the Chrystaline matter's team gets ya ashed by it.
 
 ## Lore Considerations
 
-So turns out the Supermatter seems like it's just stellar phenomena. A dead eldritch being like Ratvar is likely a source1, so could likely explain this as a creature type that formed ON supermatter that formed around, or under the influence of this dead god. This section is highly susceptible to change however.
+So turns out the Supermatter seems like it's just stellar phenomena. A dead eldritch being like Ratvar is likely a source of chaos, so could likely explain this as a creature type that formed ON supermatter that formed around, or under the influence of this dead god. This section is highly susceptible to change however. Additionally 99.9% of the time in lore, this is totally stable, hence why the negative effects aren't mentioned, it's just  that ss13/14 rounds are always hellshifts.
 
 # Technical Considerations
 
