@@ -52,7 +52,7 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 
 **Engineering Centric Abilities:**
 - Early-Mid- Able to RCD unlimitedly, can generate lots of power. Able to make traps + atmos from the start.
-- Mid-Late- Facilitates easier creation of metallic hydrogen. Can enhance metallic hydrogen gear to immense knightly levels.
+- Mid-Late- Facilitates easier creation of metallic hydrogen. Can enhance metallic hydrogen gear to strong knightly levels.
 - ENDGAME- Gains a knightly dash with a lance it can make, gains the resistances that the metallic hydrogen armor gives.
 
 **R&D Centric Abilities:**
@@ -80,7 +80,7 @@ SCRAPPED: Reasoning is that for this antag to not get rushed down, the HoS needs
   In addition to that. The chrystaline matter is also susceptible to lawyers, the magistrate, and IAA, as it has to work with deals at the start, depending on how airtight those deals are, it reduces how strong it's able to get before it's forced to go loud. Not to mention security can assigned infected crew to be suspects. In addition, before the physical changes start, science can make an oubliette to cure the influence. However once they start having major physical changes, surgery, is the only lasting cure.
 
 ## Chrystaline Meta-shield
-CTM - A handful of crew will be lightly influenced by the Chrystaline Matter, this is intentional as it becomes even more stable when deals are struck with these people, and provide more specialized benefits to the crew. People under a light influence behave more efficiently as crew. Treat these crew, and the chrystaline matter, as neutral entities for the purposes of negotiation. In addition, the Chrystaline Matter provides these benefits: -List of beneficial effects of the Chrystaline Matter-
+Public knowledge - A handful of crew will be lightly influenced by the Chrystaline Matter, this is intentional as it becomes even more stable when deals are struck with these people, and provide more specialized benefits to the crew. People under a light influence behave more efficiently as crew. Treat these crew, and the chrystaline matter, as neutral entities for the purposes of negotiation. In addition, the Chrystaline Matter provides these benefits: -List of beneficial effects of the Chrystaline Matter-
 - Alert one - Light Topaz Alert - 12 crew or 15% tile conversion - Increase in local radiation levels detected and increased status of mental distress, Please check on the Supermatter, and Chrystaline Matter, and apply cooling if neccesary.
 - Alert two - Topaz Alert - 18 crew or 15-20% tile conversion as tiles would start being trapped guarenteed crew would start showing signs of being infected, and this is when more air tight deals are meant to fall through.- Large spike in local radiation levels, and composition scans report a shift in station composition, please investigate in order to shield the affected areas and prepare radiation and fire suits for general use, in addition: If deals are being violated, please rectify it as per the level of vandalism caused.
 - Alert three - Deep Topaz Alert - 24 crew, 30-40% tile conversion(either being met causes hatching) - Chrystaline HyperStructure is indicated to be failing, please cool it down immediately-
