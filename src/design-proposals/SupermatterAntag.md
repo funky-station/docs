@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| SIU + Snippet from Joaco545 + snippet from Dicerson + Snippet from Neadsy |  :x: No | TBD |
+| SIU + Snippet from Joaco545 + snippet from Dicerson + Snippet from Neadsy + Scrambleking |  :x: No | TBD |
 
 ## Overview
 
@@ -33,6 +33,10 @@ Eventually depending on it's position, potentially corrupting the silicons into 
 NOTE: HATCHING =/= ROUND END, HATCHING = ALL HANDS ON DECK SCENARIO I.E NUKE BEING ARMED.
 Effectively it's an antagonist NT wants that turns a chosen department into antags by association, as well as generally rules lawyering deals.
 
+## Possible AI replacement?
+
+  As an alternate form of the antag that Scramble has brought up, this could be an AI replacement. It would be far more engaged in the round by providing various services and boons other then just open, closing, bolting, and shocking doors, as well as having an additional pull and tug against the various departments, whilst giving engineering additional things to do to optimize and set up after their initial round start. Focusing on itself, ensuring it has the right gases to survive, and providing the resources to everyone. Instead of hovering over everyone, and thus pin pointing where antags are, and thus validhunting. It would also be at a mild tension with NT, needing it to survive, and persist. Needing to play nice lest it get thrown out, and if it plays nice. It can get more gases, get stronger, and maybe start being able to work towards hatching, and thus adding a good bit of push and pull to the whole role in general. Not to mention the infection based method of execution encourages a little bit of slight command based corruption, when someone is being too much of an issue. Effectively giving the role it's own unique jobs and dependencies, and giving it more interactions with engineering and sci.
+
 ## Chrystaline Matter Power Growth.
 
 - In order to allow CTM to go through, This can appear roundstart in place of AI, maybe??, either that or being shipped to the station, but only able to access the EEPY/passive abilities + the early/mid departmental abilities.
@@ -56,16 +60,19 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 - Endgame- Provide an active shield to nearby infected crew when living, thus needing to be taken down first. **Morphs into a mechanical bee automaton**
 
 **Engineering Centric Abilities:**
+- EEPY/Passive - Generates a little power.
 - Early-Mid- Can generate lots of power. Able to make atmos from the start. Able to produce various gases.
 - Mid-Late- Facilitates easier creation of metallic hydrogen. Can enhance metallic hydrogen gear to strong knightly levels.
 - ENDGAME- Gains a knightly dash with a lance it can make, gains the resistances that the metallic hydrogen armor gives.
 
 **R&D Centric Abilities:**
+- EEPY/Passive - Generates some points, and charges batteries faster.
 - Early-Mid- Generates points at a fair rate, increases general speed, health, resistance, and damage of infected borgs by a fair margin. Can change batteries to make them run twice as efficiently.
 - Mid-Late- Generates even more points, as well as acting as a protolathe that can create any item that science has researched, accessible or not through the regular protolathe.
 - ENDGAME- It and crew can cause detonations at themselves at will. Gain immunity to explosive damage. Can cause EMPs, localized teleportation of non infected crew, heat spikes, chemical anomalies, you name it, and cause the criticality effects to occur at will.
 
 **Medical Centric Abilities:**
+- EEPY/Passive - Heals crew slowly
 - Early-Mid- Generates lowgrade medical chemicals. Gains the ability to heavily heal the crew alongside infected.
 - Mid-Late- Generates mid-high grade medical chemicals. Gains the ability to revive crew alongside the infected. Additionally, revived and healed crew are resistant to radiation, and gain a virus that converts them over the course of a few minutes. Infected can heavily heal others.
 - ENDGAME- Very viral, spreads like zombies, infection takes course over a minute. infected crew has immunity to poison damage
