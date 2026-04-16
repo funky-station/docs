@@ -35,28 +35,32 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 
 ## Chrystaline Matter Power Growth.
 
+- In order to allow CTM to go through, This can appear roundstart being shipped to the station as if it was an antag, but only able to access the EEPY/passive abilities + the early/mid departmental abilities.
 **Core CM Abilities:**
+- EEPY/passive - Able to convert machines for personal use, VERY limited range of spread, can overcharge power cells to 2 times capacity. Immunity to Burn, Poison, Shock, and Radiation. Resistance to piercing and slashing. Able to insta-ash infected griefers. Able to infect but **ONLY** with the help of an engineering tool, and thus used as an alternate execution method. can infect borgs, but a limited number.
 - Early-Mid- Infecting wires. Able to anchor and unanchor itself. Eye in the Sky Gameplay. infecting floor tiles. Subverting machines in order to make use of them for it's own needs, using them in the same way the AI can use those machines, such as camera routers & Comms Servers. buffing machines it infects to be faster and more resource efficient. Antag Chat. **CAN ONLY SPEAK IN COMMS** can convert crew & Borgs 3 starting infected. Gets strengthened and healed by hot gases. Gets weaker in the cold. Can signal and coordinate on a navmap the infected have access to. Can also signal tiles for infected. Has a research tree like structure that can be used to get various departmental abilities, alongside the abilities it passively gains. Can Overcharge any power cell to 2 times capacity. Immunity to Burn, Poison, Shock, and Radiation. Resistance to piercing and slashing. Able to insta-ash infected griefers.
 - Mid-Late- Constructing Subnodes to perform functions for other departments then the chosen one, Infecting walls. Converting mindshielded crew. Causing wire burns along wires it infects if chosen. generating flammable gases. heals infected crew. Increases the ambient temperature if allowed. able to teleport to any other infected tiles. HATCHING(instantly transitions to endgame). Can Overcharge any power cell to 4 times capacity. **Space Turns a yellowish green**
 - ENDGAME- **Is a big ole Bee Queen instead of a rock**. Can use both a player, and eye in the sky pov,  albeit the latter makes it form a protective shield but stand still. Can speak in standard chat, rather then only various comms. Causes heavy Radiation, and Burn damage with basic attacks. Can grab crew and break them over the knee to make them dead crew. Converts dead crew into more infected with a numpad action. Can revive dead infected with a fairly long do-after. Emits a high amount of radiation, and heat into the atmosphere. Can Overcharge any power cell to 8 times capacity. Can fly in space, Immune to pressure. Has two handslots, and a natural inventory. **Space turns GOLD**
 
 **CM Infected Abilities:**
+- EEPY/Passive - Inbuilt toolset, gets weaker in the cold, vulnerable to cold, has to obey Hive orders.
 - Early-Mid- Inbuilt tool set, includes effectively everything in an engineer's tool belt. Gets strengthened and healed by hot gases. Gets weaker in the cold. Can make Hive Resin Tiles, windows, doors, and walls by generating the resin passively at a rate roughly matching the experimental RCD in terms the ratio to material:what's constructed. Immunity to Burn, Shock, & Radiation damage. Vulnerable to cold damage. **Has glowing yellow eyes, and antennae, buzz when talking.** CQC attacks & Punches deal light Radiation, Burn, and Physical damage. Note: due to interactions with changelings, changelings will get ashed by this antag if converted, and are encourages to pull whatever stops to run away it can.
 - Mid-Late- Can build hive resin traps(Pits, Permanent Holofans, Hotpipes, Radzones, Blowdarts), circuits, wires, and atmos pipes. Gains pressure immunity. Can perform a leap, which can be an attack if harm is the mode selected. **Gains bee like wings, an abdomen, and the fuzz one would associated with a bee as physical signatures**. Can perform rituals to create a workstation that can make hive based hardsuits, voidsuits, jetpacks, and lances that can be used in harm dashes, These lances can be charged to deal Radiation, Burn, and Physical damage. Can perform conversion rituals on their own on any hive tile. 
 - ENDGAME- **Goes full bee in terms of apperance**. CQC attacks & Punches deal moderate Radiation, Burn, and Physical damage. Gains a stinger that can begin a viral infection that converts a crew member after a minute if they aren't shoved in the oubliette. Passively heats up the atmosphere around them, and emits radiation. Can perform rituals to convert crew, including mind shielded crew at higher speeds on any hive tile. Can construct hive based shuttle components. Gain resistance to slashing and pierce damage.
 
 **Infected Borg Abilities:**
+- EEPY/Passive - 0th law to protect all station cores at all cost, and **L.E.D has  a yellow glow.**
 - Early-mid- Reimplements a little bit of flat damage resistance, and includes a light amount of regeneration. Immunity to radiation, and Flames. 0th law to protect all station cores at all costs, I.e AI core, Chrystaline Matter, Supermatter, tesla, Singulo, etc. **L.E.D has a yellow glow.**
 - Mid-Late- Can tank damage from nearby infected crew. Can ignore Do-after Interruptions. **Start buzzing when talking.**
 - Endgame- Provide an active shield to nearby infected crew when living, thus needing to be taken down first. **Morphs into a mechanical bee automaton**
 
 **Engineering Centric Abilities:**
-- Early-Mid- Able to RCD unlimitedly, can generate lots of power. Able to make traps + atmos from the start.
+- Early-Mid- Able to RCD unlimitedly, can generate lots of power. Able to make atmos from the start.
 - Mid-Late- Facilitates easier creation of metallic hydrogen. Can enhance metallic hydrogen gear to strong knightly levels.
 - ENDGAME- Gains a knightly dash with a lance it can make, gains the resistances that the metallic hydrogen armor gives.
 
 **R&D Centric Abilities:**
-- Early-Mid- Generates points at a fair rate, increases general speed, health, resistance, and damage of infected borgs by a fair margin. Borgs can reflect shots struck at them early. Can change batteries to make them run more efficiently.
+- Early-Mid- Generates points at a fair rate, increases general speed, health, resistance, and damage of infected borgs by a fair margin. Borgs can reflect shots struck at them early. Can change batteries to make them run twice as efficiently.
 - Mid-Late- Generates even more points, as well as acting as a protolathe that can create any item that science has researched, accessible or not through the regular protolathe.
 - ENDGAME- It and crew can cause detonations at themselves at will. Gain immunity to explosive damage. Can cause EMPs, localized teleportation of non infected crew, heat spikes, chemical anomalies, you name it, and cause the criticality effects to occur at will.
 
@@ -66,27 +70,26 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 - ENDGAME- Very viral, spreads like zombies, infection takes course over a minute. infected crew has immunity to poison damage
 
 **Cargo Centric Abilities:**
-- Early-Mid- Generates basic materials.
+- Early-Mid- Generates basic materials and spesos.
 - Mid-Late- Generates advanced materials. Can enhance Proto-Kinetic equipment, as well as further enchance hardsuits. In addition, Pressure immunity is gained by infected crew. Can create more deadly guns
 - ENDGAME- Gains the ability to perform a radioactive fireball attack. Can damage large portions of non Hive infrastructure. Can create powerful high strength armaments it or it's crew can use. It and it's crew gain resistance to blunt damage.
-
-**Security Centric Abilities:**
-SCRAPPED: Reasoning is that for this antag to not get rushed down, the HoS needs to not be aware of the severity of which it can escalate to, But due to this very nature, it being able to turn sec into an Antag effectively highly damages the crew's chances of fighting back once deals are broken and it's declared hostile.
 
 ## Chrystaline Matter Counters
 
   Cold atmospheres can weaken the Chrystaline Matter and Infected crew, it doesn't result in death, but it does apply some breathing room if needed. Hot atmospheres consequently strengthen them. Atmos & Cosmic Cult as such can do some decent damage to their capabilities. The bread and butter of the chrystaline matter is radiation and heat damage, meaning engineering is equipped to counter it as long as they can bypass the heat, and actively destroying the Chrystaline Matter crystal can work.
 
+  In order to give the chrystaline matter a healthbar/ and damage it. It needs to be below -5 degrees Celsius. Otherwise attacks would just rebound off!
+
   In addition to that. The chrystaline matter is also susceptible to lawyers, the magistrate, and IAA, as it has to work with deals at the start, depending on how airtight those deals are, it reduces how strong it's able to get before it's forced to go loud. Not to mention security can assigned infected crew to be suspects. In addition, before the physical changes start, science can make an oubliette to cure the influence. However once they start having major physical changes, surgery, is the only lasting cure.
 
 ## Chrystaline Meta-shield
-Public knowledge - A handful of crew will be lightly influenced by the Chrystaline Matter, this is intentional as it becomes even more stable when deals are struck with these people, and provide more specialized benefits to the crew. People under a light influence behave more efficiently as crew. Treat these crew, and the chrystaline matter, as neutral entities for the purposes of negotiation. In addition, the Chrystaline Matter provides these benefits: -List of beneficial effects of the Chrystaline Matter-
+- Public knowledge - A handful of crew will be lightly influenced by the Chrystaline Matter, this is intentional as it becomes even more stable when deals are struck with these people, and provide more specialized benefits to the crew. People under a light influence behave more efficiently as crew. Treat these crew, and the chrystaline matter, as neutral entities for the purposes of negotiation. In addition, the Chrystaline Matter provides these benefits: -List of beneficial effects of the Chrystaline Matter-
+- CTM - A list of the side effects, with a big warning to only start trying to cool and damage the CM, **IF** it's overstepping it's bounds and limitations due to ratvars influence somehow getting intense enough to wake up the insect inside.
 - Alert one - Light Topaz Alert - 12 crew or 15% tile conversion - Increase in local radiation levels detected and increased status of mental distress, Please check on supermatter related entities and apply cooling if neccesary.
 - Alert two - Topaz Alert - 18 crew or 15-20% tile conversion as tiles would start being trapped guarenteed crew would start showing signs of being infected, and this is when more air tight deals are meant to fall through.- Large spike in local radiation levels, and composition scans report a shift in station composition, please investigate in order to shield the affected areas and prepare radiation and fire suits for general use, in addition: If deals are being violated, please rectify it as per the level of vandalism caused.
 - Alert three - Deep Topaz Alert - 24 crew, 30-40% tile conversion(either being met causes hatching) - Chrystaline HyperStructure is indicated to be failing, please cool it down immediately-
 - Alert four - Deep Topaz Alert - HATCHING - Chrystaline HyperStructure failed. Contain the Chrystaline Delamination with whatever means are available, cooling is highly effective, HEV, and Radiation, suits are reccomended.
 - Alert five - Final Topaz Alert - 95% tile conversion/Total Living Crew Conversion - Total station Delamination detected. Consider all crew lost. 
-- Note: I initially intended for the Chrystaline Matter to have the majority of it's information exposed by the CTM at round start. However, I have been informed that any HoS worth their salt would just shoot down the chrystaline matter despite it being the round's main push force, and deal with the consequences from CentComm for destroying something meant to explicitly improve station productivity.
 ## Administrative & Server Rule Impact 
 
 - Does this feature introduce any new rule enforcement challenges or additional workload for admins? It involves CTM and metashield weirdness, so yes, it would require some admin oversight to make sure people don’t rush the supermatter whilst it’s behaving.
