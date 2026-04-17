@@ -72,8 +72,8 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 - ENDGAME- It and crew can cause detonations at themselves at will. Gain immunity to explosive damage. Can cause EMPs, localized teleportation of non infected crew, heat spikes, chemical anomalies, you name it, and cause the criticality effects to occur at will.
 
 **Medical Centric Abilities:**
-- EEPY/Passive - Heals crew slowly
-- Early-Mid- Generates lowgrade medical chemicals. Gains the ability to heavily heal the crew alongside infected.
+- EEPY/Passive - Heals crew slowly up to crit.
+- Early-Mid- Generates lowgrade medical chemicals. Gains the ability to heal rads up to crit.
 - Mid-Late- Generates mid-high grade medical chemicals. Gains the ability to revive crew alongside the infected. Additionally, revived and healed crew are resistant to radiation, and gain a virus that converts them over the course of a few minutes. Infected can heavily heal others.
 - ENDGAME- Very viral, spreads like zombies, infection takes course over a minute. infected crew has immunity to poison damage
 
