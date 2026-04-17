@@ -78,7 +78,7 @@ Effectively it's an antagonist NT wants that turns a chosen department into anta
 - ENDGAME- Very viral, spreads like zombies, infection takes course over a minute. infected crew has immunity to poison damage
 
 **Cargo Centric Abilities:**
-- Early-Mid- Generates basic materials and spesos.
+- Early-Mid- Generates basic materials and something that could be sold.
 - Mid-Late- Generates advanced materials. Can enhance Proto-Kinetic equipment, as well as further enchance hardsuits. In addition, Pressure immunity is gained by infected crew. Can create more deadly guns
 - ENDGAME- Gains the ability to perform a radioactive fireball attack. Can damage large portions of non Hive infrastructure. Can create powerful high strength armaments it or it's crew can use. It and it's crew gain resistance to blunt damage.
 
