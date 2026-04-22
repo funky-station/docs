@@ -52,8 +52,7 @@ As previously stated, Command players do not have the tools, nor incentive to Co
 
 ## Roundflow & Player interaction
 
-Consider addressing:
-- It comes into play pretty much instantly for command members. These tools are designed to be used throughout the round. Command members won't have fancy toys to do job+ activities anymore, all they are left with is their management tools. Players should be using these tools to actually be command. Its important to mechanically hammer home to players what a command personnel's job is, which i believe these items will do. They are centered around communication, which enforces the idea that your job is to communicate to your staff. The features are designed in a way that it's pretty hard to interact with them in an incorrect manner. Any incorrect use would mostly just surmount to IC incompetence, which is another good vector for conflict.
+It comes into play pretty much instantly for command members. These tools are designed to be used throughout the round. Command members won't have fancy toys to do job+ activities anymore, all they are left with is their management tools. Players should be using these tools to actually be command. Its important to mechanically hammer home to players what a command personnel's job is, which i believe these items will do. They are centered around communication, which enforces the idea that your job is to communicate to your staff. The features are designed in a way that it's pretty hard to interact with them in an incorrect manner. Any incorrect use would mostly just surmount to IC incompetence, which is another good vector for conflict.
 
 ## Administrative & Server Rule Impact (if applicable)
 
