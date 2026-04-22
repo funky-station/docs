@@ -31,19 +31,19 @@ Command members often find themselves being Job+. A large part of this is that C
 ## Features to be added
 
 All Command members: RMC-style megaphone. This item would be mapped into Command lockers. It simply makes Command members text bigger when held, allowing staff to more clearly see what command members are saying.
-
+------------------------------------------------------------------------------------------------------------------------------------------
 CMO: "Medical overseer tablet." This item is contingent on others existing, but it would replace the hypospray. This would allow for three things. It would be a handheld crewmon (which the cmo already has access to). It would also link to the Chemical Dispenser, an item where chems are stored, which can be set to dispense chemicals, replacing jug meta. It functions by opening a UI, selecting a chem from the list of deposited chems, then clicking a container on the dispenser to dispense the chemical (to allow for borg use). The CMO's new device can remotely see how much chems are in stock. You can link the device to the chemical dispenser with a multitool or network configurator. Additionally the CMO gets the "Holoband projector". This allows you to triage patients. Medhuds (for crew) instead of seeing healthbar status, would see patient priority assigned by the CMO. High priority, low priority, cryo, surgery, morgue, infected. You would set via radial wheel, click on a person with a small do-after to assign the status. The holoband projector would also include the option to remove their status once treated on the radial wheel.
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Science:  Research tablet: The Research Director can flag research to be researched as it becomes available, this notifies scientist that the RD wishes this particular research to be unlocked. Research tablet can remotely access things to be researched. Scientists can choose other researches regardless of what is marked, but the mark always shows while it is available. Reduce RD hardsuit explosion resist to 25%
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Engineering: A handheld Atmos monitoring console alongside their power handheld monitoring console. Kill advanced magboots. Kill CE roundstart advanced tools. Chief engineer designation tablet. Functions similarly to a Wanted PC, instead using station beacons as selectable options. It says a message on the comms such as "CE has designated (X beacon) area for repairs. Engineers are to report to the area." 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Cargo: mostly fine. Resource monitoring console, linked to silos (already approved PR upon inspection), however this could be included as a second tab on the digiboard.
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Security: wt55 would be removed. Head of Security mask (replaces swat mask), toggleable megaphone, which makes the HoS's text bigger than other peoples allowing it to be identified easier, functions like the handheld ones mentioned above. It also has a unique whistle sound effect to help rally secoffs. The HoS is given a security overseer tablet. This would have a device that allows you to announce things to sec on sec comms only with a loud notification sound, and have a portable wanted list console.
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Service: Service techfab to be added. It is only in the HoP's office, to allow more central coordination of service.
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Captain. Portable announcement console. Literally just an announcement console in tablet form.
 
 ## Game Design Rationale
