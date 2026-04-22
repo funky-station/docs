@@ -26,7 +26,7 @@ Adds/removes many Command items to incentivize leadership and disincentivize job
 
 ## Background
 
-Command members often find themselves being Job+. A large part of this is that Command items do not incentivize leadership in any way. The hypospray is Doctor+, as it is simply an improved syringe. The WT55 is Secoff plus, it is the highest DPS gun crew has access to. The RD suit is a science suit that lets you do artifacts without risks, etc. Additionally, command can find themselves lacking any items (<- replace; in-game reinforcement) to incentivize a management role. This doc outlines things to be added/removed to give to Command roles, and incentivize them to lead their department. While these changes could easily go into individual PR's, it is reformatting a lot about Command so i think a design doc is justified.
+Command members often find themselves being Job+. A large part of this is that Command items do not incentivize leadership in any way. The hypospray is Doctor+, as it is simply an improved syringe. The WT55 is Secoff plus, it is the highest DPS gun crew has access to. The RD suit is a science suit that lets you do artifacts without risks, etc. Additionally, command can find themselves lacking any items or tools to incentivize a management role. This doc outlines things to be added/removed to give to Command roles, and incentivize them to lead their department. While these changes could easily go into individual PR's, it is reformatting a lot about Command so i think a design doc is justified.
 
 ## Features to be added
 
