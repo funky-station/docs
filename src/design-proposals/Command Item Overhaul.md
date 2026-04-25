@@ -32,7 +32,7 @@ Command members often find themselves being Job+. A large part of this is that C
 
 - All Command members: RMC-style megaphone. This item would be mapped into Command lockers. It simply makes Command members text bigger when held, allowing staff to more clearly see what command members are saying.
 _________________________________________________________________________________________________________________________________________
-- CMO: "Medical overseer tablet." This item is contingent on others existing, but it would replace the hypospray. This would allow for two things. It would be a handheld crewmon (which the cmo already has access to). Additionally it functions as the "Holoband projector". This allows you to triage patients. Medhuds (for crew) instead of seeing healthbar status, would see patient priority assigned by the CMO. High priority, low priority, cryo, surgery, morgue, infected. You would set via radial wheel, click on a person with a small do-after to assign the status. The holoband projector would also include the option to remove their status once treated on the radial wheel. Remove the syringe gun. (nukie agent visor left unchanged)
+- CMO: "Medical overseer tablet." This item is contingent on others existing, but it would replace the hypospray. This would allow for two things. It would be a handheld crewmon (which the cmo already has access to). Additionally it functions as the "Holoband projector". This allows you to triage patients. Medhuds (for crew) instead of seeing healthbar status, would see patient priority assigned by the CMO. High priority, low priority, cryo, surgery, morgue, infected. It functions as a medical scanner with an increased scanning speed. On the patient, it allows for a dropdown menu on the scanned status to triage them (similar to wanted level dropdown). The holoband projector would also include the option to remove their status once treated on the medhud. Remove the syringe gun. (nukie agent visor left unchanged)
 _________________________________________________________________________________________________________________________________________
 - Science:  Research tablet: The Research Director can flag research to be researched as it becomes available, this notifies scientist that the RD wishes this particular research to be unlocked. Research tablet can remotely access things to be researched. Scientists can choose other researches regardless of what is marked, but the mark always shows while it is available. Reduce RD hardsuit explosion resist to 25%
 _________________________________________________________________________________________________________________________________________
@@ -63,9 +63,10 @@ It comes into play pretty much instantly for command members. These tools are de
 
 - Unlikely to be any performance impacts
 - Several UI's would need to be implemented. 
-- A radial wheel input to designate patient status for the holoband projector. 
+- A custom UI element for the dropdown menu on the medical scan for the holoband projector. 
 - A custom UI for sec only announcements from the security overseer tablet
 - A UI for CE's beacon repair tablet. This should look like a station map, with a list of beacons on the right, when a beacon is clicked on it is marked for repairs.
 - A UI containing a list of researches so the RD can designate priorities.
 - Reformatting some traitor steal objectives
 - Spriting for the new items
+- Triage icons for relevant medical conditions and a overhaul for the medhud functionality with said icons
