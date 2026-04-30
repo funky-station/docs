@@ -107,7 +107,7 @@ Visitor shuttles will need some way to broadcast their pressence.
 
 While not required, IDs and PDAs can be removed from non-NT/infiltration aligned visitors. This will also provide a noticable distinction between roles that are part of NT (such as a CMO in an escape pod), and visitation roles that are simply visiting.
 
-#Insurance
+# Insurance
 NOTE: Insurance is something that will not be directly added by this workgroup as it is outside of our intended scope, it is merely here as an example that could be added in the future.
 This would create a codified explanation of what each insurance level entails:
 What premiums you may have to pay each shift
