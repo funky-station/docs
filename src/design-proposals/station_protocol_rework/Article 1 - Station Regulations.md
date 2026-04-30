@@ -126,15 +126,15 @@ This is also being done to reduce confusion about alert levels being SOP, and po
 # Order of Succession and Martial Law
 The Order of Succession determins who will be next in line for the captain position. 
 EG: 
-Captain
-HoP
-RD
-QM
-CMO
-CE
-HD (Hospitality director, expended on in job changes)
-Acting command with the above order
-HoS
+1. Captain
+2. HoP
+3. RD
+4. QM
+5. CMO
+6. CE
+7. HD (Hospitality director, expended on in job changes)
+8. Acting command with the above order
+9. HoS
 
 This can be triggered via a vote of no confidance amongst command. This is started by the CCVIPs, or by the CMO deeming the captain as unfit for duty.
 
