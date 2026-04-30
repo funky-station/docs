@@ -18,7 +18,7 @@ Station regulations includes Alert Levels, the Corporate Espionage Act, Permits 
 None of this section is intended to be server level rules, and are mean to enrich the RP experiance for crew, along with providing guidance for characters in non-standard scenarios.
 
 
-#Corporte Espionage Act
+# Corporte Espionage Act
 This section is intended to be in direct relation to the metashield on an OOC level along with IC justifications for the Crew/Security metashields and NDAs.
 In character the majority of crew would understand this as related to NT's R&D into bluespace, genetics, artifacts, and anomolies, building off of the syndicate being a known orginisation that works against NT.
 Security's addendum would be focused on the possiblity of additional threats past the syndicate or the like.
@@ -27,7 +27,7 @@ Security's addendum would be focused on the possiblity of additional threats pas
 This section will be written under the explicit perview of, or by the hand of, the head admins.
 
 
-#Permits and Paperwork
+# Permits and Paperwork
 Permits and Paperwork cover what paperwork to use, when to use it, and what utensils to use with it.
 EG: 
 To hire person X use Hiring Form 4.23, along with adendum 2 for hiring non-NT members
@@ -54,7 +54,7 @@ This section will not require, but would greatly benefit from, the implimentatio
 This will make filling forms easier to understand for players without having to interprit rundown text.
 
 
-#Fines
+# Fines
 Fines are for when things are not fine. When you commit an SOP infraction or Corprate Law based infraction you may be ordered to pay a fine.
 This section explains the who, how, and why of fines. It does not explain how this is diffrent from a governmentaly approved bribe.
 Who can give them
@@ -83,7 +83,7 @@ A fine computer/printer is not required, but could greatly benefit the system.
 This would alow the security officer to print the fine recipt quickly, and the recipiant to pay it at the designated point.
 
 
-#Extracorporate Entities
+# Extracorporate Entities
 This section covers interactions with visitors to the station. Visitors are an under-used RP mechanic, and while this will by no means fix that, it will provide a direction to take the interactions with them.
 The sections contained within include:
 Shuttle rights
