@@ -8,20 +8,22 @@ Your title should convey the basic jist of your proposed changes. It should be s
 
 ## Overview
 
-This document will cover NanoTrasen Station Regulations. These generaly dont fit specificaly in other catagories such as SOP and Law and so are gathered here.
+This document establishes a comprehensive framework for in-character station regulations intended to enhance roleplay depth, structure player interactions, and provide clear guidance in non-standard scenarios. 
+Rather than functioning as enforceable server rules, these systems are designed to simulate the bureaucratic, procedural, and corporate realities of a Nanotrasen-operated facility.
 
+The regulations outlined here expand on existing mechanics by formalizing processes such as corporate security protocols, administrative paperwork, fines, visitor interactions, and command hierarchy. 
+Each section is supported by game design rationale, roundflow considerations, and (where applicable) technical implementation notes to ensure both usability and immersion.
+
+While not all features are required for immediate implementation, this document serves as both a design foundation and a roadmap for future development, prioritizing systems that improve clarity, consistency, and player engagement without overburdening gameplay.
 
 ## Background
 
-Station regulations includes Alert Levels, the Corporate Espionage Act, Permits and Paperwork, Fines, Extracorporate Entities, Insurance, and Order of Succession.
-
-None of this section is intended to be server level rules, and are mean to enrich the RP experiance for crew, along with providing guidance for characters in non-standard scenarios.
+Not everything that *was* SOP or law perfectly fits within the older sections of them, as such we are creating the "station regulations" to be a catch all for NT's rules that dont quite fit into our other primary catagories.
 
 
 # Corporte Espionage Act
 This section is intended to be in direct relation to the metashield on an OOC level along with IC justifications for the Crew/Security metashields and NDAs.
-In character the majority of crew would understand this as related to NT's R&D into bluespace, genetics, artifacts, and anomolies, building off of the syndicate being a known orginisation that works against NT.
-Security's addendum would be focused on the possiblity of additional threats past the syndicate or the like.
+In character the majority of crew would understand this as related to NT's R&D into bluespace, genetics, artifacts, and anomolies, building off of the syndicate being a known orginisation that conducts espionage.
 
 ## Administrative & Server Rule Impact
 This section will be written under the explicit perview of, or by the hand of, the head admins.
@@ -53,6 +55,16 @@ The "secure" version will additionaly contain documents such as command/security
 This section will not require, but would greatly benefit from, the implimentation of fillable form fields.
 This will make filling forms easier to understand for players without having to interprit rundown text.
 
+# Building/Construction code
+
+This section would define what is a "baseline" room via atmosphere, construction, types of walls/windows to use when, firelocks and air alarms, ect.
+
+## Game Design Rationale
+In game this would serve as an effective tutorial to building and room construction for newer engineers/players, and can be referenced in the permits system for construction.
+This creates a more authentic experiance to newer players and intergrates the guidebook further into the world as a "real" learning tool.
+
+## Roundflow & Player interaction
+This should have minimal impact on roundflow outside of obtaining permits and teaching/learning construction.
 
 # Fines
 Fines are for when things are not fine. When you commit an SOP infraction or Corprate Law based infraction you may be ordered to pay a fine.
