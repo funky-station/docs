@@ -37,7 +37,7 @@ The Head of Personnel is being renamed as the "Executive Officer." They are the 
 
 
 
-The Captain would now hold ultimate punitive authority and is the final step of all escalation on the station, including all legal matters. Nobody within or outside the Command structure outranks the Captain of the station. Captain is also the exclusive superior of the Security department, with the HoS, therefore the Security department, acting according to the Captain's will.
+The Captain would now hold ultimate punitive authority and is the final step of all escalation on the station, including all legal matters. Nobody within or outside the Command structure outranks the Captain of the station. Captain is also the exclusive superior of the Security department, with the HoS, therefore the Security department, acting according to the Captain's will. The only people who can overule the captain is central command
 
 
 
