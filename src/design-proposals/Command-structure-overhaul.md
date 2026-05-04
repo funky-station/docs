@@ -3,7 +3,7 @@
 
 |Designers|Implemented|GitHub Links|
 |-|-|-|
-|Taydeo, Rainbeon, Dimesequals9, Higwaz, Delta_, edited by kouhadyne|:x:|TBD|
+|Taydeo, Rainbeon, Dimesequals9, Higwaz, Delta_, doc edited by kouhadyne|:x:|TBD|
 
 `Designers`
 
@@ -17,7 +17,7 @@ Restructuring Command members into a new order of succession, and changing their
 
 ## Background
 
-As it stands, the authority of command over security is somewhat ambiguous, particularly when it comes to the captain. Additionally, the Captain can feel like their authority is meaningless due to how the power structure currently plays out. The intention with this document is to outline changes
+As it stands, the authority of command over security is somewhat ambiguous, particularly when it comes to the Captain. Additionally, the Captain can feel like their authority is meaningless due to how the power structure currently plays out. The intention with this document is to outline changes to Command and crew, redefining both into what suits Funky's principles moving forward. 
 
 1. To reinforce and clearly establish a structure to the station's Command positions, with Captain now firmly at the top.
 2. To create further distinctions between Security, Legal operations, and NanoTrasen protocol.
