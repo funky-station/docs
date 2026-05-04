@@ -25,7 +25,7 @@ As it stands, the authority of command over security is somewhat ambiguous, part
 
 ## Features to be added
 
-Security: The Head of Security and as a result, security as a whole is removed from the order of succession and Command structure. Instead they work directly and only under the captain or whoever is highest in the order of succession, if Captain is indisposed. Security's job is to exercise the Captain's will on-board the station and enforce space law.
+The Head of Security and as a result, security as a whole is removed from the order of succession and Command structure. Instead they work directly and only under the captain or whoever is highest in the order of succession, if Captain is indisposed. Security's job is to exercise the Captain's will on-board the station and enforce space law.
 
 
 
@@ -41,11 +41,11 @@ The Captain would now hold ultimate punitive authority and is the final step of 
 
 
 
-Chefs, Botanists, Bartenders and Janitors now answer to the Quartermaster. Cargo will now be renamed to Logistics, with the Quartermaster being referred to as the Head of Logistics/HoL. Additionally, two new roles will be added. One named the "Mess Officer", who will work under the QM, but above the hospitality roles. Second is a waiter role, which will coordinate with other hospitality roles.
+Chefs, Botanists, Bartenders and Janitors now answer to the Quartermaster. Cargo will now be renamed to Logistics. Additionally, two new roles will be added. One named the "Mess Officer", who will work under the QM, but above the hospitality roles. Second is a waiter role, which will coordinate with other hospitality roles to assist in delivering the services of the aformentioned roles.
 
 
 
-Clowns, Mines, Musicians, (Reporters)\* and Assistants answer to all of Command. As the HoS is NOT within the Command structure, they do not answer to the HoS.
+Clowns, Mines, Musicians, Reporters\* and Assistants answer to all of Command. As the HoS is NOT within the Command structure, they do not answer to the HoS.
 
 
 
@@ -57,7 +57,7 @@ The new order of succession: CAP -> XO -> RD -> QM -> CMO -> CE. Refer to the ch
 
 
 
-The NT Rep will still enforce SoP, but will retain 0 legal authority. Instead the NT Rep will also have the job of ensuring the Captain, by proxy the rest of Command, are serving Central Command's interests. If the captain ever got to a point where they deviated too far from Central Command's interests, they can call a "vote of no confidence." If this occurs, all of the command members in the order of succession, would vote on whether or not the captain is fit to continue their duties. A majority vote would be required to deem the Captain unfit for work. If so, the Captain is to be permanently jailed, pending investigation at Central Command.
+The NT Rep will still enforce SoP, but will retain 0 legal authority. Instead the NT Rep will also have the job of ensuring the Captain, by proxy the rest of Command, are serving Central Command's interests. If the Captain ever got to a point where they deviated too far from Central Command's interests, they can call a "vote of no confidence." If this occurs, all of the command members in the order of succession, would vote on whether or not the Captain is fit to continue their duties. A majority vote would be required to deem the Captain unfit for work. If so, the Captain is to be permanently jailed, pending investigation at Central Command.
 
 
 
