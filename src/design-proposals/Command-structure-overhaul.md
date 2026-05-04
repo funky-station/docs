@@ -53,7 +53,7 @@ Clowns, Mines, Musicians, Reporters\* and Assistants answer to all of Command. A
 
 
 
-The new order of succession: CAP -> XO -> RD -> QM -> CMO -> CE. Refer to the chart below for chains of command.
+The new order of succession: CAP -> XO -> RD -> QM -> CMO -> CE. Refer to the chart above for chains of command.
 
 
 
