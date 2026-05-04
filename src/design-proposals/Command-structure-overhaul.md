@@ -1,10 +1,9 @@
-# Short, Properly Capitalized Title
+# Command hierarchy restructuring
 
-Your title should convey the basic gist of your proposed changes. It should be short because the text will be linked in the sidebar.
 
 |Designers|Implemented|GitHub Links|
 |-|-|-|
-|Taydeo, Rainbeon, Dimesequals9, Higwazm, Delta_, edited by kouhadyne|:x:|TBD|
+|Taydeo, Rainbeon, Dimesequals9, Higwaz, Delta_, edited by kouhadyne|:x:|TBD|
 
 `Designers`
 
@@ -26,7 +25,7 @@ As it stands, the authority of command over security is somewhat ambiguous, part
 
 ## Features to be added
 
-Security: The Head of Security and as a result, security as a whole is removed from the order of succession and Command structure. Instead they work directly and only under the captain or whoever is highest in the order of succession, if Captain is indisposed. Security's job is to exercise the Captain's will on-board the station.
+Security: The Head of Security and as a result, security as a whole is removed from the order of succession and Command structure. Instead they work directly and only under the captain or whoever is highest in the order of succession, if Captain is indisposed. Security's job is to exercise the Captain's will on-board the station and enforce space law.
 
 
 
