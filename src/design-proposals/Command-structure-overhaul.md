@@ -132,4 +132,4 @@ This feature is a complete overhaul to the structure of rounds in terms of Comma
 * New or altered job spawns for Judicial Officer and Waiter.
 * UI Changes for late-joining and crew manifests to include Legal as a department which includes the XO/Lawyer/Judicial Officer, and moving Service to Cargo/Logistics.
 * Certain areas may need to be mapped for prisoner processing with the judiciary officer (optional but wise)
-
+* Creating a new comms channel for the legal comm channel
