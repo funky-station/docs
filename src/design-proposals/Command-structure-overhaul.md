@@ -13,7 +13,7 @@
 
 Restructuring Command members into a new order of succession, and changing their responsibilities.
 
-![graph format](https://i.imgur.com/eC3MBJv.png)
+![graph format](https://i.imgur.com/JzFswAW.png)
 
 ## Background
 
@@ -41,7 +41,7 @@ The Captain would now hold ultimate punitive authority and is the final step of 
 
 
 
-Chefs, Botanists, Bartenders and Janitors now answer to the Quartermaster. Cargo will now be renamed to Logistics. Additionally, two new roles will be added. One named the "Mess Officer", who will work under the QM, but above the hospitality roles. Second is a waiter role, which will coordinate with other hospitality roles to assist in delivering the services of the aformentioned roles.
+Chefs, Botanists, Bartenders and Janitors now answer to the Quartermaster. Cargo will now be renamed to Logistics. Additionally, two new roles will be added. One named the "Hospitality manager", who will work under the QM, but above the hospitality roles. Second is a waiter role, which will coordinate with other hospitality roles to assist in delivering the services of the aformentioned roles.
 
 
 
@@ -94,7 +94,7 @@ SoP to define the roles of the Judiciary Officer, XO, and Captain, along with up
 
 
 
-- For Service; Botany, Chefs, and Bartenders didn't have any true centralization, as the HoP was already divided in terms of responsibility. This reformat now restructures the Service department by organizing them and creating a more sensible hierarchy within Cargo/Logistics, with the Mess Officer now as their organizer, with the Quartermaster as their overall supervisor. They already worked with Cargo/Logistics for restocking and bounties, and their job is still within the purview of 'providing goods for the station'. The Mess Officer exists to manage the on-station, janitor under qm is a byproduct, but one that thematically fits. This enforces the themes stated above, as it now places all crew within a hierarchy, which was not clear prior to this. 
+- For Service; Botany, Chefs, and Bartenders didn't have any true centralization, as the HoP was already divided in terms of responsibility. This reformat now restructures the Service department by organizing them and creating a more sensible hierarchy within Cargo/Logistics, with the Hospitality manager now as their organizer, with the Quartermaster as their overall supervisor. They already worked with Cargo/Logistics for restocking and bounties, and their job is still within the purview of 'providing goods for the station'. The Hospitality manager exists to manage the on-station, janitor under qm is a byproduct, but one that thematically fits. This enforces the themes stated above, as it now places all crew within a hierarchy, which was not clear prior to this. 
 
 
 
