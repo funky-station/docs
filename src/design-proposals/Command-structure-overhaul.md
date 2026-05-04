@@ -4,17 +4,10 @@ Your title should convey the basic gist of your proposed changes. It should be s
 
 |Designers|Implemented|GitHub Links|
 |-|-|-|
-|Taydeo, Rainbeon, Dimesequals9, Higwazm, Delta_
-edited by kouhadyne|:x:|TBD|
+|Taydeo, Rainbeon, Dimesequals9, Higwazm, Delta_, edited by kouhadyne|:x:|TBD|
 
 `Designers`
 
-Taydeo
-Rainbeon
-Dimesequals9
-Higwaz
-Delta_
-edited by kouhadyne :]
 
 
 ## Overview
