@@ -14,6 +14,8 @@ Your title should convey the basic gist of your proposed changes. It should be s
 
 Restructuring Command members into a new order of succession, and changing their responsibilities.
 
+![graph format](https://i.imgur.com/eC3MBJv.png)
+
 ## Background
 
 As it stands, the authority of command over security is somewhat ambiguous, particularly when it comes to the captain. Additionally, the Captain can feel like their authority is meaningless due to how the power structure currently plays out. The intention with this document is to outline changes
