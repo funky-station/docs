@@ -12,11 +12,9 @@ Your title should convey the basic gist of your proposed changes. It should be s
 * Rainbeon
 * Dimesequals9
 * Higwaz
+* Delta_
 * edited by kouhadyne :]
 
-`Implemented` is the status of the feature.
-
-Github links can include multiple PRs, if relevant.
 
 ## Overview
 
@@ -83,9 +81,7 @@ SoP to define the roles of the Judiciary Officer, XO, and Captain, along with up
 
 Consider addressing:
 
-* How does the feature align with our [Core Design Principles](../design/design-principles.md) and game philosophy?
-* tay asked real niceys
-Tthe chain of command as of current is pretty ambiguous. There are too many vague approximations of authority, and too many instances of authority being redundant, i.e.; cap being able to sentence, or the Magistrate having full punitive authority without a real-use case for it, outside of super rare trials, along with the HoP's technical second in command, etc. These are all defined in unclear writing, but is not supported by gameplay or the structure of Command. Additionally, the Captain is in a position where their authority can feel stripped by proxy. It's important there is a clear distinction of who is in charge, and who isn't. This reformatting will allow for a more clear definition of hierarchy, and allow clearer escalations regarding issues that may arise on the station. It also gives lawyers a more clearly defined role, and pushes the HoP into a more authoritative position, which is befitting of second-in-command on board. 
+The chain of command as of current is pretty ambiguous. There are too many vague approximations of authority, and too many instances of authority being redundant, i.e.; cap being able to sentence, or the Magistrate having full punitive authority without a real-use case for it, outside of super rare trials, along with the HoP's technical second in command, etc. These are all defined in unclear writing, but is not supported by gameplay or the structure of Command. Additionally, the Captain is in a position where their authority can feel stripped by proxy. It's important there is a clear distinction of who is in charge, and who isn't. This reformatting will allow for a more clear definition of hierarchy, and allow clearer escalations regarding issues that may arise on the station. It also gives lawyers a more clearly defined role, and pushes the HoP into a more authoritative position, which is befitting of second-in-command on board. 
 
 
 
@@ -136,7 +132,6 @@ This feature is a complete overhaul to the structure of rounds in terms of Comma
 ## Administrative \& Server Rule Impact (if applicable)
 
 * Captain and XO will be held to a higher standard of 'Play your character', and out-of-character incompetency. 
-* dimes go here plz -kou
 
 # Technical Considerations
 
