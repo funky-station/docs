@@ -4,16 +4,21 @@ Your title should convey the basic gist of your proposed changes. It should be s
 
 |Designers|Implemented|GitHub Links|
 |-|-|-|
-|Your Names Here|:white\_check\_mark: Yes or :warning: Partially or :information\_source: Open PR or :x: No|PR Links or TBD|
+|Taydeo
+Rainbeon
+Dimesequals9
+Higwaz
+Delta_
+edited by kouhadyne|:x:|TBD|
 
 `Designers`
 
-* Taydeo
-* Rainbeon
-* Dimesequals9
-* Higwaz
-* Delta_
-* edited by kouhadyne :]
+Taydeo
+Rainbeon
+Dimesequals9
+Higwaz
+Delta_
+edited by kouhadyne :]
 
 
 ## Overview
