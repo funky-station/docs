@@ -1,211 +1,147 @@
-# Station Regulations
+# NanoTrasen Station Regulations
+## Alert Levels
+Green
+There is no major threat to operational safety.
+SOP and Corporate Law remain in full effect.
+Blue
+**Called for the reason of un unsolved Felony
 
-Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
-
-| Designers | Implemented | GitHub Links |
-|---|---|---|
-| SOP workgroup, Written by Scrambleking | :x: No | TBD |
-
-## Overview
-
-This document establishes a comprehensive framework for in-character station regulations intended to enhance roleplay depth, structure player interactions, and provide clear guidance in non-standard scenarios. 
-Rather than functioning as enforceable server rules, these systems are designed to simulate the bureaucratic, procedural, and corporate realities of a Nanotrasen-operated facility.
-
-The regulations outlined here expand on existing mechanics by formalizing processes such as corporate security protocols, administrative paperwork, fines, visitor interactions, and command hierarchy. 
-Each section is supported by game design rationale, roundflow considerations, and (where applicable) technical implementation notes to ensure both usability and immersion.
-
-While not all features are required for immediate implementation, this document serves as both a design foundation and a roadmap for future development, prioritizing systems that improve clarity, consistency, and player engagement without overburdening gameplay.
-
-## Background
-
-Not everything that *was* SOP or law perfectly fits within the older sections of them, as such we are creating the "station regulations" to be a catch all for NT's rules that dont quite fit into our other primary catagories.
-
-
-# Corporte Espionage Act
-This section is intended to be in direct relation to the metashield on an OOC level along with IC justifications for the Crew/Security metashields and NDAs.
-In character the majority of crew would understand this as related to NT's R&D into bluespace, genetics, artifacts, and anomolies, building off of the syndicate being a known orginisation that conducts espionage.
-
-## Administrative & Server Rule Impact
-This section will be written under the explicit perview of, or by the hand of, the head admins.
-
-
-# Permits and Paperwork
-Permits and Paperwork cover what paperwork to use, when to use it, and what utensils to use with it.
-EG: 
-
-To hire person X use Hiring Form 4.23, along with adendum 2 for hiring non-NT members
-
-Access is only granted after filling out Access Form 6.23 C
-
-Construction or modification of maints should be done with Construction Form 32.45
-
-All paperwork must be filled with a black-ink pen unless specified in...
-
-Copies of official paperwork should be stamped by the relevant head
-
-## Game Design Rationale
-By codifying the forms and permits it should make the system easier to navigate for newer players, and prevent abusive forms from making their way into printer files (I am personaly guilty of some of these).
-Additionaly the Codification of paperwork is more authentic to a corprate experiance where files are flying about the home office every day.
-
-## Roundflow & Player interaction
-In a round a player (just like anyone in a corporation) will know generaly what they will be required to fill out should they be asked for paperwork, and may even print and fill it out themselves, or with the help of the local librarian.
-
-## Technical Considerations
-This section will require the implimentation of the Printing Machine.
-The printing machine provides players with a way to quickly print forms in-round without needing a folder of documents they must search through.
-2 versions of the printing machine should be avalible, a "secure" version for command/security use, and a "regular" version for crew use. 
-The "regular" version will contain documents that normal crew may need such as hiring applications, access requests, and construction permits. It will be kept in the library or simular areas.
-The "secure" version will additionaly contain documents such as command/security hiring forms, NDAs, police reports ect. It will be kept behind access locked doors.
-
-This section will not require, but would greatly benefit from, the implimentation of fillable form fields.
-This will make filling forms easier to understand for players without having to interprit rundown text.
-
-# Building/Construction code
-
-This section would define what is a "baseline" room via atmosphere, construction, types of walls/windows to use when, firelocks and air alarms, ect.
-
-## Game Design Rationale
-In game this would serve as an effective tutorial to building and room construction for newer engineers/players, and can be referenced in the permits system for construction.
-This creates a more authentic experiance to newer players and intergrates the guidebook further into the world as a "real" learning tool.
-
-## Roundflow & Player interaction
-This should have minimal impact on roundflow outside of obtaining permits and teaching/learning construction.
-
-# Fines
-Fines are for when things are not fine. When you commit an SOP infraction or Corprate Law based infraction you may be ordered to pay a fine.
-This section explains the who, how, and why of fines. It does not explain how this is diffrent from a governmentaly approved bribe.
-
-Who can give them
-
-Why they can be given
-
-How to give them
-
-How to pay them
-
-It also covers the courses of action that the IAA can take. Primarily issuing a fine or asking the head of staff to take greater actions.
-
-## Game Design Rationale
-This maintains authenticity because it provides a way for security to punish negative behavior without needing to haul the person all the way to security which would lower nantotrasen's profits.
-This maximises RP potential because instead of a simple warning there is direct action taken against the person who can then chose to escalate, not pay, or dispute the fine.
-
-## Roundflow & Player interaction
-This will provide a way for players to interact and begin escalation with security outside of reciving a warning, which is unsatisfying, and jail time, which could be over the top. 
-
-It also provides the IAA with a more explicit path for punishments outside of taking possibly vital equiptment, or simply firing the person.
-
-## Administrative & Server Rule Impact (if applicable)
-This section should have no administrative impact aside from role abuse, which generaly should be able to be dealt with in character with unions and escaltation.
-
-## Technical Considerations
-Scrip is required.
-We cant take away the money of someone without money.
-
-A fine computer/printer is not required, but could greatly benefit the system.
-This would alow the security officer to print the fine recipt quickly, and the recipiant to pay it at the designated point.
-
-
-# Extracorporate Entities
-This section covers interactions with visitors to the station. Visitors are an under-used RP mechanic, and while this will by no means fix that, it will provide a direction to take the interactions with them.
-The sections contained within include:
-
-Shuttle rights
-
-Docking
-
-Trading
-
-Treatment of visitors
-
-Refugees
-
-External hiring (temporary and complete contracts)
-
-## Game Design Rationale
-Authenticaly, any large port will also have regulations for how to interact and treat visitors from other orginisations. This would be especialy true for a corprate research colony that knows of spies.
-
-## Roundflow & Player interaction
-This is not intended to effect the flow of most rounds, but should alow for rounds that do interact with visitors to have more guidance than "oh ok, I geuss your visiting now"
-Idealy this will make even mundane visitors have a level of impact with the personel on the station through things such as medical checkups and acnowladgement of visitation.
-
-## Technical Considerations
-Maps will require a designated "visitor" dock.
-
-Visitor shuttles will need some way to broadcast their pressence.
-
-While not required, IDs and PDAs can be removed from non-NT/infiltration aligned visitors. This will also provide a noticable distinction between roles that are part of NT (such as a CMO in an escape pod), and visitation roles that are simply visiting.
-
-# Insurance
-NOTE: Insurance is something that will not be directly added by this workgroup as it is outside of our intended scope, it is merely here as an example that could be added in the future.
-
-This would create a codified explanation of what each insurance level entails:
-
-What premiums you may have to pay each shift
-
-Coverage of injuries
-
-Coverage of non-health related surgeries
-
-Cybernetics
-
-# Alert Levels
-Not exactly new, alert levels have been moved from SOP to regulations as they are called for situations that are not standard.
-
-General: Most alerts are un-changed in their cause/response with the following exeptions:
-
-Blue alert is called for a duration of up to 10 minuets while a Felony class or higher crime is under investigation (See Law Document). 
-
-Starting at blue alerts the HoS will be slated for overwatch from security (See the Command document for more information on the HoS rework)
+A crime is being actively investigated by security. Crew are to have their IDs ready and comply with security search orders.
 
 Events may be canceled without warning should the situation require it.
 
-Violet alert grants the CMO and Captain the ability to quarantine areas of the station which may only be lifted by the CMO or Captain’s orders. 
-Security is given permission to enforce this quarantine through any method the captain allows.
-This also requires sensors set to show health at a minimum to better track the spread of the infection
+HoS is locked to Security.
+Red
+All crew members are to follow the instructions given by their Commanding members. Unless declared otherwise, they should remain in their departments.
+Anyone who is not currently part of a department should head to the Bar
 
-Events may be canceled without warning should the situation require it.
-
-Red Alert:
-RED alert now alows the captain to deem specific SOP as suspended, this replaces the SOP per alert level SOP.
-This is also being done to reduce confusion about alert levels being SOP, and possibly making it enforceable by security instead of the CCVIPs which was always an odd position for them.
+Captains may suspend any Standard Operating Procedure they deem necessary.
+This includes removing restrictions on command or crew arming and the creation or purchase of weapons, mechs, and armour.
 
 Security’s restrictions on heavy weapons are also lifted and it is expected that the Head of Security and/or Warden keep track of what weapons are taken by who to account for their return when the situation is resolved.
 
 Departmental breaks and crew events such as in the theatre and chapel are paused for the duration of the alert. Gatherings may be broken up as needed.
 
-HoS will still be religated to their department outside of immediate station ending threats that will require a full response force (EG god summoning) (again see the Command document for more information on the HoS rework)
+Maintenance areas are to be considered off limits; Anyone found inside will be arrested and charged with trespassing.
+
+Suit sensors are required to be set to coordinates; Anyone without their suit sensors set on the requested level will be arrested and charged with endangerment.
+
+Warden is mobile command.
+Yellow
+There is an active atmospheric or power related issue upon the station that may place crewmembers at risk. Crew should move about with caution and are advised to enable suit sensors in case of injury.
+Opening firelocks and spreading the atmospheric issues will be met with an endangerment charge.
+Cyan
+There is a malfunctioning silicone upon the station. Please use caution when interacting with silicone based lifeforms and inform the roboticist or security should you notice anything unusual.
+Violet
+In the case of an active viral threat on station, crew are required to have sensors set to show their health to better track the spread of the infection.
+
+The CMO may declare portions of the ship under quarantine which may only be lifted by the CMO or Captain’s orders. Security is given permission to enforce this quarantine through any method the captain allows.
+
+Gamma
+Delta
+Epsilon
 
 
+Corporate Espionage Act
+Bluespace research
+Genetics research
+Artifacts research
+Anomalous research
+(CTM materials)
+## Permits and Paperwork
+Paperwork
 
-# Order of Succession and Martial Law
-The Order of Succession determins who will be next in line for the captain position. 
-EG: 
-1. Captain
-2. HoP
-3. RD
-4. QM
-5. CMO
-6. CE
-7. HD (Hospitality director, expended on in job changes)
-8. Acting command with the above order
-9. HoS
+Permits
 
-This can be triggered via a vote of no confidance amongst command. This is started by the CCVIPs, or by the CMO deeming the captain as unfit for duty.
+Hiring Process (Internal)
 
-The Head of Security will take over the station until a suitable captain replacement can be found, at which point power will be relinquished to them.
-Martial law can be declared by the HoS once no other suitable replacements for the captain can be made. 
+Service Department Expensing 
+All expenses implicitly approved by a position's SOP should be under X scrip.
+All other expenses must be approved by the Hospitality Director or Quartermaster.
+Any unapproved expenses that are charged to the service budget will be taken from the personnel’s pay.
+Any alterations to service department locations must be minor in scope, unless otherwise approved by the Hospitality Director.
+Science Distribution
+No weapons are to be created or handed out to non-security staff.
+All items created must be paid for by personnel in scrip.
+The value charged should not be changed between requests without approval from the Research Director.
+Department Specific items and machines should only be handed out to personnel with such access, or a stamped form from the relevant authority.
 
-Under martial law security’s orders are final, personnel are to immediately return to their departments or bar unless given explicit permission otherwise, and failure to do so leaves punishment at the discretion of the witnessing officer. 
-This includes engineering and medical personnel who are responding to emergencies, and scientists responding to anomalies.
+## Fines
+Corporate Disciplinary Actions
+Internal Affair Agents are allowed to generate a Corporate Disciplinary Action for crew members that violate SOP.
+Corporate Disciplinary Actions may result in a formal warning and/or a fine.
 
-## Game Design Rationale
-This goes mostly to authenticity, in an emergancy the HoS is intended to have an overview of the security situation, while the captain has an overview of the station as a whole. 
-Given this is the case, the HoS should not be focused on the extrenous duties of the captain.
-Additionaly the station is a Corporate orginisation who's focus is on profit, not simply "catching the bad guy" and this change is meant to highlight this.
-Should all command and potential command die, the only authority on the station is the HoS and security, who should not be treating the station as lightly as a regular command member.
-The reason the martial law power was specificaly granted is, should the situation become dire enough to require the HoS to become captain, they will likely be in a situation more severe than red alert.
 
-Martial law is not automaticaly called upon the HoS's promotion due to outlier shifts such as lowpop, or no other command in a lobby willing to play capatain.
+If many Corporate Disciplinary Actions are levied against someone, IAA's are advised to inform the head of the department with the proper paperwork detailing the past infractions incurred and requesting the head to take punitive actions against this individual.
 
-## Technical Considerations
-Possibly an alert level for "Martial Law" can be made, or taken from an existing alert level.
+The punitive actions taken are at the sole discretion of the relevant Head of Staff.
+The punitive actions are as follow:
+A permanent reduction in salary
+A temporary suspension
+A demotion
+A dismissal
+
+An appeal for the CEA and/or fine can be made to the NanoTrasen Representative, Head of Personnel, or Captain
+
+### Infractions
+Security personnel are allowed to issue infractions to crew members committing infraction level crimes.
+The infraction may result in a formal warning and/or a fine.
+
+If many infractions are levied against someone, security is advised to approach the head of the department with the proper paperwork detailing the past infractions incurred and requesting the head to take punitive actions against this individual.
+Punitive actions taken are at the sole discretion of the relevant Head of Staff.
+
+An appeal for the Infraction and/or fine can be made to the Judicial Officer, Head of Personnel, or Captain.
+## Extracorporate Entities
+### Docking Regulations
+Extracorporate shuttles are required to request docking permission from the station before docking to the station itself. 
+### Trading Regulations
+Trading should be done through the Quartermaster with the NanoTrasen Representative’s permission, or presence. 
+### Treatment of Visitors
+Visitors should be checked by NanoTrasen Medical staff for infections that may risk NanoTrasen Personnel. Should they be cleared by medical personnel
+
+Visitors should be treated with the same level of dignity they treat NanoTrasen station staff. They must however provide funds for purchase of benefits such as healthcare, drinks, food, and other amenities.
+### Refugees
+Refugees are to be treated the same as Visitors, however they are to be brought back to NanoTrasen for further processing. (interrogation, Extracorporate secrets, ect)
+
+### Visitor Restrictions
+All visitors are subject to NanoTrasen Laws and Regulations while within NanoTrasen owned territory. 
+### Hiring Process (external)
+
+#### Temporary Contracts
+Contracts given for the specified duration, usually in relation to shift length or specific task. Can be given by command members on the station with the captain’s permission.
+
+#### Complete Contracts
+Standard NanoTrasen hiring contracts. Requires NTR approval to be completed.
+
+## Insurance
+### Medical Insurance
+Deductibles, shift start costs (eg lowered scrip payments/starting amount), insurance levels, minimum insurance for jobs and discounts
+### Shuttle insurance
+This section is more about contacting CC to report the loss of a shuttle, and what to do in that situation.
+
+## Order of Succession
+Should a captain be incapacitated or deemed unable to perform their duties the order of succession determines who is next in line for the position.
+
+Captain
+Head of Personnel
+Research Director
+Quartermaster
+Chief Medical Officer
+Chief Engineer
+Hospitality Director
+Acting Command in the same order as above
+Head of Security
+
+Should no command member able to be promoted to command remain, the HoS may declare a level of martial law over the station until a new captain can be appointed.
+
+### Vote of No Confidence
+A vote of no confidence can be triggered in two ways:
+Central Command VIPs can call a vote of no confidence should they believe the captain is unable to perform their duties. This can only be called by a vote with a majority of Central Command VIP’s approval.
+The Chief Medical Officer may call a vote of no confidence should they deem the Captain to be unfit for duty. 
+
+When a vote is called all members of command should report to the bridge or another secure location immediately. The Head of Security is not permitted to cast a vote. The vote requires a simple majority required to pass. The vote should be overseen by a Central Command VIP, and then the results verified by them. Central Command should be notified of the vote, but do not expect a response. Approval from Central Command is not required for any part of the vote.The transition of power should be enforced by the Head of Security.
+
+### Martial law
+Martial law is declared once no suitable replacements for the captain can be made. The Head of Security will take over the station until a suitable captain replacement can be found, at which point power will be relinquished to them.
+
+Under martial law security’s orders are final, personnel are to immediately return to their departments or bar unless given explicit permission otherwise, and failure to do so leaves punishment at the discretion of the witnessing officer. This includes engineering and medical personnel who are responding to emergencies, and scientists responding to anomalies.
