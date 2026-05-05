@@ -32,10 +32,15 @@ This section will be written under the explicit perview of, or by the hand of, t
 # Permits and Paperwork
 Permits and Paperwork cover what paperwork to use, when to use it, and what utensils to use with it.
 EG: 
+
 To hire person X use Hiring Form 4.23, along with adendum 2 for hiring non-NT members
+
 Access is only granted after filling out Access Form 6.23 C
+
 Construction or modification of maints should be done with Construction Form 32.45
+
 All paperwork must be filled with a black-ink pen unless specified in...
+
 Copies of official paperwork should be stamped by the relevant head
 
 ## Game Design Rationale
@@ -69,10 +74,15 @@ This should have minimal impact on roundflow outside of obtaining permits and te
 # Fines
 Fines are for when things are not fine. When you commit an SOP infraction or Corprate Law based infraction you may be ordered to pay a fine.
 This section explains the who, how, and why of fines. It does not explain how this is diffrent from a governmentaly approved bribe.
+
 Who can give them
+
 Why they can be given
+
 How to give them
+
 How to pay them
+
 It also covers the courses of action that the IAA can take. Primarily issuing a fine or asking the head of staff to take greater actions.
 
 ## Game Design Rationale
@@ -98,11 +108,17 @@ This would alow the security officer to print the fine recipt quickly, and the r
 # Extracorporate Entities
 This section covers interactions with visitors to the station. Visitors are an under-used RP mechanic, and while this will by no means fix that, it will provide a direction to take the interactions with them.
 The sections contained within include:
+
 Shuttle rights
+
 Docking
+
 Trading
+
 Treatment of visitors
+
 Refugees
+
 External hiring (temporary and complete contracts)
 
 ## Game Design Rationale
@@ -123,16 +139,42 @@ While not required, IDs and PDAs can be removed from non-NT/infiltration aligned
 NOTE: Insurance is something that will not be directly added by this workgroup as it is outside of our intended scope, it is merely here as an example that could be added in the future.
 
 This would create a codified explanation of what each insurance level entails:
+
 What premiums you may have to pay each shift
+
 Coverage of injuries
+
 Coverage of non-health related surgeries
+
 Cybernetics
 
 # Alert Levels
 Not exactly new, alert levels have been moved from SOP to regulations as they are called for situations that are not standard.
-Most alert levels are the same, however in a more specific PR we will likely be looking at changes to what leads to calling a blue alert.
-Additionaly RED alert now alows the captain to deem specific SOP as suspended, this replaces the SOP per alert level SOP.
+
+General: Most alerts are un-changed in their cause/response with the following exeptions:
+
+Blue alert is called for a duration of up to 10 minuets while a Felony class or higher crime is under investigation (See Law Document). 
+
+Starting at blue alerts the HoS will be slated for overwatch from security (See the Command document for more information on the HoS rework)
+
+Events may be canceled without warning should the situation require it.
+
+Violet alert grants the CMO and Captain the ability to quarantine areas of the station which may only be lifted by the CMO or Captain’s orders. 
+Security is given permission to enforce this quarantine through any method the captain allows.
+This also requires sensors set to show health at a minimum to better track the spread of the infection
+
+Events may be canceled without warning should the situation require it.
+
+Red Alert:
+RED alert now alows the captain to deem specific SOP as suspended, this replaces the SOP per alert level SOP.
 This is also being done to reduce confusion about alert levels being SOP, and possibly making it enforceable by security instead of the CCVIPs which was always an odd position for them.
+
+Security’s restrictions on heavy weapons are also lifted and it is expected that the Head of Security and/or Warden keep track of what weapons are taken by who to account for their return when the situation is resolved.
+
+Departmental breaks and crew events such as in the theatre and chapel are paused for the duration of the alert. Gatherings may be broken up as needed.
+
+HoS will still be religated to their department outside of immediate station ending threats that will require a full response force (EG god summoning) (again see the Command document for more information on the HoS rework)
+
 
 
 # Order of Succession and Martial Law
