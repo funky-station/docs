@@ -1,10 +1,8 @@
-# Short, Properly Capitalized Title
-
-Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
+# Station Protocol Rework: Sentencing, Trials, and Hearings
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| Alicios + SOP Workgroup | :warning: Partially | PR Links or TBD |
+| Alicios + SOP Workgroup | :warning: Partially | TBD |
 
 ## Overview
 
