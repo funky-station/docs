@@ -30,16 +30,17 @@ Essentially, any and all interaction with legal battles in the game's current st
 
 ### Job Restructuring:
 
-Many of these changes are part of the larger design proposals from the SOP Workgroup, but I will highlight the ones that are vital for the Legal System.
+Many of these changes are part of the larger design proposals from the SOP Workgroup, but it is important to highlight the ones that are vital for the Legal System.
 
-Head of Personnel (Head of Service) -> Executive Officer (Head of Legal)
-Magistrate (CCVIP) -> Judicial Officer (Legal Deputy)
-Internal Affairs Agent (CCVIP) -> Internal Affairs Agent (Legal)
+Head of Personnel (Head of Service) -> Executive Officer (Head of Legal)\
+Magistrate (CCVIP) -> Judicial Officer (Legal Deputy)\
+Internal Affairs Agent (CCVIP) -> Internal Affairs Agent (Legal)\
 Lawyer (Civilian) -> Lawyer (Legal)
 
 There is a new clear division between Security, and Legal staff. This will come with a comms channel specifically for Legal staff, to help the Legal team facilitate court cases, and hearings.
 
-Ideally, Legal would become its own department. Existing maps can just reuse the current Lawyer, Magistrate, and IAA offices, as well as the Court. However, it is also very possible to just have these roles remain civilian, and just give them the Legal comms channel.
+Legal becomes its own department, with its own comms channel to facilitate smooth court operations, but it does not need major mapping changes.
+Existing maps can just reuse the current Lawyer, Magistrate, HOP, and IAA offices, as well as the Court.
 
 
 ### Job Responsibilities & Authority:
@@ -60,9 +61,9 @@ This is also part of the SOP Workgroup's Corporate Law proposal, but it is worth
 
 There are now only 4 tiers of crimes, each with FIXED punishment lengths in each tier. 
 
-Infractions: Warning/Tickets
-Misdemeanor: 10 minutes.
-Felony: 20 minutes.
+Infractions: Warning/Tickets\
+Misdemeanor: 10 minutes.\
+Felony: 20 minutes.\
 Capital Offense: Permanent.
 
 Permanent Brig time threshold is 40 minutes, instead of 20.
@@ -128,6 +129,37 @@ Trials consist of a formalized procedure, multiple witness and evidence examinat
 Trials are capable of, and intended to, consume a Legal role's entire round. This is why they are entirely opt-in, and case-by-case. A Trial will NEVER be standard procedure for any crime, and only happen if all players involved wish to engage in formalized legal scenarios.
 
 
+## Addressing Common/Anticipated Concerns
+### Sentencing criminals will take too long.
+Summary hearings are designed in such a way to directly replace the old "Warden-style" quick sentencing. For minor, inconsequential crimes, the criminal will be processed in hardly any time at all. The process is simply formalized and opens the floor for the defense to escalate into a more lengthy legal battle if they so desire.
+
+Even for Capital Offenses, the escalating to a full-on trial is a fully voluntary affair, and also up to the discretion of the Judicial Officer. Lengthy trials are an opportunity for players who WANT long trials to have them, without hurting the necessary efficiency of your everyday sentences.
+
+### There is no way a court hearing can happen in such a short amount of time.
+The procedure for each type of Hearing is a formalized step-by-step process, and is intentionally designed to keep hearings brief and efficient. It reduces as much back-and-forth as possible, and focuses only on key facts and agreed upon talking points.
+
+Having jobs/roles that are knowledgeable and primarily responsible for Legal procedures will also dramatically cut down on rambling/unfocused court cases that we have now. Since Trials are so rare in current Funky, there is no common consensus on how they should be run, which leads them to be unfocused and inefficient.
+
+### Role bloat with a new department and/or new department will have nothing to do.
+Every "new" Job in this proposal is a job that already existed. The things that a "Legal team" would do are already happening, it is just not formalized as a separate entity. It is simply reinforcing their responsibilities and reframing them as a team that works together, instead of disparate individuals from separate departments and power scales dysfunctionally trying to work together.
+Each job other than the Judicial Officer is also intentionally designed to have alternative, lesser tasks when hearings/trials are not happening. Legal Jobs to not only exist within the court, they have their own tasks and assemble when necessary.
+
+XO -> Help the Captain enforce corporate policy, manage ID access, handle paperwork/permits\
+JO -> Participate in civil suits, or more casual Legal RP scenarios.\
+IAA -> Perform SOP audits, provide legal counsel, measure productivity quotas.\
+Lawyer -> Help draft civil suits, consult with brigged criminals, propose parole\
+
+Once Unions are implemented, the Legal team will play a big part as correspondants between the general Crew, Unions, and Command.
+
+### Not everyone wants to participate in Legal RP.
+Every Hearing/Trial procedure has a path of least resistance, so that if the arrested criminal does not wish to engage with Legal RP whatsoever, they have that choice. They can refuse consultation or legal representation. They can accept any charges without any pushback. The pipeline of arrest -> sentence -> brig -> continue still exists, it is just an option, rather than the only choice. Trials are completely optional, and no one will be forced into it if they do not wish to.
+
+### Brig times will be too long.
+Brig times should be longer in general, to accompany Funky Station's inherently longer round time. Going through the whole process of an arrest only for someone to get a 5 minute sentence is a complete waste of time. There is no incentive to fight back or engage in any meaningful RP when there is no gameplay incentive to do so.
+
+Brig times are longer, but with the additions of Alternative Punishments and Parole, those who actually engage with the Legal System will be given opportunities to circumvent their "time out" time with RP scenarios. Talking with Lawyers, the Judicial Officer, the Warden, getting a new Job, consultations with Chaplains and Psychologists are all avenues to reduce your brig time, and result in much more interesting scenarios post-arrest.
+
+
 ## Game Design Rationale
 
 ### Seriously Silly:
@@ -142,7 +174,7 @@ Currently, getting brigged is just about the most glaring instance of "clearly l
 This Legal overhaul creates opportunities for gray areas and ways to fight back against getting arrested at every opportunity. Even a permanent brig sentence is just an opportunity to consult a Lawyer and ask for parole. Getting arrested shouldn't feel like you "lost", it should just be the next chapter in your story.
 
 ### Maintaining Authenticity:
-Real-life Legal procedures are incredibly pedantic, formal, and take ages. I am not trying to emulate legal procedures for realism's sake. I am taking inspiration from real courts of law, and seeing which parts meaningfully create opportunity for conflict and roleplay, and condensing it into a manageable amount of rules for use in game.
+Real-life Legal procedures are incredibly pedantic, formal, and take ages. We are not trying to emulate legal procedures for realism's sake. We are taking inspiration from real courts of law, and seeing which parts meaningfully create opportunity for conflict and roleplay, and condensing it into a manageable amount of rules for use in game.
 
 Many people are familiar with legal stories and dramas, with court cases in TV shows, and video games. The goal is to take that larger-than-life, dramaticized version of court, and inject that into the game.
 
@@ -161,11 +193,11 @@ Every major crime becomes it's own story and fight in court. More moving parts c
 ## Roundflow & Player interaction
 
 This is a major change to sentencing and criminal interactions. It will affect every single arrest, impact almost any antagonist role that commits a crime.
-This is why I have intentionally designed Summary Hearings to be quick and efficient, and emulate the old Warden quick sentencing. Not every crime needs a full on procedure; we should be putting time and effort into places where it matters, like major crimes.
+This is why we have intentionally designed Summary Hearings to be quick and efficient, and emulate the old Warden quick sentencing. Not every crime needs a full on procedure; we should be putting time and effort into places where it matters, like major crimes.
 
 There will be a large variation in how Legal players interpret their role. Some JOs will be extremely strict and overly harsh, and create tons of conflict. Some will be incredibly lenient and get in trouble with the XO. This is intentional, and welcomed.
 
-I mentioned it in the relevant section, but Trials are entirely opt-in. No one will be forced into an hour-long legal battle unless they want to. All players who are charged with a crime will have to interact with the legal system in some capacity, but it should never completely consume their round unless they want it to.
+It is mentioned in the relevant section, but Trials are entirely opt-in. No one will be forced into an hour-long legal battle unless they want to. All players who are charged with a crime will have to interact with the legal system in some capacity, but it should never completely consume their round unless they want it to.
 
 ## Administrative & Server Rule Impact (if applicable)
 
