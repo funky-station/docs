@@ -214,7 +214,7 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 |  | Assault (V) | Mutilation (V) | Prevention of Revival (V) |
 |  |  | Kidnapping (W) | Suppression of Free Will (W) |
 | Cannibalism | Animal Cruelty | Bribery | Refusal of Lawful Implantation |
-|  |  | Tax Evasion | Breach of NT Contract |
+|  | Failure to Pay a Fine | Tax Evasion | Breach of NT Contract |
 
 ### Crime Specifications:
 | A | Access | Existing where you are not allowed. |
@@ -312,6 +312,7 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 | :---- | :---- | :---- |
 | Infraction | Cannibalism | To consume a portion of another sapient being, without express consent. |
 | Misdemeanor | Animal Cruelty | Inflicting excessive harm on a living being, except when required for medical treatment, scientific research, or the preparation of food. |
+| Misdemeanor | Failure to Pay a Fine | Failure to pay a legally imposed fine within the required timeframe. |
 | Felony | Bribery | Offering or giving gifts, money, or favors to influence Command to act outside of their allowed duties. |
 | Felony | Tax Evasion | Not paying NanoTrasen-mandated scrip taxes, or using non-scrip currencies to avoid paying taxes. |
 | Capital Offense | Refusal of Lawful Implantation | Refusing to accept a lawful implant from Security personnel while in custody. |
