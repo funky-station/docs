@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| SOP Workgroup, design doc authored by Joaco545 | :x: | TBD |
+| SOP Workgroup, Design Doc written by Joaco545 | :x: No | TBD |
 
 ## Overview
 
@@ -12,9 +12,10 @@ Space law has been revised to conform to the style of a legal document.
 The crime list has been expanded, and sentencing guidelines have been simplified.
 Contraband has been vaguelawed.
 
+
 ## Background
 
-Funky Station has been changed to have a Corporation vs Crew / Class Conflict theme. This requires updating Space Law as it no longer fits the theme.
+Funky Station has been changed to have a Corporation vs Crew, Class Conflict theme. This requires updating Space Law as it no longer fits the theme.
 Currently, space law feels like something an external entity that is not Nanotrasen has set in place, and is forcing NT to comply with it; We aim to change that feeling completely.
 We also took this opportunity to add some things to increase the RP potential, coupled with the [sentencing changes](article-5_design_doc.md).
 
@@ -60,20 +61,17 @@ Note: Execution requires Captain and XO (HOP) approval
 Big times have been standardized so that sentencing gets easier. They now directly depend on their category, instead of the individual crime.
 
 The crime list has also been expanded to give NT more power over how people and unions behave. The line between a strike and a riot is a thin one.
-We expect security vs crew to increase the friction between NT-Command and the Crew, giving more opportunities for escalation should the players choose to do so.
+We expect security vs crew to increase the friction between Command and the Crew, giving more opportunities for escalation should the players choose to do so.
 
 #### Infraction enforment
 Infractions are not meant to be something everyone needs to go to a judge for; They will be handed out by Security.
-These two new things will need to be implemented:
-- Sec will need to get a new device capable of printing fines, and;
-- An ATM-like device near the courtroom that allows players to pay the fine, or page the judge to dispute it.
-  As a perverse incentive, fines will go to the Security department’s budget, and the Head of Security will be able to use those funds to buy things for the team or increase the pay of Security employees.
-
+Fines can be disputed, but that requires the player to say they want to do that (See [Technical Considerations](#technical-considerations)).
+As a perverse incentive, fines made by Security will go to the Security department’s budget, and the Head of Security will be able to use those funds to buy things for the team or increase the pay of Security employees.
 
 ### Corporate Law: Contraband Classifications
 Old Contraband has been replaced by Vaguelawed Contraband. To support this change, contraband markers will need to be removed from the game.
 These changes were made to increase the RP potential, as now, confiscating something is a choice to be made by players, and not by a marker.
-This also makes meteshielded components harder to identify, as again, there is no marker, making confiscation a must (Syndicate pajamas, anyone?)
+This also makes meteshielded components harder to identify, unlike the old system which made confiscation a must (Syndicate pajamas, anyone?)
 It is also another way for escalation to happen is Sec confiscates too much or too little with the crew and command, respectively 
 
 ### Corporate Law: Legal Exemptions
@@ -97,9 +95,23 @@ A lot of these changes have been done with two pillars in mind:
 
 ## Roundflow & Player interaction
 
-Corporate Law is something that will permeate each round from roundstart, and all players will have to engage with it.
-While common sense will keep most players outside of Securities radar, it will still be something present.
+Corporate Law is something that will permeate each round from roundstart till evac docs on CC, and all players will have to engage with it.
+Common sense will keep most players outside of Securities radar, but it will still be something present.
+
+Example of Non-Antag Escalation Oportunities:
+As an example an assitant could get fined by security for Loitering, the assistant, not able to get the Scrip to pay the fine, gets charged with Failure to Pay a Fine. This builds up resentment, and once they are out of the brig, the look for other people wronged by sec and start a strike.
+As the strike was not approved, Security tries to split up the strike. First peacefully, then by using Tear Gas. Then the thing turns violent and now there is a partial riot on the station.
+
+Example of Antag Shielded Contra:
+A wizard appears on the station, a security officer stops them for a random search. They see some clothing and an orb, think nothing of it, and let them go. Half an hour later the wizard has killed 3 people and is captured, this time command gets involved and recognizes that the orb and clothes are used for casting the dangerous spells the wizard has been using per the CTMs info. They decide to confiscate the items saying that their combined use is like that of a major weapon
+
 
 ## Administrative & Server Rule Impact (if applicable)
 
 As mentioned on the main doc, with so many changes we think players will AHelp more to ask for clarification on said changes.
+
+## Techincal Considerations
+
+For infraction enfocement, two new things will need to be implemented:
+- Sec will need to get a new device capable of printing fines, and;
+- An ATM-like device near the courtroom that allows players to pay the fine, or give the option to page the judge for it to be disputed.
