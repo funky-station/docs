@@ -27,7 +27,7 @@ Nanotrasen Colonial Law and Procedure is split into 5 parts, called articles:
 ### Article 1 - Station Regulations
 Covers general station behaviour: Alert levels, Permits, Paperwork, Hiring, Promotions and more
 
-*[Design Document: Article 1 - Station Regulations](./station_protocol_rework/article-1_design_doc.md)*
+*[Design Document: Article 1 - Station Regulations](./station_protocol_rework/Article 1 - Station Regulations.md)*
 
 *[Article 1 - Station Regulations](./station_protocol_rework/Article\ 1\ -\ Station\ Regulations.md)*
 ### Article 2 - Corporate law
