@@ -5,10 +5,10 @@
 # Station Protocol Rework / Nanotrasen Colonial Law and Procedure
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| SOP Workgroup | :x: | TBD |
+| SOP Workgroup | :x: No | TBD |
 
 Leader: Catty
-Members: Joaco545, Alicios, Scrambledking, Gamercodeleo1/funkycmm, Goobie (and many other that I need to read chat to get)
+Members: Alicios, Catz, Dusty\_Plant, Fish Chief-cap, Gamercodeleo1, Goobie, IdemFromidemland, Joaco545, Scrambledking
 Many thanks to the Admin team and Tay for pitching in
 
 ## Overview
