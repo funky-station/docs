@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| SOP Workgroup, Design Doc written by Joaco545 | :x: No | TBD |
+| SOP Workgroup, Document written by Joaco545 | :x: No | TBD |
 
 ## Overview
 
