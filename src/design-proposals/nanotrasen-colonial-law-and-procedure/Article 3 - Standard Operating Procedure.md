@@ -187,7 +187,7 @@ Acting Command, while still held to the same SOP as the standard position, are a
 
 ### The Judicial Officer is to:
 
-1. Hold court hearings and trials in accordance with NanoTrasen Court Protocol.  
+1. Hold court hearings and trials in accordance with NTCLP Article 5.  
 2. Ensure that hearings and trials are fast and efficient, but still as thorough as necessary.  
 	- a. The Judicial Officer is to ensure that time and resources are not spent on frivolous cases, and that the type of proceeding is held in accordance with severity and importance.  
 	- b. The Judicial Officer is to ensure that lesser court proceedings do not overly interrupt or impede more important station functions.__
@@ -199,12 +199,12 @@ Acting Command, while still held to the same SOP as the standard position, are a
 	- a. IAAs are primarily to represent the side of NanoTrasen in court, whether it be prosecution or defense.__
 	- b. IAAs may only represent a party against NanoTrasen in the complete absence of a Lawyer.
 2. Ensure Standard Operating Procedure is being properly followed, and to report breaches and concerns to the relevant Head of Staff.__
-3. Produce regular departmental audits and reports, and send them to the Executive Officer for review.__
+3. Produce regular departmental audits and reports, and present them to the Executive Officer for review.__
 	
 ### Lawyers are to:
 1. Prioritize answering court summons and requests for representation above other duties.
-	- a. Lawyers may represent the side of NanoTrasen if they necessary, but should defer the responsibility to Internal Affairs Agents.__
-2. Avoid obstructing Security duties, unless specifically requested by an enforcement officer.__
+	- a. Lawyers may represent the side of NanoTrasen if necessary, but should defer the responsibility to any present Internal Affairs Agents.__
+2. Avoid obstructing Security duties, unless specifically requested by an enforcement authority.__
 2. Provide legal advice upon request.
 
 ---
