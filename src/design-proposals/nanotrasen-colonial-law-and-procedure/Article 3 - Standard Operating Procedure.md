@@ -3,14 +3,15 @@
 
 ## Table of Contents:
 1. Command  
-3. Central Command
+2. Central Command__
 3. General Crew  
 4. Security  
-5. Logistics  
-6. Engineering  
-7. Medical  
-8. Science 
-9. Service
+5. Legal__
+6. Logistics  
+7. Engineering  
+8. Medical  
+9. Science__
+10. Service
 
 ---
 ## 1 | Command:
@@ -34,7 +35,7 @@
 5. ensure that Nanotrasen Colonial Law and Procedure is being enforced, in conjunction with Central Command VIPs.  
 6. ensure the safety of the station's nuclear authentication disk at all costs.
 
-### The Head of Personnel is:
+### The Executive Officer is:
 
 1. to not provide higher levels of access to personnel without receiving authorization from the relevant Command Personnel for that access. If an access is not restricted to a department or position, the HoP may use their discretion.  
 2. to issue warrants to security should there be a valid reason for the warrant.  
@@ -46,7 +47,8 @@
    1. avoid being disruptive to essential station activities  
    2. promote products in a manner consistent with Nanotrasen Values.  
    3. avoid becoming an expense greater than the value provided by the campaign.  
-   4. take payment for any services advertised that are not provided officially by Nanotrasen.
+   4. take payment for any services advertised that are not provided officially by Nanotrasen.__
+7. monitor major legal decisions in order to raise necessary concerns and authorizations to the Captain.
 
 ### The Head of Security is:
 
@@ -130,6 +132,7 @@ Acting Command, while still held to the same SOP as the standard position, are a
 6.	act as oversight for any proposed votes of no confidence.
 		- This includes ensuring that all votes are properly counted and recorded.
 7. resolve any Standard Operating Procedure related disputes locally if possible.
+
 ---
 
 ## 3 | General Crew:
@@ -154,12 +157,6 @@ Acting Command, while still held to the same SOP as the standard position, are a
 3. Uphold and maintain NanoTrasen’s authority.  
 4. Follow the Security Rules of Conduct.
 
-### The Judicial Officer is to:
-
-1. Hold court hearings and trials in accordance with NanoTrasen Court Protocol.  
-2. Ensure that hearings and trials are fast and efficient, but still as thorough as necessary.  
-	- a. The Judicial Officer is to ensure that time and resources are not spent on frivolous cases, and that the type of proceeding is held in accordance with severity and importance.  
-	- b. The Judicial Officer is to ensure that lesser court proceedings do not overly interrupt or impede more important station functions.
 
 ### The Warden is to:
 
@@ -184,11 +181,35 @@ Acting Command, while still held to the same SOP as the standard position, are a
 1. Read all of Corporate Law before doing any field work.  
 2. Request that the Head of Security assigns them a partner for practical training.
 
+---
+
+## 5 | Legal:
+
+### The Judicial Officer is to:
+
+1. Hold court hearings and trials in accordance with NanoTrasen Court Protocol.  
+2. Ensure that hearings and trials are fast and efficient, but still as thorough as necessary.  
+	- a. The Judicial Officer is to ensure that time and resources are not spent on frivolous cases, and that the type of proceeding is held in accordance with severity and importance.  
+	- b. The Judicial Officer is to ensure that lesser court proceedings do not overly interrupt or impede more important station functions.__
+3. Communicate with the Executive Officer regarding major court decisions.
+
+### Internal Affairs Agents are to:
+
+1. Prioritize answering court summons and requests for representation above other duties.__
+	- a. IAAs are primarily to represent the side of NanoTrasen in court, whether it be prosecution or defense.__
+	- b. IAAs may only represent a party against NanoTrasen in the complete absence of a Lawyer.
+2. Ensure Standard Operating Procedure is being properly followed, and to report breaches and concerns to the relevant Head of Staff.__
+3. Produce regular departmental audits and reports, and send them to the Executive Officer for review.__
+	
 ### Lawyers are to:
+1. Prioritize answering court summons and requests for representation above other duties.
+	- a. Lawyers may represent the side of NanoTrasen if they necessary, but should defer the responsibility to Internal Affairs Agents.__
+2. Avoid obstructing Security duties, unless specifically requested by an enforcement officer.__
+2. Provide legal advice upon request.
 
 ---
 
-## 5 | Logistics:
+## 6 | Logistics:
 
 ### Cargo Technicians are:
 
@@ -225,7 +246,7 @@ Acting Command, while still held to the same SOP as the standard position, are a
 
 ---
 
-## 6 | Engineering:
+## 7 | Engineering:
 
 ### Engineers are to:
 
@@ -244,7 +265,7 @@ Acting Command, while still held to the same SOP as the standard position, are a
 
 ---
 
-## 7 | Medical:
+## 8 | Medical:
 
 ### Doctors are:
 
@@ -295,7 +316,7 @@ Acting Command, while still held to the same SOP as the standard position, are a
 
 ---
 
-## 8 | Science:
+## 9 | Science:
 
 ### Scientists are:
 
@@ -310,7 +331,7 @@ Acting Command, while still held to the same SOP as the standard position, are a
 
 ---
 
-## 9 | Service:
+## 10 | Service:
 
 ### Service Workers are to:
 
