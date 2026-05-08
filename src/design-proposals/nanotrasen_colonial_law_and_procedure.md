@@ -10,15 +10,17 @@ Many thanks to Tay, the Admin team, and members of the discord for pitching in
 
 ## Overview
 
-A very short, maybe three sentence summary of what this proposal is about. A high level "overview" or "what this adds".
+Nanotrasen Colonial Law and Procedure is a large-scale overhaul of Funky's in-character legal, procedural, and bureaucratic framework.
 
+The project restructures Space Law and Standard Operating Procedure into a unified framework intended to better support the themes of class conflict, corporate oppression, and roleplay.
 
 ## Background
 
-Summarize any information that is needed to contextualize the proposed changes, e.g. the current state of the game.
+Much of Funky's current SOP and Space Law originates from Wizden or Goob, whoose directions no longer align with the servers identity and round pacing.
 
-Also link any relevant discussions on Discord, GitHub, or HackMD that are relevant to the proposal.
+Existing text often blurs the line between roleplay guidelines and enforceable server expectations, not allowing for meaningful conflict due to fears of admin intervention and limiting player options.
 
+This proposal also serves as groundwork for future mechanical and organizational changes intended to better align gameplay incentives with Funky's roleplay direction.
 
 ## Features to be added
 
@@ -66,21 +68,27 @@ The SOP workgroup is working on other design docs that should help change that s
 [Logistics & Service Restructuring](https://github.com/funky-station/docs/pull/96)
 
 ## Game Design Rationale
+Nanotrasen Colonial Law and Procedure exists to reinforce Funky Station's identity as a roleplay-focused server where conflict, corporate hierarchy, and absurdity permeate every round. The proposal is not intended to create rigid rules, but rather to provide players with more believable structures to push against, exploit, or weaponize during a round.
 
-Consider addressing:
-- How does the feature align with our [Core Design Principles](../design/design-principles.md) and game philosphy?
+The proposals aims to allow player-driven escalation, slower and more deliberate pacing, and emergent storytelling by using systems with additional layers of interaction through procedure, hearings, negotiations, union disputes, paperwork, and internal politics.
 
-Mention:
-New Theming
-Escalation Oportunities by non antags, and more options for antags
-Seriously Silly (clown exemption :godo:)
-Autenticity increased with:
-- The use of some legaleese
-- More atuned to the theme and NT's opression
-Take things slow (point at trials)
-Maximixing RP Potential is all over the place in this doc
-Dynamic Environment respected, as it all depends on where players want to take this
+### New Themeing
+The NTCLP has be written to promote a stronger corporate/colonial identity fitting of Nanotrasen; All helping to establish the feeling of an oppressive corporate environment.
 
+### Escalation Oportunities
+The proposal increases opportunities for escalation for both antagonists and non-antagonists.
+
+Bureaucratic Procedure, Trials, Hearings, SOP Disputes, and Union Activity create new forms of engament where violence is not needed (at first at least). Players gain more opportunities to abuse or resist authority, manipulate procedure, organize collectively, or escalate situations socially.
+
+### Take Things Slow
+Taking advantage of the 2 hour shifts of Funky, we have pushed for changes to how sentencing works, rather than immediately resolving incidents through violence or instant punishment, players are encouraged to interact through dialogue, negotiation, and a more formal process.
+
+### Maximising RP Potential
+Every article included in this proposal is intended to create additional opportunities for roleplay.
+
+### Dynamic Enviroment
+We have taken care to not limit player options when doing things, for example making SOP a basic job description rather than a step by step process of how to do your job.
+Different people may enforce regulations differently, leading to more authoritarian or corrupt themes, a more negotiative and compasionate command member trapped on the middle of the war of crew vs NT profits, or more chaotic shifts where people openly rebeel
 
 ## Roundflow & Player interaction
 
