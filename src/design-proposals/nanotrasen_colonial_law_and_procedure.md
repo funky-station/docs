@@ -63,6 +63,7 @@ SOP has to be overhauled to better fit the themes and expectations of Funky Stat
 While this PR focuses only on the regulations themselves, many supporting changes will need to be done to mechanically enforce the new vision Funky Station has.
 The SOP workgroup is working on other design docs that should help change that situation and align mechanics with the text and intent behind them.
 
+[Logistics & Service Restructuring](https://github.com/funky-station/docs/pull/96)
 
 ## Game Design Rationale
 
