@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| Alicios + SOP Workgroup | :warning: Partially | https://github.com/Joaco545/Funky-Station-Docs/blob/6ddabb8d534ab87adc98eefe31af0f1ae2e789a5/src/design-proposals/station_protocol_rework/Article%205%20-%20Sentencing%2C%20Trials%2C%20and%20Hearings.md |
+| SOP Workgroup, Document written by Alicios| :x: No | TBD |
 
 ## Overview
 

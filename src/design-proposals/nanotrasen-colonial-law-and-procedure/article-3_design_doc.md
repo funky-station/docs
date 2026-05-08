@@ -1,12 +1,8 @@
-
-
-
-
-# Nanotrasen Colonial Law and Procedures, Article 3: Standard Operating Procedure
+# Nanotrasen Colonial Law and Procedures: Standard Operating Procedure
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| SOP Workgroup, Authored by Gamercodeleo1 |:x: No | TBD |
+| SOP Workgroup, Document written by Gamercodeleo1 |:x: No | TBD |
 
 ## Overview
 

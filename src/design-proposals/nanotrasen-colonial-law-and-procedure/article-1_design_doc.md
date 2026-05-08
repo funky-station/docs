@@ -1,10 +1,8 @@
-# Station Regulations
-
-Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
+# Nanotrasen Colonial Law and Procedure: Station Regulations
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| SOP workgroup, Written by Scrambleking | :x: No | TBD |
+| SOP workgroup, Document written by Scrambleking | :x: No | TBD |
 
 ## Overview
 
