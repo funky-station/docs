@@ -122,7 +122,14 @@ Acting Command, while still held to the same SOP as the standard position, are a
 ## 2 | Central Command:
 
 ### NanoTrasen Representative SOP:
-
+1.	coordinate with the Captain and Executive Officer to ensure that Standard Operating Procedure is being followed and adequately enforced.
+2.	assist and advise any Command members on the proper enforcement of Standard Operating Procedure.
+3.	advise any local Internal Affairs Agents on Standard Operating Procedure.
+4.	Communicate and advocate for NanoTrasen Policy aboard the station.
+5.	produce regular reports about station happenings, and fax them to Central Command
+6.	act as oversight for any proposed votes of no confidence.
+		- This includes ensuring that all votes are properly counted and recorded.
+7. resolve any Standard Operating Procedure related disputes locally if possible.
 ---
 
 ## 3 | General Crew:
