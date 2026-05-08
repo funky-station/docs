@@ -16,12 +16,7 @@ This doc will cover the Standard Operating Procedures Section of the new Nanotra
 This section of the Nanotrasen Colonial Law and Procedures (I'll refer to it at NCLP from now on) is designed to rework SOP to fit better with the new vision of the game post-forky. Current SOP tends towards being very oddly written, very inconsistent, and is not aligned with the new vision for the game. SOP also has a bad habit of simply being server rules, which is very counteractive to the point of SOP, which is to cause conflict. SOP that is also a rule, and thus cannot be broken, should be avoided at all costs. There has also been a focus on making command further from the regular crew, to play further into our theme of class conflict.
 
 ## Features to be added
-There are many things planned to be changed in SOP so I will give each their own section. A large part of the SOP has already been drafted. This section will cover the proposed changes and use examples from that draft. If you would like to see the draft, check the related drafts of the document:
-[Article 1 - Station Regulations](./Article\ 1\ -\ Station\ Regulations.md)
-[Article 2 - Corporate Law](./Article\ 2\ -\ Corporate\ law.md)
-
-[Article 4- Unions](./Article\ 1\ -\ Unions.md)
-[Article 5 - Sentencing, Trials, and Hearings](./Article\ 5\ -\ Sentencing,\ Trials,\ and\ Hearings.md)
+There are many things planned to be changed in SOP so I will give each their own section. A large part of the SOP has already been drafted. This section will cover the proposed changes and use examples from that draft. If you would like to see the draft, check the related drafts of the document under `station_protocol_rework`.
 
 ### SOP Requirements
 These are guidelines for drafting the SOP that cover how we expect SOP to be written, and things to be included.
