@@ -37,7 +37,7 @@ To better realize the idea of NT's opression, Space Law has been re-written, exp
 
 *[Design Document: Article 2 - Corporate Law](./station_protocol_rework/article-2_design_doc.md)*
 
-*[Article 2 - Corporate Law](./station_protocol_rework/Article%202%20-%20Corporate%20Law.md)*
+*[Article 2 - Corporate Law](./station_protocol_rework/Article%202%20-%20Corporate%20law.md)*
 ### Article 3 - Standard Operating Procedure
 SOP has to be overhauled to better fit the themes and expectations of Funky Station. All SOP is to receive a rewrite and new guiding principals.
 
