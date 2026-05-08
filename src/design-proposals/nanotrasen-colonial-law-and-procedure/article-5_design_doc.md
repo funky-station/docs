@@ -28,7 +28,7 @@ Essentially, any and all interaction with legal battles in the game's current st
 
 ## Features to be added
 
-### Job Restructuring:
+### Job Restructuring & Legal Department:
 
 Many of these changes are part of the larger design proposals from the SOP Workgroup, but it is important to highlight the ones that are vital for the Legal System.
 
@@ -39,9 +39,17 @@ Lawyer (Civilian) -> Lawyer (Legal)
 
 There is a new clear division between Security, and Legal staff. This will come with a comms channel specifically for Legal staff, to help the Legal team facilitate court cases, and hearings.
 
+#### Legal Department
 Legal becomes its own department, with its own comms channel to facilitate smooth court operations, but it does not need major mapping changes.
 Existing maps can just reuse the current Lawyer, Magistrate, HOP, and IAA offices, as well as the Court.
 
+A key design decision here is that the Legal Department is not solely focused on Legal/Security concerns. As SOP and Law are largely unified with our workgroup's proposal, the Legal department would be focused not just on court proceedings and law interpretations, but on also on administrative, bureaucratic, and regulatory duties.
+
+The Executive Officer would still be the primary authority on access changes, job hirings, and permit drafting.
+The Judicial Officer gaining the power of legal regulation expands the Legal department's regulatory authority.
+The Internal Affairs Agents are still concerned with performing departmental audits and SOP enforcement.
+
+The Legal Department stands to separate administrative duties away from CCVIPs, which should be an outside, third party entity, and solidify regulatory power under normal command structures, and especially under the Captain and XO.
 
 ### Job Responsibilities & Authority:
 
