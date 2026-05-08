@@ -3,14 +3,14 @@
 
 ## Table of Contents:
 1. Command  
-2. Central Command__
+2. Central Command  
 3. General Crew  
 4. Security  
-5. Legal__
+5. Legal  
 6. Logistics  
 7. Engineering  
 8. Medical  
-9. Science__
+9. Science  
 10. Service
 
 ---
@@ -190,21 +190,22 @@ Acting Command, while still held to the same SOP as the standard position, are a
 1. Hold court hearings and trials in accordance with NTCLP Article 5.  
 2. Ensure that hearings and trials are fast and efficient, but still as thorough as necessary.  
 	- a. The Judicial Officer is to ensure that time and resources are not spent on frivolous cases, and that the type of proceeding is held in accordance with severity and importance.  
-	- b. The Judicial Officer is to ensure that lesser court proceedings do not overly interrupt or impede more important station functions.__
+	- b. The Judicial Officer is to ensure that lesser court proceedings do not overly interrupt or impede more important station functions.  
 3. Communicate with the Executive Officer regarding major court decisions.
 
 ### Internal Affairs Agents are to:
 
-1. Prioritize answering court summons and requests for representation above other duties.__
-	- a. IAAs are primarily to represent the side of NanoTrasen in court, whether it be prosecution or defense.__
-	- b. IAAs may only represent a party against NanoTrasen in the complete absence of a Lawyer.
-2. Ensure Standard Operating Procedure is being properly followed, and to report breaches and concerns to the relevant Head of Staff.__
-3. Produce regular departmental audits and reports, and present them to the Executive Officer for review.__
-	
+1. Prioritize answering court summons and requests for representation above other duties.  
+	- a. IAAs are primarily to represent the side of NanoTrasen in court, whether it be prosecution or defense.  
+	- b. IAAs may only represent a party against NanoTrasen in the complete absence of a Lawyer.  
+2. Ensure Standard Operating Procedure is being properly followed, and to report breaches and concerns to the relevant Head of Staff.  
+3. Produce regular departmental audits and reports, and present them to the Executive Officer for review.
+	  
 ### Lawyers are to:
-1. Prioritize answering court summons and requests for representation above other duties.
-	- a. Lawyers may represent the side of NanoTrasen if necessary, but should defer the responsibility to any present Internal Affairs Agents.__
-2. Avoid obstructing Security duties, unless specifically requested by an enforcement authority.__
+
+1. Prioritize answering court summons and requests for representation above other duties.  
+	- a. Lawyers may represent the side of NanoTrasen if necessary, but should defer the responsibility to any present Internal Affairs Agents.  
+2. Avoid obstructing Security duties, unless specifically requested by an enforcement authority.  
 2. Provide legal advice upon request.
 
 ---
