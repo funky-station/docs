@@ -60,12 +60,14 @@ SOP has to be overhauled to better fit the themes and expectations of Funky Stat
 
 *[Article 5 - Trials and Hearings](./station_protocol_rework/Article%205%20-%20Sentencing,%20Trials,%20and%20Hearings.md)*
 
-### Extra considerations
+### Extra Considerations
 "Behavior follows incentives"
 While this PR focuses only on the regulations themselves, many supporting changes will need to be done to mechanically enforce the new vision Funky Station has.
 The SOP workgroup is working on other design docs that should help change that situation and align mechanics with the text and intent behind them.
 
 [Logistics & Service Restructuring](https://github.com/funky-station/docs/pull/96)
+
+[Command and their Paperwork](https://github.com/funky-station/docs/pull/98)
 
 ## Game Design Rationale
 Nanotrasen Colonial Law and Procedure exists to reinforce Funky Station's identity as a roleplay-focused server where conflict, corporate hierarchy, and absurdity permeate every round. The proposal is not intended to create rigid rules, but rather to provide players with more believable structures to push against, exploit, or weaponize during a round.
