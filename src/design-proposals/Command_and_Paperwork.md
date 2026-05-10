@@ -246,6 +246,10 @@ In round this is expected to have an impact on how command players interact with
 As opposed to performing their jobs as Job+ they will be pushed further into commanding, overseeing, and administrating their departments.
 Should a command member neglect to command, or perform their command duties, that is when the NTR would interfere with the situation.
 
+As stated before, this paperwork is intended to be upheld in a similar vein as SOP. 
+It is meant to guide players who are new to the job, and provide an in-round hook for people to work off of.
+The paperwork being labours and "extra" is mean to encourage some of the more experianced players to get complacent, and the less experianced players to grow weary of it.
+When that begins to happen it provides an optional in-character hook for people to play off of through the new Fines system (See the CCVIP/NTR articles for more).
 
 # Security
 
