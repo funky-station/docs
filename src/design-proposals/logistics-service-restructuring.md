@@ -30,7 +30,7 @@ The Hospitality Director is a new job responsible for coordinating the Service d
 
 - The Hospitality Director is a command job, and starts mindshielded like all other command jobs.
 - The Hospitality Director has their own office near the Service area, with the Service communication console (HOP will no longer have theirs) and Service job board (see below).
-- Hospitality Director requires 2 hours of Service Worker, 2 hours of Bartender, 2 hours of Cook (see "Service Job Changes" below), and 8 hours of total Service department playtime to unlock.
+- Hospitality Director requires 2 hours of Service Worker, 2 hours of Bartender, 2 hours of Chef, and 8 hours of total Service department playtime to unlock.
 
 Aesthetically, clothing and decor for the Hospitality Director should focus on a "fine dining" or "first-class hotel" aesthetic to indicate their role and superiority to other members of the Service department. For example, their "default" outfit would ideally be a buttoned uniform and pillbox hat, akin to a valet.
 
@@ -42,11 +42,7 @@ There will be multiple changes made to Service jobs themselves. In alphabetical 
 
 **Chaplain:** Will be made part of the Service department proper, with a dark green icon.
 
-**Chef:** The default title will be changed to "Cook", and the "Sous-Chef" and "Line Cook" titles will be removed. This is because "Chef", "Sous-Chef", and "Line Cook" are all specific hierarchical titles within a kitchen that don't really work as job title options. More Cook slots will be added to maps proportional to their ideal playercount, encouraging the organisation of a "kitchen brigade" to coordinate on meals.
-
 **Musician:** Will be made part of the Service department proper, with a dark green icon.
-
-**Reporter:** The Reporter, as an codified job, will no longer exist. Instead, Reporter areas and equipment will be all-access, leaving crew to publish their own news stories as they desire.
 
 **Service Worker:** This will be recontextualised into more of a "waiter" job, and the bulk of their work will be communicating orders and serving food to customers of the Service area. Service Workers can still shadow other Service jobs and fill in when needed, but they no longer start with Bar or Kitchen access.
 
@@ -101,16 +97,6 @@ At the moment, Service is a department that is mostly left to its own devices, a
 
 ### Maximising Roleplay Potential
 
-### Adding More Cooks
-
-The kitchen is a great avenue for job-based roleplay that's never really been explored. Ideally, it would allow for an environment where fast-paced coordination punctuates the round, with multiple different cooks working on different parts of the meals to get them under the waiter's cloche as soon as possible. Adding more people to the kitchen is vital for this angle.
-
-#### The Nanotrasen Award for Excellence in Journalism
-
-Removing Reporter from being a codified job fixes a lot of baggage the job had. If Nanotrasen specifically hires a Reporter, why would they be allowed to report the truth? The Reporter had SOP prohibiting them from slandering the station, but something about this interpretation felt a bit flat. It didn't really generate as much conflict as a journalist being on a corrupt space station would.
-
-By putting reporting into the hands of crew, it helps reinforce the class dynamic we're going for. No specific SOP and expectations for reporting means that more crew are going to publish something that corporate would not approve of, and there are going to be more mysterious "suicides by five gunshots to the back of the head" to drive conflict between crew  and Command/Security.
-
 #### Service Events
 
 Service's events provide a prompt for players to get together in ways they otherwise would not, and further cement Service as a department that facilitates social interaction across other departments.
@@ -127,10 +113,6 @@ The Hospitality Director, unlike the previous incarnation of the Head of Personn
 ### Service Event Console
 
 The Service event console will likely be used around 1-2 times a round, if there is a Hospitality Director in the game. This will be enforced with relatively long preparation times for each event (which could be between 30 to 45 minutes for most events).
-
-## Administrative & Server Rule Impact
-
-Opening up reporting outside of a single job carries the risk of increasing News Console abuse.
 
 # Technical Considerations
 
