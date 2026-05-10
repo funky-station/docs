@@ -148,6 +148,9 @@ This will allow it to be used to take pressure off of medics quickly, and fix OD
 Additionally the CMO's hand held crew monitor will be allowed for chem-dispensor integration, allowing for quick checking of chemical levels. 
 This gives them greater knowledge over their department which assists in providing orders.
 
+Room Tags can be added to maps/construction options that alow the CMO (or other staff) to designate rooms per doctor. 
+This can be hooked off of the announcement system's displayboard boards with an added labeling UI.
+
 2. Paperwork
 
 Allow medical scanners to print out an injury report, or otherwise send it to a log (the first of which can be stolen from frontier) for insurance billing purposes (Can exist thematically even if we do not charge for medical treatment in round) and require CMO's signoff on injury reports.
