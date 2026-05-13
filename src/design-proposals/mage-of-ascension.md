@@ -48,7 +48,7 @@ Confluences are ley-line confluences—points where ley lines converge, opening 
 **Final confluence:**
 - Special, more visible confluence. Spawned via a ritual that the Mage gains at the final step of their spell tree.
 - Occupies a 3x3 area (similar to blood cult final rune rift).
-- Grants the capstone spell when opened.
+- When the mage finishes opening it, their character enters the confluence, disappears, and a monster from the eldritch realms comes out of the portal.
 
 ### 2. Spell Schools
 
@@ -63,7 +63,8 @@ Six schools: Necromancy, Elementalism, Honkamancy, Hemomancy, Dimensionalism, Ch
 **Progression:**
 - Each confluence opened: choose between two spells for that school.
 - Spells improve by tier as more confluences are opened.
-- Capstone spell: earned after opening the final confluence.
+- Final Leyline: A single shared objective for all the mages, each trying to escape through it. Only one can escape. The act of escaping through the leyline spawns a large monster (controlled by the player that went through the leyline, as they are cannonically in another sector now)
+- Eldritch monster: Spawned by the first mage to escape, themed around the school theme. Roughly dragon+ levels of power (slightly more dangerous than a dragon)
 
 **School themes (high level):**
 - **Necromancy:** Undead, death, resurrection. Capstone: transform into an immortal lich that reforms their body minutes after death.
@@ -103,7 +104,7 @@ Six schools: Necromancy, Elementalism, Honkamancy, Hemomancy, Dimensionalism, Ch
 ## Game Design Rationale
 
 - **Seriously Silly:** Honkamancy and Chaosmancy support absurd situations; other schools can still create memorable moments.
-- **No Winning or Losing:** Progression is about power growth and spectacle, not strict win/loss.
+- **No Winning or Losing:** Progression provides gradual progress, and a way to "checkpoint" your character and say that they suceeded and escaped, even if the monster that comes out of the rift is killed.
 - **Take Things Slow:** Confluence-opening and school choice create a 2–2.5 hour progression arc.
 - **Maximizing Roleplay Potential:** School choice and confluence locations create distinct mage identities and stories.
 
