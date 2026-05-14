@@ -327,7 +327,11 @@ The warden on the other hand is placed in more of a second in command position, 
 
 ## Administrative & Server Rule Impact (if applicable)
 
-This should have little to no rule/administration impact as it is focused on RP and player interactions.
+The tools throught this document should not be given to non-command members (or even other command members) without serious reasoning for it in round, as with current command item restriction rulings.
+
+For the paperwork, it should not be considered as a primary signal for command ineptitude, as it is intended as a tool for teaching, or otherwise going above in the role. In a "real" scenario involving emergancies such as is emulated in space station, most of the "emergancy" paperwork would not be done minuets after the incident, but rather after the chaos has ended. This is especialy true of the "emergancy report" paperworks, but even for standard paperwork during an emergancy. This however can also be called off by the captain in-round directly through red-alert SOP suspention as listed in the main SOP Workgroup document to further highlight this. 
+
+Lastly the HoS will be held to the same standard of all of command when it comes to combat. Just as the captain can give orders to security, but is not to act like a security officer, the HoS too is not to go out and fight without extenuating circumstances otherwise (such as a station ending threat coming to a head, or a low-population station/security force).
 
 ## Technical Considerations
 
