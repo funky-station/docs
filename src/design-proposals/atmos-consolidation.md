@@ -26,7 +26,7 @@ Chief Engineer will now require 25 hours in the Engineering department to unlock
 
 Most atmospheric equipment formerly restricted to Atmospheric Technicians will be renamed and/or moved around to make them more general engineering items (for example, atmospheric gas masks will just become engineering gas masks, and will be found in engineer lockers instead of atmospheric lockers). Atmospheric technician lockers will be replaced with "atmospheric equipment lockers", which feature equipment specific to atmospheric work (such as holofans and firesuits).
 
-Atmospheric-unique clothes can simply be removed, as they are merely palette swaps of existing Engineering clothing. The same goes for AtmosDrobes and Atmospheric Wardrobes. "Fluff" items like plushies and figurines of atmospheric technicians will also be removed. Atmospheric hardsuits will be removed in favour of the Montag XACU (see below).
+Atmospheric-unique clothes can simply be removed, as they are merely palette swaps of existing Engineering clothing. The same goes for AtmosDrobes and Atmospheric Wardrobes. "Fluff" items like plushies and figurines of atmospheric technicians will also be removed and/or renamed on a case-by-case basis. Atmospheric hardsuits will be removed in favour of the Montag XACU (see below).
 
 ### Montag XACU
 
@@ -49,7 +49,7 @@ Any job (that currently exists) that has access to Engineering will have access 
 ### Mapping Conventions
 
 Ideally, maps would also be amended to account for these changes. In addition to unmapping deprecated items and features:
-- Atmospherics as a subdepartment should be de-emphasised visually. "Atmospheric cyan" trimming, as well as separate front desks, locker areas, etc. should be reduced and/or remapped as appropriate.
+- Atmospherics as a subdepartment should be de-emphasised visually. "Atmospheric cyan" trimming, as well as separate front desks, locker areas, etc. should be reduced and/or remapped as appropriate, at least from an external perspective. Cyan trimming is still suitable for internal organisation regarding the atmos bay proper.
 - The atmospherics bay should be extended where appropriate to account for a larger amount of engineers working there.
 
 ## Game Design Rationale
