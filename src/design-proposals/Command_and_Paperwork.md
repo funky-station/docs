@@ -196,7 +196,7 @@ Borg Error Report forms including justification of law changes, or unusual incid
 
 1. Tools
 
-Boots, armour and belt (with tools) will be kept. 
+Boots, armour and belt will be kept. Tools reduced to standard tools with the exeption of an industrial welder and the jaws.
 
 Hand held power monitor will be kept, and expanded with an atmospherics monitor tab, along with a Nuclear Reactor and Supermatter computer Link. This will allow them to keep an eye on their power generation and reactor situations.
 
