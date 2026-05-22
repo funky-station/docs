@@ -3,7 +3,7 @@
 This guide assumes you have [Git](https://git-scm.com/downloads), a [GitHub](https://github.com/) account and the [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0).
 If you don't, it's fine, just go ahead and follow the links, select your platform, and watch the installers whirr. For GitHub, make an account if you don't have one already.
 
-Navigate to the [Funky Station GitHub repository](https://github.com/funky-station/funky-station), click on Fork on the right side of your screen. Name your fork whatever you want.
+Navigate to the [Funky Station GitHub repository](https://github.com/funky-station/forky-station), click on Fork on the right side of your screen. Name your fork whatever you want.
 Once it completes, you should see a new repository on your account. Click on the green Code button, select Local, HTTPS, and copy the URL in the box. 
 Congratulations, you now have your very own development build of Funky Station.
 
