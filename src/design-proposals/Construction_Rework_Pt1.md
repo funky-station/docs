@@ -8,7 +8,7 @@ Your title should convey the basic jist of your proposed changes. It should be s
 
 ## Overview
 
-A very short, maybe three sentence summary of what this proposal is about. A high level "overview" or "what this adds".
+This part is intended to initiate the rework of construction and the removal of RCDs, PRDs, and flatpacks. This part is planned in such a way that it can avoid the requirement of the UI rework through "use" radial systems.
 
 ## Background
 
