@@ -145,6 +145,17 @@ Acting Command, while still held to the same SOP as the standard position, are a
 	- a. Assistants answer directly to the Head of Personnel, and should work with them to find tasks throughout the shift.  
 3. undertake unorthodox business ventures only if they receive express approval and a permit, from the Head of Personnel.  
 	- a. Business ventures should benefit the station in some way, and not undertaken purely for personal profit.  
+	
+### The librarian is to:
+
+1. Keep a log of any and all loaned out books.
+2. Keep the library organised.
+   - a. The floor of the library must be free of loose books.
+   - b. Shelves must be labeled according to a sorting system.
+3. Ensure the quiet and sanctity of the library are preserved.
+4. Ensure there is no drinking or eating within the confines of the library.
+5. Ensure members of the crew have access to the library.
+6. Ensure the wellbeing of all books on station.
 
 ---
 
