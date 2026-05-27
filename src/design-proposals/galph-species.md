@@ -2,32 +2,34 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| dusty-plant, battlecruiser12, moxie | :x: No | TBD |
+| dusty-plant, battlecruiser12, moxie, scrambleking | :x: No | TBD |
 
 ## Overview
-Galphzzzeb (singular is Galph) are a new species who can be described as trunked bug-eyed floaty sea slug-skinned seals whose main feature is a third hand.
+Galphzzzeb (singular is Galph) are a new species who can be described as trunked bug-eyed floaty sea slug-skinned seals whose main feature is a semi-autonomous trunk slot.
 
 ## Background
 Funky is in need of more quirky species that add to the depth of the game in more than aesthetics. Galphzzzeb are a new species that does not follow conventional design and attempts to feel closer to the "truly alien",
  adding a lot of mechanics that make playing them a truly unique experience.
 Galphzzzeb come from a gas planet with a heavy atmosphere. They originated from a species of flower-eating grazers known as proto-Galph that would jump between floating moss islands using their gassy stomachs as buoyancy.
-Proto-Galph would graze on moss flowers for days on end, using their large degree of vision afforded by their large bulging eyes to avoid predators.
+Proto-Galph would graze on moss flowers for days on end, using the large degree of vision afforded by their large bulging eyes to avoid predators.
 Proto-Galph were a highly social species that would communicate using toots and snores in order to warn each other or advertise good grazing grounds. 
-Their fins and trunks allowed for high dexterity manipulation, needed to balance from floating island to floating island without falling too low and eventually leading to the use of tools.
+Their fins for high dexterity manipulation, needed to balance from floating island to floating island without falling too low and eventually leading to the use of tools.
 
 ## Features to be added
 Galphzzzeb would be a round start species people can create characters from and customize using markings.
 
-### Trunk hand
-Galphzzzeb have a trunk on their face in lieu of a mouth, which they use to speak but also hold items and eat.
-The trunk functions as a third hand which can be switched to as a hand like normal but cannot be used to drag objects.
-The trunk can pick items up and is dexterous enough to use them as well.
-When cuffed, Galphzzzeb see their trunk cuffed as well.
-To eat, Galphzzzeb need to pick up a food item in their trunk, upon which they passively begin eating it. The trunk hand will slowly dissovle and eat the food, which functionally makes Galphzzzeb take a bite out of food they are holding in their trunk once every twenty seconds.
-Drinking is as normal but requires the trunk hand to be empty.
-Eating pills requires patience or the use of a glass to drink them instead.
-Some space suits account for Galph morphology and allow for the use of the trunk hand, such as the paramedic, engineer, and security hardsuits. (heavy resprites required to add a trunk tube)
-Other space suits like emergency, EVA, NTSRA or prisoner EVA suits do not allow for the use of the trunk.
+### Trunk slot
+Galphzzzeb have a trunk on their face in lieu of a mouth, which they use to speak (along with their breathing flap) but also hold items and eat.
+the trunk slot is added between the two hand slots but does not function as a hand (cannot be swapped to)
+The trunk functions as a third pocket which will use any item it holds every twenty seconds (think of it as having a mind of its own). 
+This behaviour cannot be interrupted by moving but can be interrupted by being harmed.
+To eat, Galphzzzeb need to pick up a food item in their trunk, upon which they passively begin eating it. 
+The trunk hand will slowly dissovle and eat the food, which functionally makes Galphzzzeb take a bite out of food they are holding in their trunk once every twenty seconds.
+Drinking also requires this action.
+The use of pills likewise relies on the trunk slot, and feeding a Galph a pill, drink or meal will require putting it in their trunk slot.
+The trunk can carry anything a pocket can.
+Some space suits account for Galph morphology and allow for putting things in and out of the trunk slot, such as the paramedic, engineer, and security hardsuits. (heavy resprites required to add a trunk tube)
+Other space suits like emergency, EVA, NTSRA or prisoner EVA suits do not allow players to put things in and out of that slot, so proper forethought will be needed before going into space sporting these.
 Galphzzzeb DO NOT USE THEIR TRUNK TO BREATHE. They have a small breathing flap under the trunk which they use to absorb oxygen, as such they can wear medical or emergency masks.
 Wearing a breating or medical mask allows for the use of the trunk as it is not the breathing organ.
 
@@ -74,7 +76,7 @@ Galphzzzeb are silly creatures but exist in a serious environment. They can suff
 As said in Seriously Silly, Galphzzzeb are implemented realistically and impose a sense of realism despite the appearance of a goofy sci-fi alien.
 
 ### Dynamic Environment
-The inclusion of changes such as the third hand, floatiness or slow eating allows for interesting new gameplay or roleplay scenarios to develop as players learn to integrate the new features and traits into their playstyle.
+The inclusion of changes such as the trunk slot, floatiness or slow eating allows for interesting new gameplay or roleplay scenarios to develop as players learn to integrate the new features and traits into their playstyle.
 What's more, the species has a strong identity, both functionally and visually, which creates a sense of variety and richness.
 
 ## Roundflow & Player interaction
@@ -87,7 +89,7 @@ There is no reason to expect an impact on server rules or their enforcement.
 ## Technical Considerations
 There are many features to be added, some new items needed are the survival water vapor tanks and galph bags.
 There will be a need for clothing resprites or displacement mapping since Galphzzzeb are rotund, and some hardsuits have a trunk pipe.
-Ensuring the trunks function as described (notably enabling and disabling their use depending on factors such as wearing certain suits or being cuffed) will be mandatory.
+Ensuring the trunks function as described might be tricky.
 The stomach explosion mechanic may be difficult or possibly impossible to implement.
 The stomach floating mechanic may also be difficult to implement.
 The 320 vision feature will only come into effect if vision cones are ever implemented and may lead to balance concerns.
