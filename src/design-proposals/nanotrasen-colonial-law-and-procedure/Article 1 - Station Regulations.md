@@ -93,6 +93,10 @@ Standard CTM knowladge.
 
 Admin level knowladge, they know what they decide they know. 
 
+## Uniform Regulaions
+
+Nanotrasen personel are expected to wear uniforms from their job associated vend during working hours. Failure to do so without their command member's direct permission will result in administrative actions.
+
 ## Permits and Paperwork
 
 Paperwork
