@@ -55,6 +55,7 @@ SOP has to be overhauled to better fit the themes and expectations of Funky Stat
 *[Article 4 - Unions](./station_protocol_rework/Article%204%20-%20Unions.md)*
 
 ### Article 5 - Trials and Hearings
+Restructuring existing Legal roles to operate under the normal Command hierarchy, instead of CC, in order to reinforce the Captain's power. Moving the job of sentencing to the Magistrate to alleviate the Warden's duties, while expanding court protocol to provide a better platform for Legal RP scenarios.
 
 *[Design Document: Article 5 - Trials and Hearings](./station_protocol_rework/article-5_design_doc.md)*
 
