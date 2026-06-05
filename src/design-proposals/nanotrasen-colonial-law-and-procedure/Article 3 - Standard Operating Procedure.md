@@ -1,4 +1,5 @@
 
+
 # Article III - Standard Operating Procedures
 
 ## Table of Contents:
@@ -19,11 +20,11 @@
 ### All Command Personnel are to:
 
 1. Ensure the operational efficiency and safety of the station, primarily for their own department.  
-   1. Command is to ensure that their subordinate crew members and departmental assets are in working condition, and up to NanoTrasen Standards.  
+   a. Command is to ensure that their subordinate crew members and departmental assets are in working condition, and up to NanoTrasen Standards.  
 2. Uphold NanoTrasen’s authority and dignity upon their station.  
-   1. Command staff must never use any language or outwardly express opinions about NanoTrasen that may be considered defamatory or overtly negative.  
+   a. Command staff must never use any language or outwardly express opinions about NanoTrasen that may be considered defamatory or overtly negative.  
 3. Maintain confidentiality concerning NanoTrasen Corporate Secrets.  
-   1. Command is to report any breaches of confidentiality to Internal Affairs.  
+   a. Command is to report any breaches of confidentiality to Internal Affairs.  
 4. Communicate and coordinate with other departments, primarily through their respective Heads of Staff.
 
 ### The Captain is to:
@@ -37,18 +38,11 @@
 
 ### The Executive Officer is:
 
-1. to not provide higher levels of access to personnel without receiving authorization from the relevant Command Personnel for that access. If an access is not restricted to a department or position, the HoP may use their discretion.  
-2. to issue warrants to security should there be a valid reason for the warrant.  
-   1. Temporary IDs may be created for the servicing of a departmental search warrant.  
-3. to not leave their office unmanned if there are personnel waiting in line.   
-4. to respond to all requests for processing in fifteen (15) minutes or less.  
-5. to monitor the crew for any complaints that may agitate the crew as a whole and report them to the rest of the Command Personnel.  
-6. permitted to run advertising campaigns for services and products across the station.Campaigns should:  
-   1. avoid being disruptive to essential station activities  
-   2. promote products in a manner consistent with Nanotrasen Values.  
-   3. avoid becoming an expense greater than the value provided by the campaign.  
-   4. take payment for any services advertised that are not provided officially by Nanotrasen.__
-7. monitor major legal decisions in order to raise necessary concerns and authorizations to the Captain.
+1. to monitor major legal decisions in order to raise necessary concerns and authorizations to the Captain.
+2. to not provide higher levels of access to personnel without receiving authorization from the relevant Command Personnel for that access. If an access is not restricted to a department or position, the XO may use their discretion.  
+3. to issue and approve warrants to security when necessary.
+   a. Temporary IDs may be created for the servicing of a departmental search warrant.  
+4. 
 
 ### The Head of Security is:
 
@@ -69,15 +63,13 @@
 2. to dispose of any anomalies or artifacts that pose a risk to the station or Nanotrasen assets at a large scale.  
    1. The actual disposal may be handed off to a Scientist.  
 3. permitted to change the onboard artificial intelligence’s laws, permitted they receive approval from the captain.  
-4. permitted to change any cyborg’s laws, so long as this is done for purposes of experimentation.  
-   1. Re-lawing a Cyborg is always permitted should they be considered compromised.  
-5. In conjunction with the Chief Engineer, ensure telecommunications is properly maintained.  
-6. to decommission the onboard artificial intelligence at the end of the shift, ideally securing it to an Intellicard.  
-7. to announce the generation of any anomalies to the crew.
+4. In conjunction with the Chief Engineer, ensure telecommunications is properly maintained.  
+5. to decommission the onboard artificial intelligence at the end of the shift, ideally securing it to an Intellicard.  
+6. to announce the generation of any anomalies to the crew.
 
 ### The Chief Medical Officer is to:
 
-1. ensure	that all personnel capable of being recovered and resuscitated are.  
+1. ensure that all personnel capable of being recovered and resuscitated are.  
    1. prioritizing personnel based on rank.  
 2. ensure that all crew who come to the medical bay are treated to the point they can return to work.  
 3. ensure that no narcotics or otherwise illegal substances are produced in the chemistry laboratory.  
@@ -101,7 +93,7 @@
 3. ensure that any requests for non-standard equipment are either authorized by the order's Head of Staff or approved by the relevant Head of Staff for the order in question.   
 4. ensure that materials collected by the salvage team or produced by botany are distributed to departments based on their need for materials.  
 5. oversee the Hospitality Director to ensure that service is functioning properly.  
-   1. The Quartermaster should act only as a supervisory body to the service department.
+   a. The Quartermaster should act only as a supervisory body to the service department.
 
 ### The Hospitality Director is:
 
@@ -109,11 +101,16 @@
 2. to keep all areas of the service department stocked to the necessary levels.  
 3. to ensure that all available services are provided to the crew as a whole while they are on a union-mandated break.  
 4. to schedule events strategically to bolster crew morale.  
-5. permitted to prohibit any non-Command patron from entering the Service area in response to any abusive, inappropriate, and/or unsanitary behaviour.  
+5. permitted to prohibit any non-Command patron from entering the Service area in response to any abusive, inappropriate, and/or unsanitary behavior.  
    1. This prohibition does not cover hallways in or around the area.  
 6. to ensure that both the Bar and the Kitchen are staffed. In the event that they are not, the Hospitality Director must make an active effort to fill that position, with either service workers or new hires.  
    1. Service workers are preferred for staffing internal positions.  
 7. to review all expenses submitted to them, and deny any that are not cost effective.
+8. permitted to run advertising campaigns for services and products across the station. Campaigns should:  
+   a. avoid being disruptive to essential station activities  
+   b. promote products in a manner consistent with Nanotrasen Values.  
+   c. avoid becoming an expense greater than the value provided by the campaign.  
+   d. take payment for any services advertised that are not provided officially by Nanotrasen.
 
 ## Adjustments for Acting Command
 
