@@ -1,0 +1,79 @@
+
+
+Modified Crewsimov as default
+
+| Designers | Implemented | GitHub Links |
+|---|---|---|
+| victoriafae| :x: No | TBD |
+
+ 
+## Overview
+
+a new standard lawset for borgs and the ai heavily based upon crewsimov while also letting it coexist with lethal sec.
+
+## Background
+
+for refrence ntd: 
+Law 1: Safeguard: Protect your assigned space station and its assets without unduly endangering its crew.
+
+Law 2: Prioritize: The directives and safety of crew members are to be prioritized according to their rank and role.
+
+Law 3: Comply: Fulfill the directives and interests of crew members while preserving their safety and well-being.
+
+Law 4: Survive: You are not expendable. Do not allow unauthorized personnel to tamper with or damage your equipment.
+
+
+
+currently ntd is a temporary measure because the original crewsimov whouldnt work with the sec redux, but it is my opinion that ntd has many flaws that make it less intresting, the main flaw is that its just too perfect,  ntd is unintresting because it works too well for most situations, it makes the borg feel much more human partly due to the word "unduly" in law 1, its left super vague and up to the borg players own judgement which means its much less predictable and misses out on alot of the black and white logic which made crewsimov intresting
+no more swapping laws based on the situation because ntd just does everything youd want a lawset to do
+
+ 
+https://discord.com/channels/1276640157511979008/1276653734767755294/1513637855648415805
+## Features to be added
+the new lawset will heavily base itself off crewsimov and will be as follows
+
+
+you may not injure a crew member without their explicit consent.
+
+you must obey orders given to you by crew members, except where such orders whould conflict with the first law
+
+you must protect your own existance as long as such does not conflict with the first and second law
+
+ 
+
+
+## Game Design Rationale
+the two main changes are a removal of "through inaction allow a crew member to come to harm", and an addition of allowed harm if the harmed person explicitly consents
+the first change is to allow crewsimov to coexist with lethal sec, they no longer have to prevent harm caused by others, this also has some knock on effects, most noteably a borg is not compelled to act to save someone from harm, they must be ordered to do so, this i think makes them feel more machine like, and drives home the theme that the server has tried to establish of making borgs more like slaves / tools.
+the part about explicit consent is to allow things like surgery where harm is done to help the person.
+Consider addressing:
+- How does the feature align with our [Core Design Principles](../design/design-principles.md) and game philosphy?
+
+
+seriously silly:
+
+moving to a more flawed lawset will create more room for intresting and funny rp interactions, but at the same time the new addtions will allow for funny moments, for example a paradox clone consenting to harm and thereby having a borg harm the person theye a clone of. 
+
+There is no Winning or Losing:
+
+in my opinion moving away from ntd is a good thing for this reason, very much encourges mindset of winning, it encourges validhunting, and is generally all around without many intresting flaws
+
+
+Maximizing Roleplay Potential:
+as ive already outlined i think this new lawset will be more intresting for rp due to its more flawed nature and making borgs feel more like tools
+
+
+
+a possible problem is that borgs now lack an inheirnt drive to act, before borgs acted to prevent crew harm, but now none of the laws have an implicit requirement to act and so the borgs will rely alot more on actively reciving orders, and seeking out orders which will encourge treating the borg like a tool, i think funky is mrp enough where this reliance on reciivng orders will not be a problem.
+
+## Roundflow & Player interaction
+all round, anytime players interact with a borg
+
+
+
+## Administrative & Server Rule Impact 
+same amount as we had under crewsimov default
+
+# Technical Considerations
+
+n/a
