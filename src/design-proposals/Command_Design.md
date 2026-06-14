@@ -170,6 +170,7 @@ They will generally inherit all the tools of the HoP, which are appropriately wi
 Extra Note:
 In order to better support the Captain being in charge of the station and the Corporate Liaison (CL, previously NTR) just visiting for inspection we plan on the following changes.
 First is that the CL will have their own shuttle that they came/come in on instead of their own room/rooms on the station.
+Second is having the CL come in later in the shift, possibly as a guaranteed event role, to better represent in game how they do not always exist.
 
 ### Current Tools
 
