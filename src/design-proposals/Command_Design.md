@@ -155,6 +155,8 @@ Satisfied by knuckle dusters
 Extra note:
 The Executive Officer (XO) is the second in command/paperwork side of HoP, split to a separate role with oversight of the Legal minor department involving the altered Magistrate and IAA positions, along with lawyers.
 They generally have a strong connection to the contract-law the station runs on, and accordingly support the station as HoP had previously done before.
+In line with their paperwork and Contract/Legal themes, they still retain the standard duties you would normaly recognise as being within the old HoP's perview, such as setting access and firing/hiring individuals.
+
 They additionally have technical jurisdiction over the Assistants on the station, though they are not part of the Legal department.
 
 ### Current Tools
