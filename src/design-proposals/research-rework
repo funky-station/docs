@@ -1,0 +1,79 @@
+# Research Rework
+
+| Designers | Implemented | GitHub Links |
+|---|---|---|
+| G | :x: No | TBD |
+
+## Overview
+
+Research turned into a time to research queue format.
+
+## Background
+
+Research at the moment is simplified and has little to no depth, if you have enough points you can just spam the research button until all techs that you want are completed.
+Research now requires a level of foward planning and strategy in order to research quickly and effectively.
+
+## Features to be added
+
+For the new research system to be given the proper attention it deserves, it requires a large overhaul of these systems:
+
+* Research points
+* Research tree
+
+Additional Systems should be added, for example:
+
+* Interactible research queue
+* Sortable tabs within UI
+
+Science now researches via a queue. A tech is selected which requires a specific time amount to research.
+
+All techs in tier one require the same amount of research time, all techs in tier two require the same amount of research time, ect.
+
+To start research progress, there needs to be research points as fuel. The research point fuel reserve can be stored in the server or another structure.
+
+Research speed can be increased via two ways, one by overclocking by inefficiently increasing the amount of research fuel used, the other by researching multiple techs from the same discipline in a row creating a combo.
+
+RD has special abilities relating to research. RD can set which disciplines to specialize in for tier 3 (and which paths get blocked off in tier 3) and tier 4. RD can change the choice at any time until the first tier 3 tech gets chosen. Techs from tier 3 cannot be researched until RD picks a specialization. RD also has the ability to re-organize the research queue in order to prioritize what’s needed first and set up the combo bonuses.
+
+Mentioned before, tier three research no longer blocks all other disciplines, only two of them. A final tier, tier 4 blocks of the last remaining discipline.
+
+Techs will be re-organized to better line up with this new vision.
+
+## Game Design Rationale
+
+Sci research sucks.
+
+### Seriously Silly
+
+"We finally have done enough analysis to research HAMTR! Now to burn it all as fuel and watch the loading bar tick up."
+
+### Maintaining Authenticity
+
+Taking actual time to research gives the feeling that there is something actually researching the technology, something that requires time to complete, counter to just being able to research whatever by spamming through techs.
+
+### Dynamic Environment
+
+Having research be a queue that can be organized allows differing strategies. A RD could focus on what the crew needs as soon as possible, max out pointgen to create a large source of excess points for overclocking, or setting up discipline combos in order to research fast without needing to waste points.
+
+## Roundflow & Player interaction
+
+This will change how science operates now that researching takes time. Players will now have to wait longer for their specific tech that they want to be unlocked, but can request the RD to shift priority to a specific tech.
+
+RD will have a more significan role on station.
+
+## Administrative & Server Rule Impact (if applicable)
+
+No additional stuff needed. 
+
+# Technical Considerations
+
+Several new UI windows need to be made.
+
+* Organization UI
+* Changing how sci points are handled
+* Re-randomization of sci techs
+* Re-organization of sci-techs
+
+A mass rebalancing of sci things need to take place as well.
+
+More input will be required from the maintainers.
