@@ -12,14 +12,6 @@ This PR focuses on the purpose and implementation of paperwork within the greate
 
 Currently paperwork already plays a reasonably significant role on funky, whether its collecting copies of order forms as QM, IAA/NTR/Magistrate reports, Anomaly report documents, or the significant amount of paperwork that the HoP hands out every shift.
 
-This document may use terms such as
-
-XO Executive Officer (The paperwork half of HoP)
-
-HD Hospitality Director (The Service half of HoP)
-
-CL Corporate Liaison (Current Title for NTR)
-
 ## Features to be added
 
 ### Document Printers
