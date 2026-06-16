@@ -89,7 +89,9 @@ They lose efficientcy on patients above 25 in the given catagory.
 
 In addition to these changes, pills will be capped at 1u per pill.
 
-Chronic perscriptions (such as psicodone) are in this catagory
+Chronic perscriptions (such as psicodone) are in this catagory.
+
+It should be noted that moths cannot interact with Pill chems as they cannot injest pills. They will have to add it to water or finish being treated within medical.
 
 Healed through "Pill Chems":
 1. Heat
