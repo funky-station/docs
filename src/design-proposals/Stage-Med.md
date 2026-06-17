@@ -1,4 +1,4 @@
-# Short, Properly Capitalized Title
+# Stage Based Treatment
 
 
 | Designers | Implemented | GitHub Links |
