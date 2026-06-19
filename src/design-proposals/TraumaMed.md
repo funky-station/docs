@@ -102,7 +102,7 @@ Using this method should also suggest the possibility of internal trauma, though
 3. Advanced Medical Inspection
 Advanced medical inspections can be done via the use of additional tools such as the stethoscope and provide further information on internal trauma.
 
-5. Mechanical Inspection
+4. Mechanical Inspection
 Mechanical Inspections are done via a proper scanning machine.
 These take time to proceed and are most often used to identify internal traumas such as damaged organs, lodged bullets or broken bones.
 
@@ -123,7 +123,7 @@ When Raw Treatment is not enough, surgical treatment will be required.
 Surgical treatment involves a larger step by step process that results in additional traumas that must then be further tended to by Raw/Topical methods.
 A barebones implementation would be fairly similar to shitmed in implementation working through a UI menu for specific treatments, but would be intended to work as a Minigame-style surgery system in it's full form.
 
-4. Chemical
+3. Chemical
 
 Normal use of chemicals within this system hastens recovery post-treatment.
 Some traumas (See Organs, Toxin Damage, Genetic Damage) require chemicals to heal, but these are rare and expensive.
@@ -138,7 +138,7 @@ Interaction types are how players will interact with the treatment system in gam
 Do after systems are simple "click button to do things" as they are now.
 Some treatment methods (such as applying ointment) may be left at this degree of healing, while other treatments are planned to be further expanded into "Minigame" treatments.
 
-3. Minigame
+2. Minigame
 
 Minigame treatment is intended as the final stage of implementation.
 Done entirely through UI this would involve such methods as "pulling glass shards out", "Taking a bullet out of a wound", "Stitching the wound" and "surgical" treatments.
