@@ -22,7 +22,7 @@ In the meantime, I (pirakaplant) was assigned to writing a design document for t
 
 Logistics is the new name for the Cargo/Supply department, to indicate a broader range of responsibilities on the station.
 
-Botanists and Janitors are now part of the Logistics department, and answer to the Quartermaster. Hydroponics areas will be mapped closer to the cargo bay where possible, while janitorial areas can remain untouched.
+Botanists are now part of the Logistics department, and answer to the Quartermaster. Hydroponics areas will be mapped closer to the cargo bay where possible.
 
 ### Hospitality Director
 
@@ -34,19 +34,31 @@ The Hospitality Director is a new job responsible for coordinating the Service d
 
 Aesthetically, clothing and decor for the Hospitality Director should focus on a "fine dining" or "first-class hotel" aesthetic to indicate their role and superiority to other members of the Service department. For example, their "default" outfit would ideally be a buttoned uniform and pillbox hat, akin to a valet.
 
+### Service Department / Civilian Department
+
+The Service and Civilian departments are now considered entirely separate departments in game term. They appear separately on the job customisation tab and the manifest.
+
+Members of the **Service** department all:
+- Have dark green icons (with the exception of the Clown and Mime).
+- Answer to the Hospitality Director.
+- Have access to Service radio and Service budget console.
+- Contribute playtime to the Service department.
+
+Bartender, Chaplain, Chef, Clown, Fitness Instructor (see "Service Job Changes" below), Librarian, Mime, Musician, Reporter, and Service Worker are all members of the Service department.
+
+Members of the **Civilian** department all:
+- Have grey icons.
+- Answer to absolutely everyone.
+- Have no access to the Service radio or Service budget console.
+- Contribute playtime to the Civilian department.
+
+Assistant, Janitor, and Lawyer are all members of the Civilian department.
+
 ### Service Job Changes
 
-There will be multiple changes made to Service jobs themselves. In alphabetical order:
+The Fitness Instructor is a new Service job that replaces the Boxer. The Fitness Instructor starts with a few sporty outfit options (the original boxing shorts, tracksuit, etc.), the choice of their favourite sportsball, and a whistle. Unlike its predecessor, mapping specifications would only allow one Fitness Instructor.
 
-**Boxer:** This job will be recontextualised, renamed the "Fitness Instructor", and made a part of the Service department proper, with a dark green icon, instead of being a "Civilian" job. Changes to the job itself would be minimal besides changes to job titles, loadouts and overhauling some boxing areas to put less of a focus on the ring itself and more on.
-
-**Chaplain:** Will be made part of the Service department proper, with a dark green icon.
-
-**Musician:** Will be made part of the Service department proper, with a dark green icon.
-
-**Service Worker:** This will be recontextualised into more of a "waiter" job, and the bulk of their work will be communicating orders and serving food to customers of the Service area. Service Workers can still shadow other Service jobs and fill in when needed, but they no longer start with Bar or Kitchen access.
-
-**Zookeeper:** Will be removed as the position does not contain enough content, roleplay potential, or even player interest for a whole job. The zoos themselves (on the maps that have them) can still exist for players who want to opt into the role of taking care of the animals there.
+The Zookeeper will be removed from the game as a job, but its equipment and areas can still exist as an opt-in for players who want to engage in that role.
 
 ### Service Event Console
 
