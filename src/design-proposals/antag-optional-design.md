@@ -51,10 +51,11 @@ This should be true across every round. Rounds should hold up fine with no antag
 2. Escalation rules are removed.
 The current escalation rules exists to prevent conflict between crew from happening without in-character justification. While this is better than outright forbidding escalation (self-antagging in other servers), many players still feel like they will be punished for over-escalating, even if the action in question is something their characters would realistically do. 
 Removing it means crew members can react to each other realistically and authentically, including with violence, based on their character and the situation, not formal ruling gating when IC conflict is "allowed." 
-This is not a removal of consequences.
+It is not a removal of standards for what counts as acceptable violence. "Play your character" remains the rule to cite against beating someone to death over a minor inconvenience. Removing the escalation ladder removes the step by step "escalation graph", not the requirement that violence stay tethered to who your character actually is and what just happened to them.
 
 3. Alignment rules are removed.
-There is no crew-vs-antag meta-layer to enforce. Characters act according to their own IC motivations, employer, debts, and relationships, including working against other crew, their corporation, or the station's interests, without needing a game-assigned antag role to justify it.
+There is no crew-vs-antag meta-layer to enforce. Characters act according to their own in-game motivations, driven by in-game happenings or events, employer, debts, and relationships, including working against other crew, their corporation, or the station's interests, without needing a game-assigned antag role to justify it. 
+Motivations need to trace back to something that actually happened in the round, not just to a character concept invoked after the fact.
 
 4. Systems that exist only to serve antag balance are expected to be reworked or removed.
 Anything currently justified purely by "but antags" should be re-evaluated by its own merits under this philosophy. If it doesn't hold up without an antag to justify it, removing it is the expected outcome, in the same spirit as prior removals like Greencomss, IPCs and Atmos Tech.
