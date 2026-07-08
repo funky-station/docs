@@ -32,12 +32,6 @@ Proposals
   - [Map Template](design/maps/template.md)
 
 - [Game Design Proposals]()
-  - [Hydroponics ](design-proposals/botany-changes.md)
-  - ["Corporate Secrets"](design-proposals/corporate-secrets.md)
-  - [Lasers and Armory Overhaul](design-proposals/lasers.md)
-  - [Company Scrip](design-proposals/scrip.md)
-  - [Medical](design-proposals/medical/medical-direction.md)
-    - [Scanners & Triage](design-proposals/medical-scanners.md)
 
 - [Map Proposals]()
 
