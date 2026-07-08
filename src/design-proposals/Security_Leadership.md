@@ -1,0 +1,86 @@
+# Security Leadership
+
+| Designers | Implemented | GitHub Links |
+|---|---|---|
+| SOP workgroup, written by scrambleking | :x: No | TBD |
+
+## Overview
+
+This doc covers the change in Security Leadership positions to better reflect the wider changes and solidication of command principles.
+
+## Background
+
+[The Command Rework](https://github.com/funky-station/docs/pull/112) 
+
+The leadership inside security does not match standard leadership positions that we want the station to entail.
+This includes avoiding Job+ roles, being in positions of having an overview of the situations that are on going, and providing direction to their employees.
+As it is the HoS runs to the frontline with all the security officers with better gear, better weapons, and helps in the fight.
+This is *very much* a contradiction to the position we want command to inhabit.
+
+[The Law changes](https://github.com/funky-station/docs/pull/109) 
+
+Warden's position has much less responsability now given the changes to sentancing.
+Generaly now their only responsabilities left are keeping an eye on the department as a whole, and making sure prisoners arent actively breaking out.
+This is pretty much a summary of what we want out of command positions.
+
+[Warden SOP](https://github.com/funky-station/docs/pull/106/changes)
+
+As such these roles are generaly going to be swapped around in certain respects.
+First is swapping their general responsabilities and expectations. 
+The HoS being placed in the position to keep an eye over the general on-goings inside their department, working dispatch, and being ready to train new recruits within the department.
+The Warden on the otherhand will be moved into a more supportive position, being placed as the HoS's right hand man and squad leader during out of department priority situations.
+They will still have overview of the prisoners, and ensure that they are given proper treatment such as food and drink along with maintining the armoury is kept up to standard outside of priority situations.
+In addition the warden will be retitled to deputy to better reflect their new position.
+
+## Features to be added
+
+### Armour: 
+Rebalanced to better reflect their new roles, the HoS and Warden's armour will be re-statted. 
+Providing the HoS with better protection, with harsher movement penalties to solidify their more stationary role in security.
+The new Deputy armour will be granted higher movement speed, in addition to a larger range helmate light for their role as a director and guide for the frontlines.
+
+### Weapons: 
+HoS will no longer have self charging weapons as with their place within security they will have ready access to chargers.
+
+The Deputy will be given a long range IFF activateable weapon with limited, but slowly recharging, shots.
+Using the weapon outside of IFF activation will alow for far more shots with the charges avalible.
+The IFF will be based off of mindshield status, alowing them to work well within the larger groups from the back line, but with limited firepower to prevent overuse.
+
+### Gear:
+The breaching charges will be moved from the HoS's locker to the Deputy locker, alowing them to take charge in breaching scenarios. 
+The SWAT gasmask and security jetpack will also be moved to the Deputy's locker supporting them going into the hazardous situations HoS will not be in.
+
+### Misc additions and mapping:
+The HoS and warden will share the "control room" for security that is currently designated as the warden's room.
+Optionaly this can also be mapped as seperate rooms, or the warden handeling the front desk.
+
+Optional is a "Panopticon Seat" providing the HoS with the ability to see through multiple cameras and body cams at once. 
+
+## Game Design Rationale
+
+This is mostly covered in the background, but generaly it will create a more realistic command structure.
+The leader of a merc group would be *very* unlikely to fight on the front lines when they could have a cushy job at the back.
+In the first place if you took a job on the arse end of space you wouldnt be likely to be gunning for battle anyway.
+Additionaly this melds more into class conflict even within security, where the HoS is granted a level of safety that is not given to their peons.
+
+The warden on the other hand is in a more tenuous position given their lower level of real direction in their work and more of a misc standing during "greenshifts".
+It may be resolved eventualy that the role is designated during rounds, or otherwise taken out all together, though given that security generaly feels overly hectic, and does require a second in command, this is unlikely.
+
+## Roundflow & Player interaction
+
+The Deputy during "green shifts" is expected to ensure that prisoners are provided for, and occasionaly checked in on, and that the armoury is maintained.
+During "our" shifts this changes with them taking up a "squad leader" role, as apposed to HoS's "armchair general" role.
+This includes them leading departmental searches, breaching scenarios, breaking up riots, or other like situations.
+
+The HoS on a normal shift is training new recruits, ensureing paperwork is filed properly, and that the department is kept up to the captain's standards.
+During "our" shifts they keep careful watch of the on-going situation, deploying officers where needed, providing advice, and keeping an eye out on bodycams for CTM materials.
+They also decide where, and why, the Deputy will deploy as the situation demands it.
+
+## Administrative & Server Rule Impact (if applicable)
+
+The Deputy will need to be kept an eye on to prevent Secoff+ situations from developing, along with ensuring the HoS doesnt simply take over the Deputy's place near the frontlines.
+
+# Technical Considerations
+
+This should have minimal technical impact given systems for everything mentioned in this document already exist. 
+The largest impact is in the possible implimentation of the panopticon UI.
