@@ -36,7 +36,7 @@ Aesthetically, clothing and decor for the Hospitality Director should focus on a
 
 ### Service Department / Civilian Department
 
-The Service and Civilian departments are now considered entirely separate departments in game term. They appear separately on the job customisation tab and the manifest.
+The Service and Civilian departments are now considered entirely separate departments in game terms. They appear separately on the job customisation tab and the manifest.
 
 Members of the **Service** department all:
 - Have dark green icons (with the exception of the Clown and Mime).
@@ -44,15 +44,18 @@ Members of the **Service** department all:
 - Have access to Service radio and Service budget console.
 - Contribute playtime to the Service department.
 
-Bartender, Chaplain, Chef, Clown, Fitness Instructor (see "Service Job Changes" below), Librarian, Mime, Musician, Reporter, and Service Worker are all members of the Service department.
+Bartender, Chaplain, Chef, Clown, Fitness Instructor (see "Service Job Changes" below), Janitor, Librarian, Mime, Musician, and Service Worker are all members of the Service department.
+
+The Service department specifically performs jobs relating to catering, entertainment, and generally keeping station morale high.
 
 Members of the **Civilian** department all:
 - Have grey icons.
-- Answer to absolutely everyone.
 - Have no access to the Service radio or Service budget console.
 - Contribute playtime to the Civilian department.
 
-Assistant, Janitor, and Lawyer are all members of the Civilian department.
+Assistant, Lawyer, and Reporter are all members of the Civilian department. Assistant still answers to "absolutely everyone", but the Lawyer answers to their clients, and Reporter answers to their audience.
+
+The Civilian department is intended to group together who exist outside the standard company structure. Assistants represent the "bottom rung" of the corporate ladder, while Lawyers and Reporters are separate from the company but are invited provisionally to provide third-party work for its personnel.
 
 ### Service Job Changes
 
@@ -85,7 +88,7 @@ Throughout the history of Space Station, what is now known as the Service depart
 
 As detailed further below in "Maintaining Authenticity", discussion has narrowed Service specifically into being a "bread and circuses" department, which can not only fit neatly into our depiction of Nanotrasen, but is also a solid design direction already supported by most of the jobs within it.
 
-As a result of this, several jobs are being moved or restructed to fit this specific vision. Botanists now work in Logistics because growing plants fits the department that produces materials for other departments better than this new definition of Service. Likewise, the Janitor going around and cleaning chemical spills and replacing cracked lightbulbs is more of a logistical job than one that appeases and distracts crew from their material conditions, so it's also moved out of Service. Other, more niche jobs are removed or broadened to make sense as a position that Nanotrasen would hire for the department.
+As a result of this, some jobs are being moved or restructed to fit this specific vision. Botanists now work in Logistics because growing plants fits the department that produces materials for other departments better than this new definition of Service. Other, more niche jobs are removed or broadened to make sense as a position that Nanotrasen would hire for the department.
 
 ### Seriously Silly
 
