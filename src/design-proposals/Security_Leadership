@@ -8,6 +8,11 @@
 
 This doc covers the change in Security Leadership positions to better reflect the wider changes and solidification of command principles.
 
+The primary roles mentioned in this document are the HoS, who is intended to be a sedintary "armchair general" role as apposed to their current squadlead position, and the Deputy who is taking over the "squadlead" position.
+
+The prior duties of the warden in a large sense no longer exist, and they are split between the HoS, Deputy, and new Legal Department.
+As such the "Warden" no longer exists in this system.
+
 ## Background
 
 [The Command Rework](https://github.com/funky-station/docs/pull/112) 
@@ -30,7 +35,7 @@ First is swapping their general responsibilities and expectations.
 The HoS being placed in the position to keep an eye over the general on-goings inside their department, working dispatch, and being ready to train new recruits within the department.
 The Warden on the other hand will be moved into a more supportive position, being placed as the HoS's right hand man and squad leader during out of department priority situations.
 They will still have an overview of the prisoners, and ensure that they are given proper treatment such as food and drink along with maintaining the armoury is kept up to standard outside of priority situations.
-In addition the warden will be retitled to deputy to better reflect their new position.
+In addition the warden will be retitled to Deputy to better reflect their new position.
 
 ## Features to be added
 
@@ -42,9 +47,12 @@ The new Deputy armour will be granted higher movement speed, in addition to a la
 ### Weapons: 
 HoS will no longer have self charging weapons as with their place within security they will have ready access to chargers.
 
+To better tie in with navel security themes HoS and the Deputy will be given battery powered energy swords as a defensive option in close range.
+
 The Deputy will be given a long range IFF activateable weapon with limited, but slowly recharging, shots.
 Using the weapon outside of IFF activation will allow for far more shots with the charges available.
-The IFF will be based off of mindshield status, allowing them to work well within the larger groups from the back line, but with limited firepower to prevent overuse.
+The IFF will be activated for those wearing NT bodycams which in it's description will note to contain UV patterns that IFF weapons recognise.
+This will Allow them to work well within the larger groups from the back line, but with limited firepower to prevent overuse.
 
 ### Gear:
 The breaching charges will be moved from the HoS's locker to the Deputy locker, allowing them to take charge in breaching scenarios. 
@@ -54,7 +62,11 @@ The SWAT gasmask and security jetpack will also be moved to the Deputy's locker 
 The HoS and warden will share the "control room" for security that is currently designated as the warden's room.
 Optionally this can also be mapped as separate rooms, or the warden handling the front desk.
 
-Optional is a "Panopticon Seat" providing the HoS with the ability to see through multiple cameras and body cams at once. 
+The HoS will be provided with an overwatch system in line with RMC's CIC capabilities.
+This will alow them to designate squads, squad leads, and overview their bodycams with ease.
+This system will be based off of ID cards for who is counted on the Overwatch Console.
+Any visual HUD implimentation such as visualising the squad lead, will be based off of Sec-Huds (The Deputy will be marked seperately from squad leads).
+The system will be able to handle up to 3 secondary squads, with one designated lead per squad to alow for seperate deployments to minor situations and patrol groups.
 
 ## Game Design Rationale
 
@@ -82,7 +94,6 @@ The Deputy will need to be kept an eye on to prevent Secoff+ situations from dev
 
 # Technical Considerations
 
-This should have minimal technical impact given systems for everything mentioned in this document already exist. 
-The largest impact is in the possible implementation of the panopticon UI.
+Firstly this will require implimentation of an RMC style overwatch system, which even if it is within licence for use will need to be adapted acordingly.
 
-
+Secondly this will require an IFF system tied to bodycams which will have to be accounted for with the weapon prediction systems.
