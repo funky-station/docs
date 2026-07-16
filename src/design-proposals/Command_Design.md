@@ -223,4 +223,4 @@ Addition to critial anomoly code to un-anchor when it triggers the criticality s
 
 Tracking of points over time for the relevant R&D server.
 
-This should not noticeably impact server performance.
+This may impact server performance via CE's hand held console, though implimentation can be altered to a mode selection should this prove an issue.
