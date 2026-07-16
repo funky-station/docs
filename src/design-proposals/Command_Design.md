@@ -51,7 +51,7 @@ Room Tags : An nameplate/displayboard system to designate rooms by number, docto
 
 ### Defensive Measures
 
-Hypo (Space Bear Spray) : Alternate mode for the Hypo, also consuming charges.
+Hypo (Causlikos Spray) : Alternate mode for the Hypo, also consuming charges.
 The spray is similar to a spray bottle, however the chemicals slow the target on contact for a short amount of time, dealing minor caustic damage and blinding them for a second.
 Given the loss of the Hypo and Syringe Gun as defensive options, the CMO will require a new minor defensive tool which this fulfils.
 
@@ -60,8 +60,6 @@ Given the loss of the Hypo and Syringe Gun as defensive options, the CMO will re
 <details>
 
 <summary> RD </summary>
-
-RD is in a tricky position, 
 
 ### Current Tools
 
@@ -115,9 +113,10 @@ Handheld Power Monitor (Handheld Engineering Monitor) : Additional tabs added fo
 
 ### New Tools
 
-Construction Projector : Shares placed blueprints as Holograms.
+Construction Spray Paint : Shares placed blueprints as Construction Outlines.
 Marks items for demolition.
 Allows the CE to effectively direct construction projects.
+([See Also](https://github.com/funky-station/docs/pull/124))
 
 Remote Cell Charger : Allows the CE to slowly recharge cells in the area.
 Perfect for battery based tools and workplace lights.
@@ -153,11 +152,9 @@ Satisfied by knuckle dusters
 <summary> XO </summary>
 
 Extra note:
-The Executive Officer (XO) is the second in command/paperwork side of HoP, split to a separate role with oversight of the Legal minor department involving the altered Magistrate and IAA positions, along with lawyers.
+The Executive Officer (XO) is the second in command/paperwork side of HoP, split to a separate role with oversight of the Internal Affairs involving the altered Magistrate and IAA positions.
 They generally have a strong connection to the contract-law the station runs on, and accordingly support the station as HoP had previously done before.
 In line with their paperwork and Contract/Legal themes, they still retain the standard duties you would normaly recognise as being within the old HoP's perview, such as setting access and firing/hiring individuals.
-
-They additionally have technical jurisdiction over the Assistants on the station, though they are not part of the Legal department.
 
 ### Current Tools
 
@@ -174,9 +171,26 @@ In order to better support the Captain being in charge of the station and the Co
 First is that the CL will have their own shuttle that they came/come in on instead of their own room/rooms on the station.
 Second is having the CL come in later in the shift, possibly as a guaranteed event role, to better represent in game how they do not always exist.
 
-### Current Tools
 
-These are appropriately within the theme given their position.
+These are appropriately within the theme given their position, and as such will only have minor changes.
+
+CL:
+
+Handheld Fax: Removed. It is not required given their change in responsabilities, and with the death of faxes being bluespace it no longer makes sense.
+
+Cane Sword: Re-Implimented
+
+Laser Pistol: Re-implimented
+
+Command Glasses: Re-implimented
+
+NTR Stamp: Re-designed for their new title
+
+These should also start on the NTRs person, instead of being inside a dedicated locker.
+
+Captain:
+
+No changes to equiptment required, though the CTM equivilent will need to, again, be placed in their locker.
 
 </details>
 
@@ -202,5 +216,11 @@ Rule wise considerations will have to be made for command properly commanding an
 # Technical Considerations
 
 UI elements will need to be modified for the various hand held console modifications.
+
+Portal code would need minor modifications to impliment a one-way portal system for their hand-held device.
+
+Addition to critial anomoly code to un-anchor when it triggers the criticality sequence.
+
+Tracking of points over time for the relevant R&D server.
 
 This should not noticeably impact server performance.
