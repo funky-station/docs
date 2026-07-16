@@ -38,7 +38,7 @@ General ideas:
 - fairly simple fusion reaction to jumpstart things
 - gas transformation reactions that may or may not be used in more advanced fusion webs
 
-The amount of gas consumed should be enough that, in for a full shift running the standard reaction, a single canister each of phoron and hydrogen would be inadequate.
+The amount of gas consumed should be enough that, in for a full shift running the standard reaction, engineering would need to source more than one canister each of hydrogen and phoron, likely upwards of, 120 minutes of uptime, 1870 mols/canister, a total of 60 mols per minute of hydrogen and phoron consumed in order to power the station, or 1 mol of gas per second transformed.
 
 #### Failure States
 
