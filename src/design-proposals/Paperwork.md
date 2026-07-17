@@ -27,9 +27,10 @@ Fillable Form Fields are designated areas within "form" documents to be filled i
 
 This will allow players to fill in Short Answers and Checkboxes for given questions with ease.
 
-#### Command Stamps that flip
+#### Command Stamps
 
-Provides a toggle on command stamps for a [Command X] [Command X Approved] and [Command X Denied] stamp variety.
+Command members will be provided with additional "aproved" and "denied" stamps in conjunction with their personal stamp.
+These will be provided within a box for compact storage.
 
 ### Reports
 
