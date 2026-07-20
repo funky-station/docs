@@ -1,4 +1,4 @@
-# Regional Command, Corporate Liesan & Isolation
+# Regional Command, Corporate Liaison  & Isolation
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
@@ -6,7 +6,7 @@
 
 ## Overview
 
-This Design doc seeks to outline admin interaction, the role of the Corporate Liesan in connection with Central Command, and what alternate approaches admins can explore to maintain isolation themes during intervention.
+This Design doc seeks to outline admin interaction, the role of the Corporate Liaison  in connection with Central Command, and what alternate approaches admins can explore to maintain isolation themes during intervention.
 
 ## Background
 
@@ -39,9 +39,9 @@ Any communication with RC alone should be expected to take 20 minutes or more fo
 This should not be expected as a normal method of communication however, to the point that casually sending a fax to RC outside of an emergency is frowned upon as a waste of resources.
 In world this would be justified as a Pre-Bluespace method of FTL communication, less expensive, but not cheap.
 
-### Corporate Liesan (CL)
+### Corporate Liaison  (CL)
 
-Part of the RC personnel, the Corporate Liesan visits the stations via their shuttle to gather paperwork, check on the situations, and perform their other duties.
+Part of the RC personnel, the Corporate Liaison  visits the stations via their shuttle to gather paperwork, check on the situations, and perform their other duties.
 
 In round the CL starts on the shuttle "mid transit" to the station on one of a variety of shuttles, similar to how nukies start off-station.
 This shuttle may be damaged in some way (EG meteor impacts, or a pirate attack) or be otherwise forced to delay their movement to the station, and are likely to require additional repairs/restock upon docking.
