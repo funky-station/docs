@@ -15,7 +15,7 @@ None
 
 ## Features to be added
 
-This PR will add a new character quirk which can be toggled on by default, the said quirk can be also automatically added to a character who has suffered a severe head trauma.
+This PR will add a new character quirk which can be toggled on, the said quirk can be also automatically added to a character who has suffered a severe head trauma.
 Players can also write a brief explanation of their character's behavior as a hint for the ghost player.
 
 ## Game Design Rationale
