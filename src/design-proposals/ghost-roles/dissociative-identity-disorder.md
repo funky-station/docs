@@ -1,5 +1,5 @@
 
-# Dissociative identity disorder
+# Split Personality
 | Designers | Implemented | GitHub Links |
 |---|---|---|
 | vectorassembly | :warning: Partially | TBD |
