@@ -7,7 +7,7 @@
 
 ## Overview
 
-This adds a new ghostrole which is something that can be described as Dissociative identity disorder (DID).
+This adds a new ghostrole which allows a second person to take over someone's body ocasionally.
 
 ## Background
 
