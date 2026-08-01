@@ -29,7 +29,7 @@ Whenever the ghost role is taken, original player (Personal 1) will receive a no
 
 To avoid confusion, some flavor text could be added to a character who is under P2 control.
 
-P1 and P2 can also communicate between each other at all times their own "Headspace" chat channel which cannot be seen by anyone else.
+P1 and P2 can also communicate between each other at all times in their own "Headspace" chat channel which cannot be seen by anyone else.
 
 ## Administrative & Server Rule Impact (if applicable)
 As obvious as it is, this feature introduces a grief vector (like any other ghostrole), to make things smoother, players are encouraged to make some sort of a brief character explanation (which may be added into the character customization menu) to let P2 know how they should (or at least try to) play them, slight deviation is welcome. 
