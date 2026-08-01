@@ -2,7 +2,7 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| SOP Workgroup, Doc Authored by pirakaplant | :x: No | TBD |
+| SOP Workgroup, Doc Authored by pirakaplant | :warning: Partially | funky-station/forky-station/pull/183 |
 
 ## Overview
 
