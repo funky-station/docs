@@ -12,7 +12,7 @@ AGPL is **not** a compliant license and any PRs with AGPL code, unless relicense
 
 ## Content must be properly namespaced
 
-A "namespace" is a subfolder in the game's directories that represents content not made by WizDen. There are two subfolders within Funky Station's codebase: `_MACRO` and `_Funkystation` (\*Soon). `_MACRO` is only contain Macrocosm content added during an upstream merge, the same way WizDen content is. As a Funky Station contributor, you shouldn't have to worry about putting anything in there.
+A "namespace" is a subfolder in the game's directories that represents content not made by WizDen. There are two subfolders within Funky Station's codebase: `_MACRO` and `_Funkystation` (\*Soon). `_MACRO` only contains Macrocosm content added during an upstream merge, the same way WizDen content is added. As a Funky Station contributor, you shouldn't have to worry about putting anything in there.
 
 All content PRed to Funky Station *must* be in the `_Funkystation` namespace. This *includes* any ports from other stations, rather than keeping them in their respective downstream's namespace.
 
@@ -26,8 +26,7 @@ Originally, ported content was kept in its original namespace so bugfixes could 
 
 ### Use `partial` classes to namespace clean C# edits
 
-If you are adding a new method to an already existing upstream system (either from WizDen or Macrocosm), you may be asked to move it to a partial system under our namespace. This means you would create a new file in our file structure, and then change the namespace declaration to match the original system. This allows you to cleanly extended the system and its using directives without having to copy paste everything over.
-
+If you are adding a new method to an already existing upstream class (either from WizDen or Macrocosm), you may be asked to move it to a partial class under our namespace. This means you would create a new file in our file structure, and then change the namespace declaration to match the original system. This allows you to cleanly extend the class and its using directives without having to copy paste everything over.
 For example, if I want to add a new method called `AddTabbyStripes()` to the upstream `CatSystem`, I would not create the method in `Content.Server/Cats/CatSystem.cs`. Instead, I would create `Content.Server/_Funkystation/Cats/CatSystem.cs` and create my method there. Both classes would become partial, and I would call `AddTabbyStripes()` in the original system where necessary.
 
 ## Use the `Fu` prefix to replace entities or locale
@@ -42,7 +41,9 @@ Instead of replacing old sprites with new ones and editing the `meta.json` of an
 
 ## Content should be properly commented
 
-All code should have comments explaining *what* and *why* it is doing. Do not assume that code is self-documenting. Readable variable and class names is always good practice, but even with that, not all code is self-documenting. This also lessens the burden on your fellow contributors and maintainers; none of us are omnipresent and can immediately understand what you intended to do. Commenting your code, and even including some of your thought process, can help everyone better build and improve the codebase.
+You should have comments explaining *why* and *what* your code is doing. Do not assume that code is self-documenting. Readable variable and class names are always good practice, but none of us are omnipresent and can immediately understand what you intended to do. Commenting your code helps lessen the burden on both your fellow contributors and maintainers. 
+
+At the very least, fill out the summary blocks of any methods you create with a brief explanation. 
 
 ## Comment changes made outside of `_Funkystation`
 
