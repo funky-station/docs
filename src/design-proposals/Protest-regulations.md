@@ -13,7 +13,7 @@ This design document aims to add new regulations that concern protests, riots an
 
 Although these regulations cover more than protests it will be named "Protest Regulations" as an all incompassing term including protests, riots and if anarchy breaks out revolts.
 
-The following protest regulations consist of three things which will each have their own seperate section in this document, however Protest protocols and Riot protocols will be in the same guidebook entry under the Security Training Manual. The revolt protocol will be put as it's own guidebook entry under Captain SOP
+The following protest regulations consist of three things which will each have their own seperate section in this document, however Protest protocols and Riot protocols will be in the same guidebook entry under the Security Training Manual. The revolt protocol will be put as it's own guidebook entry under the CTM
 
 
 #### Protest protocols
@@ -24,17 +24,18 @@ Important definitions:
 > Non-harmful crowd control measures: Crowd control measures that do not cause permanent damage such as tear gas grenades, flashes and pepper spray.
 > Ranking security member on scene: The security member of the highest rank that is currently assigned to the scene, ranking from the Head of Security, Warden and if neither of these are present any security officer. It should be clearly communicated who is the ranking officer on scene.
 
-In the scenario that a protest occurs security is to ensure it does not get out of hand by peacefully observing it.
+In the scenario that a protest occurs security is to ensure it does not get out of hand by peacefully observing it. It is also suggested that the commandant assigns multiple officers riot gear in case it becomes necessary.
 
 Security members must follow the following procedures at all times during an on-going protest:
 1. Members of security should listen to the ranking officer on scene then all times when at the scene, in the event a higher ranking officer is on the scene it should be clearly communicated to others that there is a new ranking officer on the scene of the protest.
 2. The Executive Officer and Commanding officer of the station should be informed immidiately about the on-going protest.
 3. A negotiator should be established as a direct line of communcation and negotiation with the protest, this either being an Internal Affairs Agent or in the event there is none the XO can designate themself the negotistior.
+4. It should be ensured that the protestors can bring forward a representative with legal council
 
 
 The designated negotiator may declare the protest un-receptive to negotiations if one of the following criteria is met:
-1. A final offer has been made by the designated negotiator and refused.
-2. The protest presents no individual to represent the protestors
+A. A final offer has been made by the designated negotiator and refused.
+B. The protest presents no individual to represent the protestors
 
 
 In case the designated negotiator declares the protest un-receptive to negotiations the ranking officer on scene may declare the protest an unlawful assembly by following the the steps which make the unlawful assembly protocol:
@@ -74,7 +75,7 @@ All members of the riot may be arrested for rioting and it's leaders should be a
 
 
 #### Revolt protocols
-
+# Important note, revolt protocols would be in the CTM as these things are things NT would never want the public to know
 Important definitons
 > Revolt: A station wide movement to overthrow the NanoTrasen command team using force
 > Lethal weaponry: Weaponry that is designed to inflict lethal harm for example a rifle or shrapnel grenade.
@@ -84,26 +85,28 @@ A. A considerable amount of the crew has taken up arms against NanoTrasen and it
 B. A considerable amount of the crew fails to comply with NanoTrasen or Central Command orders
 C. A declared riot escelates to uncontained violence occuring over multiple parts of the station
 
-If the station's captain wishes to declare a revolt after the aformentioned conditions are met they should follow the folloeing steps:
+If the station's Commanding Officer wishes to declare a revolt in progress after the aformentioned conditions are met they should follow the folloeing steps:
 1. Communicate with Command and Security about their intend to declare a revolt in progress.
 2. Announce station wide in plain words that they are declaring a Revolt in progress and include in this announcement any revolt orders they may wish to use.
 3. Move the station to the highest alert condition available if not already the case.
 4. Have security equip themselves with lethal weaponry
 
-When a revolt in progress is declared the captain has multiple "Revolt orders" they may use, each are extrondary acts that should only be used in case of dire emergencies.
+When a revolt in progress is declared the captain has multiple "Executive Orders" they may use, each are extraordinary acts that should only be used in case of dire emergencies.
 
-Martial law: All crew is to report to go into a department, people that do not belong to any department should move to the bar. Anyone who fails to comply with this order may be brigged until martial law is lifted.
+Martial law: Aegis Security Consolidated is given temporary control of the station and only answer to the captain, they are to return order to the station by any means necessary.
 
-Suspension of Standard Operating Procedures: This order suspends all usual SOP to allow security to use any means neccesary to contain and quell the revolt.
+Shelter in place: All members of crew are ordered to shelter in the nearest department, 5 minutes after this measure is declared the station's hallways are declared a secure area and trespassing into said hallways authorizes security forces to detain the offenders and brig the offenders until the shelter in place order is lifted.
 
-Execution of instigators: The captain may decide to authorize the immediate field execution of leaders of the revolt.
+Suspension of Security Protocols: This order suspends all usual SOP to allow security to use any means neccesary to contain and quell the revolt.
+
+Execution of instigators: This order authorizes the immidiate field executions of any confirmed and suspected instigators of the revolt.
 
 
-Revolts mean the total breakdown of public relations, if a revolt is declared maximum force should be used by security to get the crew back in line without care for any public relation actions. 
+Revolts mean a total breakdown of order, do whatever you have to do to secure our station, captain. 
 
 ## Administrative & Server Rule Impact (if applicable)
 
-These changes are unlikely to result in any server rule impacts.
+Martial law is being debated by the admins, will update this if i get updates on it.
 
 ## Technical Considerations
 
