@@ -21,16 +21,26 @@ The following protest regulations consist of three things which will each have t
 Important definitions:
 
 > Protest: A non violent gathering of people, usually protesting something that has or will occur.
-> Unlawful assembly: An unlawful gathering of people.
 > Non-harmful crowd control measures: Crowd control measures that do not cause permanent damage such as tear gas grenades, flashes and pepper spray.
 > Ranking security member on scene: The security member of the highest rank that is currently assigned to the scene, ranking from the Head of Security, Warden and if neither of these are present any security officer. It should be clearly communicated who is the ranking officer on scene.
 
 In the scenario that a protest occurs security is to ensure it does not get out of hand by peacefully observing it.
 
-in the scenario that a protest impedes station function the ranking security member on scene may declare it an unlawful assembly, this should be done by using the following steps: 
-1. Radio and prepare your fellow officers that you are about to declare an unlawful assembly.
-2. Clearly and loudly announce that the assembly is hereby declared unlawful, It is adviced this is also announced on an announcement console.
-3. Inform the now unlawful assembly members to disperse and give them reasonable time to do so.
+Security members must follow the following procedures at all times during an on-going protest:
+1. Members of security should listen to the ranking officer on scene then all times when at the scene, in the event a higher ranking officer is on the scene it should be clearly communicated to others that there is a new ranking officer on the scene of the protest.
+2. The Executive Officer and Commanding officer of the station should be informed immidiately about the on-going protest.
+3. A negotiator should be established as a direct line of communcation and negotiation with the protest, this either being an Internal Affairs Agent or in the event there is none the XO can designate themself the negotistior.
+
+
+The designated negotiator may declare the protest un-receptive to negotiations if one of the following criteria is met:
+1. A final offer has been made by the designated negotiator and refused.
+2. The protest presents no individual to represent the protestors
+
+
+In case the designated negotiator declares the protest un-receptive to negotiations the ranking officer on scene may declare the protest an unlawful assembly by following the the steps which make the unlawful assembly protocol:
+1. Inform your colleages that you intent on declaring the protest an unlawful assembly and to prepare themselves
+2. Loudly and plainly announce that you are hereby declaring this assembly of individuals unlawful and that they are hereby ordered to disperse
+3. Wait a reasonable amount of time to allow the unlawful assembly to disperse
 
 If all of the above steps above are followed and a reasonable timeframe has passed to allow the members of the unlawful assembly to desperse and said members have not dispersed the ranking officer on scene may authorize the deployment of Non-harmful crowd control measures.
 
