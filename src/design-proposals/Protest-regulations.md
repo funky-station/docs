@@ -16,7 +16,7 @@ Although these regulations cover more than protests it will be named "Protest Re
 The following regulations will all have their own places
 Station regulations (starting at "Station regulations" and ending at "Legal enforcement Protocol") should be placed in the guidebook at about the same place where alert level expectations are.
 Legal Enforcement Protocol is the security facing protocols for protests and riots (starting at "legal enforcement protocol" ending at "Command Training Manual") would all be a child of the STM guidebook entry
-Everything below "Command Training Manual" Is command facing protocols incase a riot breaks out and how to properly declare a Riot in Progress, this also includes "Executive Orders" which are special actions with extraordinary power that can only be enacted for a riot in progress and are NOT intended to be used for anything else. This entry would the the child of the CTM (or forky equivalent) in the guidebook
+Everything below "Command Training Manual" Is command facing protocols incase a revolt breaks out and how to properly declare a Revolt in Progress, this also includes "Executive Orders" which are special actions with extraordinary power that can only be enacted for a revolt in progress and are NOT intended to be used for anything else. This entry would the the child of the CTM (or forky equivalent) in the guidebook
 
 
 
