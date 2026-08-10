@@ -10,7 +10,7 @@ This is an outline for several closely related concepts that rely on each other.
 
 ## Background
 
-[One of the directives the SOP workgroup was given by taydeo was to separate Security from the station's command structure.](https://discord.com/channels/1276640157511979008/1484259495130566656/1496704770407137410) Over time, this idea was expanded into making Security a wholly different company from NanoTrasen Incorporated. Its structure was also scrutinised, initially putting more of a focus on the organisation of the department on the HOS (from the viewpoint that the game currently puts a lot of the responsibilities of managing the department on the Warden). These two directions have culminated in [an official Security structure by ferynn](https://discord.com/channels/1276640157511979008/1484259495130566656/1534722931345592382) that exists independently of NanoTrasen. This document includes this structure and covers the details relating to it.
+[One of the directives the SOP workgroup was given by taydeo was to separate Security from the station's command structure.](https://discord.com/channels/1276640157511979008/1484259495130566656/1496704770407137410) Over time, this idea was expanded into making Security a wholly different company from NanoTrasen Incorporated. Its structure was also scrutinised, initially putting more of a focus on the organisation of the department on the HOS (from the viewpoint that the game currently puts a lot of the responsibilities of managing the department on the Warden). These two directions have culminated in [an official Security structure by @ferynn](https://discord.com/channels/1276640157511979008/1484259495130566656/1534722931345592382) that exists independently of NanoTrasen. This document includes this structure and covers the details relating to it.
 
 One of the issues with SOP on the original Funky codebase was that it was enforced by Central Command VIPs. Several factors in how they were presented (their name, clothing, unique bureaucratic powers they had outlined in the guidebook, etc.) lead to players viewing them as an IC authority greater than the Captain, an OOC force to be obeyed, or both. According to a survey conducted on the Discord, [58% of Captain players felt they would face admin punishment if they went against a CCVIP](https://discord.com/channels/1276640157511979008/1297622994222321684/1498356678813548636), and [85% of people who play heads of staff felt the CCVIPs had more power than them](https://discord.com/channels/1276640157511979008/1297622994222321684/1498356751739785226). The SOP workgroup decided on moving the Internal Affairs Agent and Magistrate to a new department (called Legal and later Internal Affairs) under the Head of Personnel (or Executive Officer), and moving the NanoTrasen Representative (or Corporate Liason) to an advisory position for command that represents Central Command but does not hold any authority in the station's command structure. This document focuses on the Internal Affairs aspect of this restructuring.
 
@@ -45,9 +45,7 @@ The Warden answers to the Commandant, as they did to the HOS.
 
 Lieutenants order around squads of Security Officers and Cadets in the field. On smaller maps, there is only a single Lieutenant slot, but larger maps can have up to two or even three Lieutenants in play.
 
-Lieutenants are equipped similarly to Security Officers (including a bodycam and FPT printer) but carry an [energy cutlass](#energy-cutlasses) and [SEARcH blaster](#laser-pistols) instead of a sidearm. They also have a red whistle and a [VAM-04 loudspeaker](#vam-04-loudspeaker).
-
-Lieutenants have their own hardsuits that are more resilient, but reduce speed slightly more.
+Lieutenants are equipped similarly to Security Officers (including a bodycam and FPT printer) but carry an [energy cutlass](#energy-cutlasses) and [SEARcH blaster](#laser-pistols) instead of a sidearm. They also have [their own hardsuits](#lieutenant-s-hardsuit). They also have a red whistle and a [VAM-04 loudspeaker](#vam-04-loudspeaker).
 
 In terms of uniform, Lieutenants have the same options as Security Officers but have a lieutenant's badge and a distinctive hat to set them apart from their subordinates.
 
@@ -93,7 +91,11 @@ The Commandant has a unique energy cutlass that does more damage but burns throu
 
 The **ME-55 pistol** (short for "Mainline Energy 2955") is a laser pistol, in a similar style to the captain's antique laser pistol, belonging to the Commandant. It's effectively a ceremonial weapon, being about as strong as an ordinary laser pistol. However, it slowly recharges when not in use.
 
-The **SEARcH blaster** (short for "Seeking Energy Armament, Recoil High") is a bulky laser pistol belonging to the Deputy. It has decent damage and fire rate, but its poor accuracy and heavy recoil makes it only work for a "spray and pray" assault. It has an internal battery, and slowly recharges when not in use. Being a Seeking Energy Armament, it has a miniature low-detail camera attached to the underside of the barrel. This camera can detect a certain array of white stripes that translates to "DON'T SHOOT!", making the shot continue past anyone openly wearing that pattern. This pattern is now painted onto riot armour and Security hardsuits, ensuring the Deputy does not accidentally hit their subordinates in a firefight.
+The **SEARcH blaster** (short for "Seeking Energy Armament, Recoil High") is a bulky laser pistol used by Lieutenants as a sidearm. It has decent damage and fire rate, but its poor accuracy and heavy recoil makes it only work for a "spray and pray" assault. It has an internal battery, and slowly recharges when not in use. Being a Seeking Energy Armament, it has a miniature low-detail camera attached to the underside of the barrel. This camera can detect a certain array of white stripes that translates to "DON'T SHOOT!", making the shot continue past anyone openly wearing that pattern. This pattern is now painted onto riot armour and Security hardsuits, ensuring a Lieutentant does not accidentally hit their subordinates in a firefight.
+
+#### Lieutenant's Hardsuit
+
+Lieutenants have their own hardsuits. These suits have a striking design that can be easily distinguished from other security hardsuits in the field. They're more resilient, but reduce speed slightly more.
 
 #### VAM-04 Loudspeaker
 
@@ -112,7 +114,7 @@ The Security Training Manual (STM) is a stripped-down version of the Command Tra
 
 The **Commandant's office** needs to have its WT-550 removed, if mapped.
 
-The specifications of the **Lieutenants' offices** (or even if they exist at all) are mostly up to mapper discretion. At minimum, each Lieutenant slot needs their own locker and hardsuit locker, but those can be moved to the standard locker room and armoury respectively if the mapper does not want to give them their own office.
+The specifications of the **Lieutenants' offices** (or even if they exist at all) are mostly up to mapper discretion. At minimum, each Lieutenant slot needs their own locker and [hardsuit locker](#lieutenant-s-hardsuit), but those can be moved to the standard locker room and armoury respectively if the mapper does not want to give them their own office.
 
 On maps that support the job, the **Dispatcher's office** can replace Security's front desk. The Dispatcher's locker, a camera monitor, and a crew monitor need to be added at minimum.
 
@@ -216,7 +218,15 @@ The FPT printer has a UI that opens up on interaction with a few options:
 - **Print earnings:** This button prints a receipt that can be redeemed for the value stored on the printer at the time it was printed, then resets the value stored to 0. This receipt can be redeemed by inserting it into an ATM while the user's account is open, adding its value to the account.
 - **FPT Status:** This button displays a summary of all fines issued by the FPT printer, each entry featuring the name, scrip cost, reason, and time since the fine was issued. Overdue fines specifically are highlighted with the word "OVERDUE" in bright red text. Fines that have been paid off or cancelled are dulled and the value struck through, with the word "Paid" or "Cancelled" somewhere on the entry respectively.
 
-The Executive Officer and Magistrate each have a financial penalty computer in their office. This computer displays the status of fines, similarly to the FPT Status menu, but also has a button on each entry to cancel the fine. The main purpose of this button is for appeals: If someone has received an FPT they do not consider fair, they can challenge the ticket at the XO's office (for fines issued by Internal Affairs) or Magistrate's office (for fines issued by Security), who can cancel the fine at their discretion.
+The Executive Officer and Magistrate each have a financial penalty computer (FPC) in their office. This computer displays the status of fines, similarly to the FPT Status menu, but also has a button on each entry to cancel the fine. The main purpose of this button is for appeals: If someone has received an FPT they do not consider fair, they can challenge the ticket at the XO's office (for fines issued by Internal Affairs) or Magistrate's office (for fines issued by Security), who can cancel the fine at their discretion.
+
+The comms room now contains a new server, called the FPT server. The FPT system only functions properly while there is an active FPT server on the station. If this system is unpowered or destroyed, the following functionality is disabled across all devices on the station:
+
+- Issuing or paying off tickets.
+- Printing or redeeming earnings receipts.
+- Viewing the earnings of an FPT printer.
+- Viewing the status of tickets on an FPT printer or FPC.
+- Cancelling tickets on an FPC.
 
 SOP will dictate the recommended and maximum amounts for fines relating to its enforcement. Similarly, space law will have a set amount for infraction fines, which the officer issuing the fine can lower at their own discretion. The XO and the Magistrate are bound by SOP to cancel fines that do not respect these limits.
 
