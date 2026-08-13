@@ -27,8 +27,8 @@ Sapient Being: A living entity that is capable of fully comprehending itself, it
 Privileged Individuals: Referees to Command Members and Central Command VIP’s
 Death: Fully deceased. Critical condition does not count as death.
 Operational Safety: The ability for the station, departments, and crew as a whole to perform work unimpeded.
-Reasonable Suspicion: Enforcement personnel either directly witnessing or receiving credible information about potential illegal activity. Valid Reasonable Suspicion is more than a simple hunch or instinct, and must be based on clear facts.
-Probable Cause: Enforcement personnel either directly witnessing or receiving credible information about an actual crime committed.
+Reasonable Suspicion: Security Personnel either directly witnessing or receiving credible information about potential illegal activity. Valid Reasonable Suspicion is more than a simple hunch or instinct, and must be based on clear facts.
+Probable Cause: Security Personnel either directly witnessing or receiving credible information about an actual crime committed.
 
 ---
 
@@ -40,7 +40,7 @@ Security personnel are allowed to search personnel under the following condition
 2. There is a search warrant for the being
 3. The station’s alert level allows for random searches
 
-The search could lead to the seizure of the objects in a person's backpack, hands, coat, belt, pockets, headset, and hat. This includes any bags, boxes or other containers the person has in the immediate vicinity.
+The search allows the seizure of any illegal personal possessions. This includes any bags, boxes or other containers the person has in the immediate vicinity.
 
 A crewmate may legally decline any search conducted without reasonable suspicion while the alert level is green.
 
@@ -52,22 +52,18 @@ Removal of body augmentation contraband should be done by medical personnel and 
 
 ### Department searches
 Security personnel are allowed to search a department under the following conditions
-1. There is a search warrant signed by the appropriate Department Head, Head of Personnel or Captain
+1. There is a search warrant signed by the corresponding Department Head, Executive Officer or Captain
 2. The station’s alert level allows for the departmental search
 
-Security personnel should minimize the interruption of work from the department
+Security personnel should make reasonable accommodations to reduce the interruption in the department
 - Personnel should be able to work
 - Search time should be kept to a minimum
 
-Secure Areas are not be searched unless otherwise EXPLICITLY authorized by the head of that department, or higher
+Secure Areas are not be searched unless otherwise EXPLICITLY authorized by the Head of that department, or higher
 
-Anything, excluding personnel, within the areas defined on the searched warrant can be searched. This includes but is not limited to:
-- Crates
-- Lockers
-- Machines
-- Plants
+Anything, excluding personnel, within the areas defined on the searched warrant can be searched.
 
-The Head of Personnel may issue ID’s with temporary access for the purposes of fulfilling a search warrant.
+The Executive Officer may issue ID’s with temporary access for the purposes of fulfilling a search warrant.
 
 ---
 
@@ -85,7 +81,7 @@ Arrest reasons include:
 3. Eyewitness report from a trustworthy individual.
 
 Detained and arrested individuals should not be handcuffed, provided they are cooperating.
-Cuffing of a detainee or arrestee should only happen if:
+Cuffing of a detainee or arrestee should only happen if either:
 1. The subject poses a clear threat towards:
   * Command staff
   * Security officers
@@ -95,10 +91,10 @@ Cuffing of a detainee or arrestee should only happen if:
 ---
 
 ## 4. Chain of Custody
-All enforcement personnel are held to a high standard when interacting with the public.
+All Security Personnel are held to a high standard when interacting with the public.
 Proper protocol is to be followed, in order to ensure that subjects of legal enforcement are given due process, and retain any and all rights they may hold.
 
-Enforcement Personnel are to follow the following procedure with any arrest.
+Security Personnel are to follow the following procedure with any arrest.
 Failure to follow this procedure may result in formal Disciplinary Actions by onboard CC staff, or in extreme cases, charges of negligence and/or endangerment.
 
 1. Given Probable Cause, the officer must state their intent to arrest, and for what crimes, before taking any forceful action.
@@ -108,14 +104,16 @@ Failure to follow this procedure may result in formal Disciplinary Actions by on
   * Batons, flashes, and handcuffs should be prioritized first, but if all less-lethal options are disabled, stolen, or otherwise ineffective, lethal force is authorized and encouraged.
   * Heavy weaponry is only permitted to perform an arrest if the subject is the target of a Red Alert, or is a clear militarized danger to the station.
 3. After successful detainment, the officer is to alert the Head of Security and Judicial Officer as soon as possible, so that all involved parties may prepare for a Hearing or Trial.
-4. Recovery of the arrestee’s bodily health is to be ensured before any other enforcement actions.
-  * Any further legal actions taken before the arrestee is stabilized are to be considered invalid.
-5. The arrestee may optionally be brought to security to remove and confiscate any immediately dangerous contraband, before moving on to the Hearing or Trial.
+4. The arrestee must be brought to security to remove and confiscate any contraband.
+  * All contraband should be properly stored on the evidence locker room.
+5. Recovery of the arrestee’s bodily health is to be ensured before moving on to the Hearing or Trial.
 6. In the case of a Formal Hearing or Trial, the arrestee must be informed of their right to a lawyer, and be provided one upon request.
   * For Summary Hearings, the arrestee does not have to be offered a lawyer, but still must be provided one upon request.
 7. The arrestee is to be brought to court, before the Judicial Officer, where they receive their official sentence via Hearing or Trial.
 8. Should their sentence result in brig time, the officer is to transport and hand the prisoner off to the Warden.
-9. The Warden performs a thorough search of the prisoner’s belongings, and ensures they are properly stored in their locker before handing them their prisoner ID and transporting them to the brig.
+9. The Warden removes all of the prisoner’s belongings, and ensures they are properly stored in their locker before handing them their prisoner ID and transporting them to the brig.
+
+Any time evidence is removed from the Evicence Locker, a log needs to be created for proper chain of custody validation.
 
 At any point during a prisoner’s arrest or confinement, the Detective is permitted to bring them into interrogation and question them.
 * The prisoner may ask for consultation with a Lawyer, during which their sentence is to be paused.
@@ -151,9 +149,7 @@ Any crewmate can be implanted if they give their clear permission.
 Any prisoner in custody can be subjected to implantation or implant removal procedures, so long as it's within reason. The process of adding an implant should not prolong the detainees sentence, or prevent them from leaving the brig to administer the implantation procedure.
 
 ### Implantation
-MindShields: MindShields can be administered to any inmate who has had their free will suppressed. Unlike standard implantation, you may hold a prisoner until they are issued a MindShield, so long as it's done in a timely fashion. If a suspect refuses to cooperate or the implant fails to function they can be charged with Refusal of Mental Shielding.
-
-While under normal circumstances a crewmate can refuse a Mind Shield if they are not imprisoned, when there is a known threat to the station that utilizes mass brainwashing or mind control, crewmates must submit to a MindShield if ordered by Security. Failure to comply is to be treated as Refusal of Lawful Implantation.
+If a prisoner/crew member represents a flight risk/is a recurring offender, a tracking implant can be administerd to them
 
 ### Removal
 A suspect can be forced to receive implant removal if there is probable cause that they have an illegal implant, such as an officer witnessing them use an implantation device or their biological information being found on a discarded injector.
@@ -243,7 +239,7 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 | Infraction | Mail Fraud | The unauthorized opening or tampering of mail intended for another individual. |
 | Misdemeanor | Impersonation | Hiding your true identity and posing as someone you are not for personal gain. |
 | Felony | Fraud | Intentionally lying about promised actions for personal gain, or not following through with non-NT contracts. |
-| Capital Offense | Impersonation of Central Command | Hiding your true identity and posing as Central Command, including CCVIP staff. |
+| Capital Offense | Impersonation of Central Command | Hiding your true identity and posing as Central Command. |
 
 | J | Obstruction of Legal Justice | Impeding or abusing the legal justice system. |
 | :---- | :---- | :---- |
@@ -310,10 +306,10 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 
 | \- | Other | Independent crimes with no classification. |
 | :---- | :---- | :---- |
-| Infraction | Cannibalism | To consume a portion of another sapient being, without express consent. |
+| Infraction | Cannibalism | To consume a portion of another sapient being. |
 | Misdemeanor | Animal Cruelty | Inflicting excessive harm on a living being, except when required for medical treatment, scientific research, or the preparation of food. |
 | Misdemeanor | Failure to Pay a Fine | Failure to pay a legally imposed fine within the required timeframe. |
-| Felony | Bribery | Offering or giving gifts, money, or favors to influence Command to act outside of their allowed duties. |
+| Felony | Bribery | Offering or giving gifts, money, or favors to influence someone to act outside of their allowed duties. |
 | Felony | Tax Evasion | Not paying NanoTrasen-mandated scrip taxes, or using non-scrip currencies to avoid paying taxes. |
 | Capital Offense | Refusal of Lawful Implantation | Refusing to accept a lawful implant from Security personnel while in custody. |
 | Capital Offense | Breach of NT Contract | Violating the terms of an NT-issued, signed contract. |
@@ -326,10 +322,10 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 Contraband Classifications follow broad categorizations based on object purpose, rather than a strict, specific list. Higher ranking personnel can override or specify contraband with the following chain of authority:
 * Central Command Officials
 * Captain
-* Head of Personnel
+* Executive Officer
 * Judicial Officer
 
-Enforcement personnel are to avoid unreasonable confiscation of items in order to maintain positive public relations between crew, security, and command.
+Security Personnel are to avoid unreasonable confiscation of items in order to maintain positive public relations between crew, security, and command.
 
 ### Contraband Classifications
 A single item may have more than one contraband classification, but only the highest charge is applied per item.
