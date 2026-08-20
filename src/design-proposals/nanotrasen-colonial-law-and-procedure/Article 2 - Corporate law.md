@@ -161,58 +161,57 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 ## 7. List of Crimes
 
 ### Crime Tiers:
-* **Infraction**
-  * Minor, non-criminal offenses, especially if they are easily reversible.
-  * Possible Punishments:
-    * Tickets/Fines, Pay Docking, Formal Warnings.
-    * Explicitly do not result in brig time. 
-    * Punishments for Infractions aren’t supposed to majorly interrupt the offender’s productivity.
 
-* **Misdemeanor**
-  * Crimes that cause harm to others or asset loss, and aren’t as easily reversible.
-  * Possible Punishments:
+* **Infraction**  
+  * Minor, non-criminal offenses.  
+  * An offense is especially considered only an Infraction if it causes minimal damage, and is easily reversible.  
+  * Possible Punishments:  
+    * Tickets/Fines, plus a Formal Warning.  
+    * Explicitly do not result in brig time.   
+  * Punishments for Infractions aren’t supposed to majorly interrupt the offender’s workplace productivity.
+
+* **Misdemeanor**  
+  * Crimes that cause harm to others or some level of asset loss, and aren’t as easily reversible.  
+  * Possible Punishments:  
     * 10-15 Minute Brig Time.
-    * Demotion within the department.
 
-* **Felony**
-  * Crimes that cause major harm, major asset loss, and/or are a major threat to operational safety.
-  * Possible Punishments:
-    * 20+ Minute Brig Time.
-    * Demotion out of department.
+* **Felony**  
+  * Crimes that cause major harm, major asset loss, and/or are a major threat to the station’s operational safety.  
+  * Possible Punishments:  
+    * 15-25 Minute Brig Time.
 
-* **Capital Offense**
-  * Crimes that cause irreversible harm or asset loss, and/or majorly disrupt the operational safety.
-  * Possible Punishments:
-    * Permanent Brig Sentence.
-    * Contract Termination.
-    * Execution
-
+* **Capital Offense**  
+  * Crimes that cause irreversible harm or asset loss, and/or majorly disrupt the station’s operational safety.  
+  * Possible Punishments:  
+    * Permanent Brig Sentence.  
+    * Execution.
 
 ### NanoTrasen defines the following Infractions and Criminal Offenses:
-| Infractions | Misdemeanors | Felonies | Capital Offenses |
-| :---- | :---- | :---- | :---- |
-| Loitering (A) | Trespass (A) | Secure Trespass (A) |  |
-| Possession of Minor Contraband (C) | Possession of Moderate Contraband (C) | Possession of Major Contraband (C) |  |
-| Substance Abuse (C) |  |  |  |
-| Vandalism (D) | Destruction of Property (D) | Mass Destruction (D) | Sabotage (D) |
-| Refusal to Identify (F) | Impersonation (F) |  | Impersonation of Central Command (F) |
-| Mail Fraud (F) |  | Fraud (F) |  |
-|  | Contempt of Court (J) | Perjury (J) | Subversion of Court (J) |
-| Harassment (M) |  | Extortion (M) | Terrorism (M) |
-| Negligence (N) | Endangerment (N) | Manslaughter (N) | Capital Negligence (N) |
-| Operation without Permit (O) |  | Black Marketeering (O) |  |
-| Disturbance (R) |  | Rioting (R) |  |
-| Failure to Comply (S) | Breach of Detainment (S) | Breach of Arrest (S) | Breach of Custody (S) |
-| Petty Theft (T) | Theft (T) | Grand Theft (T) |  |
-| Slander (U) |  | Libel (U) | Sedition (U) |
-| Insubordination (U) |  |  |  |
-|  | Battery (V) | Incapacitation (V) | Murder (V) |
-|  | Assault (V) | Mutilation (V) | Prevention of Revival (V) |
-|  |  | Kidnapping (W) | Suppression of Free Will (W) |
-| Cannibalism | Animal Cruelty | Bribery | Refusal of Lawful Implantation |
-|  | Failure to Pay a Fine | Tax Evasion | Breach of NT Contract |
 
-### Crime Specifications:
+| Infractions |  | Misdemeanors |  |  | Felonies |  |  | Capital Offenses |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| \- | Class C | Class B | Class A | Class C | Class B | Class A | Class C | Class B | Class A |
+| Ticket \+ Warning | 8 Minutes | 10 Minutes | 12 Minutes | 16 Minutes | 20 Minutes | 24 Minutes | Perma | Perma w/o Parole | Execution |
+| Loitering (A) | Trespass (A) |  |  | Secure Trespass (A) |  |  |  |  |  |
+| Possession of Minor Contraband (C) | Possession of Moderate Contraband (C) |  |  | Possession of Major Contraband (C) |  |  |  |  |  |
+| Vandalism (D) |  | Destruction of Property (D) |  |  | Mass Destruction (D) |  |  | Sabotage (D) |  |
+| Refusal to Identify (F) | Slander (F) | Impersonation (F) |  | Libel (F) | Fraud (F) |  | Impersonation of Central Command (F) |  |  |
+|  |  |  | Contempt of Court (J) |  |  | Perjury (J) |  | Subversion of Court (J) |  |
+| Harassment (M) |  |  |  |  | Extortion (M) |  |  | Sedition (M) | Terrorism (M) |
+| Negligence (N) |  | Endangerment (N) |  |  | Manslaughter (N) |  | Capital Negligence (N) |  |  |
+| Operation without Permit (O) |  |  |  | Black Marketeering (O) |  |  |  |  |  |
+| Disturbance (R) |  | Unlawful Assembly (R) |  |  | Rioting (R) |  |  |  |  |
+| Failure to Comply (S) |  | Breach of Arrest (S) |  |  | Breach of Custody (S) |  |  |  |  |
+| Petty Theft (T) | Theft (T) |  |  | Grand Theft (T) |  |  |  |  |  |
+|  |  | Assault (V) | Battery (V) |  | Mutilation (V) | Incapacitation (V) | Murder (V) | Prevention of Revival (V) |  |
+|  |  |  |  |  | Kidnapping (W) |  |  | Suppression of Free Will (W) |  |
+| Cannibalism | Animal Cruelty | Failure to Pay |  |  | Bribery | Tax Evasion |  | Refusal of Lawful Implantation | Breach of NT Contract |
+| Substance Abuse |  |  |  |  |  |  |  |  |  |
+
+### ---
+
+## 2\. Crime Specifications:
+
 | A | Access | Existing where you are not allowed. |
 | :---- | :---- | :---- |
 | Infraction | Loitering | Existing near a restricted area for an extended time, with no reasonable purpose. |
@@ -221,7 +220,6 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 
 | C | Contraband | Possession or use of controlled, restricted, or illegal contraband. |
 | :---- | :---- | :---- |
-| Infraction | Substance Abuse | Consumption or usage of contraband substances. |
 | Infraction | Possession of Minor Contraband | See Contraband Classifications. |
 | Misdemeanor | Possession of Moderate Contraband | See Contraband Classifications. |
 | Felony | Possession of Major Contraband | See Contraband Classifications. |
@@ -236,10 +234,11 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 | F | Fraud | Lying about yourself or your actions for personal gain. |
 | :---- | :---- | :---- |
 | Infraction | Refusal to Identify | Not wearing your shift-assigned ID, and/or hiding your identity with facial coverings, and refusing to present your identity when asked by an authority. |
-| Infraction | Mail Fraud | The unauthorized opening or tampering of mail intended for another individual. |
+| Infraction | Slander | Speaking false and harmful statements about NanoTrasen, its subsidiaries, or contractees. |
 | Misdemeanor | Impersonation | Hiding your true identity and posing as someone you are not for personal gain. |
+| Felony | Libel | Publishing false and harmful written statements about NanoTrasen, its subsidiaries, or contractees. |
 | Felony | Fraud | Intentionally lying about promised actions for personal gain, or not following through with non-NT contracts. |
-| Capital Offense | Impersonation of Central Command | Hiding your true identity and posing as Central Command. |
+| Capital Offense | Impersonation of Central Command | Hiding your true identity and posing as Central Command, including CCVIP staff. |
 
 | J | Obstruction of Legal Justice | Impeding or abusing the legal justice system. |
 | :---- | :---- | :---- |
@@ -251,6 +250,7 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 | :---- | :---- | :---- |
 | Infraction | Harassment | Unwelcome, knowing, and repeated negative conduct toward a sapient being, causing them to feel seriously uncomfortable, annoyed, or afraid. |
 | Felony | Extortion | Forcing another sapient being to do something unwillingly, by means of threats, force or aggression. |
+| Capital Offense | Sedition | Conspiring to overthrow or otherwise dismantle NanoTrasen public trust and authority. |
 | Capital Offense | Terrorism | Causing mass station panic, or completely disrupting station operations by means of fear and/or lethal force. |
 
 | N | Negligence | Causing harm to the station or its crew through vocational incompetence. |
@@ -265,30 +265,23 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 | Infraction | Operation without Permit | Performing another department’s duties, or some other business venture without a legal permit of operation. |
 | Felony | Black Marketeering | Engaging in the buying and/or selling of contraband. |
 
-| R | Rowdiness | Causing public disturbances and unrest. |
+| R | Rowdiness | Causing public disturbances and general unrest. |
 | :---- | :---- | :---- |
 | Infraction | Disturbance | Catch-all for public disruptive or obnoxious behavior. |
-| Felony | Rioting | Participating in unlawful protests, especially in the cases where damages are incurred. |
+| Misdemeanor | Unlawful Assembly | Refusing to disperse a protest or gathering after an official and legal declaration to do so has been issued. |
+| Felony | Rioting | Participating in unlawful protests, in the case where violence or station damages occur. |
 
 | S | Obstruction of Security | Going against or obstructing lawful Security actions. |
 | :---- | :---- | :---- |
 | Infraction | Failure to Comply | Refusing to comply with lawful demands of Security personnel. |
-| Misdemeanor | Breach of Detainment | Escaping from custody while not being free to go. |
-| Felony | Breach of Arrest | Breaking free of restraints during an arrest. |
-| Capital Offense | Breach of Custody | Escaping from custody during or after receiving a legal sentence. |
+| Misdemeanor | Breach of Arrest | Escaping from or evading a lawful and justified arrest or detainment. |
+| Felony | Breach of Custody | Escaping from custody during or after receiving a legal sentence. |
 
 | T | Theft | Taking that which belongs to others. |
 | :---- | :---- | :---- |
 | Infraction | Petty Theft | Taking something that is mostly worthless or easily replaceable. |
 | Misdemeanor | Theft | Taking something of meaningful value. |
 | Felony | Grand Theft | Taking something that is critical to the person’s job or role. |
-
-| U | Undermining NanoTrasen Authority | Spreading dissent about or disrespecting NanoTrasen authority. |
-| :---- | :---- | :---- |
-| Infraction | Slander | Speaking false and harmful statements about Command or NanoTrasen. |
-| Infraction | Insubordination | Disobeying Command’s orders without reasonable justification. |
-| Felony | Libel | Publishing false and harmful written statements about Command or NanoTrasen. |
-| Capital Offense | Sedition | Conspiring to overthrow or otherwise dismantle NanoTrasen public trust and authority. |
 
 | V | Intentional Violence | Causing intentional bodily harm to another sapient being. |
 | :---- | :---- | :---- |
@@ -306,10 +299,11 @@ Unlike the implantation procedure a prisoner can have their sentence entirely de
 
 | \- | Other | Independent crimes with no classification. |
 | :---- | :---- | :---- |
-| Infraction | Cannibalism | To consume a portion of another sapient being. |
+| Infraction | Cannibalism | To consume a portion of another sapient being, without express consent. |
+| Infraction | Substance Abuse | Consumption or usage of contraband substances. |
 | Misdemeanor | Animal Cruelty | Inflicting excessive harm on a living being, except when required for medical treatment, scientific research, or the preparation of food. |
-| Misdemeanor | Failure to Pay a Fine | Failure to pay a legally imposed fine within the required timeframe. |
-| Felony | Bribery | Offering or giving gifts, money, or favors to influence someone to act outside of their allowed duties. |
+| Misdemeanor | Failure to Pay | Failure to pay a legally imposed fine within the required timeframe. |
+| Felony | Bribery | Offering or giving gifts, money, or favors to influence Command to act outside of their allowed duties. |
 | Felony | Tax Evasion | Not paying NanoTrasen-mandated scrip taxes, or using non-scrip currencies to avoid paying taxes. |
 | Capital Offense | Refusal of Lawful Implantation | Refusing to accept a lawful implant from Security personnel while in custody. |
 | Capital Offense | Breach of NT Contract | Violating the terms of an NT-issued, signed contract. |
