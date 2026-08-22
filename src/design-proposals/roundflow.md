@@ -16,7 +16,7 @@ The purpose of this document is to redesign 3 facets of Funky's current roundflo
 
 1. Currently, late joining via the arrivals shuttle is a very underwhelming experience that adds very
    little to a round and creates a colossal logic gap: if the station is a far-off, isolated research outpost,
-   why can arrivals easily transport people to the station on a regularly scheduled basis>
+   why can arrivals easily transport people to the station on a regularly scheduled basis?
    (oftentimes transporting nobody)? This eliminates the sense of isolation being on this far-off station is
    meant to evoke, and isn't logically consistent with how difficult it is to call for off-station reinforcements.
 2. There is oftentimes no build-up to the end of the round without direct antagonist interference, the round merely
@@ -43,7 +43,7 @@ convenience:
    This is logically consistent with what the station is:
    an isolated outpost wherein the workers are contracted to work aboard for set periods of time - an easy example
    being oil rig work, or the Nostromo from Alien.
-   That is, after all, why long-term accommodations like a high-capacity power grind, a
+   That is, after all, why long-term accommodations like a high-capacity power grid, a
    hydroponics area, a service area AND staff and dorms exist. These stations are, by design, made to be lived
    in for extended periods of time.
 
@@ -55,7 +55,7 @@ convenience:
    made alongside the round-end screen, effectively ending the round after 3 or so minutes.
 2. Service events. (outlined here: https://github.com/funky-station/docs/pull/96) An event would ideally be designed to
    line up at the end of a round, to create a round-end "happy hour" or pizza party and creating a more
-   diegetic build-up to the end of the round. This encourages people to wind down at the end of a round, and
+   intuitive build-up to the end of the round. This encourages people to wind down at the end of a round, and
    builds up a sense of community while simultaneously reinforcing service's role as the bread and circus role. This
    also provides people with an opportunity to hand out medals of exemplary service (See the often forgotten medal case
    in the captain's office).
@@ -65,6 +65,16 @@ convenience:
    to help kickstart the worker's systems and protect them from potentially harmful workplace environments around
    the cryopod area. An animation will be played to show a cryopod coming from the floor, ejecting the player
    and disappearing again. This explains how the station can somehow accommodate such a large workforce.
+
+### Prospective antagonist changes
+Not that many, mostly changing the wording on some objectives to accommodate the new round end.
+
+1. Traitor. "Kill/maroon" becomes just "Kill". "Escape alive and restrained" becomes "Survive unrestrained"
+
+2. Round-ending antagonists. The round end announcement will happen as normal and the game will proceed as normal. 
+   With the revised EORG rules, the conflict can proceed as normal until players return to the lobby. This document
+   is not really intended to solve antagonists & roundstall, so I've decided that simply letting the round end -
+   although anticlimactic - is the better option between that and the round being stalled, potentially indefinitely.
 
 ### Spriting
 1. Cryopods. Cryopods will be resprited to accommodate the cryopod changes.
