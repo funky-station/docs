@@ -80,7 +80,7 @@ This section will go over the revised armory in its entirety, detailing the work
 2. Shock Stick. A stick with some added shock damage, split in the middle between blunt and shock. Can be wielded for
    some extra heft behind each swing, but requires a battery to function. Available through the riot control research.
 
-### Specialist weapons 
+### Specialist Weaponry 
 
 1. Kammerer Riot Shotgun. Security's one and only ballistic option, implemented as it currently is. Standard ammo is beanbag ammunition,
     which will leave people concussed or in critical condition. Other ammunition options still available, such as the lethal ammunition
