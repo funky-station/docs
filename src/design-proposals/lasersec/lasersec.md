@@ -54,6 +54,11 @@ This section will go over the revised armory in its entirety, detailing the work
     All barricades will be quick to deploy, but have a lengthy do-after to unwrench and will have similar structural 
     strength to airlocks.
 
+3. Fusion Ammunition Synthesizer. Similar to the current synthesizer with key changes: 1) it must be mapped into the armory inside of a
+    uranium window compartment, 2) it is no longer able to be carried and must instead be dragged to where you want it, 
+   3) it must be anchored to synthesize fusion ammuniton, and drains a considerable amount of power and emits radiation while doing so. 
+
+
 ### Standard Ranged Weaponry
 
 1. **Roundstart sidearm** RG-2 Energy Pistol. The standard security sidearm, as implemented in Forky currently. If it still proves to be
@@ -121,8 +126,8 @@ Turns out getting hit by a localized third/fourth-degree burn/chemical burn hurt
 ### Cargo
 
 - The removal of the WT-550 SMG crate from Cargo, effectively deprecating the WT-550
-- Replace the Enforcer crate with the Kammerer crate, which contains 2 kammerers.
-- Replace the SMG & Pistols crates with the Fusion Weapons crate, which contains 1 Fusion Rifle & 1 Pistol, each holstered.
+- Replace the Enforcer crate with the Kammerer crate, which contains 2 kammerers. This effectively deprecates the Enforcer as well.
+- Replace the SMG & Pistols crates with the Fusion Weapons crate, which contains 1 Fusion Rifle & 1 Pistol, each holstered in their respective storages
 - Addition of the Xray Lance crate, which contains 1 Xray Lance.
 - Addition of the ACE-79 Emplacement storage box, which contains a single ACE-79 Emplacement unit.
 
