@@ -172,3 +172,5 @@ reinforces the idea of tactile and intentional gameplay and roleplay.
 ## Technical considerations
 
 All the following changes should be possible with .yml and mapping changes.
+
+# This is step 1 of a 3 step plan. Step 2 will focus on crew-oriented options, and step 3 will focus on the syndicate.
