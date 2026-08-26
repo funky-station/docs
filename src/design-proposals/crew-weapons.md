@@ -114,3 +114,6 @@ These will largely receive the same changes as improvised weapons. There are no 
 Disposable guns. This will be a rare addition to maintenance loot. A discontinued line of small, low caliber pistols with a 
 built-in magazine that cannot be reloaded. You have to use a wirecutter to cut off the tag, which releases the safety and voids
 the warranty on the pistol. (spoiler: the warranty expired about 34 years ago.)
+
+# This is step 2 of a 3 step plan, with the overarching goal of bringing the game more in line with antag-optional design. 
+# This document is not yet complete and still requires the deeper game design rationale other than the overview.
