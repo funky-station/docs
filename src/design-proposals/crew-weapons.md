@@ -100,7 +100,10 @@ authenticity changes. This includes:
     pipe bombs or firebombs to trigger when the tripwire is triggered. Tripwires are not triggered when walked over.
     Nos-lips do not prevent tripping. The wires can also be broken by damaging them.
 
-7. Makeshift bladed weaponry. Crafted using the makeshift blade + cloth + steel/plastic. Recipe will depend on the item crafted.
+7. Molotov cocktails. These are molotovs, simple. Crafted from any alcoholic bottle, some cloth and an igniter. Throwing it
+    causes it to break, spill its liquid and ignite.
+
+8Makeshift bladed weaponry. Crafted using the makeshift blade + cloth + steel/plastic. Recipe will depend on the item crafted.
     This includes: makeshift dagger, makeshift throwing knives/stars, makeshift spear, makeshift machete.
 
 8. Miscellaneous damage/damage profile improvements. Improvements to the damage profile of shivs and spears so they
@@ -115,5 +118,25 @@ Disposable guns. This will be a rare addition to maintenance loot. A discontinue
 built-in magazine that cannot be reloaded. You have to use a wirecutter to cut off the tag, which releases the safety and voids
 the warranty on the pistol. (spoiler: the warranty expired about 34 years ago.)
 
-# This is step 2 of a 3 step plan, with the overarching goal of bringing the game more in line with antag-optional design. 
-# This document is not yet complete and still requires the deeper game design rationale other than the overview.
+## Game design rationale
+
+### Antagonist-optional design
+
+With Funky moving away from antagonist-oriented design, crew can finally be allowed to have access to weapons that have 
+impact. These changes are a necessary foundation for crew to grow into a formidable threat to security if not quashed,
+with the threat of security not maintaining its iron grip being all-out revolt or war.
+
+### Maintaining authenticity
+
+Many of the changes suggested are an attempt to make combat play out more authentically and intuitively. Breaking a bottle
+over a table and using it *should* be rewarded and *should* hurt. This principle is applied to each respective object in turn,
+with chairs becoming a possible blunt weapon, crowbars being more violent, kitchen knives being very dangerous to throw, etc.
+
+### Dynamic environment
+
+While Funky may not maintain the motto of "Anything should be possible" anymore, the proposed changes opens up a gateway for things
+that *feel* like they should be possible, while simultaneously giving crew more agency in how they approach threats physically.
+This applies a more conventional physical threat behind each crew's grumbling, complaints and makes "Viva!" feel like an
+actionable threat, rather than an empty one in most cases.
+
+# This is step 2 of a 3 step plan, with the overarching goal of bringing the game more in line with antagonist-optional design. 
