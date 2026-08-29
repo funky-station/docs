@@ -139,4 +139,12 @@ that *feel* like they should be possible, while simultaneously giving crew more 
 This applies a more conventional physical threat behind each crew's grumbling, complaints and makes "Viva!" feel like an
 actionable threat, rather than an empty one in most cases.
 
+## Considerations
+
+### Administration - Powergaming
+
+These items may need to be looked out for and powergaming situations may be a little more nuanced overall, as someone
+could be making a weapon on green alert for things such as revenge, out of desperation for scrip, food, etc. While this document doesn't
+directly engage with scrip, it does allow for more violent/accessible means of committing crime than crew options currently offer.
+
 # This is step 2 of a 3 step plan, with the overarching goal of bringing the game more in line with antagonist-optional design. 
