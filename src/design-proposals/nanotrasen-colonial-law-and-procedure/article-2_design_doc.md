@@ -22,13 +22,13 @@ We also took this opportunity to add some things to increase the RP potential, c
 
 ## Features to be added
 
-To see all the new proposed changes to Corporate Law, please check out the [supporting doc](Article%202%20-%20Corporate%20law.md) with the draft (Still not up at the time of commiting this, for now, the things can be found on the [Google doc under the Article 2 tab](https://docs.google.com/document/d/1HhQ9L_5KLPLiYH3W9_V8gIqyjH2lBxOt-W90n76cLtY/edit?tab=t.ushwxj8tclf6#heading=h.x3qf6opli0z2). Yes Tay, this link is temporary)
+To see all the new proposed changes to Corporate Law, please check out the [supporting doc](Article%202%20-%20Corporate%20law.md).
 
 ### Space Law rename
 While it may not seem like much, Space Law has been renamed to Corporate Law to better fit the theme of NT owning you, the station, and all surrounding space. You are in their house, you play under their rules.
 
 ### Corporate Law: Searches
-The way searches are conducted has been reworded with a bit more legalese, and in the case of departmental searches, they have been made clearer as to what is included, and especially what's NOT included (personnel).
+The way searches are conducted has been reworded with a bit more legalese, and in the case of departmental searches, they have been made clearer as to what is included, and what's not included (personnel).
 
 ### Corporate Law: Detainment and Arrests
 There is now a difference between being detained and being arrested:
@@ -38,10 +38,10 @@ In both cases, the detainees or arrestees should not be cuffed if they are compl
 
 ### Corporate Law: Chain of Custody
 This specifies how Security is expected to play out each of the steps from arrest to the brig. This is mostly a supporting change for [Sentencing, Trials, and Hearings](article-5_design_doc.md).
-This ups the standards Security personnel are held toin-character, while giving good lawyers more tools to finagle their clients out of a sentence, or at least enter a reduced one.
+This ups the standards Security personnel are held to in-character, while giving good lawyers more tools to finagle their clients out of a sentence, or at least enter a reduced one.
 
 ### Corporate Law: Treatment of Arrestees and Prisoners
-This section is kept mostly the same as the old treatment of prisoners.
+This section is kept mostly the same as the old treatment of prisoners, minus the PDA parts as they are being removed from Funky
 
 ### Corporate Law: Implantation
 This section is kept mostly the same as before, with a bit more legalese.
@@ -50,18 +50,20 @@ This section is kept mostly the same as before, with a bit more legalese.
 This area has been majorly reworked and expanded. NT now has more ways to get employees who are not behaving.
 
 #### Crime Categories
+Brig times have been standardized so that sentencing gets easier. They now directly depend on their category, instead of the individual crime.
+
 The tier system has been revamped into 4 named crime tiers:
 - Infraction: They cover minor offenses, which do not lead to brig time.
 - Misdomenor: They cover more serious offenses, which can lead to brig time.
 - Felony: They cover serious crimes, can lead to more brig time.
 - Capital Offenses: They deal with the most serious crimes against NT, can lead to permanent confinement, contract termination, or execution.
 
+Misdomenors, Felonys, and Capital Offenses are further subdivided into 3 sub-categories (A, B, C) for more granular punisment adjustments.
+
 Note: Execution requires Captain and XO (HOP) approval
 
-Big times have been standardized so that sentencing gets easier. They now directly depend on their category, instead of the individual crime.
-
-The crime list has also been expanded to give NT more power over how people and unions behave. The line between a strike and a riot is a thin one.
-We expect security vs crew to increase the friction between Command and the Crew, giving more opportunities for escalation should the players choose to do so.
+The crime list has also recived and expansion to give NT more power over how people and unions behave. The line between a strike and a riot is a thin one and NT likes it that way.
+We expect the increased friction between security and crew to increase the friction between Command and the Crew, giving more opportunities for escalation should the players choose to do so.
 
 #### Infraction enforment
 Infractions are not meant to be something everyone needs to go to a judge for; They will be handed out by Security.
@@ -72,7 +74,7 @@ As a perverse incentive, fines made by Security will go to the Security departme
 Old Contraband has been replaced by Vaguelawed Contraband. To support this change, contraband markers will need to be removed from the game.
 These changes were made to increase the RP potential, as now, confiscating something is a choice to be made by players, and not by a marker.
 This also makes meteshielded components harder to identify, unlike the old system which made confiscation a must (Syndicate pajamas, anyone?)
-It is also another way for escalation to happen is Sec confiscates too much or too little with the crew and command, respectively 
+It is also another way for escalation to happen is Sec confiscates too much or too little with the crew and command respectively 
 
 ### Corporate Law: Legal Exemptions
 Certain jobs may be except of certain laws under certain conditions, this includes security's monopoly on violence, or more mundane things like engi breaking into places to fix a fire.
@@ -96,7 +98,7 @@ A lot of these changes have been done with two pillars in mind:
 ## Roundflow & Player interaction
 
 Corporate Law is something that will permeate each round from roundstart till evac docs on CC, and all players will have to engage with it.
-Common sense will keep most players outside of Securities radar, but it will still be something present.
+Common sense will keep most players outside of Security's radar, but it will still be something present.
 
 Example of Non-Antag Escalation Oportunities:
 As an example an assitant could get fined by security for Loitering, the assistant, not able to get the Scrip to pay the fine, gets charged with Failure to Pay a Fine. This builds up resentment, and once they are out of the brig, the look for other people wronged by sec and start a strike.
