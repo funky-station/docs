@@ -20,12 +20,10 @@ Arrest: Under restraint by Security, in order to press charges before a judge.
 Custody: Under restraint by Security, during or after receiving a sentence.
 Detainee: Any being who is being temporarily held.
 Arrestee: Any being either arrested or in custody.
-Excessive Force: More than needed for the situation. (eg. gibbing)
 Criminal Offense: Charges/Sentences that can result in arrests and/or brig time.
-Sentient Being: A living entity capable of thought.
+Sentient Being: A living entity who perceives or responds to sensations of whatever kind.
 Sapient Being: A living entity that is capable of fully comprehending itself, its surroundings, and other sapient beings.
 Privileged Individuals: A member of Command or Central Command
-Death: Visible cessation of bodily functions
 Operational Safety: The ability for the station, departments, and crew as a whole to perform work unimpeded.
 Reasonable Suspicion: Security personnel either directly witnessing or receiving credible information about potential illegal activity. Valid Reasonable Suspicion is more than a simple hunch or instinct, and must be based on clear facts.
 Probable Cause: Security personnel either directly witnessing or receiving credible information about an actual crime committed.
