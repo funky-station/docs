@@ -20,7 +20,7 @@ Arrest: Under restraint by Security, in order to press charges before a judge.
 Custody: Under restraint by Security, during or after receiving a sentence.
 Detainee: Any being who is being temporarily held.
 Arrestee: Any being either arrested or in custody.
-Criminal Offense: Charges/Sentences that can result in arrests and/or brig time.
+Criminal Offense: An act that violates Corporate Law, with penalties including fines or imprisonment
 Sentient Being: A living entity who perceives or responds to sensations of whatever kind.
 Sapient Being: A living entity that is capable of fully comprehending itself, its surroundings, and other sapient beings.
 Privileged Individuals: A member of Command or Central Command
