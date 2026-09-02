@@ -117,3 +117,5 @@ As mentioned on the main doc, with so many changes we think players will AHelp m
 For infraction enfocement, two new things will need to be implemented:
 - Sec will need to get a new device capable of printing fines, and;
 - An ATM-like device near the courtroom that allows players to pay the fine, or give the option to page the judge for it to be disputed.
+
+For interrogations, sec will need able to pause the brig times. An update to the prisoner lockers will be needed to reflect this change.

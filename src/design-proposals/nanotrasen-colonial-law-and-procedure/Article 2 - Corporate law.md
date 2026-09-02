@@ -103,7 +103,7 @@ Failure to follow this procedure may result in formal Disciplinary Actions by th
   * All contraband should be properly stored on the evidence storage.
 5. Recovery of the arrestee’s bodily health is to be ensured before moving on to the hearing or trial.
 6. In the case of a formal hearing or trial, the arrestee must be informed of their right to a lawyer, and be provided one upon request.
-  * For Summary hearings, the arrestee does not have to be offered a lawyer, but still must be provided one upon request.
+  * For summary hearings, the arrestee does not have to be offered a lawyer, but still must be provided one upon request.
 7. The arrestee is to be brought to court, before the Magistrate, where they receive their official sentence via hearing or trial.
 8. Should their sentence result in brig time, the officer is to transport and hand the prisoner off to the Warden.
 9. The Warden removes all of the prisoner’s belongings, and ensures they are properly stored in their locker before handing them their prisoner ID and transporting them to the brig.
@@ -112,7 +112,7 @@ Any time evidence is removed from the evidence storage, form SEC-11 needs to be 
 
 At any point during a prisoner’s arrest or confinement, the Detective is permitted to bring them into interrogation and question them.
 * The prisoner may ask for consultation with a lawyer, during which their sentence is to be paused.
-* The prisoner’s sentence is not to be paused during interrogation.
+* The prisoner’s sentence timer may be paused during interrogation.
 
 ---
 
