@@ -1,32 +1,32 @@
 # NanoTrasen Corporate Law
 ## Table of Contents:
-Legal Definitions
-Searches
-Detainment & Arrests
-Chain of Custody
-Treatment of Arrestees and Prisoners
-Implantation
-List of Crimes
-Contraband Classifications
-Legal Exemptions
+Legal Definitions  
+Searches  
+Detainment & Arrests  
+Chain of Custody  
+Treatment of Arrestees and Prisoners  
+Implantation  
+List of Crimes  
+Contraband Classifications  
+Legal Exemptions  
 
 ---
 
 ## 1. Definitions:
-NT: NanoTrasen
-Charge: The combination of all crimes an individual is accused of.
-Sentence: A judge's decision concerning the validity, in whole or part, of a charge in addition to its accompanying punishment.
-Arrest: Under restraint by Security, in order to press charges before a judge.
-Custody: Under restraint by Security, during or after receiving a sentence.
-Detainee: Any being who is being temporarily held.
-Arrestee: Any being either arrested or in custody.
-Criminal Offense: An act that violates Corporate Law, with penalties including fines or imprisonment
-Sentient Being: A living entity who perceives or responds to sensations of whatever kind.
-Sapient Being: A living entity that is capable of fully comprehending itself, its surroundings, and other sapient beings.
-Privileged Individuals: A member of Command or Central Command
-Operational Safety: The ability for the station, departments, and crew as a whole to perform work unimpeded.
-Reasonable Suspicion: Security personnel either directly witnessing or receiving credible information about potential illegal activity. Valid Reasonable Suspicion is more than a simple hunch or instinct, and must be based on clear facts.
-Probable Cause: Security personnel either directly witnessing or receiving credible information about an actual crime committed.
+NT: NanoTrasen  
+Charge: The combination of all crimes an individual is accused of.  
+Sentence: A judge's decision concerning the validity, in whole or part, of a charge in addition to its accompanying punishment.  
+Arrest: Under restraint by Security, in order to press charges before a judge.  
+Custody: Under restraint by Security, during or after receiving a sentence.  
+Detainee: Any being who is being temporarily held for searches, interrogation, issuing a fine, etc.  
+Arrestee: Any being either arrested or in custody.  
+Criminal Offense: An act that violates Corporate Law, with penalties including fines or imprisonment.  
+Sentient Being: A living entity who perceives or responds to sensations of whatever kind.  
+Sapient Being: A living entity that is capable of fully comprehending itself, its surroundings, and other sapient beings.  
+Privileged Individuals: A member of Command or Central Command.  
+Operational Safety: The ability for the station, departments, and crew as a whole to perform work unimpeded.  
+Reasonable Suspicion: Security personnel either directly witnessing or receiving credible information about potential illegal activity. Valid Reasonable Suspicion is more than a simple hunch or instinct, and must be based on clear facts.  
+Probable Cause: Security personnel either directly witnessing or receiving credible information about an actual crime committed.  
 
 ---
 
@@ -45,7 +45,7 @@ A crewmate may legally decline any search conducted without reasonable suspicion
 If any contraband is found during a search, the officer may choose to further the search into an arrest, or confiscate the restricted items and issue a fine. After the search is conducted, all legal items are to be returned to the person.
 
 #### Invasive confiscation
-Sometimes crewmembers may have contraband that requires surgery to remove.
+Sometimes crewmembers may have contraband that requires surgery to remove.  
 Removal of body augmentation contraband should be done by medical personnel and not cause excessive harm or leave the person's body nonfunctional.
 
 ### Department searches
@@ -66,7 +66,7 @@ The Executive Officer may issue ID cards with temporary access for the purposes 
 ---
 
 ## 3. Detainment & Arrests
-Security personnel are allowed to temporarily detain anyone with only a reasonable suspicion of a crime.
+Security personnel are allowed to temporarily detain anyone with only a reasonable suspicion of a crime.  
 Procedures that necessitate detainment:
 - Performing a search.
 - Investigating a crime.
@@ -86,24 +86,24 @@ Cuffing of a detainee or arrestee should only happen if either:
 ---
 
 ## 4. Chain of Custody
-All Security personnel are held to a high standard when interacting with the public.
+All Security personnel are held to a high standard when interacting with the public.  
 Proper protocol is to be followed in order to ensure that subjects of legal enforcement are given due process and retain any and all rights they may hold.
 
-Security personnel are to follow the following procedure with any arrest.
+Security personnel are to follow the following procedure with any arrest.  
 Failure to follow this procedure may result in formal Disciplinary Actions by the onboard IA staff, or in extreme cases, charges of negligence and/or endangerment.
 
 1. Given Probable Cause, the officer must state their intent to arrest, and for what crimes, before taking any forceful action.
-  * Proper intent includes using a security voice mask, calling their name or job, and/or pointing at them and telling them to stop.
-  * This step may be waived if the target is the subject of a Red Alert, or if they are declared “Arrest on Sight” by the Commandant.
+    * Proper intent includes using a security voice mask, calling their name or job, and/or pointing at them and telling them to stop.
+    * This step may be waived if the target is the subject of a Red Alert, or if they are declared “Arrest on Sight” by the Commandant.
 2. If the subject fails to stop when asked or attempts to evade lawful arrest, forceful action and restraints may be used to take them in.
-  * Nightsticks, flashes, and handcuffs should be prioritized first, but if all less-lethal options are disabled, stolen, or otherwise ineffective, lethal force is authorized and encouraged.
-  * Heavy weaponry is only permitted to perform an arrest if the subject is the target of a Red Alert, or is a clear militarized danger to the station.
+    * Nightsticks, flashes, and handcuffs should be prioritized first, but if all less-lethal options are disabled, stolen, or otherwise ineffective, lethal force is authorized and encouraged.
+    * Heavy weaponry is only permitted to perform an arrest if the subject is the target of a Red Alert, or is a clear militarized danger to the station.
 3. After successful detainment, the officer is to alert the Commandant and Magistrate as soon as possible, so that all involved parties may prepare for a hearing or trial.
 4. The arrestee must be brought to security to remove and confiscate any contraband.
-  * All contraband should be properly stored on the evidence storage.
+    * All contraband should be properly stored on the evidence storage.
 5. Recovery of the arrestee’s bodily health is to be ensured before moving on to the hearing or trial.
 6. In the case of a formal hearing or trial, the arrestee must be informed of their right to a lawyer, and be provided one upon request.
-  * For summary hearings, the arrestee does not have to be offered a lawyer, but still must be provided one upon request.
+    * For summary hearings, the arrestee does not have to be offered a lawyer, but still must be provided one upon request.
 7. The arrestee is to be brought to court, before the Magistrate, where they receive their official sentence via hearing or trial.
 8. Should their sentence result in brig time, the officer is to transport and hand the prisoner off to the Warden.
 9. The Warden removes all of the prisoner’s belongings, and ensures they are properly stored in their locker before handing them their prisoner ID and transporting them to the brig.
@@ -111,8 +111,8 @@ Failure to follow this procedure may result in formal Disciplinary Actions by th
 Any time evidence is removed from the evidence storage, form SEC-11 needs to be filed for proper chain of custody validation.
 
 At any point during a prisoner’s arrest or confinement, the Detective is permitted to bring them into interrogation and question them.
-* The prisoner may ask for consultation with a lawyer, during which their sentence is to be paused.
 * The prisoner’s sentence timer may be paused during interrogation.
+* The prisoner may ask for consultation with a lawyer, during which their sentence is to be paused.
 
 ---
 
@@ -124,12 +124,12 @@ Arrestees must be provided with:
 1. Adequate medical care.
 2. Access to communications equipment so long as they are not abused.
 3. Access to a lawyer, should they request it.
-  * This includes during interrogations and the subsequent hearing.
+    * This includes during interrogations and the subsequent hearing.
 
 ### Prisoners
 On top of the arrestee’s protections, prisoners must be provided with:
 1. Clothing, food, water, and shelter.
-  * Should the Brig be rendered unsafe, confinement must be established in another location.
+    * Should the Brig be rendered unsafe, confinement must be established in another location.
 2. Psychiatric and spiritual counselling if requested.
 3. Prisoners should not be restrained with handcuffs or other devices after incarceration unless there is an undue risk to life and limb.
 
@@ -158,7 +158,7 @@ Unlike the implantation procedure, a prisoner can have their sentence entirely d
   * Minor, non-criminal offenses.
   * An offense is especially considered only an Infraction if it causes minimal damage, and is easily reversible.
   * Possible Punishments:
-    * A financial penalty ticket, plus a formal warning.
+    * A financial penalty ticket and/or a formal warning.
     * Explicitly do not result in brig time.
   * Punishments for Infractions aren’t supposed to majorly interrupt the offender’s workplace productivity.
 
@@ -193,7 +193,7 @@ Unlike the implantation procedure, a prisoner can have their sentence entirely d
 | Cannibalism |  | Failure to Pay | Animal Cruelty |  | Bribery | Tax Evasion |  | Refusal of Lawful Implantation | Breach of NT Contract |
 | Substance Abuse |  |  |  |  |  |  |  |  |  |
 
-### ---
+---
 
 ## 2\. Crime Specifications:
 
@@ -309,29 +309,29 @@ Security personnel are to avoid unreasonable confiscation of items in order to m
 ### Contraband Classifications
 A single item may have more than one contraband classification, but only the highest charge is applied per item.
 
-**Weapon**
-Objects with a heightened effectiveness for violence or killing.
-Minor: Improvised item used as a weapon.
-Moderate: Items that are purpose-made to be a weapon.
-Major: Highly lethal weapon.
+**Weapon**  
+Objects with a heightened effectiveness for violence or killing.  
+Minor: Improvised item used as a weapon.  
+Moderate: Items that are purpose-made to be a weapon.  
+Major: Highly lethal weapon.  
 
-**Unsanctioned Equipment**
-Equipment that is restricted to a certain department or job.
-Minor: Common, departmental equipment.
-Moderate: Equipment that is critical to the department’s function.
-Major: Command-exclusive, unique equipment.
+**Unsanctioned Equipment**  
+Equipment that is restricted to a certain department or job.  
+Minor: Common, departmental equipment.  
+Moderate: Equipment that is critical to the department’s function.  
+Major: Command-exclusive, unique equipment.  
 
-**Operational Hazards**
-Objects that pose a heightened threat to the operational safety of the station, that are not explicitly issued by a department to do one’s job.
-Minor: Common, mostly harmless equipment.
-Moderate: Local scale threat to operational safety.
-Major: Large scale threat to operational safety.
+**Operational Hazards**  
+Objects that pose a heightened threat to the operational safety of the station, that are not explicitly issued by a department to do one’s job.  
+Minor: Common, mostly harmless equipment.  
+Moderate: Local scale threat to operational safety.  
+Major: Large scale threat to operational safety.  
 
-**Chemical**
-Substances capable of influencing the mind or harming the body when metabolized or used in a reaction.
-Minor: Restricted recreational drugs & medicines with low-risk ODs.
-Moderate: Exploitable stimulants, medicines with high-risk ODs, & minorly dangerous reactive substances.
-Major: Lethal poisons, highly inhibiting chemicals, & highly dangerous reactive substances.
+**Chemical**  
+Substances capable of influencing the mind or harming the body when metabolized or used in a reaction.  
+Minor: Restricted recreational drugs & medicines with low-risk ODs.  
+Moderate: Exploitable stimulants, medicines with high-risk ODs, & minorly dangerous reactive substances.  
+Major: Lethal poisons, highly inhibiting chemicals, & highly dangerous reactive substances.  
 
 **Propaganda**
 Objects that support non-NT-approved entities, or paints NT, its subsidiaries, or it's partners in a false light.
@@ -339,9 +339,9 @@ Minor: Items that carry branding from Non-NT organizations, with low-risk of exp
 Moderate: Items that carry branding from enemies of NT, paint NT as an organization in a false light, or lesser items with wide exposure to other crew.
 Major: Items that carry branding from terrorist organizations, paint NT Command in a false light, or lesser items with station-wide exposure to other crew.
 
-**Classified Media**
-Media containing information from above the carrier’s clearance level.
-Any classified media is Major Contraband.
+**Classified Media**  
+Media containing information from above the carrier’s clearance level.  
+Any classified media is Major Contraband.  
 
 ---
 
@@ -349,20 +349,20 @@ Any classified media is Major Contraband.
 Indicates the legal exemptions certain roles have from crimes or crime categories, so long as the proper protocol is being followed
 
 ### Security Exemptions
-Security personnel are explicitly exempt from the following crime categories, so long as the action is following standard protocol and taken to perform enforcement duties:
-Access: For the case of legal, necessary searches of a department.
-Contraband: For their standard-issue service weapons and security equipment.
-Theft: For legal confiscations of contraband.
-Violence: For necessary force to carry out arrests.
-Free Will: For restraining detainees and holding prisoners in custody.
+Security personnel are explicitly exempt from the following crime categories, so long as the action is following standard protocol and taken to perform enforcement duties:  
+Access: For the case of legal, necessary searches of a department.  
+Contraband: For their standard-issue service weapons and security equipment.  
+Theft: For legal confiscations of contraband.  
+Violence: For necessary force to carry out arrests.  
+Free Will: For restraining detainees and holding prisoners in custody.  
 
 ### Medical Exemptions
-The Paramedic is explicitly exempt from the following crime categories, so long as the action is done following standard protocol and taken to perform life saving operations:
-Access: For the case of medical emergency
+The Paramedic is explicitly exempt from the following crime categories, so long as the action is done following standard protocol and taken to perform life saving operations:  
+Access: For the case of medical emergency  
 
 ### Engineering Exemptions
-Engineering personnel are explicitly exempt from the following crime categories, so long as the action is following standard protocol and taken to perform emergency repairs:
-Access: For the case of effecting emergency repairs
+Engineering personnel are explicitly exempt from the following crime categories, so long as the action is following standard protocol and taken to perform emergency repairs:  
+Access: For the case of effecting emergency repairs  
 
 ### Clown Exception
 The clown gets a privilege to be able to commit Infraction level crimes for pranks, as long that:
