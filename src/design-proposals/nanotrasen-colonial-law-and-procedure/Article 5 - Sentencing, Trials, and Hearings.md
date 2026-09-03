@@ -2,11 +2,12 @@
 
 ## Table of Contents:
 
-1\. Legal Definitions  
-2\. Sentencing  
-3\. Court Proceedings  
-4\. Classified Court Proceedings  
-5\. Captain’s Mast  
+1. Legal Definitions
+2. Sentencing
+3. Court Proceedings
+4. Classified Court Proceedings
+5. Captain’s Mast
+
 ---
 
 ## **1\. Definitions**
@@ -15,48 +16,57 @@ Judge: The current legal arbiter of a trial or hearing.
 Prosecution: The party pressing charges.  
 Defendant: The party being accused.  
 Defense: The party representing the defendant: May be the defendant themselves.  
-Charge: An accusation of a crime.  
-Sentence: An official judgment of a crime committed and accompanying punishment to serve.  
+Charge: The combination of all crimes an individual is accused of.    
+Sentence: A judge's decision concerning the validity, in whole or part, of a charge in addition to its accompanying punishment.  
 Plea: An official statement in court from the Defendant about whether they are guilty or innocent.  
-Verdict: An official determination of guilt, by the presiding Judge.
+Verdict: An official determination of guilt, by the presiding Judge.  
 
 ---
 
 ## **2\. Sentencing**
 
 Sentencing is the act of determining a suitable punishment for convicted criminals.  
-The presiding Judge determines the sentence after they have made an official verdict.
+The presiding Judge determines the sentence after they have made an official verdict.  
 
 ### **Processing Priority**
 
 At any given time, at least one legal authority must be in charge of sentencing aboard the station.  
-Typically, this is the Judicial Officer, but in their absence, the responsibility falls upon the following order of succession:
+Typically, this is the Magistrate, but in their absence, the responsibility falls upon the following order of succession:
 
-1\. Judicial Officer  
-2\. Executive Officer  
-3\. Captain
+1. Magistrate
+2. Executive Officer
+3. Captain
 
 The Judge is responsible for:
 
-* Determining which level of hearing is suitable for the charges.  
-* Delivering a verdict: Whether or not the defendant is guilty.  
+* Determining which level of hearing is suitable for the charges.
+* Delivering a verdict: Whether or not the defendant is guilty.
 * Determining a sentence: The amount of brig time and/or alternative punishments to assign.
 
-The Captain still holds the most legal authority aboard the station, and has the final say in any legal matters. 
+The Captain still holds the most legal authority aboard the station, and has the final say in any legal matters.
 
 ### **Standard Punishment Lengths**
 
 The following times are to be used as a baseline, based on the severity of crime committed:
 
-* Infraction: No brig time.  
-* Misdemeanor: 10 minutes.  
-* Felony: 20 minutes.  
-* Capital Offense: Permanent.
+* Infraction: No brig time
+* Misdemeanor:
+  * Class C: 8 minutes
+  * Class B: 10 minutes
+  * Class A: 12 minutes
+* Felony:
+  * Class C: 16 minutes
+  * Class B: 20 minutes
+  * Class A: 24 minutes
+* Capital Offense:
+  * Class C: Permanent Confinement
+  * Class B: Permanent Confinement w/o Parole
+  * Class A: Execution
 
 ### **Executions**
 
 At the Judge’s discretion, a permanent sentence may be raised to an execution.  
-Any executions need express permission from the presiding Captain, and cannot be authorized in the absence of one.
+Any executions need express permission from the presiding Captain, and cannot be authorized in the absence of one.  
 
 Executions are recommended only when multiple Capital Offense charges have stacked, or if a single Capital Offense has been aggravated multiple times.
 
@@ -90,7 +100,7 @@ The defendant greatly resisted arrest, or otherwise evaded and obstructed securi
 The crime was committed while the defendant was on parole, or serving an alternative sentence.
 
 **Privileged Victim**:  
-The crime was committed, and concerns a member of high ranking or authority under NanoTrasen.
+The crime was committed, and concerns a member of Command or Central Command.
 
 **Repeat Offense**:   
 The Defendant has already been sentenced for the same crime this shift.
@@ -108,7 +118,7 @@ The defendant cooperated with Security personnel and did not resist.
 The defendant has no criminal record this shift, and only committed the single charged crime.
 
 **Enforcement Incompetence**:  
-Security used excessive force to perform the arrest, took excessive time to process the defendant, or otherwise greatly inconvenienced the justice process.
+Security used excessive force to perform the arrest, took excessive time to process the defendant, did not adhere to proper chain of custody, or otherwise greatly inconvenienced the justice process.
 
 **Self-Defense**:  
 The crime was committed in self-defense.
@@ -177,7 +187,6 @@ Target time is 1-2 minutes.
 ### Prosecution:
 
 * Arresting Officer  
-* No one, in the case of a protested Infraction.
 
 ### Defense:
 
@@ -190,11 +199,11 @@ Target time is 1-2 minutes.
 
 ### Procedure:
 
-1\. Prosecution reads their charges.  
-2\. The Judge proposes a sentence for these charges, and asks if the defense pleads guilty.  
-3\. If the defense pleads not guilty, they state their case and present any relevant evidence.  
-4\. The Judge reviews the defendant’s case, and adjusts their sentence if necessary.  
-5\. The Judge closes the case with their verdict, and the officer either lets them go free or escorts them to the brig to serve, as necessary.
+1. Prosecution reads their charges.
+2. The Judge proposes a sentence for these charges, and asks if the defense pleads guilty.
+3. If the defense pleads not guilty, they state their case and present any relevant evidence.
+4. The Judge reviews the defendant’s case, and adjusts their sentence if necessary.
+5. The Judge closes the case with their verdict, and the officer either lets them go free or escorts them to the brig to serve, as necessary.
 
 ### **Formal Hearings**
 
@@ -209,25 +218,25 @@ Target time is around 15 minutes.
 
 ### Defense:
 
-* A lawyer must be offered to represent the defendant.  
+* A lawyer must be offered to represent the defendant.
 * The defendant can still choose to self-represent, but it is not recommended.
 
 ### Witnesses:
 
-* Witnesses are only allowed if it is absolutely essential to the determination, and to a maximum of one per side.  
+* Witnesses are only allowed if it is absolutely essential to the determination, and to a maximum of one per side.
 * Witnesses may not be allowed to be Command, Security, or other essential jobs that cannot afford to be away from their post.
 
 ### Procedure:
 
 Pre-Hearing Consultation:
 
-* Both sides may briefly consult with their representation, before the Trial officially begins.  
-* Consultations are confidential. Statements said in consultation never have to be disclosed.  
-* There is no strict time limit on consultation, but time spent consulting does not reduce any eventual sentence.  
-* Both sides are recommended to plan for and consider:  
-  * Whether they will plead guilty or not guilty.  
-  * What witnesses, if any, they intend to call.  
-  * Whether any aggravating or extenuating circumstances apply.  
+* Both sides may briefly consult with their representation, before the Trial officially begins.
+* Consultations are confidential. Statements said in consultation never have to be disclosed.
+* There is no strict time limit on consultation, but time spent consulting does not reduce any eventual sentence.
+* Both sides are recommended to plan for and consider:
+  * Whether the defendant will plead guilty or not guilty.
+  * What witnesses, if any, they intend to call.
+  * Whether any aggravating or extenuating circumstances apply.
   * Whether a plea deal for an alternative punishment is worth pursuing.
 
 1\. Opening
@@ -236,27 +245,27 @@ Pre-Hearing Consultation:
 
 2\. Plea
 
-* The Judge formally asks: “How does the Defendant Plea?”  
-* If the Defense pleads guilty, skip to step 5 (Sentencing)  
+* The Judge formally asks: “How does the Defendant Plea?”
+* If the Defense pleads guilty, skip to step 5 (Sentencing)
 * If the Defense pleads not guilty, proceed.
 
 3\. Presenting Cases
 
-* The Prosecution presents their case in its entirety, followed by the Defense in its entirety.  
-* Any physical evidence must be formally presented before the Judge, and entered into the record before it can be referenced in argument.  
-* Each side may bring their witnesses to the stand and question them directly.  
-  * After each witness, the opposing side may briefly cross-examine.  
+* The Prosecution presents their case in its entirety, followed by the Defense in its entirety.
+* Any physical evidence must be formally presented before the Judge, and entered into the record before it can be referenced in argument.
+* Each side may bring their witnesses to the stand and question them directly.
+  * After each witness, the opposing side may briefly cross-examine.
 * The Defendant may choose to testify. If they do, they are subject to cross-examination.
 
 4\. Verdict
 
-* The Judge delivers a verdict on each charge.  
+* The Judge delivers a verdict on each charge.
 * If the Defense is found Not Guilty on all charges, the hearing closes immediately.
 
 5\. Sentencing
 
-* Both sides may now argue for aggravating or extenuating circumstances that should influence the sentence.  
-* Either side may also propose a plea deal, for an alternative punishment in lieu of standard brig sentencing.  
+* Both sides may now argue for aggravating or extenuating circumstances that should influence the sentence.
+* Either side may also propose a plea deal, for an alternative punishment in lieu of standard brig sentencing.
 * The Judge considers these arguments and issues their final sentence.
 
 6\. Closing
@@ -267,8 +276,8 @@ Pre-Hearing Consultation:
 
 Extremely in-depth, formal procedure, only for the most severe crimes.  
 Held only when the defense chooses to escalate a Capital Offense charge to a Trial.  
-May only be held with a NanoTrasen-approved Judicial Officer, not an acting Judge.  
-No target time. May be as long or as short as necessary for the Judicial Officer to come to a verdict.
+May only be held with a NanoTrasen-approved Magistrate, not an acting Judge.  
+No target time. May be as long or as short as necessary for the Magistrate to come to a verdict.
 
 ### Prosecution:
 
@@ -276,72 +285,72 @@ No target time. May be as long or as short as necessary for the Judicial Officer
 
 ### Defense:
 
-* A Lawyer must be offered to act as the accused’s defense.  
+* A Lawyer must be offered to act as the accused’s defense.
 * The accused can still choose to self-represent, but it is not recommended.
 
 ### Witnesses:
 
-* Witnesses are allowed and encouraged.  
+* Witnesses are allowed and encouraged.
 * Witnesses can be anyone, including Security and Command.
 
 ### Procedure:
 
 Pre-Trial Consultation:
 
-* Both sides may briefly consult with their representation, before the Trial officially begins.  
-* Consultations are confidential. Statements said in consultation never have to be disclosed.  
+* Both sides may briefly consult with their representation, before the Trial officially begins.
+* Consultations are confidential. Statements said in consultation never have to be disclosed.
 * There is no strict time limit on consultation, but time spent consulting does not reduce any eventual sentence.  
-* Both sides are recommended to plan for and consider:  
-  * Whether they will plead guilty or not guilty.  
-  * What witnesses, if any, they intend to call.  
-  * Whether any aggravating or extenuating circumstances apply.  
+* Both sides are recommended to plan for and consider:
+  * Whether the defendant will plead guilty or not guilty.
+  * What witnesses, if any, they intend to call.
+  * Whether any aggravating or extenuating circumstances apply.
   * Whether a plea deal for an alternative punishment is worth pursuing.
 
-1\. Opening
+1. Opening
 
-* The Judicial Officer identifies all participating parties, and reads the formal charges aloud.
+* The Magistrate identifies all participating parties, and reads the formal charges aloud.
 
-2\. Plea
+2. Plea
 
-* The Judicial Officer formally asks: “How does the Defendant Plea?”  
-* If the Defense pleads guilty, skip to step 9 (Allocution)  
+* The Magistrate formally asks: “How does the Defendant Plea?”
+* If the Defense pleads guilty, skip to step 7 (Allocution)
 * If the Defense pleads not guilty, proceed.
 
-3\. Opening Statements
+3. Opening Statements
 
-* The Prosecution gives a brief summary of what they intend to prove, and how.  
+* The Prosecution gives a brief summary of what they intend to prove, and how.
 * The Defense gives a brief summary of their argument or facts they intend to dispute.
 
-4\. Presenting Cases
+4. Presenting Cases
 
-* The Prosecution presents their case in its entirety, followed by the Defense in its entirety.  
-* Any physical evidence must be formally presented before the Judicial Officer, and entered into the record before it can be referenced in argument.  
-* Each side may bring their witnesses to the stand and question them directly.  
-  * After each witness, the opposing side may cross-examine.  
+* The Prosecution presents their case in its entirety, followed by the Defense in its entirety.
+* Any physical evidence must be formally presented before the Magistrate, and entered into the record before it can be referenced in argument.
+* Each side may bring their witnesses to the stand and question them directly.
+  * After each witness, the opposing side may cross-examine.
 * The Defendant may choose to testify. If they do, they are subject to cross-examination.
 
-7\. Closing Arguments
+5. Closing Arguments
 
 * The Prosecution presents their closing argument, then the Defense.
 
-8\. Verdict
+6. Verdict
 
-* The Judicial Officer determines Guilty or Not Guilty for each charge.  
+* The Magistrate determines Guilty or Not Guilty for each charge.
 * If the Defendant is found Not Guilty on all charges, the Trial closes immediately.
 
-9\. Allocution
+7. Allocution
 
-* The Defendant is given the floor to address the court directly and personally.  
-* They are not to be interrupted, cross-examined, or objected to in any way.  
+* The Defendant is given the floor to address the court directly and personally.
+* They are not to be interrupted, cross-examined, or objected to in any way.
 * This is the Defendant’s opportunity to explain themselves, apologize, or appeal to the court’s mercy.
 
-10\. Sentencing
+8. Sentencing
 
-* Both sides may now argue for aggravating or extenuating circumstances that should influence the sentence.  
-* Either side may also propose a plea deal, for an alternative punishment in lieu of standard brig sentencing.  
-* The Judicial Officer considers these arguments and issues their final sentence.
+* Both sides may now argue for aggravating or extenuating circumstances that should influence the sentence.
+* Either side may also propose a plea deal, for an alternative punishment in lieu of standard brig sentencing.
+* The Magistrate considers these arguments and issues their final sentence.
 
-11\. Closing
+9. Closing
 
 * The arresting officer either releases the defendant or escorts them to serve their sentence, as appropriate.
 
