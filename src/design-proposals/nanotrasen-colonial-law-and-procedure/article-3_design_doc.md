@@ -1,8 +1,8 @@
-# Nanotrasen Colonial Law and Procedures: Standard Operating Procedure
+g# Nanotrasen Colonial Law and Procedures: Standard Operating Procedure
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| SOP Workgroup, Document written by Gamercodeleo1 |:x: No | TBD |
+| SOP Workgroup, Document written by Gamercodeleo1 and pirakaplant |:x: No | TBD |
 
 ## Overview
 
@@ -62,6 +62,15 @@ Space Law should not be in SOP, if it is a space law issue, it should be put in 
 Escalation is SOP that changes or is altered based on the alert level. This type of SOP is counteractive to how SOP is meant to operate and the very definition of SOP. SOP is **Standard** Operating Procedure, if you are on red alert, you should not expect to be following SOP anymore, this isn't a standard shift. SOP should also be a driver of conflict, let us say a doctor is getting punished for an SOP violation they committed on blue alert due to the chaos in the medical bay, this is good RP, the kind SOP is meant to encourage. Is it wrong to punish a doctor for doing the right thing while under pressure and in an emergency, probably, but it causes that conflict. SOP that relies on alert level should be removed and not added in at all.
 ##### Examples (from current SOP):
 **Scientist [Blue] 2:** *Scientists are permitted to produce weapons and grenades from the protolathe provided they get delivered to security.*
+
+#### "Do" vs. "Ensure"
+As a rule of thumb with the rewritten SOP, SOP for non-Command members tell them to *do something*, SOP for Command members tell them to *ensure that something is happening*. This is because Command members are more of an oversight role rather than someone who actually "gets their hands dirty". Given that Standard Operating Procedure establishes how jobs are "supposed" to act, this should be emphasised.
+
+There are some exceptions. For example, Command personnel are supposed to "do" paperwork, and some non-Command personnel have some expectations better covered by the implications of "ensure" than "do".
+##### Examples (from the draft):
+**Chief Engineer 1:** *Ensure that the structural stability of the station is maintained by the Engineering department.*  
+**Cargo Technician 1:** *Deliver all approved orders within fifteen (15) minutes of being approved.*
+
 
 ## Game Design Rationale
 

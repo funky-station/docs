@@ -1,298 +1,226 @@
-
-
 # Article III - Standard Operating Procedures
 
 ## Table of Contents:
-1. Command  
-2. Central Command  
-3. General Crew  
-4. Security  
-5. Legal  
-6. Logistics  
-7. Engineering  
-8. Medical  
-9. Science  
-10. Service
+1. NanoTrasen personnel
+2. Command
+3. Internal Affairs
+4. Logistics
+5. Engineering
+6. Medical
+7. Science
+8. Service
+9. Civilians
+
+Addendum: ASC Provisional SOP
 
 ---
-## 1 | Command:
 
-### All Command Personnel are to:
+## 1 | NanoTrasen personnel:
 
-1. Ensure the operational efficiency and safety of the station, primarily for their own department.  
-   a. Command is to ensure that their subordinate crew members and departmental assets are in working condition, and up to NanoTrasen Standards.  
-2. Uphold NanoTrasen’s authority and dignity upon their station.  
-   a. Command staff must never use any language or outwardly express opinions about NanoTrasen that may be considered defamatory or overtly negative.  
-3. Maintain confidentiality concerning NanoTrasen Corporate Secrets.  
-   a. Command is to report any breaches of confidentiality to Internal Affairs.  
-4. Communicate and coordinate with other departments, primarily through their respective Heads of Staff.
+The following Standard Operating Procedure applies to all personnel directly employed by NanoTrasen. As a result, non-Assistant Civilians and non-NanoTrasen guests are exempt from it. Security personnel are also required to comply per All ASC Personnel SOP § 5.
+
+### All personnel are:
+
+1. To openly wear a uniform that clearly corresponds to their job on the station.  
+  a. Covering the uniform with protective equipment is permitted if doing so is required to perform work and/or protect personnel from bodily harm.  
+  b. A reasonable effort is to be made to clean or replace the uniform if it is soiled.
+  c. Detective SOP § 2 is an exception to point 1 and overrules it.
+2. Prohibited from consuming alcohol, tobacco, cannabis, and other recreational drugs while actively performing their duties. Caffeine-based drinks, such as tea and coffee, are exempt from this restriction.  
+  a. All personnel are also prohibited from performing their duties while under the influence of said recreational drugs.
+3. To report anything that is both strange and threatening to their head of staff immediately.
+
+---
+
+## 2 | Command SOP:
+
+### All Command personnel are:
+
+1. To ensure the operational efficiency and safety of the station, primarily for their own department.  
+   a. Command personnel are to ensure that their department's assets are in working condition and that their subordinates are following all relevant procedure.  
+   b. Command personnel are to communicate and coordinate with other departments, primarily through the heads of those departments.  
+   c. Command personnel are to avoid frivolous use of equipment that represents their position, or distribution thereof to other personnel. Such equipment includes, but is not limited to, uniforms, communications consoles, and stamps.
+2. To uphold NanoTrasen’s authority and dignity upon their station.  
+   a. Command personnel are to never, by word or action, encourage negative sentiment towards NanoTrasen.  
+3. To maintain confidentiality concerning NanoTrasen Corporate Secrets.  
+   a. Command personnel are to report any breaches of confidentiality to the Captain and Corporate Liaison.
+4. Permitted to employ personnel to their department, promote and demote personnel within their department, and fire personnel from their department.  
+  a. Command personnel are to log such actions with the appropriate paperwork and submit a copy of it to the Executive Officer.
 
 ### The Captain is to:
 
-1. oversee all Command Personnel to ensure that the station’s departments are operating as intended.  
-2. coordinate with Command Personnel and Central Command VIPs about any ongoing situation on station.  
-3. ensure that any issues arising between Command Personnel are resolved.  
-4. ensure that the satisfaction of the crew does not rise to levels that could interfere with Nanotrasens objectives.  
-5. ensure that Nanotrasen Colonial Law and Procedure is being enforced, in conjunction with Central Command VIPs.  
-6. ensure the safety of the station's nuclear authentication disk at all costs.
+1. Oversee all Command personnel to ensure that the station’s departments are adequately performing their assigned duties.
+2. Coordinate with Command personnel in regards to potential disruption to NanoTrasen operations.
+3. Ensure that any issues that arise between Command personnel are resolved.
+4. Ensure that the crew stays loyal to NanoTrasen and its business interests.
+5. Ensure that NanoTrasen Colonial Law and Procedure is being enforced.  
+  a. The Captain is to act only as an overseer to Security and Internal Affairs and is to only directly intervene when the situation requires their authority.
+6. Ensure the safety of the station's nuclear authentication disk at all costs.
 
-### The Executive Officer is:
+### The Executive Officer is to:
 
-1. to monitor major legal decisions in order to raise necessary concerns and authorizations to the Captain.
-2. to not provide higher levels of access to personnel without receiving authorization from the relevant Command Personnel for that access. If an access is not restricted to a department or position, the XO may use their discretion.  
-3. to issue and approve warrants to security when necessary.
-   a. Temporary IDs may be created for the servicing of a departmental search warrant.  
-4. 
+1. Archive a copy of all paperwork pertinent to the operation of Command and Internal Affairs.
+2. Monitor major legal decisions in order to raise necessary concerns and authorizations to the Captain.
+3. Not provide any access to personnel without authorization from the head of the department associated with that access.  
+  a. If the access type(s) fall under Internal Affairs, or under no other department, the Executive Officer is to use their own discretion.  
+  b. Executive Officer SOP § 5a and Detective SOP § 2a are exceptions to point 3 and overrule it.
+4. Escalate major Standard Operating Procedure violations to the Captain in the event that it cannot be resolved by any other means.
+5. Approve search warrants for Security personnel, unless they are invalid or frivolous.  
+   a. The Executive Officer is to provide one (1) member of any group of Security personnel conducting the search of another department with the access types needed to enter any rooms to be searched. This access is to be revoked as soon as the search has been completed.
+6. Approve any orders for Security on the Bureaucracy and Corporate Allocation (INT) that align with NanoTrasen's business interests.
 
-### The Head of Security is:
+### The Research Director is to:
 
-1. to take orders directly from the Captain (and nobody else) and ensure the station remains safe and secure.  
-2. to ensure that the conduct of security officers is within the bounds of Corporate Law and their Standard Operating Procedure.  
-3. to ensure a smooth transition of power between Captains, as a result of either a Vote of No Confidence or the Captain stepping down.  
-4. permitted to deputize members of the crew should their skills be required for a specific assignment.  
-5. to monitor any hostile actions taken by unions and properly respond.  
-6. to ensure the gear used by security personnel is properly stored away.  
-   1. Weapons must be stored inside of the armory unless they are a standard issued sidearm.  
-   2. Lockers and EVA suits must be locked.  
-7. not to permit unauthorized security personnel into the armory unsupervised.  
-   1. The armory doors should not be set to emergency access.
-
-### The Research Director is:
-
-1. to keep a log of all anomalies and artifacts.  
-2. to dispose of any anomalies or artifacts that pose a risk to the station or Nanotrasen assets at a large scale.  
-   1. The actual disposal may be handed off to a Scientist.  
-3. permitted to change the onboard artificial intelligence’s laws, permitted they receive approval from the captain.  
-4. In conjunction with the Chief Engineer, ensure telecommunications is properly maintained.  
-5. to decommission the onboard artificial intelligence at the end of the shift, ideally securing it to an Intellicard.  
-6. to announce the generation of any anomalies to the crew.
+1. Keep a log of all anomalies and artifacts present on the station.  
+  a. An anomaly log must contain, at minimum, the anomaly's type, location, reaction to delta/epsilon/sigma/zeta particles, and any behavioral deviations.  
+  b. An artifact log must contain, at minimum, a list of every node, its triggers, and its reaction.
+2. Ensure that any damage caused by anomalies and/or artifacts is minimized.  
+  a. 
+3. Ensure that any requests for Tier 1 and 2 technological research made by other Command personnel are followed and prioritized.
+4. Ensure that all cyborgs on the station follow their default laws.  
+  a. The Research Director is to destroy any cyborgs that pose a threat to NanoTrasen's business interests and create a new chassis for them.
 
 ### The Chief Medical Officer is to:
 
-1. ensure that all personnel capable of being recovered and resuscitated are.  
-   1. prioritizing personnel based on rank.  
-2. ensure that all crew who come to the medical bay are treated to the point they can return to work.  
-3. ensure that no narcotics or otherwise illegal substances are produced in the chemistry laboratory.  
-4. prevent any dangerous chemical substances or biohazards from being released outside of the chemistry laboratory or virology wing.  
-5. ensure insurance information is being properly collected and processed.  
-6. ensure that the medical bay and related facilities are adhering to Nanotrasen Cleanliness Regulations.
+1. Ensure that all medical patients, living or dead, are treated to the point they can return to work, provided they can afford treatment.  
+  a. In a mass-casualty event, the Chief Medical Officer is to ensure that the Medical department prioritizes Command personnel, followed by Security personnel, over all other patients.
+2. Ensure that insurance information is being properly collected and processed.
+3. Ensure that the Medical department adheres to NanoTrasen Cleanliness Regulations.
+4. Conduct a psychiatric evaluation on Command personnel if their mental fitness for duty is called into question.
 
 ### The Chief Engineer is to:
 
-1. ensure that the station is maintained by the engineers, prioritizing the repairs of critical areas.   
-2. mark any areas that are unsafe and too damaged or unsafe to repair as condemned.  
-3. ensure that all engines powering the station are adequately maintained by the engineers.  
-4. ensure that distribution air is set to a safe mixture and pressure.  
-5. ensure that engineers prevent and contain any fires or other hazards that may appear.  
-6. inspect new constructions to ensure they adhere to the Nanotrasen Building & Expansion Regulation.
+1. Ensure that the structural stability of the station is maintained by the Engineering department.   
+  a. The vault, bridge, Security department, engine rooms, and Medical bay are to be prioritized in that order.
+2. Ensure that all active engines are adequately maintained by the Engineering department.  
+  a. A report is to be submitted to the Executive Officer every thirty (30) minutes concerning the configuration, upkeep, and any complications relating to all active engines.
+3. Ensure that air distribution system circulates a mixture of gases at a composition, pressure, and temperature that is both safe and comfortable for the majority of the crew to breathe.
+4. Ensure that the Engineering department works to both prevent and combat any atmospheric hazards, including but not limited to spacing, gas leaks, and fires.
+5. Publically declare any structurally unstable area as condemned in the event that it cannot feasibly be repaired.  
+  a. The Chief Engineer is to ensure that such areas are clearly indicated as hazardous.
+6. Inspect new constructions to ensure they adhere to the Nanotrasen Building & Expansion Regulation.
 
 ### The Quartermaster is to:
 
-1. ensure that all approved orders are delivered within fifteen (15) minutes of being approved.  
-2. deny all requests for security equipment unless the proper requisition form is submitted with the Head of Security’s stamp.  
-3. ensure that any requests for non-standard equipment are either authorized by the order's Head of Staff or approved by the relevant Head of Staff for the order in question.   
-4. ensure that materials collected by the salvage team or produced by botany are distributed to departments based on their need for materials.  
-5. oversee the Hospitality Director to ensure that service is functioning properly.  
-   a. The Quartermaster should act only as a supervisory body to the service department.
+1. Ensure that all deliveries are made by their deadlines as determined under Cargo Technican SOP § 1.
+2. Only approve any non-essential order that uses another department's budget if it is approved by the head of that department.  
+  a. Any orders for weapons, riot gear, and other items in the Armory and Security categories are to be denied unless approved by both the Commandant and the Executive Officer.  
+  b. Any orders made by Security personnel on the Bureaucracy and Corporate Allocation (INT) are to be denied unless they have approval of the Executive Officer or the Captain.
+3. Ensure that materials purchased, collected, or produced by their department are distributed to other departments based on their need for those materials.
+4. Archive a copy of all order forms.  
+  a. Each order form must be stamped and/or signed by the recipient.
 
 ### The Hospitality Director is:
 
-1. to ensure the service department runs properly and profitably.  
-2. to keep all areas of the service department stocked to the necessary levels.  
-3. to ensure that all available services are provided to the crew as a whole while they are on a union-mandated break.  
-4. to schedule events strategically to bolster crew morale.  
-5. permitted to prohibit any non-Command patron from entering the Service area in response to any abusive, inappropriate, and/or unsanitary behavior.  
-   1. This prohibition does not cover hallways in or around the area.  
-6. to ensure that both the Bar and the Kitchen are staffed. In the event that they are not, the Hospitality Director must make an active effort to fill that position, with either service workers or new hires.  
-   1. Service workers are preferred for staffing internal positions.  
-7. to review all expenses submitted to them, and deny any that are not cost effective.
-8. permitted to run advertising campaigns for services and products across the station. Campaigns should:  
-   a. avoid being disruptive to essential station activities  
-   b. promote products in a manner consistent with Nanotrasen Values.  
-   c. avoid becoming an expense greater than the value provided by the campaign.  
-   d. take payment for any services advertised that are not provided officially by Nanotrasen.
+1. To ensure that food, drink, and entertainment are provided to the crew during a union-mandated break.
+2. To schedule events strategically to bolster crew morale.
+3. Permitted to prohibit any non-Command patron from entering the Service area in response to any abusive, inappropriate, and/or unsanitary behavior.  
+   a. Such a prohibition allows use of hallways in or around the area.
+4. Permitted to run advertising campaigns for services and products across the station.  
+   a. These advertising campaigns must not disrupt the work of other departments.  
+   b. These advertising campaigns must promote products in a manner consistent with NanoTrasen's business interests.  
+   c. These advertising campaigns are not to become an expense greater than the monetary value it provides to NanoTrasen.
 
-## Adjustments for Acting Command
+### The Corporate Liaison is to:
 
-Acting Command, while still held to the same SOP as the standard position, are allowed more lenient treatment under most SOP. Acting Command are, however, expected to ensure that the department functions to the proper standards.  
-
----
-
-## 2 | Central Command:
-
-### The NanoTrasen Representative is to:
-1.	coordinate with the Captain and Executive Officer to ensure that Standard Operating Procedure is being followed and adequately enforced.
-2.	assist and advise any Command members on the proper enforcement of Standard Operating Procedure.
-3.	advise any local Internal Affairs Agents on Standard Operating Procedure.
-4.	Communicate and advocate for NanoTrasen Policy aboard the station.
-5.	produce regular reports about station happenings, and fax them to Central Command
-6.	act as oversight for any proposed votes of no confidence.
-		- This includes ensuring that all votes are properly counted and recorded.
-7. resolve any Standard Operating Procedure related disputes locally if possible.
+1. Represent the best interests of NanoTrasen's Central Command by both word and action.
+2. File a detailed report of each other Command member in regards to their conduct, efficiency, and loyalty.  
+  a. These reports are to be faxed to Central Command before the end of the shift.
+3. Represent Command in formal communication between them and unions.  
+  a. The Corporate Liaison is to defer to the Captain concerning any action taken as a result of such communication.
+4. Communicate with Central Command via fax or the red phone in the event of a major disruption to the station's efficiency.
 
 ---
 
-## 3 | General Crew:
+## 3 | Internal Affairs:
 
-### Assistants are to:
+### The Magistrate is to:
 
-1. apply for open positions with the Head of Personnel.  
-	- a. Assistants are not required to take positions that they have no skill in, but they should make an effort to help any short-staffed departments.  
-2. make themselves available to assist working staff with any unskilled or menial labor.  
-	- a. Assistants answer directly to the Head of Personnel, and should work with them to find tasks throughout the shift.  
-3. undertake unorthodox business ventures only if they receive express approval and a permit, from the Head of Personnel.  
-	- a. Business ventures should benefit the station in some way, and not undertaken purely for personal profit.  
-
-
----
-
-## 4 | Security:
-
-### All Security Staff are to:
-
-1. Answer directly to the Head of Security and Warden.  
-2. Enforce the law in accordance with NanoTrasen Corporate Law Protocol.  
-3. Uphold and maintain NanoTrasen’s authority.  
-4. Follow the Security Rules of Conduct.
-
-
-### The Warden is to:
-
-1. Maintain the safety and security of the brig.  
-2. Ensure proper treatment of prisoners, in accordance with Corporate Law protocol.  
-3. Manage and maintain the armory.  
-	- a. The Warden should keep stock of the number and type of weapons within the Armory.  
-	- b. The Warden is responsible for ordering and maintaining material stockpiles for ammunition and weaponry production.  
-	- c. The Warden is responsible for issuing weapons, and ensuring their safe return upon orders on the orders from the Head of Security.  
-4. Log and update criminal records.  
-5. Coordinate with the Head of Security to help monitor and direct officers.  
-6. Avoid performing normal officer duties unless absolutely necessary.
-
-### The Detective is to:
-
-1. Focus on gathering evidence for ongoing investigations, or court determinations.  
-2. Use disguises or alternate IDs only for the sake of investigation, and with permission from the Head of Security.  
-3. Avoid performing normal officer duties unless absolutely necessary.
-
-### Security Cadets are to:
-
-1. Read all of Corporate Law before doing any field work.  
-2. Request that the Head of Security assigns them a partner for practical training.
-
----
-
-## 5 | Legal:
-
-### The Judicial Officer is to:
-
-1. Hold court hearings and trials in accordance with NTCLP Article 5.  
+1. Hold court hearings and trials in accordance with NTCLP Article 5.
 2. Ensure that hearings and trials are fast and efficient, but still as thorough as necessary.  
-	- a. The Judicial Officer is to ensure that time and resources are not spent on frivolous cases, and that the type of proceeding is held in accordance with severity and importance.  
-	- b. The Judicial Officer is to ensure that lesser court proceedings do not overly interrupt or impede more important station functions.  
+	a. The Magistrate is to ensure that time and resources are not spent on frivolous cases, and that the type of proceeding is held in accordance with severity and importance.  
+	b. The Magistrate is to ensure that court proceedings do not unduly interrupt or impede important station functions.
 3. Communicate with the Executive Officer regarding major court decisions.
 
 ### Internal Affairs Agents are to:
 
 1. Prioritize answering court summons and requests for representation above other duties.  
-	- a. IAAs are primarily to represent the side of NanoTrasen in court, whether it be prosecution or defense.  
-	- b. IAAs may only represent a party against NanoTrasen in the complete absence of a Lawyer.  
-2. Ensure Standard Operating Procedure is being properly followed, and to report breaches and concerns to the relevant Head of Staff.  
-3. Produce regular departmental audits and reports, and present them to the Executive Officer for review.
-	  
-### Lawyers are to:
-
-1. Prioritize answering court summons and requests for representation above other duties.  
-	- a. Lawyers may represent the side of NanoTrasen if necessary, but should defer the responsibility to any present Internal Affairs Agents.  
-2. Avoid obstructing Security duties, unless specifically requested by an enforcement authority.  
-2. Provide legal advice upon request.
+  a. Internal Affairs Agents are to represent the side of NanoTrasen in court, whether it be prosecution or defense.
+2. Ensure Standard Operating Procedure is being properly followed.  
+  a. Internal Affairs Agents are to issue a fine for violations of Standard Operating Procedure.  
+  b. Internal Affairs Agents are to notify the appropriate head of staff for major violations of Standard Operating Procedure. They are additionally to log such violations with the appropriate paperwork and submit a copy of it to the Executive Officer.
+3. Work together to produce a report detailing the conduct, efficiency, and adherence to Standard Operating Procedure of each department other than Command and Internal Affairs.  
+  a. These reports are to be presented to the Executive Officer by the end of the shift.  
+  b. This requirement applies to all Internal Affairs Agents collectively. Only one report per department needs to be made between all of them.
 
 ---
 
-## 6 | Logistics:
-
-### Cargo Technicians are:
-
-1. ensure that all approved orders are delivered within fifteen (15) minutes of being approved.  
-	-a.  Items produced on station should be delivered in ten (10) minutes.  
-2. to contact the Quartermaster for approval should there be any requests for security equipment or other departmental equipment.  
-3. to charge a value in scrip for any requests made from the lathes.  
-	-a.  The value charged should not be changed between requests without approval from the Quartermaster.  
-4. to keep a copy of all order forms are stored inside cargo or with the Quartermaster.  
-5. to deliver by mail, all packages can be delivered by mail and do not require the signing of a blue slip.  
-6. to ensure that incoming mail from other departments is sorted and processed.  
-7. to ensure that at least one person is handling personal mail delivery, should the mail teleporter be turned on.  
-8. not to order non-essential items using the station's supply account, unless otherwise authorized by the Quartermaster.
-
-### Salvage Technicians are:
-
-1. to ensure that all materials and resources collected are transferred to the station's cargo department promptly.  
-2. to preserve the integrity of the team and prevent losses to fauna and mining accidents.  
-3. to avoid dangerous areas when identified, unless rescuing a fellow crew member.  
-4. to coordinate shuttle movements in order to prevent marooning.  
-	-a.  There should be an in-person headcount before moving locations.  
-5. to communicate their team’s GPS coordinates before beginning salvage operations.  
-6. not permitted to hand over contraband found on expeditions to the crew.  
-7. to not utilize any contraband found on expeditions while on station.
+## 4 | Logistics SOP:
 
 ### Botanists are:
 
-1. permitted to grow experimental plants, but may only distribute them with the approval of the Quartermaster.  
-	- a. Poisons may not be created under any circumstances.  
-2. provide other service department locations with produce on request.  
-	-  a. Botanists are not to charge for the produce unless it would be an undue burden to produce.  
-3. not to allow unregulated plant life outside of botany.  
-	- a. Exceptions may be made by the Quartermaster.
+1. To provide the bar and kitchen with produce as requested, and to prioritize this above all other duties.  
+  a. Botanists are to not charge for mundane produce, but they are permitted to charge for the products of any mutated species they produce.  
+2. Permitted to grow experimental plants, but may only distribute them with formal approval from the Quartermaster.  
+  a. Botanists are to not produce hazardous chemicals, such as toxins, under any circumstances.  
+  b. Botanists are to destroy any plants that produce hazardous chemicals, or seeds thereof.
+3. To not allow any unregulated plant life outside of Botany.  
+  a. Exceptions may be made by the Quartermaster.
+
+### Cargo Technicians are to:
+
+1. Deliver all approved orders within fifteen (15) minutes of being approved.  
+  a.  Items produced on station are to be delivered within ten (10) minutes of their production.  
+2. Not approve any orders, including from the Logistics department, for non-essential items and/or weapons, riot gear, and other items in the Armory and Security categories without formal approval from the Quartermaster.
+3. Ensure that each delivery's order form gets stamped and/or signed by the recipient, and to provide the Quartermaster with a copy of the order form.
+4. To ensure that all incoming mail is delivered according to priority and circumstance.  
+  a. Cargo Technicians are to disable the mail teleporter if no Cargo Technician has been designated by the Quartermaster to prioritize carrying mail.
+5. To charge non-Logistics personnel scrip for products made in the Cargo bay.  
+  a. Cargo Technicians are to use pricing standards determined by the Quartermaster, if any.  
+  b. Cargo Technicians are to use their own discretions for pricing products if no standard has been set.
 
 ---
 
-## 7 | Engineering:
+## 5 | Engineering SOP:
 
-### Engineers are to:
+### Station Engineers are to:
 
-1. ensure the station is maintained to the point where all in use or non-condemned areas are habitable and functional.  
-2. ensure that the distribution air is a steady mix breathable for a majority of species on the station.  
+1. Ensure the station is maintained to the point where all areas on the station in use are habitable and functional.
+2. Ensure that the distribution air is a steady mix breathable for a majority of species on the station.  
 	-	a. This should be completed within ten (10) minutes of shift start.  
-3. ensure that power is supplied to the station.  
+3. Ensure that power is supplied to the station.  
 	- a. Initial engines should be online within twenty (20) minutes.  
-4. ensure that all engines that are activated during the shift are either maintained and refueled or properly decommissioned.  
-5. ensure that one (1) engineering hardsuit is available inside of engineering for use at all times.
-6. not create any hazardous environments outside of engineering secured areas.  
-7. ensure backup power sources are ready for use should there be a need for additional power production.  
+4. Ensure that all engines that are activated during the shift are either maintained and refueled or properly decommissioned.  
+5. Ensure that at least one (1) engineering hardsuit is available inside of engineering for use at all times.
+6. Not create any hazardous environments outside of engineering secured areas.  
+7. Ensure backup power sources are ready for use should there be a need for additional power production.  
 	- a. This does not include the SMES or other battery power.  
 8. urgently respond to any request for work from command.  
 9. respond to any reasonable requests for repairs from the crew.
 
 ---
 
-## 8 | Medical:
+## 6 | Medical SOP:
 
-### Doctors are:
+### Medical Doctors are to:
 
-1. to ensure the proper and effective treatment of all injuries sustained by the crew.  
-	  -  a. Command members should be treated first, then security officers, then regular crew.  
-2. to collect payment or insurance information before discharging a patient.  
-3. required to treat any crew who are admitted to the medical bay.  
-	  - a. This excludes any patients who are actively and intentionally self-harming.  
-4. to treat patients in private rooms unless they have only minor injuries.  
-	-  a. Command members should always be admitted to a private room.  
-5. to place any unrevivable patients into the morgue or a body bag inside of the morgue.  
-	  - a. The head of their department should be notified of their passing.  
-	 -	b. Items from said patients should be returned to their respective departments.  
-	 -	c. Post mortem instructions should be followed.  
-6. to keep at least one (1) defibrillator charged and inside of the medical bay at all times.  
-7. to ensure all clothing they are wearing is clean and sterile.  
-8. to ensure the medical bay and related facilities, and all equipment in use is clean and sterile, or otherwise in a hygienic state as defined by the Nanotrasen Cleanliness Regulations.  
-9. not permitted to leave the medical bay if there are patients that need to be treated.  
-   -	a. Patients should never be left unattended, even if they are properly treated.
+1. Treat all patients admitted to the Medical bay.  
+  a. Medical Doctors are not permitted to leave the Medical department while there are untreated patients.  
+  b. Medical Doctors are not required to treat patients who are actively and intentionally harming themselves.  
+  c. In a mass-casualty incident, Medical Doctors are to follow the Chief Medical Officer's guidance concerning priority of treatment.
+2. Collect payment or insurance information before discharging a patient.
+3. Treat patients in private rooms unless they have only minor injuries.  
+  a. Medical Doctors are to always admit Command personnel to a private room.
+4. Dispose of unrevivable cadavers in a manner according to their postmortem instructions.  
+  a. If the postmortem instructions are infeasible or do not specify a method of disposal, Medical Doctors are to store the cadaver in the morgue, or failing that, a body bag.   
+6. Keep at least one (1) defibrillator charged and inside of the medical bay at all times.
+7. Ensure the Medical department and all clothing and equipment in use is in a sterile state, as defined by NanoTrasen Cleanliness Regulations.
 
 ### Paramedics are to:
 
-1. prioritize the retrieval of patients based on rank.  
-2. cooperate with the relevant crew for the retrieval of patients in a dangerous location.  
-   -  a. Areas cordoned off by security may be entered if the rescue is located inside of that area.  
-3. stabilize all patients before transporting them.  
-4. transport dead patients to the medical bay should revival in the field be impractical.  
-5. carry requisite medicines and equipment for treatment of patients at all times.
+1. Retrieve any critically injured or deceased personnel immediately and bring them to Medical.  
+  a. Paramedics are to recuscitate and stabilize patients before transporting them.  
+  b. Paramedics are to follow the Chief Medical Officer's guidance concerning priority for such retrievals.
+2. Carry bruise packs, ointment, blood packs, a medical-grade stimulant such as ephedrine, and a rollerbed at all times.
 
 ### Chemists are to: 
 
@@ -305,39 +233,40 @@ Acting Command, while still held to the same SOP as the standard position, are a
    - a. Such chemicals are not to be distributed.  
 6. ensure the chemistry laboratory and related facilities, and all equipment in use is clean and sterile, or otherwise in a hygienic state as defined by the Nanotrasen Cleanliness Regulations.
 
-### Psychologists are:
+### The Psychologist is:
 
-1. not permitted to force treatment upon a patient unless it is required as part of a criminal sentence.  
-2. to not share a patient's mental condition or trusted information to anyone other than the patient.  
-	  -  a. This does not include evaluations that are made for prisoners.  
-3. to report to the relevant command member should they find any non-command crew unfit for duty.  
-4. permitted to prescribe any medicines they find necessary for a patient.
+1. To not force treatment upon a patient unless it is required as part of a criminal sentence and/or to prevent harm to themselves and/or others.
+2. To not share a patient's mental conditions to anyone other than the patient, the Chief Medical Officer, the patient's head of staff, and the Security department.  
+  a. The Psychologist is to report any personnel who are a potential danger to themselves and/or others to Security.   
+3. To report to the relevant head of staff member should they find any non-Command crew unfit for duty.  
+  a. If the Psychologist would find a member of Command unfit for duty, they are to escalate the matter to the Chief Medical Officer instead of issuing a formal diagnosis.
+4. Permitted to issue drug prescriptions to patients, provided that the patient has a mental condition that is treatable with the prescribed drug.
 
 ---
 
-## 9 | Science:
+## 7 | Science SOP:
 
 ### Scientists are:
 
-1. not permitted to bring artifacts outside of science without the use of an artifact container.  
-2. to ensure that every anomaly created is either destroyed or properly contained.  
-	-	a. Contained anomalies must be checked whenever there is a change in the vessel's status.  
-		 -	a. This does not apply if the containment is automated.  
-3. not to generate anomalies without approval from the research director.  
-4. to document anomalies and artifacts and submit the documentation to the Research Director.  
-5. to ensure a member of science personnel (or an assistant hired by science) is manning the front desk.  
-	-  a. Whoever is manning the front desk must adhere to the Science Distribution Regulations.
+1. Not permitted to bring artifacts outside of science without the use of an artifact container.  
+2. To ensure that every anomaly created is either destroyed or properly contained.  
+  a. Contained anomalies must be checked whenever there is a change in the vessel's status.  
+  b. This does not apply if the containment is automated.
+3. not to generate anomalies without approval from the research director.
+4. to document anomalies and artifacts and submit the documentation to the Research Director.
+5. To ensure at least one (1) member of the Science department, or an assistant hired by it, is present at the front desk.  
+  a. Whoever is manning the front desk must adhere to the Science Distribution Regulations.
 
 ---
 
-## 10 | Service:
+## 8 | Service SOP:
 
 ### Service Workers are to:
 
-1. assist other members of the service department when requested.  
-2. fill in for other positions in the service department when needed.  
-	- a. Service Workers should follow a positions SOP when acting as that position  
-3. promote a collaborative atmosphere in the service department.  
+1. Assist other members of the Service department when requested.
+2. Fill in for other positions in the service department when needed.  
+  a. Conduct while doing so must align with that position's SOP.
+3. Promote a collaborative atmosphere in the service department.
 4. only begin side tasks after checking with other members to see if they require aid.  
 5. oversee the work of any assistants that are aiding the department.
 
@@ -371,9 +300,9 @@ Acting Command, while still held to the same SOP as the standard position, are a
 
 ### Janitors are to:
 
-1. ensure all public parts of the stations are properly maintained according to Nanotrasen Cleanliness Regulations.  
-2. report any damage to the station to engineers as soon as possible.  
-3. assist any department with cleaning within 15 minutes of the request being made.  
+1. Ensure all public parts of the stations are properly maintained according to Nanotrasen Cleanliness Regulations.  
+2. Report any structural damage to the station to the Engineering department as soon as possible.  
+3. Clean any department that requests cleaning within 15 minutes of the request being made.  
 	-	 a. Janirots should ensure that any cleaning made to a department is done in accordance with the relevant regulations.  
 4. restock any vending machines that are low on supplies or out of a particular item.  
 	-	a. The cost of restocks may be taken from the service department’s account.  
@@ -383,34 +312,116 @@ Acting Command, while still held to the same SOP as the standard position, are a
 
 ### The Clown is:
 
-1. not permitted to remove their Clown Shoes or Clown Mask.  
-	- a. an exception is made should it be truly necessary for the sake of their performance. (such as a satire of bad clowns)  
-2. to not endanger other personnel with pranks.  
-3. to attempt to be legitimately funny or entertaining at least once every fifteen (15) minutes.  
-4. permitted to expense the following to the service department account for pranks or performances:  
-	- a. Special Talent or Hires  
-	- b. Props  
-	- c. Alterations to the stage
+1. Not permitted to remove their costume's shoes and/or mask unless doing so is a deliberate and temporary part of a performance.
+2. To not endanger other personnel with pranks.
+3. To attempt to be funny and/or entertaining to other personnel at least once every fifteen (15) minutes.
 
 ### The Mime is:
 
-1. to never speak. Any mimes that speak are to be removed from their position post haste.  
-2. to use written words or AAC tablets only as a last resort or in an emergency.  
-	- a. this includes other non-miming forms of communication.  
-3. expected to perform an act of Mimery at least once every fifteen (15) minutes.  
-4. permitted to hire special talent or side performers for plays.  
-5. permitted to expense the following to the service department account for performances:  
-	- a. Special Talent or Hires  
-	- b. Props   
-	- c. Alterations to the stage
+1. To never break their vow. Any Mime that breaks their vow is to immediately be demoted to Assistant. The mime speaking, writing on paper, and/or using an AAC tablet is evidence that they have broken their vow.
+2. To use non-miming forms of communication, such as writing, only as a last resort or in an emergency.
+3. Expected to perform an act of mimery at least once every fifteen (15) minutes.
 
 ### The Librarian is to:
 
-1. Keep a log of any and all loaned out books.
-2. Keep the library organised.
-   - a. The floor of the library must be free of loose books.
-   - b. Shelves must be labeled according to a sorting system.
-3. Ensure the quiet and sanctity of the library are preserved.
-4. Ensure there is no drinking or eating within the confines of the library.
-5. Ensure members of the crew have access to the library.
-6. Ensure the wellbeing of all books on station.
+1. Ensure the quiet and sanctity of the library are preserved.  
+  a. The Librian is to verbally discourage eating, drinking, and/or loud behavior within the confines of the library.
+2. Keep any books belonging to the library sorted on the shelves when not in use.
+3. Keep a log of all loaned out books.  
+  a. The Librarian is to make an effort to retrieve loaned out books within thirty (30) minutes of the loan being issued.
+4. Ensure the wellbeing of all books on the station.
+
+---
+
+## 9 | Civilians:
+
+### Assistants are to:
+
+1. Apply for open positions with the Head of Personnel.  
+  a. Assistants are not required to take positions that they have no skill in, but they should make an effort to help any short-staffed departments.  
+2. Make themselves available to assist working staff with any unskilled or menial labor.
+3. Undertake unorthodox business ventures only if they receive formal approval from the Executive Officer or the Captain.  
+  a. Business ventures should benefit the station in some way, and not undertaken purely for personal profit.  
+
+---
+
+## Addendum | ASC Provisional SOP:
+
+As part of the ongoing contract between NanoTrasen and Aegis Security Consolidated (ASC), ASC personnel working with NanoTrasen are obligated to observe the following Standard Operating Procedures, as relevant for their position.
+
+### All ASC personnel are to:
+
+1. Obey the Captain over all other authorities, including the Commandant.
+2. Protect the Captain, other Command personnel, and NanoTrasen's property, in that order.
+3. Enforce, or assist the enforcement of NanoTrasen Colonial Law through their respective duties.
+4. Keep expenses that NanoTrasen takes on their behalf to a minimum.  
+  a. Any orders made to Logistics for additional equipment or other resources must be formally approved by the Executive Officer.
+5. Comply with NanoTrasen Personnel SOP.
+
+### The Commandant is:
+
+1. To ensure that the conduct of their department is within the bounds of NanoTrasen Corporate Law and their respective Standard Operating Procedures.
+2. To secure any weapons, ammunition, body armor, shields, and implants not currently in use in the armory.
+3. to ensure a smooth transition of power between Captains, as a result of either a Vote of No Confidence or the Captain stepping down.
+4. Permitted to deputize members of the crew should their skills be required for a specific assignment.
+5. to monitor any hostile actions taken by unions and properly respond.
+6. to ensure the gear used by security personnel is properly stored away.  
+   a. Weapons must be stored inside of the armory unless they are a standard issued sidearm.  
+   b. Lockers and EVA suits must be locked.
+7. not to permit unauthorized security personnel into the armory unsupervised. 
+   1. The armory doors should not be set to emergency access.
+
+### The Warden is:
+
+
+
+### Lieutentants are:
+
+1. 
+
+### The Detective is:
+
+1. To focus on gathering evidence for ongoing investigations or court determinations.  
+  a. The Detective is to avoid performing normal officer duties unless absolutely necessary.
+2. Permitted to ignore uniform regulations for the sake of espionage, if doing so is formally approved by the Commandant.  
+  a. The Detective is additionally permitted to carry fake identification with the appropriate access categories under this circumstance.
+
+### Security Officers are:
+
+### Security Cadets are to:
+
+1. Be accompanied by at least one Security Officer, Lieutenant, or Detective while on patrol.
+2. Request
+
+### The Dispatcher is:
+
+1. To attend Security's front desk when available.
+
+---
+
+## 4 | Security:
+
+### All Security Staff are to:
+
+1. Answer directly to the Head of Security and Warden.  
+2. Enforce the law in accordance with NanoTrasen Corporate Law Protocol.  
+3. Uphold and maintain NanoTrasen’s authority.  
+4. Follow the Security Rules of Conduct.
+
+
+### The Warden is to:
+
+1. Maintain the safety and security of the brig.  
+2. Ensure proper treatment of prisoners, in accordance with Corporate Law protocol.  
+3. Manage and maintain the armory.  
+	- a. The Warden should keep stock of the number and type of weapons within the Armory.  
+	- b. The Warden is responsible for ordering and maintaining material stockpiles for ammunition and weaponry production.  
+	- c. The Warden is responsible for issuing weapons, and ensuring their safe return upon orders on the orders from the Head of Security.  
+4. Log and update criminal records.  
+5. Coordinate with the Head of Security to help monitor and direct officers.  
+6. Avoid performing normal officer duties unless absolutely necessary.
+
+### Security Cadets are to:
+
+1. Read all of Corporate Law before doing any field work.  
+2. Request that the Head of Security assigns them a partner for practical training.
