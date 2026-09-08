@@ -23,7 +23,7 @@ The following Standard Operating Procedure applies to all personnel directly emp
 
 1. To openly wear a uniform that clearly corresponds to their job on the station.  
   a. Covering the uniform with protective equipment is permitted if doing so is required to perform work and/or protect personnel from bodily harm.  
-  b. A reasonable effort is to be made to clean or replace the uniform if it is soiled.
+  b. A reasonable effort is to be made to clean or replace the uniform if it is soiled.  
   c. Detective SOP § 2 is an exception to point 1 and overrules it.
 2. Prohibited from consuming alcohol, tobacco, cannabis, and other recreational drugs while actively performing their duties. Caffeine-based drinks, such as tea and coffee, are exempt from this restriction.  
   a. All personnel are also prohibited from performing their duties while under the influence of said recreational drugs.
@@ -213,7 +213,7 @@ The following Standard Operating Procedure applies to all personnel directly emp
 4. Dispose of unrevivable cadavers in a manner according to their postmortem instructions.  
   a. If the postmortem instructions are infeasible or do not specify a method of disposal, Medical Doctors are to store the cadaver in the morgue, or failing that, a body bag.   
 6. Keep at least one (1) defibrillator charged and inside of the medical bay at all times.
-7. Ensure the Medical department and all clothing and equipment in use is in a sterile state, as defined by NanoTrasen Cleanliness Regulations.
+7. Ensure the Medical bay and all equipment in use is in a sterile state as defined by NanoTrasen Cleanliness Regulations.
 
 ### Paramedics are to:
 
@@ -224,14 +224,15 @@ The following Standard Operating Procedure applies to all personnel directly emp
 
 ### Chemists are to: 
 
-1. ensure that the medical bay is stocked with medication to handle Brute, Burn, Airloss/Bloodloss, and Toxin damage.   
-   - a. Chemists are not permitted to exit the medical bay until this is fulfilled.  
-2. receive approval from the CMO before creating any experimental mixes.  
-3. not provide the crew with dangerous chemicals outside of bounties.  
-4. charge for any chemicals handed out to crew that are not related to bounties.  
-5. report any strange, unusual, or unknown chemicals they create or receive to the CMO.  
-   - a. Such chemicals are not to be distributed.  
-6. ensure the chemistry laboratory and related facilities, and all equipment in use is clean and sterile, or otherwise in a hygienic state as defined by the Nanotrasen Cleanliness Regulations.
+1. Ensure that the medical bay is stocked with chemicals capable of treating brute, burn, asphyxiation, bloodloss, and toxin damage.   
+  a. Chemists are to prioritize this above all other activities while working.
+2. Receive approval from the Chief Medical Officer before creating any mixes intended to treat more than one type of damage.
+3. Report any strange, unusual, or unknown chemicals they create or receive to the Chief Medical Officer.
+4. Ensure the Chemistry laboratory and all equipment in use is in a sterile state as defined by NanoTrasen Cleanliness Regulations.
+5. Charge non-Medical personnel scrip for chemicals made in the Chemistry laboratory.  
+  a. Chemists are to not provide the crew with chemicals that are toxic, flammable, water-reactive, strange/unusual/unknown under Chemist SOP § 3, or otherwise hazardous, unless they are for bounties.  
+  b. Chemists are to use pricing standards determined by the Chief Medical Officer, if any.  
+  c. Chemists are to use their own discretions for pricing products if no standard has been set.
 
 ### The Psychologist is:
 
