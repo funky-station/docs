@@ -1,4 +1,4 @@
-g# Nanotrasen Colonial Law and Procedures: Standard Operating Procedure
+# Nanotrasen Colonial Law and Procedures: Standard Operating Procedure
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
@@ -46,10 +46,10 @@ Sometimes the minimum job requirements SOP veers into effectively being server r
 #### MetaSOP
 This is SOP that covers how SOP is to be enforced or instructing the following of other SOP. This type of SOP is redundant and arduous. Any SOP that acts as MetaSOP should be moved to either a general SOP chapter or to another article such as Regulations or Corporate Law.
 
-There are no proper examples from the draft, but there is an example of a solution, there is a General Command SOP that covers what is normally expected of command from Nanotrasen.
+SOP that overrides other SOP should be laid out as sub-point to the overridden SOP.
+
 ##### Examples (from the draft):
-**Command 2:** *[All Command Personnel are to] ensure the wellbeing and dignity of Nanotrasen and its related assets.*
-**Command 4:** *[All Command Personnel are to] never use any language towards Nanotrasen that may be considered defamatory or overtly negative.*
+**Executive Officer 3a:** *Executive Officer SOP § 5a and Detective SOP § 2a are exceptions to point 3 and overrule it.*
 ##### Examples (from current SOP):
 **Detective [Green] 6:** *When not undercover, the Detective must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.*
 
