@@ -73,7 +73,7 @@ The following Standard Operating Procedure applies to all personnel directly emp
 1. Archive a copy of all anomaly and artifact reports and ensure they comply with Scientist/Research Assistant SOP § 2b and 3a.
 2. Ensure that any damage caused by anomalies and/or artifacts is minimized.  
   a. The Research Director is to ensure that any artifacts not actively being studied are contained in an artifact container.  
-  b. The Research Director is to ensure that any artifact or anomaly that has a signficant risk of producing a disproportionate amount of damage to the station and/or station productivity is destroyed immediately.
+  b. The Research Director is to ensure that any artifact or anomaly that has a significant risk of producing a disproportionate amount of damage to the station and/or station productivity is destroyed immediately.
 3. Ensure that any requests for Tier 1 and 2 technological research made by other Command personnel are followed and prioritized.
 4. Ensure that all cyborgs on the station follow their default laws.  
   a. The Research Director is to destroy any cyborgs that pose a threat to NanoTrasen's business interests and create a new chassis for them.
@@ -107,6 +107,7 @@ The following Standard Operating Procedure applies to all personnel directly emp
 3. Ensure that materials purchased, collected, or produced by their department are distributed to other departments based on their need for those materials.
 4. Archive a copy of all order forms.  
   a. Each order form must be stamped and/or signed by the recipient.
+5. Ensure the mail teleporter is disabled if there is no Courier currently working on the station.
 
 ### The Hospitality Director is:
 
@@ -173,13 +174,18 @@ The following Standard Operating Procedure applies to all personnel directly emp
   a.  Items produced on station are to be delivered within ten (10) minutes of their production.  
 2. Not approve any orders, including from the Logistics department, for non-essential items and/or weapons, riot gear, and other items in the Armory and Security categories without formal approval from the Quartermaster.
 3. Ensure that each delivery's order form gets stamped and/or signed by the recipient, and to provide the Quartermaster with a copy of the order form.
-4. To ensure that all incoming mail is delivered according to priority and circumstance.  
-  a. Cargo Technicians are to disable the mail teleporter if no Cargo Technician has been designated by the Quartermaster to prioritize carrying mail.
-5. Restock any publically accessible vending machine that is out of stock for any product it dispenses.  
+4. Restock any publically accessible vending machine that is out of stock for any product it dispenses.  
   a. Cargo Technicians are to order the corresponding restock crate upon being notified of such a lack of stock, and are to install the restock crate within fifteen (15) minutes of it being approved.
-6. To charge non-Logistics personnel scrip for products made in the Cargo bay.  
+5. To charge non-Logistics personnel scrip for products made in the Cargo bay.  
   a. Cargo Technicians are to use pricing standards determined by the Quartermaster, if any.  
   b. Cargo Technicians are to use their own discretion for pricing products if no standard has been set.
+
+### The Courier is to:
+
+1. Ensure that all incoming mail from the mail teleporter is delivered according to priority and circumstance.
+2. Charge non-Logistics personnel scrip for any other deliveries, such as mail between personnel.  
+  a. The Courier is to use pricing standards determined by the Quartermaster, if any.  
+  b. The Courier is to use their own discretion for pricing services if no standard has been set.
 
 ---
 
@@ -203,6 +209,18 @@ The following Standard Operating Procedure applies to all personnel directly emp
 
 ## 6 | Medical SOP:
 
+### Chemists are to: 
+
+1. Ensure that the medical bay is stocked with chemicals capable of treating brute, burn, asphyxiation, bloodloss, and toxin damage.   
+  a. Chemists are to prioritize this above all other activities while working.
+2. Receive approval from the Chief Medical Officer before creating any mixes intended to treat more than one type of damage.
+3. Report any strange, unusual, or unknown chemicals they create or receive to the Chief Medical Officer.
+4. Ensure the Chemistry laboratory and all equipment in use is in a sterile state as defined by NanoTrasen Cleanliness Regulations.
+5. Charge non-Medical personnel scrip for chemicals made in the Chemistry laboratory.  
+  a. Chemists are to not provide the crew with chemicals that are toxic, flammable, water-reactive, strange/unusual/unknown under Chemist SOP § 3, or otherwise hazardous, unless they are for bounties.  
+  b. Chemists are to use pricing standards determined by the Chief Medical Officer, if any.  
+  c. Chemists are to use their own discretion for pricing products if no standard has been set.
+
 ### Medical Doctors/Medical Interns are to:
 
 1. Treat all patients admitted to the Medical bay.  
@@ -223,18 +241,6 @@ The following Standard Operating Procedure applies to all personnel directly emp
   a. Paramedics are to resuscitate and stabilize patients before transporting them.  
   b. Paramedics are to follow the Chief Medical Officer's guidance concerning priority for such retrievals.
 2. Carry bruise packs, ointment, blood packs, a medical-grade stimulant such as ephedrine, and a rollerbed at all times.
-
-### Chemists are to: 
-
-1. Ensure that the medical bay is stocked with chemicals capable of treating brute, burn, asphyxiation, bloodloss, and toxin damage.   
-  a. Chemists are to prioritize this above all other activities while working.
-2. Receive approval from the Chief Medical Officer before creating any mixes intended to treat more than one type of damage.
-3. Report any strange, unusual, or unknown chemicals they create or receive to the Chief Medical Officer.
-4. Ensure the Chemistry laboratory and all equipment in use is in a sterile state as defined by NanoTrasen Cleanliness Regulations.
-5. Charge non-Medical personnel scrip for chemicals made in the Chemistry laboratory.  
-  a. Chemists are to not provide the crew with chemicals that are toxic, flammable, water-reactive, strange/unusual/unknown under Chemist SOP § 3, or otherwise hazardous, unless they are for bounties.  
-  b. Chemists are to use pricing standards determined by the Chief Medical Officer, if any.  
-  c. Chemists are to use their own discretion for pricing products if no standard has been set.
 
 ### The Psychologist is:
 
@@ -266,12 +272,6 @@ The following Standard Operating Procedure applies to all personnel directly emp
 
 ## 8 | Service SOP:
 
-### Service Workers are to:
-
-1. Assist other members of the Service department when requested.
-2. Substitute for other positions in the Service department as needed.  
-  a. Conduct while doing so must align with that position's SOP.
-
 ### Bartenders are to: 
 
 1. Take and serve all orders in a timely manner.  
@@ -297,6 +297,12 @@ The following Standard Operating Procedure applies to all personnel directly emp
 6. To ensure the kitchen complies with NanoTrasen Health Regulations.
 7. Permitted to produce food using light narcotics as long as they are legal and will not negatively impact station productivity.
 
+### The Clown is:
+
+1. Not permitted to remove their costume's shoes and/or mask unless doing so is a deliberate and temporary part of a performance.
+2. To not endanger other personnel with pranks.
+3. To attempt to be funny and/or entertaining to other personnel at least once every fifteen (15) minutes.
+
 ### Janitors are to:
 
 1. Ensure all publically accessible halls and rooms of the station comply with Nanotrasen Cleanliness Regulations.
@@ -307,18 +313,6 @@ The following Standard Operating Procedure applies to all personnel directly emp
 3. Prioritize neutralizing any possible biohazards over other duties.
 4. Inform the Engineering department of any structural damage discovered while cleaning.
 
-### The Clown is:
-
-1. Not permitted to remove their costume's shoes and/or mask unless doing so is a deliberate and temporary part of a performance.
-2. To not endanger other personnel with pranks.
-3. To attempt to be funny and/or entertaining to other personnel at least once every fifteen (15) minutes.
-
-### The Mime is:
-
-1. To never break their vow. Any Mime that breaks their vow is to immediately be demoted to Assistant. The mime speaking, writing on paper, and/or using an AAC tablet is evidence that they have broken their vow.
-2. To use non-miming forms of communication, such as writing, only as a last resort or in an emergency.
-3. Expected to perform an act of mimery at least once every fifteen (15) minutes.
-
 ### The Librarian is to:
 
 1. Ensure the quiet and sanctity of the library are preserved.  
@@ -327,6 +321,18 @@ The following Standard Operating Procedure applies to all personnel directly emp
 3. Keep a log of all loaned out books.  
   a. The Librarian is to make an effort to retrieve loaned out books within thirty (30) minutes of the loan being issued.
 4. Ensure the wellbeing of all books on the station.
+
+### The Mime is:
+
+1. To never break their vow. Any Mime that breaks their vow is to immediately be demoted to Assistant. The mime speaking, writing on paper, and/or using an AAC tablet is evidence that they have broken their vow.
+2. To use non-miming forms of communication, such as writing, only as a last resort or in an emergency.
+3. Expected to perform an act of mimery at least once every fifteen (15) minutes.
+
+### Service Workers are to:
+
+1. Assist other members of the Service department when requested.
+2. Substitute for other positions in the Service department as needed.  
+  a. Conduct while doing so must align with that position's SOP.
 
 ---
 
