@@ -184,7 +184,7 @@ The following Standard Operating Procedure applies to all personnel directly emp
 
 ### Station Engineers are to:
 
-1. Ensure the station is maintained to the point where all areas on the station in use are habitable and functional.
+1. Maintain the structural integrity of the station and ensure all areas on the station in use are habitable and functional.
 2. Ensure that the distribution air is a steady mix breathable for a majority of species on the station.  
 	-	a. This should be completed within ten (10) minutes of shift start.  
 3. Ensure that power is supplied to the station.  
@@ -265,22 +265,17 @@ The following Standard Operating Procedure applies to all personnel directly emp
 ### Service Workers are to:
 
 1. Assist other members of the Service department when requested.
-2. Fill in for other positions in the service department when needed.  
+2. Substitute for other positions in the Service department as needed.  
   a. Conduct while doing so must align with that position's SOP.
-3. Promote a collaborative atmosphere in the service department.
-4. only begin side tasks after checking with other members to see if they require aid.  
-5. oversee the work of any assistants that are aiding the department.
 
 ### Bartenders are to: 
 
-1. ensure that orders are properly taken and served in a timely manner.  
-	-	a. ensure that all beverages are made fresh or stored inside of a dispenser or smart fridge.  
-2. collect payment or open a tab on all orders before serving the patron.  
-	- a. collect all payments on all tabs open within an hour of that tab opening.  
-3. not serve potentially dangerous drinks to patrons without a waiver of liability reviewed by a lawyer.  
-4. keep the bar open during all union-mandated breaks, except for breaks of the service department.  
-5. not consume any beverages within view of customers while on-duty.  
-6. ensure the bar complies with the Nanotrasen Health Regulations.
+1. Take and serve all orders in a timely manner.  
+  a. Bartenders are to collect payment or open a tab on any order before serving the patron.  
+  b. Bartenders are to collect payment on each tab within one (1) hour of that tab opening.
+2. Store any drink not actively being served in a covered or sealed container out of reach from the bar front.
+3. Keep the bar open during all union-mandated breaks, except for breaks for the Service department.
+4. Ensure the bar complies with the NanoTrasen Health Regulations.
 
 ### The Chef is:
 
