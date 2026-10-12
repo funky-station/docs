@@ -2,7 +2,9 @@
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| TropicalOwl | :x: No | TBD |
+| TropicalOwl | :: No | TBD |
+| TropicalOwl | :X: Yes | https://github.com/funky-station/funky-station/pull/2980 |
+
 
 ## Overview
 
