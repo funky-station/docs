@@ -95,6 +95,8 @@ Admins are going to have to decide what standard deputies are held up to (whethe
 
 ### Player Considerations
 
+There is the possibility of deputy heads encroaching on the territory of department heads, giving the latter less to do. Playtesting would provide more insight, but it's possible that the deputy's duties may need to be more defined.
+
 <!-- ## Optional: Appendixes
 
 The prior sections should outline most of, if not all, of your feature. However, sometimes you need to add some extra supplementary information for readers and maintainers to better understand your overall goal and design. Use appendixes as you need to. For example, SOP that needs to come with your feature can be added as an appendix. Related design documents, related readings, etc can all be appendixes as well.  -->
