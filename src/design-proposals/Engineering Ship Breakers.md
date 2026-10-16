@@ -13,7 +13,7 @@ This document proposes an addition to the engineering departments duties in the 
 
 As it stands Engineering primarily only constructs things, very rarely do they have a reason to engage with the deconstruction mechanics present, that would be common in their work. Additionally a majority of their work is purely reactionary and very little consistent tasks are present for Engineering to engage with. 
 
-## Intent
+## III. Intent
 
 If this is implemented I would hope it would give engineering a quaternary purpose in material gathering and a consistent thing to do throughout the round outside of the occasional engine maintenance or reactionary repairing.
 
@@ -22,7 +22,6 @@ I also would hope to see conflict erupting between departments, such as cargo ov
 This document is made in mind with cargo receiving new tasks so as to not overstep or remove them from the material logistics entirely. Such as material processing or good making.  
 
 
-## Features to be added
 ## IV. Solution
 
 **Required Additions**
