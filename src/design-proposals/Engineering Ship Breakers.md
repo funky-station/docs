@@ -7,7 +7,7 @@
 ## Overview
 ## I. Summary
 
-This document proposes an addition to the engineering departments duties in the form of ship breaking for material acquisition. 
+This document proposes an addition to the engineering departments duties in the form of ship breaking for material acquisition. Increasing consistent engineering gameplay interactions, and additional Engineering derived crew conflict.  
 
 ## II. Problem
 
