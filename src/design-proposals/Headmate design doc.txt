@@ -1,0 +1,107 @@
+# Headmate Ghost Role
+
+
+| Designers       | Implemented                                                                             | GitHub Links    |
+| --------------- | --------------------------------------------------------------------------------------- | --------------- |
+| funnyfurby | :x: No | TBD |
+
+## I. Summary
+
+A ghost role that adds another player into a single character, increasing roleplay vectors and enhancing authenticity.
+
+
+## II. Problem
+
+The game currently lacks any way to encourage players to create and interact with characters that display traits of plurality. If someone wants to play a character that has multiple people in one body, they have to do so manually, with complete control over everything this character says and does. While this isn't bad writing or roleplay, it creates a scarcity of this kind of character, as the player needs to have the idea for it themself rather than be encouraged to by the game. Having multiple headmates who are controlled by multiple players in one character can also potentially be a more authentic representation of this role's real world counterpart.
+
+## III. Intent
+
+At the heart of Funky Station is politics. Things like class struggle and police brutality are highlighted here rather than shied away from, and it's done so in a way that tends to be over-the-top and maybe even cartoonish (but still in ways that feel real). I'd like to utilize these themes in roleplay and the concept of meta knowledge to introduce people to a heavily marginalized community in a way that, hopefully, normalizes our existence.
+
+Think of thaven and how they tend to act in ways many would deem "crazy". The in-game reaction to thaven, however, is usually annoyed and/or exasperated at worst. In Character and Out Of Character people simply think, "Oh, they're a thaven, that's why they're acting erratic," instead of something more along the lines of, "Oh God, this person is insane, I think they might murder me and turn my skin into a three piece suit!"
+
+Ideally, the Headmate role will use roleplay and meta knowledge as a vessel to give people a more authentic and somewhat mundane glimpse at a marginalized community they don't tend to see, and maybe even the chance to take a walk in our shoes.
+
+Admittedly, this role is sort of experimental, a hope that it is something that can be done well and is worth doing put to paper. I would also love for this to be a starting point rather than an end goal, something that real world plurals who play this game can add to or take inspiration from for their own work. I hope it can even encourage plurals and singlets to work together on this role and other similar projects yet to be seen.
+
+## IV. Solution
+
+In the character creator, a System trait is added. If a player selects this trait, they are opting in to have one or more other players select the Headmate ghost role for their character. A character cannot generate a Headmate ghost role without the System trait. The System trait (if possible) and Headmate ghost roles are tied to the character's brain (or whichever part the "Host" soul is tied to) rather than their body/torso or any other part, to ensure the character retains the System trait and Headmates in the event their body changes.
+
+The Headmate ghost role places another player inside of a character with the System trait, with limited control. It's a Familiar role rather than Free Agent or Antagonist, which symbolizes how different "parts" in a system tend to ultimately have the goal of keeping the system functioning while also avoiding the problem of an "evil alter ego."
+
+One Headmate role is created for a character with the System trait when they enter the round, and another has a chance to spawn if the  character is healed from crit without dying, representing "splitting" from a traumatic event.
+It's important that the capacity for Headmates isn't mechanically given an original cause, if there is one and what it is should be left up to the players in roleplay.
+
+Normally the Headmate can only control the character's voice, acting similarly to a pAI. However, certain randomized triggers can cause a temporary "switch", causing the roles to be reversed for a short amount of time (a couple of minutes at most).
+Possible examples of a trigger for a "switch", randomly generated when the Headmate spawns (a non-exhaustive list):
+- Eating a certain food.
+- Drinking a certain reagent.
+- Stepping in a puddle of a certain reagent.
+- A certain MIDI instrument being used within range.
+- Someone screaming within range.
+- A certain character speaking within range.
+
+The Headmate and System trait cannot be "cured" or mechanically treated, as that has unfortunate implications for its real world counterpart as well as not being something that should make a player feel necessitates a "cure" or removal/dampening of related mechanics.
+
+There is no inner "headspace" channel for the System to silently speak over, as that removes visibility and thus roleplay potential from the role.
+
+
+## V. Considerations
+
+#### Technical considerations
+
+I will admit, I am not very knowledgeable about the technical aspects of this game (or any game really). There might need to be additional support to having multiple players in one character (think of how a mouse in a chef's hat experiences lag when moving the character who's wearing the hat).
+
+If there is more than one Headmate in one character, it should be impossible for them to roll the same trigger for a "switch", should it cause mechanical issues for the Players. If there are no technical issues, then it should be fine to have more than one Headmate in control of the character at the same time. There also may need to be a limit on how many headmates can be in one character, should that also cause issues.
+
+Another concern is: What happens when a character is turned into an Automaton (Cyborg)? Do they retain the System trait and Headmates? I would like that to be the case, but I do not know the technical aspects of this issue.
+
+#### Admin considerations
+
+Having two players speaking and acting with the same character might get confusing for both admins and players sending ahelps. It will likely be comparable to a paradox clone, but if this poses a significant problem, giving the Headmates a different name than the "host" when they speak might be worthwhile (even though it potentially dampens the authenticity of the role and I would prefer to avoid it).
+
+This role might also introduce the problem of where to draw the line in terms of what is and isn't acceptable roleplay in regards to Headmates. For example, an admin might not even realize that something specific in roleplay could be a manifestation of the stigma against systems. I think raising awareness and compassion for systems, which is my goal with this design, will smooth out this problem for both players and admins. However, if things don't work out that way, I accept the possibility that the design will need to be seriously overhauled or maybe even scrapped entirely.
+
+#### Player considerations
+
+The culture concerns are, frankly, obvious and overlap with admin concerns. However, I'm hoping my design gives little leeway to those who want to play it in a way further stigmatizes the group I'm trying to destigmatize here. If someone wants to be an "evil alter ego", it should be made clear that is NOT what the Headmate role is and is NOT how the role should be played, hence it being a Familiar rather than Free Agent or Antagonist.
+
+To add onto the above, it's possible the "host" could be a Free Agent or Antagonist, which some might find comes with concerning implications. One solution that might be viable is to make the Headmate role Crew Aligned rather than Familiar, but I feel that still falls into the "evil alter ego" trope and removes the symbolism of Headmates existing to help the System as a whole. Hopefully normalizing this trait, and utilizing the concept of meta knowledge to do so, is enough to keep players from seeing it in unfavorable ways.
+
+One big concern, no matter how you choose to go about this, is the name and language used regarding this role. I don't think we need to sugarcoat dissociative disorders and other forms of plurality, if written correctly. This shouldn't be a topic spoken about in hushed whispers, but rather loudly and proudly. For this reason I'd like to avoid euphemisms or abstractions of what this is, as it may just further stigmatize our language (though I am willing to hear and seriously consider opinions to the contrary).
+
+
+## Appendixes
+
+I'll use this space to give some essential information on plurality and some additional resources to look into. It's important to note that those who experience plurality, like any marginalized group, are not a monolith. I did my best to find definitions and resources that are helpful, but there is always going to be someone who disagrees on what does and does not count as helpful and correct. Please do not take my writing as the ultimate truth, just as you wouldn't with anyone else's.
+
+#### What does plural mean?
+
+Plural is an umbrella term for everyone who isn't explicitly one singular person and encompasses a wide range of experiences. [A more detailed explanation can be found on pluralpedia](https://pluralpedia.org/w/Plurality).
+
+#### Plural vs System vs Dissociative Identity Disorder
+
+As mentioned above, Plural is a broad category that covers many different experiences. A [system](https://pluralpedia.org/w/System) is one body that has multiple headmates/parts/alters (or however a system would prefer to refer to their multiplicity). [Dissociative Identity Disorder](https://pluralpedia.org/w/Dissociative_Identity_Disorder) (DID, formerly known as Multiple Personality Disorder) is the most commonly known manifestation of plurality, but it is far from the only manifestation. In this framework, all systems are plural, but not all systems have DID, and not everyone who is plural is a system.
+
+#### Glossary
+
+[Singlet](https://pluralpedia.org/w/Singlet): Someone who is not plural.
+
+[Headmate](https://pluralpedia.org/w/Headmate): One person or entity within a system. There are many synonyms for this, and each system and their members may have different preferences.
+
+[Front/fronting](https://pluralpedia.org/w/Fronting): The act of being the one "in control" of a system's body (verb) or the "space" that those who are fronting occupy (noun).
+
+[Switch](https://pluralpedia.org/w/Switching): When which headmate is fronting changes.
+
+[Split](https://pluralpedia.org/w/Split): The creation of new headmate(s) in response to stress or trauma.
+
+[Headspace](https://pluralpedia.org/w/Headspace): The "inner world" a system may have, where headmates may exist and interact with each other. However, this is not limited to systems or those who are plural (think of the phrase "Go to your happy place," for example).
+
+#### Additional resources
+
+[How to Support the Plurals in Your Life: A resource for Dissociative Identity Disorder, OSDD, and every form of Plurality - Power to the Plurals](https://powertotheplurals.com/how-allies-can-support-plurals/)
+
+[The Plurality Playbook To help employees and managers understand dissociative disorders, as well as plurality as a whole - Plural Pride](https://pluralpride.org/playbook)
+
+[Misinterpretations of DID-related behaviors (for helpers) - DIS-SOS](https://www.dis-sos.com/misinterpretations-of-did-related-behaviors-for-helpers/)
