@@ -8,7 +8,7 @@ This is the new template for design documents. Many of the currently merged docs
 
 | Designers       | Implemented                                                                             | GitHub Links    |
 | --------------- | --------------------------------------------------------------------------------------- | --------------- |
-| pirakaplant | :x: No | TBD |
+| pirakaplant | :information_source: Open PR | [forky-station#597](https://github.com/funky-station/forky-station/pull/597) |
 
 <!-- `Designers` should be the names that you use on GitHub and/or Discord. This is optional but strongly recommended, since:
 
@@ -63,9 +63,22 @@ Do NOT put literal numbers or focus on "game balance" here. Balance can be chang
 
 Each department head besides the Commandant and the Executive Officer (QM, CE, CMO, RD, and HD) may elect a deputy among the non-intern, non-unionised members of their department. The restrictions would be laid out in Article 1 (Station Regulations) of NTCL.
 
-A deputy holds a title patterned after their boss (i.e. Deputy Quartermaster/DQM) and is essentially the head's right hand. They normally work alongside their colleagues, but are expected to assist their boss with overseeing the department when needed. They're also entitled to a higher salary and authority under Article 1.
+A deputy is essentially the head's right hand. They normally work alongside their colleagues, but are expected to assist their boss with overseeing the department when needed. They're also entitled to a higher salary and authority under Article 1.
 
-Each department head (with a deputy position) has a package in their locker containing a unique badge and key for the deputy position. The former is for identification, and the latter is to activate the secondary locks for their head's office.
+Each department head (with a deputy position) has a package in their locker containing a unique badge, key, PDA (no ID card because the deputy already has one), and some other goodies for the deputy position. The former is for identification, and the latter is to activate the secondary locks for their head's office.
+
+Each deputy has their own title that's reflected in the names of their equipment:
+
+- **Deputy Quartermaster** (deputy to the QM)
+	+ Kept this one self-explanatory. It just feels right.
+- **Engine Foreman** (deputy to the CE)
+	+ There were discussions in #forky on picking a more gender-neutral term, but we really didn't want to discard what is probably the perfect title for this position. We can just treat it as a gender-neutral term in-universe or something.
+- **Charge Nurse** (deputy to the CMO)
+	+ A charge nurse is the direct subordinate of the nurse manager in some healthcare facilities.
+- **Principal Researcher** (deputy to the RD)
+	+ An adaptation of "principal research fellow", an academic title relatively high in rank but still subordinate to a few positions.
+- **Compère** (deputy to the HD)
+	+ A fancy word for someone who presents and/or warms the crowd up for entertainers. The word's obscurity is a possible concern but our playerbase can adapt to that stuff pretty quickly.
 
 ### Secondary Locks
 
@@ -105,13 +118,17 @@ The prior sections should outline most of, if not all, of your feature. However,
 
 *(This text is an example of what the Station Regulation outlining deputisation would look like.)*
 
-The Quartermaster, Chief Engineer, Chief Medical Officer, Research Director, and Hospitality Director may each elect a member of their department to be their deputy. A deputy head holds a title patterned after their department head's title (i.e. Deputy Quartermaster) that provides them with the following benefits:
+The Quartermaster, Chief Engineer, Chief Medical Officer, Research Director, and Hospitality Director may each elect a member of their department to be their deputy. A deputy head has the following benefits while they hold the position:
 
-- They are permitted to carry the matching deputy badge and key.
+- They are permitted to carry the matching badge, key, and PDA.
 - They are entitled to an additional 25% of their position's standard wages.
 - They hold the department head's authority, and can issue orders on their behalf.
 - They are permitted to enter Command-only areas, such as the Bridge, provided they are supervised by their department head.
 - In the event an acting replacement for the department head would be hired, they are automatically elected for the position.
+
+The head of the department may revoke their deputy's position at any time, for any reason.
+
+### Disqualifying Conditions
 
 The following personnel are forbidden from holding a deputy position:
 
@@ -121,6 +138,16 @@ The following personnel are forbidden from holding a deputy position:
 
 Misrepresenting oneself to be eligible as deputy is an act of fraud under NanoTrasen Colonial Law.
 
-The head of the department may revoke their deputy's position at any time, for any reason.
+### Official Titles
+
+Each deputy head holds a title corresponding to the position they are subordinate to:
+
+| Title | Deputy to |
+|:-|:-|
+| Deputy Quartermaster | Quartermaster |
+| Engine Foreman | Chief Engineer |
+| Charge Nurse | Chief Medical Officer |
+| Principal Researcher | Research Director |  
+| Compère | Hospitality Director |
 
 
