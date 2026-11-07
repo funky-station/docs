@@ -43,7 +43,7 @@ A commit is basically an entry in your log of changes. The `-m` tag is so Git kn
 
 The message is so you know what was edited at a glance, but Git helpfully saves detailed information about what was edited in a commit. 
 
-```admonish warning HELP IT OPENED VIM!!
+```admonish warning
 VIM looks like some yellow text on top, a bunch of blue text, and a fuck ton of ~s everywhere. 
 
 It's terrible to use and you'll probably struggle to use it without someone telling you how to.

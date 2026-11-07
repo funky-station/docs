@@ -34,10 +34,8 @@ Now, you're going to clone the repository. This is basically installing everythi
 First, navigate to the [Funky Station GitHub repository](https://github.com/funky-station/funky-station).
 
 In the top right of your screen, you'll see a button labelled "Fork." Click it, then "Create a New Fork." Name it whatever you want.
-[asset]
 
 Once it completes, you should see a new repository on your account. Click on the green Code button, select Local, HTTPS, and copy the URL in the box.
-[asset]
 
 Open a new explorer window (or whatever file manager you have), and create a new folder. You can call it `development` or `funkystation` or whatever you want. If you're on Windows, do NOT put this into any sort of OneDrive folder. OneDrive likes to Do Things to development environments, you should disable it or put your files somewhere else.
 
