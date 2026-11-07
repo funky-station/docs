@@ -16,3 +16,5 @@ After a feature is considered complete, the workgroup may continue to exist or b
 If a feature is considered abandoned by a Maintainer or the Head Maintainer, work may either be picked up by someone else who is interested and makes the appropriate contact to the Maintainer, or by a Maintainer. Otherwise, the feature is considered dead, and work is archived.
 
 A Maintainer or a group of Maintainers may choose to sponsor a workgroup and offer guidance and support to a specific feature.
+
+When creating a workgroup, its members and Leader must be sure to keep the documentation up to date.
