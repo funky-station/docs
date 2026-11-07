@@ -5,42 +5,41 @@ Funky Station Developer Docs
 
 General Help
 ====
-
----
-- [Introduction](contributing/introduction.md)
-  - [Getting Started](contributing/getting-started.md)
+- [Getting Started](contributing/getting-started.md)
   - [Local Hosts](contributing/local-hosts.md)
   - [Branching](contributing/branching.md)
   - [Pull Requests](contributing/pull-requests.md)
 - [Codebase Conventions](contributing/codebase-conventions.md)
+- [Pull Request Guidelines]()
+- [FAQ]()
+
+---
+
+Development
+=====
+
+- [Documentation]()
+
+---
 
 Design
 ===============
 
----
-
 - [Design Principles](design/design-principles.md)
-
-Proposals
-===============
-
----
-
 - [What is a Proposal?](design/what-is-a-proposal.md)
-
-- [Proposal Templates]()
   - [Game Design Template](design/template.md)
   - [Map Template](design/maps/template.md)
 
-- [Game Design Proposals]()
+---
 
+- [Game Design Proposals]()
 
 - [Map Proposals]()
 
-Structure
-===============
-
 ---
 
+Policy
+===============
+
 - [Maintainer](structure/maintainers.md)
-- [Update Policy](structure/update-policy.md)
+- [Workgroups]()
