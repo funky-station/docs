@@ -1,0 +1,47 @@
+# Syringe Dirtiness
+
+| Designers | Implemented | GitHub Links |
+|---|---|---|
+| Queer Cats | :x: No | TBD |
+
+## Overview
+
+Adding dirtiness as a mechanic to syringes. Syringes get dirtied upon use, and deal poison damage to patient when injected while dirty. 
+
+## Background
+
+Syringes currently dominate the med treatment meta, overshadowing most other methods of treatment, such as pills, autoinjectors, IV bags, surgery, cryogenics, etc. This is the result of syringes being very fast acting, effectively free, and with no major downsides. This is further compounded by there being no downside to drawing from large containers, so medical tends to just keep jugs or even buckets of chems in an open area and having all doctors draw from the same pool, which would be a sanitation nightmare if done irl/.
+
+We can take some inspirations for nerfs from the real world, where syringes are typically avoided as a delivery method where possible because they are invasive and prone to causing infection when not properly handled. The former is not easily modeled given the current medical system, so the focus here will be on the latter.
+
+## Features to be added
+
+The primary feature addition would be a cleanliness mechanic similar to that currently in use for surgical tools, with some modifications to reflect syringes having less individual actions. 
+
+All effects should occur after the relevant DoAfter so both the doctor and the patient have a chance to avoid the effcts. 
+
+Syringes would deal poison damage to a patient after injecting or drawing from them, depending on the dirt level. At very low levels, there is no poison, above a certain threshold, damage scales linearly, with max dirtiness doing 200 poison damage, requiring surgery to correct. 
+
+Syringes should immediately max out dirtiness after being used on a living thing, and after drawing from a puddle. An alternative proposal for puddles is to have any chemicals in puddles slowly convert to mould over time as an alternative way to punish injecting medicines directly from the floor into a patient.
+
+Syringes should gain some dirtiness when drawing from a container, scaled to container size to encourage usage of smaller containers. It should be possible to draw from a vial or bottle up to three times without hitting the threshold for poisoning to allow doctors to tailor doses appropriately. Drawing from a bucket should immediately max out dirtiness. 
+
+Hyposprays and autoinjectors would be sterile, so as to allow nukies to continue to use jugs for space effeciency, and to give autoinjectors a greater usecase.
+
+## Game Design Rationale
+
+Besides simple game balance (having more viable paths to the same end just makes things fun), this proposal aims to increase authenticity in the medical system by discouraging behaviours that should seem utterly bizarre or outright dangerous to actual medical professionals. 
+
+It should also help to slow down gameplay through either forcing doctors to use slower methods of treatment, or to have to break occasionally to clean their syringes in the autoclave. It may help to encourage roleplay and interaction through having doctors asking patients to take pills or drink chems rather than simply injecting solutions into them without asking.
+
+## Roundflow & Player interaction
+
+The primary goal is just to break up the medical meta. Syringes should remain a viable option for delivering meds, but should no longer always be the best solution.
+
+## Administrative & Server Rule Impact (if applicable)
+
+Chemist SOP may have to be updated to require them to produce chems in pills and bottles so as to not place the increased burden entirely on doctors. The Chem-Master is able to trivially produce large quantities of pills and bottles pre-labelled so it's much less of a burden on chemists.
+
+# Technical Considerations
+
+Will hopefully be able to borrow UI elements from surgery cleanliness. Refactoring them may be required knowing shitmed, but I haven't investigated it yet. 
