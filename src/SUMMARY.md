@@ -8,17 +8,15 @@ General Help
 - [Getting Started](contributing/getting-started.md)
   - [Local Hosts](contributing/local-hosts.md)
   - [Branching](contributing/branching.md)
-  - [Pull Requests](contributing/pull-requests.md)
 - [Codebase Conventions](contributing/codebase-conventions.md)
-- [Pull Request Guidelines]()
-- [FAQ]()
+- [Pull Request Guidelines](contributing/pull-requests.md)
 
 ---
 
 Development
 =====
 
-- [Documentation]()
+[Documentation](documentation/summary.md)
 
 ---
 
@@ -29,17 +27,29 @@ Design
 - [What is a Proposal?](design/what-is-a-proposal.md)
   - [Game Design Template](design/template.md)
   - [Map Template](design/maps/template.md)
+  - [Lore Template](design/lore/template.md)
 
 ---
 
 - [Game Design Proposals]()
-
+  - [Themes]()
+    - [Factions]()
+      - [Nanotrasen]()
+  - [Roundflow]()
+    - [Transportation](design-proposals/roundflow/transportation.md)
+    - [Round Start Information]()
+      - [Cue Cards]()
+  - [Player Interaction]()
+  - [Expected Gameplay]()
+  - [Unexpected Gameplay]()
+    - [Antag-Optional Design](design-proposals/antag-optional-design.md)
 - [Map Proposals]()
+- [Lore Proposals]()
 
 ---
 
 Policy
 ===============
 
-- [Maintainer](structure/maintainers.md)
-- [Workgroups]()
+- [Maintainers](structure/maintainers.md)
+- [Workgroups](structure/workgroups.md)

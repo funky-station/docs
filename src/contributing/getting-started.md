@@ -4,11 +4,11 @@ This is meant to be both a guide of how to get started contributing for SS14 and
 
 People with any sort of development experience may find sections of this guide redundant; please keep in mind that it is written with new developers in mind.
 
-# What's in This Guide?
+## What's in This Guide?
 
 This primarily focuses on introducing the tools you will be using to create a PR, rather than the nitty gritty of developing as a whole. Please consider looking at WizDen's [developer docs](https://docs.spacestation14.com/index.html) if you want to learn more about the finer details.
 
-# Prerequisites
+## Prerequisites
 
 You will need:
 - [Git](https://git-scm.com/downloads)
@@ -27,7 +27,7 @@ You will need:
     - Notepad++ / Notepad / VIM / Nano / Whatever
         - If you want something that just shows you the text in a file, you can just use whatever. It works. I guess.
 
-# Setting Up A Development Environment
+## Setting Up A Development Environment
 
 Now, you're going to clone the repository. This is basically installing everything, we're doing it in a fancy way so that we can later use Git to communicate our changes to other people. You also have to do it this way because downloading the straight files off of Github does not include any submodules (think of the engine--it's connected to the files, but doesn't inherently come with them) or other libraries.
 
@@ -53,13 +53,7 @@ Next, we need to get all of the submodules and extra files we need to be able to
 
 Congratulations! It's completed.
 
-If you just want to run a local host, you can either use the scripts or the command line. `runserver` and `runclient` (use one ending in `.bat` if you're on Windows, and `.sh` if you're on Linux) will run everything for you. You can also use the following commands, in order:
-```
-git submodule update --init --recursive 
-dotnet build -c Debug // you can change "Debug" to "Tools" or "Release." See the local hosts section for more information. 
-dotnet run --project Content.Server --no-build
-dotnet run --project Content.Client --no-build
-```
+If you just want to run a local host, you can either use the scripts or the command line. `runserver` and `runclient` (use one ending in `.bat` if you're on Windows, and `.sh` if you're on Linux) will run everything for you.
 
 ```admonish warning
 If you get any errors about Robust Toolbox not being found, make sure you've ran RUN_THIS.py or it's related command recently. Robust Toolbox is a submodule, so it isn't included when you do a fresh clone. 

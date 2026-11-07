@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="810c7ff4-8c5d-4c2b-8644-c31e15a9c83d" name="Changes" comment="" />
+    <list default="true" id="810c7ff4-8c5d-4c2b-8644-c31e15a9c83d" name="Changes" comment="ok yay">
+      <change afterPath="$PROJECT_DIR$/src/documentation/summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure/workgroups.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contributing/branching.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/contributing/branching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contributing/getting-started.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/contributing/getting-started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contributing/local-hosts.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/contributing/local-hosts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contributing/pull-requests.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/contributing/pull-requests.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design-proposals/medical-scanners/healthanalyzer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/proposals/medical/medical-scanners/healthanalyzer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design-proposals/medical-scanners/medhud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/proposals/medical/medical-scanners/medhud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design-proposals/medical-scanners/medinspect.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/proposals/medical/medical-scanners/medinspect.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lore/lore-articles/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lore/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lore/lore_proposal_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/lore/template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/maintainers.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/maintainers.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +74,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "doctemplate",
+    "git-widget-placeholder": "meow",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +97,7 @@
       <workItem from="1785909946968" duration="2540000" />
       <workItem from="1785957111280" duration="3457000" />
       <workItem from="1787960567765" duration="334000" />
+      <workItem from="1794009552819" duration="3505000" />
     </task>
     <task id="LOCAL-00001" summary="rest of it">
       <option name="closed" value="true" />
@@ -123,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787960687956</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ok yay">
+      <option name="closed" value="true" />
+      <created>1794009668412</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1794009668412</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +173,7 @@
     <MESSAGE value="requested changes" />
     <MESSAGE value="more edits" />
     <MESSAGE value="draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="draft" />
+    <MESSAGE value="ok yay" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok yay" />
   </component>
 </project>
