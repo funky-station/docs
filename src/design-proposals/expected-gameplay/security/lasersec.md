@@ -35,14 +35,17 @@ This section will go over the revised armory in its entirety, detailing the work
 ### Defensive emplacements
 
 1. The ACE-79 Cable-fed Laser Rifle Emplacements. 
-    This is NanoTrasen's premier anti-crowd emplacement, featuring a large one-tile recharger which contains
-    two laser rifles. ![container.png](container.png)
-    Removing a rifle from the container and inserting an ID with security access
-    allows you to shoot it at a consistent rate for sustained
-    fire over long periods of time. The caveat: the rifles are cable-fed, and only recharge when the sink is attached
-    to a sufficient power source. ![rifles.png](rifles.png)
-    It will have a long do-after both to wrench and unwrench, requiring planning and strategic placement. 
-    Also, it can and will explode when it has taken sufficient damage.
+
+This is NanoTrasen's premier anti-crowd emplacement, featuring a large one-tile recharger which contains
+two laser rifles. Removing a rifle from the container and inserting an ID with security access
+allows you to shoot it at a consistent rate for sustained
+fire over long periods of time. The caveat: the rifles are cable-fed, and only recharge when the sink is attached to a sufficient power source. 
+It will have a long do-after both to wrench and unwrench, requiring planning and strategic placement.
+Also, it can and will explode when it has taken sufficient damage.
+
+![](/assets/design-proposals/lasersec/container.png)
+
+![](/assets/design-proposals/lasersec/rifles.png)
 
 2. Defensive barricade emplacements - Glass, Solid & Gate. These are placeable barricade items, 
    similar to the inflatable walls. There are three versions: Glass: features a bullet-proof 
