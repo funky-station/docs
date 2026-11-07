@@ -155,8 +155,6 @@ There is the possibility that players are given too much or too little informati
 
 Here are some mockups for how the notebook would be edited from the customisation menu:
 
-<img src=".../assets/guidebook/notebook-1.png" width="500" />
+![](/assets/design-proposals/guidebook/notebook-1.png)
 
-![notebook1](../assets/design-proposals/guidebook/notebook-1.png)
-
-![notebook2](../assets/design-proposals/guidebook/notebook-2.png)
+![](/assets/design-proposals/guidebook/notebook-2.png)

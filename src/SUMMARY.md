@@ -32,7 +32,7 @@ Design
 ---
 
 - [Game Design Proposals]()
-  - [Themes]()
+  - [Themes](design-proposals/themes/summary.md)
     - [Factions]()
       - [NanoTrasen](design-proposals/themes/nanotrasen-rebrand.md)
   - [Roundflow]()
@@ -41,10 +41,10 @@ Design
       - [Cue Cards]()
       - [Metashield: "Corporate Secrets"](design-proposals/roundflow/round-start-information/corporate-secrets.md)
       - [Guidebook](design-proposals/roundflow/round-start-information/guidebook.md)
-  - [Player Interaction]()
+  - [Player Interaction](design-proposals/player-interaction/summary.md)
     - [Species]()
       - [Galph](design-proposals/player-interaction/species/galph-species.md)
-  - [Expected Gameplay]()
+  - [Expected Gameplay](design-proposals/expected-gameplay/summary.md)
     - [Scrip](design-proposals/expected-gameplay/scrip.md)
     - [Jobs]()
       - [Security](design-proposals/expected-gameplay/security/shitsec.md)
@@ -54,10 +54,14 @@ Design
       - [Unions](design-proposals/expected-gameplay/unions.md)
       - [Engineering]()
         - [Atmospherics Consolidation](design-proposals/expected-gameplay/engineering/atmos-consolidation.md)
+      - [Cargo](design-proposals/expected-gameplay/cargo/cargo_redesign.md)
+        - [Botany](design-proposals/expected-gameplay/cargo/botany-changes.md)
+        - [Resource Management Console](design-proposals/expected-gameplay/cargo/resource-management-console.md)
+      - [Science]()
     - [Medical & Health](design-proposals/expected-gameplay/medical/medical-direction.md)
       - [Condition-Based Medical](design-proposals/expected-gameplay/medical/condition-based-medical-system.md)
       - [CT Scanners](design-proposals/expected-gameplay/medical/scanner.md)
-  - [Unexpected Gameplay]()
+  - [Unexpected Gameplay](design-proposals/unexpected-gameplay/summary.md)
     - [Antag-Optional Design](design-proposals/unexpected-gameplay/antag-optional-design.md)
 
 ---
