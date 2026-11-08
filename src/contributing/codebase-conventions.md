@@ -1,4 +1,4 @@
-﻿# Codebase Conventions
+# Codebase Conventions
 
 Between each fork and downstream of Space Station 14, you'll often notice that each codebase has specific ways of doing things. This is a (hopefully) comprehensive guide on how *Funky Station* organizes its codebase, and a more general guide of what we do and don't want when creating and porting content.
 
@@ -14,11 +14,13 @@ AGPL is **not** a compliant license and any PRs with AGPL code, unless relicense
 
 A "namespace" is a subfolder in the game's directories that represents content not made by WizDen. `_MACRO` only contains Macrocosm content added during an upstream merge, the same way WizDen content is added. As a Funky Station contributor, you shouldn't have to worry about putting anything in there.
 
-All content PRed to Funky Station *must* be in a downstream's namespace. If it is wholely original work, then it must be under `_Funkystation`. If you are porting something, then the content should remain in its respective downstream namespace. For example, if I am porting something from Ephemeral Space, then the code should remain in the `_ES` namespace. If a codebase you are porting from does not namespace their own content, then please create a namespace for them. 
+All content PRed to Funky Station *must* be in a downstream's namespace. If it is wholly original work, then it must be under `_Funkystation`. If you are porting something, then the content should remain in its respective downstream namespace. For example, if I am porting something from Ephemeral Space, then the code should remain in the `_ES` namespace. If a codebase you are porting from does not namespace their own content, then please create a namespace for them. 
 
 ```admonish warning
 Content being ported does not mean that these conventions do not apply. Please make sure any ported content still follows all of these, which may mean that you need to edit or refactor ported systems. 
 ```
+
+This includes assets, such as audio, RSIs, XAML pages, and text files.
 
 ### Use `partial` classes to namespace clean C# edits
 
@@ -26,17 +28,26 @@ If you are adding a new method to an already existing upstream class (either fro
 
 For example, if I want to add a new method called `AddTabbyStripes()` to the upstream `CatSystem`, I would not create the method in `Content.Server/Cats/CatSystem.cs`. Instead, I would create `Content.Server/_Funkystation/Cats/CatSystem.cs` and create my method there. Both classes would become partial, and I would call `AddTabbyStripes()` in the original system where necessary.
 
-## Use the `Fu` prefix to replace entities or locale
+### Use partial prototypes to edit upstream prototypes
 
-There are times when entities change so drastically from their upstream version that it is easier to create new entities entirely. When we do this, we add the `Fu` prefix to the new entity id and create it in our namespace. You would then replace all of the usages of the old entity with the new id.
+Touching non-namespaced prototypes, i.e. the base Wizard's Den YAML, should be avoided where possible. Instead, use partial prototypes to modify them. Partial prototypes are essentially a means for namespaced YAML to override specific attributes for existing prototypes. For more information, see the comments on [`partialPrototypes.yml` in the codebase](https://github.com/funky-station/forky-station/blob/master/Resources/PartialPrototypes/partialPrototypes.yml) and the documentation for `PartialDirectory` in [RobustToolbox's `IPrototypeManager`](https://github.com/space-wizards/RobustToolbox/blob/master/Robust.Shared/Prototypes/IPrototypeManager.cs).
 
-To "remove" the old entity, you can then make it abstract by adding `abstract: true` to the entity, or bulk abstract the entire file by adding it to `ignoredPrototypes.yml`. 
+All partial prototypes created for Funky Station go under `Resources/Prototypes/_Funkystation/_Partials/`, replicating the file structure for the relevant prototype subdirectories. For example, if you want to make modifications to the lizard plushie, whose prototype is in `Resources/Prototypes/Entities/Objects/Fun/Plushies/plushies.yml`, you would create `Resources/Prototypes/_Funkystation/_Partials/Entities/Objects/Fun/Plushies/plushies.yml` (if it doesn't already exist) and add the partial prototype to it. Keep partial prototypes within a file in the same order they are upstream.
 
-You can also add a line in `migration.yml` to migrate the old entity to the new one, for example adding the line `ClothingOuterWinterHos: FuClothingOuterWinterHos`. Migrations can be a little finicky, and are supposed to be a "temporary" solution, though, so use them sparingly. 
+If, for whatever reason, you are unable to use partial prototypes for a particular edit, make sure you use comments to make it clear that they were edited by Funky Station.
 
-## Place resprites under `_Funkystation` namespace
+## Use the `Funky` prefix for new prototypes and locale
 
-Instead of replacing old sprites with new ones and editing the `meta.json` of an RSI, make an entirely new RSI in the `_Funkystation` namespace and replace the resource path of the entity. Assuming that the new resource path is the exact same as the original, with the added `_Funkystation` subfolder, this change does not need to be commented.
+When creating a new prototype for Funky Station, prefix the prototype's ID with `Funky` (e.g. `FunkyFlaregunAdvanced`, not just `FlaregunAdvanced`). Similarly, new locale strings should be prefixed with `funky-` (e.g. `funky-flaregun-empty`).
+
+```admonish note
+As a side note in regards to naming prototypes, write acronyms and initialisms in ALL CAPS (e.g. `FunkyClothingEyesGlassesQM`, `FunkyAMEShieldingAdvanced`, `FunkySwordHOS`).
+```
+
+If a new prototype would wholly replace an existing one (such as a job's jumpsuits being swapped out for a new wardrobe of clothing prototypes), you should add `abstract: true` to it using partial prototypes. Alternatively, a file that containly only deprecated prototypes can be ignored by adding the file path to `ignoredPrototypes.yml`. 
+
+You can also add a line in `migration.yml` to migrate the old entity to the new one, for example adding the line `ClothingOuterWinterHos: FunkyClothingOuterWinterHOS`. Migrations can be a little finicky, and are supposed to be a "temporary" solution, though, so use them sparingly. 
+
 
 ## Sprites should adhere to the Funky Station palette
 
