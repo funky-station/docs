@@ -46,8 +46,11 @@ As a side note in regards to naming prototypes, write acronyms and initialisms i
 
 If a new prototype would wholly replace an existing one (such as a job's jumpsuits being swapped out for a new wardrobe of clothing prototypes), you should add `abstract: true` to it using partial prototypes. Alternatively, a file that containly only deprecated prototypes can be ignored by adding the file path to `ignoredPrototypes.yml`. 
 
-You can also add a line in `migration.yml` to migrate the old entity to the new one, for example adding the line `ClothingOuterWinterHos: FunkyClothingOuterWinterHOS`. Migrations can be a little finicky, and are supposed to be a "temporary" solution, though, so use them sparingly. 
+You can also add a line in `migration.yml` to migrate the old entity to the new one, for example adding the line `ClothingOuterWinterHos: FunkyClothingOuterWinterHOS`. Migrations can be a little finicky, and are supposed to be a "temporary" solution, though, so use them sparingly.
 
+### Also use it with classes that replace upstream functionality
+
+Additionally, if you're writing a new system that entirely replaces something upstream (such as a new `HandsSystem`, for example), use the Funky prefix to differentiate it (e.g. `FunkyHandsSystem`).
 
 ## Sprites should adhere to the Funky Station palette
 
