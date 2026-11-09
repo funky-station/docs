@@ -8,42 +8,41 @@ Part of this is for future proofing--learning how to use these tools on a small 
 The web editor, and Github in general, can not handle large changes. Plus, changes you might think are small might be larger than you think. As an example, try to open the 'Files Changed' tab of a PR that changes maps. Usually it crashes. 
 
 Github also likes to fuck up files if you try to upload them through Github, rather than setting up a local host and doing all of this. Things like images getting lossy, audio getting bit crushed, et cetera. It sucks.
+
 # Creating a Local Host
 Please see Getting Started for information on how to get a local host on your computer. If you have an issues with this guide, you are always free to ask us in the Discord!
 
 Similarly, if you want a more detailed version of the same guide, consider reading WizDen's [Setting up a Development Environment](https://docs.spacestation14.com/en/general-development/setup/setting-up-a-development-environment.html)
 
-```admonish warning
-If you are using Windows and you get the following error:
-"Python was not found; run without arugments to install from the Microsoft Store,
-or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases"
-
-Fuck Microsoft. Go into the settings it tells you to and disable the duplicate execution alias. 
-Or just double click RUN_THIS.py. Whatever works. 
-```
 # Running a Local Host
 At the end of Getting Started, you run `runserver.bat` and `runclient.bat` to run your local host. This works fine, but sometimes issues arise with these default settings. 
 
 Most commonly, these two files open your local host in *Debug*. There are other .bat files to open your local host in different configurations (modes), however, there are other ways to do this that are generally a little better.
 
-The most common way is to use your IDE (integrated developer environment, the program you use to code) of choice. Use your IDE to open `SpaceStation14.sln` and then navigate to the build button. In Jetbrains Rider, it's in the top right. 
+The most common way is to use your IDE (integrated developer environment, the program you use to code) of choice. Use your IDE to open `SpaceStation14.slnx` and then navigate to the build button. In Jetbrains Rider, it's in the top right. 
 
 If you don't have an IDE, you can also use command line to run and configure a local host. Git Bash works for this, just make sure you are in the correct directory. Then run:
 
-- `dotnet build`
-- `dotnet run --project Content.Server`
-- `dotnet run --project Content.Server`
+```sh
+git submodule update --init --recursive 
+dotnet build -c Debug 
+dotnet run --project Content.Server --no-build
+dotnet run --project Content.Client --no-build
+```
 
-If you want to run your local host in a different configuration, add `--configuration Release/Debug/Tools` at the end of the two run commands. 
+This set of commands assumes you want the Debug configuration of a local host. Debug crashes a lot, purposefully. It's meant to be for testing and catching bugs. If you just want to play around on a local host, then use the `Release` configuration to simulate an actual round. If you want to do mapping, then it's recommended to use the `Tools` configuration.
+
 # Updating a Local Host
 
-Assuming you followed the guide in Getting Started, you can just press the "Sync Fork" button on Github's website. Then it updates your fork! Yay! 
+Assuming you followed the guide in Getting Started, you can just press the "Sync Fork" button on Github's website. Then just run `git pull` on your master branch. Yay!
 
 If you prefer to update things manually, then you can also add a *remote* to fetch and merge into your local version. Make sure you are on your master branch while doing this. 
 
 A remote is a way for Git to know to go to that specific repository (a codebase) and grab changes and code from there. In this case, you'll need to add a remote for Funkystation's Github. You can do this in Git Bash by running:
 
-- `git remote add funkystation https://github.com/funky-station/funky-station.git`
+```sh
+git remote add funkystation https://github.com/funky-station/forky-station.git
+```
 
 You can change `funkystation` to anything you want. This is just the name of the remote, so pick something you can remember easily! 
 
@@ -51,13 +50,17 @@ If you need to add a remote for a different repository (such as Wizden or Goobst
 
 After this, you need to *fetch* the remote. Fetching something means you are telling Git to go get everything on the remote and hold onto it:
 
-- `git fetch funkystation`
+```sh
+git fetch funkystation
+```
 
 Git Bash will spit out a lot of lines at you, assuming it's been a little while since you last updated your local host. This is good! If you get nothing, then that's also fine. It means whatever Git Bash is holding onto is up to date with Funkystation's repository. 
 If you get an error, usually the error message is pretty obvious with what's wrong. If it's something like "Remote not found!" then make sure you typed in the name correctly. 
 
 Then, you need to *merge* the remote into your local code:
 
-- `git merge funkystation/master`
+```sh
+git merge funkystation/master
+```
 
 Notice the addition of `/master`! This just means that you are telling Git to merge specifically the master branch (the main code) of Funkystation into your code. There are other branches in Funkystation's repository, which we generally don't want. Git Bash will tell you it's updating, and then it's done! 
