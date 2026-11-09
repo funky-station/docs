@@ -30,36 +30,36 @@ Nanotrasen Colonial Law and Procedure is split into 5 parts, called articles:
 ### Article 1 - Station Regulations
 Covers general station behaviour: Alert levels, Permits, Paperwork, Hiring, Promotions and more
 
-*[Design Document: Article 1 - Station Regulations](./station_protocol_rework/article-1_design_doc.md)*
+*[Design Document: Article 1 - Station Regulations](./nanotrasen-colonial-law-and-procedure/article-1_design_doc.md)*
 
-*[Article 1 - Station Regulations](./station_protocol_rework/Article%201%20-%20Station%20Regulations.md)*
+*[Article 1 - Station Regulations](./nanotrasen-colonial-law-and-procedure/Article%201%20-%20Station%20Regulations.md)*
 
 ### Article 2 - Corporate law
 To better realize the idea of NT's opression, Space Law has been re-written, expanded, and rebranded as Corporate Law.
 
-*[Design Document: Article 2 - Corporate Law](./station_protocol_rework/article-2_design_doc.md)*
+*[Design Document: Article 2 - Corporate Law](./nanotrasen-colonial-law-and-procedure/article-2_design_doc.md)*
 
-*[Article 2 - Corporate Law](./station_protocol_rework/Article%202%20-%20Corporate%20law.md)*
+*[Article 2 - Corporate Law](./nanotrasen-colonial-law-and-procedure/Article%202%20-%20Corporate%20law.md)*
 
 ### Article 3 - Standard Operating Procedure
 SOP has to be overhauled to better fit the themes and expectations of Funky Station. All SOP is to receive a rewrite and new guiding principals.
 
-*[Design Document: Article 3 - Standard Operating Prodedure](./station_protocol_rework/article-3_design_doc.md)*
+*[Design Document: Article 3 - Standard Operating Prodedure](./nanotrasen-colonial-law-and-procedure/article-3_design_doc.md)*
 
-*[Article 3 - Standard Operating Procedure](./station_protocol_rework/Article%203%20-%20Standard%20Operating%20Procedure.md)*
+*[Article 3 - Standard Operating Procedure](./nanotrasen-colonial-law-and-procedure/Article%203%20-%20Standard%20Operating%20Procedure.md)*
 
 ### Article 4 - Unions
 
-*[Design Document: Article 4 - Unions](./station_protocol_rework/article-4_design_doc.md)*
+*[Design Document: Article 4 - Unions](./nanotrasen-colonial-law-and-procedure/article-4_design_doc.md)*
 
-*[Article 4 - Unions](./station_protocol_rework/Article%204%20-%20Unions.md)*
+*[Article 4 - Unions](./nanotrasen-colonial-law-and-procedure/Article%204%20-%20Unions.md)*
 
 ### Article 5 - Trials and Hearings
 Restructuring existing Legal roles to operate under the normal Command hierarchy, instead of CC, in order to reinforce the Captain's power. Moving the job of sentencing to the Magistrate to alleviate the Warden's duties, while expanding court protocol to provide a better platform for Legal RP scenarios.
 
-*[Design Document: Article 5 - Trials and Hearings](./station_protocol_rework/article-5_design_doc.md)*
+*[Design Document: Article 5 - Trials and Hearings](./nanotrasen-colonial-law-and-procedure/article-5_design_doc.md)*
 
-*[Article 5 - Trials and Hearings](./station_protocol_rework/Article%205%20-%20Sentencing,%20Trials,%20and%20Hearings.md)*
+*[Article 5 - Trials and Hearings](./nanotrasen-colonial-law-and-procedure/Article%205%20-%20Sentencing,%20Trials,%20and%20Hearings.md)*
 
 ### Extra Considerations
 "Behavior follows incentives"
